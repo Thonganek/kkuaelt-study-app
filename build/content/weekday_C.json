@@ -1,0 +1,1481 @@
+{
+ "passages": [
+  {
+   "id": "W21",
+   "day": 29,
+   "focus": "Mixed skills with emphasis on the writer's purpose and text organisation",
+   "skill_tip_en": "For purpose questions, ask what job a paragraph, example or quotation does in the writer's argument (to illustrate, support, contrast or criticise), and for organisation questions give each paragraph a one-word label before choosing the option whose sequence matches those labels.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Medicine",
+   "title": "Who Cares for the Carers?",
+   "paragraphs": [
+    "At the end of a fourteen-hour shift in the emergency department of a provincial hospital in northeastern Thailand, nurse Pimchanok Saengthong often sits in her car for twenty minutes before she can face the drive home. \"I am not sad, exactly,\" she says. \"I am just empty.\" Her experience is far from unusual. Across the world, the people whose job is to look after others are finding it increasingly hard to look after themselves.",
+    "Surveys conducted since the COVID-19 pandemic paint a worrying picture. A 2023 study of almost 3,000 doctors and nurses in Southeast Asia found that around four in ten reported symptoms of burnout, a state of emotional exhaustion, detachment from patients and a reduced sense of accomplishment. Rates were highest among junior staff and those who regularly worked night shifts. Burnout is not merely a private misfortune, either: it has been linked to more medical errors, lower patient satisfaction and experienced staff leaving the profession altogether.",
+    "Researchers increasingly argue that the roots of the problem lie less in individual weakness than in the conditions of work. Chronic understaffing, long and unpredictable hours, and growing administrative workloads leave little time for recovery between shifts. Another factor, sometimes called \"moral injury\", arises when clinicians know what a patient needs but are prevented from providing it by shortages of beds, equipment or time. Unlike ordinary stress, which usually fades after a period of rest, moral injury can leave lasting feelings of guilt and betrayal.",
+    "For many years, the standard response of hospitals has been to offer resilience training: workshops on mindfulness, breathing techniques and time management. Such programmes can help, and many staff appreciate them. Critics, however, point out that they place the burden of change on the very people who are already overloaded. \"Teaching a nurse to breathe more calmly does not fix a roster that has her working six nights in a row,\" says Dr. Anan Rattanakul, a psychiatrist who studies workplace health.",
+    "A small number of hospitals are now experimenting with organisational solutions instead. One hospital in central Thailand introduced protected break times, hired additional ward clerks to take over routine paperwork, and set up confidential peer-support groups led by trained colleagues. After eighteen months, the proportion of nurses who said they intended to leave their jobs fell from 31 percent to 19 percent. Staff also reported that simply knowing their managers were listening made a noticeable difference to morale.",
+    "None of these measures is expensive compared with the cost of recruiting and training replacements. Yet they require hospital leaders to see staff well-being not as a personal matter but as a question of patient safety. As Pimchanok puts it, \"If you want us to care for patients, someone has to care for us first.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Doctors and nurses now experience burnout more often than workers in any other profession.",
+      "Mindfulness and breathing workshops remain the most effective way to protect hospital staff.",
+      "Staff distress is rooted mainly in working conditions and needs organisational remedies.",
+      "Most nurses in Thailand left their jobs because of the extra pressure caused by the pandemic."
+     ],
+     "answer": 2,
+     "explain": "ผู้เขียนชี้สาเหตุใน ¶3: \"the roots of the problem lie less in individual weakness than in the conditions of work\" แล้วเสนอทางแก้ระดับองค์กรใน ¶5–6 จึงตอบ C ตัวเลือก A ผิดเพราะบทความไม่ได้เปรียบเทียบกับอาชีพอื่นเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author begin the passage with the experience of Pimchanok Saengthong?",
+     "options": [
+      "To illustrate a widespread problem through the story of one person",
+      "To show that nurses suffer more from stress than hospital doctors do",
+      "To criticise the hospital in northeastern Thailand where she works",
+      "To explain the medical meaning of the term \"moral injury\""
+     ],
+     "answer": 0,
+     "explain": "หลังเล่าเรื่องของเธอ ผู้เขียนต่อทันทีใน ¶1 ว่า \"Her experience is far from unusual\" แสดงว่าใช้กรณีของคนหนึ่งคนเพื่อนำเข้าสู่ปัญหาที่พบทั่วโลก ตัวเลือก B ผิดเพราะไม่มีการเปรียบเทียบพยาบาลกับแพทย์"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which health workers reported the highest rates of burnout?",
+     "options": [
+      "Senior doctors with heavy administrative duties",
+      "Junior staff and those who often worked at night",
+      "Emergency nurses working in provincial hospitals",
+      "Staff who had cared for patients with COVID-19"
+     ],
+     "answer": 1,
+     "explain": "¶2: \"Rates were highest among junior staff and those who regularly worked night shifts\" ตัวเลือก C เป็นกับดักเพราะนำคำจาก ¶1 (emergency, provincial hospital) มาใช้ แต่ไม่ใช่ผลของการสำรวจ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'Chronic' in paragraph 3 is closest in meaning to",
+     "options": [
+      "sudden",
+      "severe",
+      "unpredictable",
+      "long-lasting"
+     ],
+     "answer": 3,
+     "explain": "¶3: \"Chronic understaffing, long and unpredictable hours...\" หมายถึงการขาดแคลนบุคลากรที่เกิดต่อเนื่องเป็นเวลานาน (long-lasting) ตัวเลือก B (severe) น่าสนใจแต่ chronic เน้นระยะเวลา ไม่ใช่ความรุนแรง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, how does moral injury differ from ordinary stress?",
+     "options": [
+      "Its effects can last long after the events that caused them.",
+      "It is caused mainly by long and unpredictable working hours.",
+      "It affects administrative staff rather than doctors and nurses.",
+      "It can usually be treated with rest and breathing exercises."
+     ],
+     "answer": 0,
+     "explain": "¶3: \"Unlike ordinary stress, which usually fades after a period of rest, moral injury can leave lasting feelings of guilt and betrayal\" ตัวเลือก D ผิดเพราะการหายได้ด้วยการพักเป็นลักษณะของความเครียดทั่วไป ไม่ใช่ moral injury"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 4 refer to?",
+     "options": [
+      "Critics of the hospitals",
+      "Resilience programmes",
+      "Overloaded hospital staff",
+      "Hospital managers"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Such programmes can help... Critics, however, point out that they place the burden of change on the very people who are already overloaded\" สิ่งที่โยนภาระให้คนทำงานคือโปรแกรมฝึกความยืดหยุ่น ส่วน C ผิดเพราะเจ้าหน้าที่คือผู้ที่รับภาระ ไม่ใช่ผู้โยนภาระ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author quote Dr. Anan Rattanakul in paragraph 4?",
+     "options": [
+      "To recommend breathing techniques as a cure for exhausted nurses",
+      "To show that psychiatrists disagree among themselves about burnout",
+      "To support the view that training cannot solve problems in scheduling",
+      "To explain how hospital managers usually plan their night-shift rosters"
+     ],
+     "answer": 2,
+     "explain": "คำพูดใน ¶4: \"Teaching a nurse to breathe more calmly does not fix a roster that has her working six nights in a row\" ใช้สนับสนุนข้อวิจารณ์ว่าการฝึกรายบุคคลไม่แก้ต้นเหตุเรื่องตารางเวร ตัวเลือก A ผิดเพราะเป็นการยกเรื่องหายใจขึ้นมาเพื่อแย้ง ไม่ใช่เพื่อแนะนำ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that the changes at the hospital in central Thailand",
+     "options": [
+      "removed the problem of burnout among its nurses completely",
+      "were designed and introduced entirely by the nurses themselves",
+      "cost more than the hospital spent on recruiting new staff",
+      "made a larger share of nurses willing to stay in their jobs"
+     ],
+     "answer": 3,
+     "explain": "¶5: สัดส่วนพยาบาลที่ตั้งใจลาออก \"fell from 31 percent to 19 percent\" จึงอนุมานได้ว่าพยาบาลอยากอยู่ต่อมากขึ้น ตัวเลือก A เกินหลักฐาน เพราะยังมีพยาบาล 19% ที่คิดจะลาออก และ C ขัดกับ ¶6 ที่บอกว่ามาตรการเหล่านี้ไม่แพง"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage mainly organised?",
+     "options": [
+      "Events at one hospital are described in the order in which they happened.",
+      "Two hospitals are compared and the more successful one is recommended.",
+      "A problem is introduced, its causes analysed, and solutions evaluated.",
+      "An opinion is stated first and then rejected using research evidence."
+     ],
+     "answer": 2,
+     "explain": "บทความเริ่มด้วยปัญหา (¶1–2) วิเคราะห์สาเหตุใน ¶3 ที่ขึ้นต้นว่า \"the roots of the problem lie...\" แล้วประเมินทางแก้แบบเดิมและแบบใหม่ใน ¶4–6 ตัวเลือก B ผิดเพราะ ¶4 พูดถึงวิธีการทั่วไปของโรงพยาบาล ไม่ได้เปรียบเทียบสองโรงพยาบาล"
+    }
+   ]
+  },
+  {
+   "id": "W22",
+   "day": 30,
+   "focus": "Mixed skills with emphasis on tone and the writer's or speaker's attitude",
+   "skill_tip_en": "To identify tone, underline evaluative words and hedges such as encouraging, frankly, not without drawbacks and remains an open question, decide whether each shows approval, doubt or criticism, and then reject options that are more extreme than the language of the text.",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Environment",
+   "title": "The Paddy Field Problem",
+   "paragraphs": [
+    "Rice is the staple food of more than half of the world's population, but the way it is usually grown carries a hidden climate cost. When paddy fields are kept continuously flooded, the waterlogged soil is starved of oxygen. In these conditions, microbes known as methanogens break down plant material and release methane, a greenhouse gas that traps roughly 80 times more heat than carbon dioxide over a twenty-year period. Rice cultivation is estimated to produce around a tenth of the methane emitted by human activities.",
+    "A growing body of research suggests that much of this methane could be avoided through a surprisingly simple change. Under a technique called alternate wetting and drying (AWD), farmers allow the water in their fields to drain away until it falls about 15 centimetres below the soil surface, and only then flood the field again. They monitor the level using a plastic tube with holes in its sides, pushed vertically into the ground. Because air reaches the soil during the dry spells, the methane-producing microbes become far less active.",
+    "Results from field trials have been encouraging. In a three-year study involving 120 farms in central Thailand, researchers found that fields managed with AWD released, on average, 45 percent less methane than conventionally flooded fields, while yields remained statistically unchanged. Farmers also used about a quarter less irrigation water, which lowered their pumping costs. \"We expected some trade-off in productivity,\" admitted the study's lead author, Dr. Kanokwan Prasertsuk, an agricultural scientist. \"We simply did not find one.\"",
+    "The technique is not without drawbacks, however. Drying the soil can increase emissions of nitrous oxide, another powerful greenhouse gas, although most studies find that this offsets only a small part of the methane savings. AWD also works poorly in fields that cannot be drained easily, and in places where individual farmers have no say over when water arrives, as is often the case in large shared irrigation schemes.",
+    "The greater obstacle, researchers say, is persuading farmers to change long-established habits. Many growers worry that letting fields dry will encourage weeds or damage the crop, and the savings on water mean little to farmers who pay a fixed fee regardless of how much they use. As a result, voluntary uptake has been slow. \"Asking farmers to change their methods purely to help the climate is, frankly, unrealistic,\" Dr. Kanokwan said.",
+    "Several schemes are now testing ways to reward farmers for making the switch. Some offer payments for each tonne of emissions avoided, financed through carbon markets; others provide free training and water tubes, or link the technique to premium prices for \"low-carbon rice\". Early results suggest that such incentives can double adoption rates within two growing seasons. Whether they can be scaled up affordably remains an open question. For a crop eaten by billions of people every day, however, even modest progress could make a measurable difference to the climate."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Rice farming releases more methane than any other human activity in the world.",
+      "Drying paddies at intervals cuts methane without lowering yields, but uptake needs rewards.",
+      "Thai farmers have quickly adopted a new watering method in order to lower their water bills.",
+      "Carbon markets have already solved the problem of methane released from flooded rice fields."
+     ],
+     "answer": 1,
+     "explain": "¶3 รายงานว่า AWD ลดมีเทนได้โดย \"yields remained statistically unchanged\" และ ¶5–6 ชี้ว่าเกษตรกรจะเปลี่ยนก็ต่อเมื่อมีสิ่งจูงใจ จึงตอบ B ตัวเลือก A ผิดเพราะ ¶1 บอกเพียงว่านาข้าวปล่อยมีเทนราว \"a tenth\" ของมนุษย์ ไม่ใช่มากที่สุด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, why do flooded paddy fields release methane?",
+     "options": [
+      "Rice plants take in methane from the water and release it at night.",
+      "Fertilisers added by farmers turn into methane when they become wet.",
+      "Warm water evaporates quickly and carries the methane into the air.",
+      "Microbes break down plant material in the soil, which lacks oxygen."
+     ],
+     "answer": 3,
+     "explain": "¶1: \"the waterlogged soil is starved of oxygen... microbes known as methanogens break down plant material and release methane\" ตัวเลือก A, B, C เป็นกลไกที่บทความไม่ได้กล่าวถึงเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the study described in paragraph 3, fields managed with AWD",
+     "options": [
+      "needed less irrigation water and gave similar yields",
+      "produced 45 percent more rice than flooded fields",
+      "emitted about a quarter less methane than other fields",
+      "required more expensive pumping during dry periods"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"yields remained statistically unchanged\" และ \"Farmers also used about a quarter less irrigation water\" ตัวเลือก B และ C สลับตัวเลข: 45% คือมีเทนที่ลดลง ส่วน \"a quarter\" คือน้ำที่ลดลง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'offsets' in paragraph 4 is closest in meaning to",
+     "options": [
+      "increases",
+      "exaggerates",
+      "cancels out",
+      "measures"
+     ],
+     "answer": 2,
+     "explain": "¶4: \"this offsets only a small part of the methane savings\" หมายถึงไนตรัสออกไซด์ที่เพิ่มขึ้นไปหักล้างผลดีจากการลดมีเทนได้เพียงส่วนน้อย ตัวเลือก A ผิดเพราะสิ่งที่เพิ่มคือไนตรัสออกไซด์ ไม่ใช่ปริมาณมีเทนที่ประหยัดได้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that AWD is most suitable for farmers who",
+     "options": [
+      "belong to large shared irrigation schemes",
+      "control the water in their own fields",
+      "want to lower their nitrous oxide emissions",
+      "grow rice in areas with very little rainfall"
+     ],
+     "answer": 1,
+     "explain": "¶4 บอกว่าวิธีนี้ \"works poorly... in places where individual farmers have no say over when water arrives\" จึงอนุมานได้ว่าเหมาะกับผู้ที่ควบคุมน้ำในแปลงของตนได้ ตัวเลือก A ตรงข้ามกับข้อความ และ C ผิดเพราะการทำนาแห้งสลับเปียกอาจเพิ่มไนตรัสออกไซด์"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a reason why farmers hesitate to use AWD?",
+     "options": [
+      "Concern that weeds will spread in dry fields",
+      "Fear that the rice crop will be damaged",
+      "Water fees that do not depend on usage",
+      "The price of the tubes used to check water"
+     ],
+     "answer": 3,
+     "explain": "¶5 กล่าวถึงวัชพืช ความเสียหายต่อพืช และ \"a fixed fee regardless of how much they use\" แต่ไม่ได้พูดถึงราคาท่อวัดน้ำ ตัวเลือก D เป็นกับดักเพราะท่อถูกพูดถึงใน ¶6 ในฐานะสิ่งที่แจกฟรี ไม่ใช่อุปสรรค"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Kanokwan's attitude toward asking farmers to change their methods purely for the climate can best be described as",
+     "options": [
+      "realistic and doubtful",
+      "hopeful and enthusiastic",
+      "uninterested and neutral",
+      "angry and hostile"
+     ],
+     "answer": 0,
+     "explain": "¶5: เธอกล่าวว่าแนวคิดนี้ \"is, frankly, unrealistic\" แสดงความสงสัยอย่างตรงไปตรงมา ตัวเลือก D แรงเกินไป เพราะคำว่า frankly แสดงความตรงไปตรงมา ไม่ใช่ความโกรธ"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 6 refer to?",
+     "options": [
+      "farmers who grow low-carbon rice",
+      "carbon markets",
+      "incentive schemes",
+      "early results"
+     ],
+     "answer": 2,
+     "explain": "¶6: \"such incentives can double adoption rates... Whether they can be scaled up affordably\" สิ่งที่จะขยายผลในวงกว้างได้หรือไม่คือมาตรการจูงใจ ตัวเลือก D เป็นกับดักเพราะ results เป็นคำนามพหูพจน์ที่อยู่ใกล้ แต่ผลการศึกษาไม่ใช่สิ่งที่ถูก \"scaled up\""
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's overall attitude toward alternate wetting and drying can best be described as",
+     "options": [
+      "uncritically enthusiastic",
+      "cautiously optimistic",
+      "deeply pessimistic",
+      "completely dismissive"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนเรียกผลการทดลองว่า \"encouraging\" (¶3) แต่ยอมรับว่า \"The technique is not without drawbacks\" (¶4) และการขยายผล \"remains an open question\" (¶6) จึงมองบวกอย่างระมัดระวัง ตัวเลือก A ผิดเพราะผู้เขียนกล่าวถึงข้อจำกัดอย่างชัดเจน"
+    }
+   ]
+  },
+  {
+   "id": "W23",
+   "day": 31,
+   "focus": "Mixed skills with emphasis on paraphrase (choosing the best restatement of a sentence)",
+   "skill_tip_en": "For paraphrase questions, work out who does what to whom in the original sentence and how certain it is, then choose the option that keeps the same relationship and the same degree of certainty in different words, rejecting options that reverse cause and effect or copy words from the text but change the meaning.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Society",
+   "title": "Connected, but Lonely?",
+   "paragraphs": [
+    "Today's young adults are the most digitally connected generation in history. Many have hundreds of online \"friends\", exchange messages from the moment they wake up, and can see at a glance what classmates on the other side of the city, or the world, are doing. Yet surveys in several countries have found that young adults report feeling lonely more often than older people do. This apparent paradox has led researchers to ask whether social media is part of the problem.",
+    "Early studies seemed to offer a clear answer. The more time people spent on social media, the lonelier they tended to say they felt. A 2022 survey of 2,400 university students in Thailand and Malaysia, for instance, found that those who used social platforms for more than four hours a day were nearly twice as likely to describe themselves as lonely as those who used them for less than an hour. Such findings were widely reported as proof that social media \"causes\" loneliness.",
+    "However, a link between two things does not show that one causes the other. It is equally possible that people who already feel isolated turn to their phones for company, so that loneliness leads to heavy use rather than the other way round. Longitudinal studies, which follow the same individuals over several years, suggest that the relationship probably runs in both directions and is weaker than early headlines implied.",
+    "More recent research has therefore shifted attention from how much people use social media to how they use it. Psychologists distinguish between active use, such as messaging friends, commenting and sharing, and passive use, which involves scrolling through other people's posts without interacting. Passive use appears to be the more harmful of the two, partly because it encourages upward social comparison: viewers measure their ordinary lives against carefully edited images of other people's holidays, achievements and celebrations. Active use, by contrast, is generally associated with feeling closer to others, especially when it supports relationships that also exist offline.",
+    "\"The platform is not the enemy,\" says Dr. Nattaya Boonsri, a psychologist who counsels university students in Bangkok. \"What matters is whether the screen is a bridge to other people or a window you just stare through.\" She encourages students to notice how they feel after using an app, and to replace some of the time spent scrolling with arranging face-to-face meetings.",
+    "Universities are beginning to respond. Some now run campaigns promoting \"phone-free\" social events, while others train student counsellors to ask about online habits during routine appointments. Experts warn, however, that such efforts are unlikely to succeed if they simply tell young people to log off. A more realistic goal is to help young adults use the technology in ways that strengthen, rather than replace, their real-world relationships."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "How young adults use social media seems to matter more for loneliness than how long.",
+      "Social media is the main cause of the recent rise in loneliness among young adults.",
+      "Young adults are now less lonely than older people because they are better connected.",
+      "Universities should ban phones at social events to protect students' mental health."
+     ],
+     "answer": 0,
+     "explain": "¶4: \"More recent research has therefore shifted attention from how much people use social media to how they use it\" และ ¶5–6 สนับสนุนประเด็นนี้ ตัวเลือก B เป็นข้อสรุปของงานวิจัยยุคแรกที่ ¶3 โต้แย้งแล้ว ส่วน C ขัดกับ ¶1 ที่บอกว่าคนหนุ่มสาวเหงาบ่อยกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'apparent' in paragraph 1 is closest in meaning to",
+     "options": [
+      "obvious",
+      "growing",
+      "seeming",
+      "serious"
+     ],
+     "answer": 2,
+     "explain": "¶1: \"This apparent paradox\" หมายถึงสิ่งที่ดูเหมือนขัดแย้งกัน (เชื่อมต่อมากแต่กลับเหงา) ซึ่งบทความจะอธิบายต่อว่าอาจไม่ได้ขัดแย้งจริง ตัวเลือก A (obvious) เป็นอีกความหมายหนึ่งของ apparent แต่ไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2022 survey in paragraph 2, students who used social platforms for more than four hours a day",
+     "options": [
+      "made up nearly half of the 2,400 students surveyed",
+      "were four times as likely to feel lonely as others",
+      "spent less time with friends than light users did",
+      "were almost twice as likely to report being lonely"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"were nearly twice as likely to describe themselves as lonely\" ตัวเลือก B เป็นกับดักตัวเลข เพราะ \"four\" คือจำนวนชั่วโมงใช้งาน ไม่ใช่จำนวนเท่าของความเสี่ยง"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates this sentence from paragraph 3: 'It is equally possible that people who already feel isolated turn to their phones for company, so that loneliness leads to heavy use rather than the other way round.'?",
+     "options": [
+      "Spending many hours online is the main reason why people become isolated.",
+      "Feeling lonely may make people use their phones more, and not the reverse.",
+      "People who feel lonely usually avoid using their phones to contact others.",
+      "Lonely people and heavy phone users tend to belong to different groups."
+     ],
+     "answer": 1,
+     "explain": "ประโยคใน ¶3 บอกว่า \"loneliness leads to heavy use rather than the other way round\" คือความเหงาอาจเป็นสาเหตุของการใช้มาก ตัวเลือก A กลับเหตุและผล ส่วน C ขัดกับวลี \"turn to their phones for company\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, passive use of social media may be harmful because it",
+     "options": [
+      "leads people to compare their lives with others' edited images",
+      "takes up much more time than messaging or commenting on posts",
+      "prevents users from forming relationships that exist offline",
+      "exposes young people to false information about their own friends"
+     ],
+     "answer": 0,
+     "explain": "¶4: \"it encourages upward social comparison: viewers measure their ordinary lives against carefully edited images\" ตัวเลือก C นำคำว่า offline มาจากประโยคสุดท้ายซึ่งพูดถึงการใช้แบบ active ไม่ใช่ผลเสียของ passive use"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates Dr. Nattaya's words in paragraph 5: 'What matters is whether the screen is a bridge to other people or a window you just stare through.'?",
+     "options": [
+      "People should spend less time on screens and more time meeting friends.",
+      "Large screens make it easier to keep in touch with friends who live far away.",
+      "The key point is whether technology links people or only lets them watch.",
+      "Watching other people's lives online helps users to understand them better."
+     ],
+     "answer": 2,
+     "explain": "ใน ¶5 \"bridge\" คือสิ่งที่เชื่อมคนเข้าหากัน ส่วน \"a window you just stare through\" คือการเฝ้าดูอย่างเดียว ตรงกับ C ตัวเลือก A ฟังดูสมเหตุสมผลแต่เป็นการตีความเรื่องลดเวลาใช้หน้าจอ ซึ่งประโยคนี้ไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, some universities have responded by",
+     "options": [
+      "banning the use of mobile phones in lecture halls and libraries",
+      "telling students to delete their social media accounts",
+      "offering students payments to log off for a whole week",
+      "training counsellors to ask students about online habits"
+     ],
+     "answer": 3,
+     "explain": "¶6: \"others train student counsellors to ask about online habits during routine appointments\" ตัวเลือก A ไม่ถูกเพราะบทความพูดถึงกิจกรรม \"phone-free\" social events ไม่ใช่การห้ามใช้โทรศัพท์ในห้องเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 6 refer to?",
+     "options": [
+      "student counsellors",
+      "such efforts",
+      "young people",
+      "experts"
+     ],
+     "answer": 1,
+     "explain": "¶6: \"such efforts are unlikely to succeed if they simply tell young people to log off\" สิ่งที่อาจล้มเหลวหากแค่บอกให้เลิกใช้คือความพยายาม (แคมเปญ) ของมหาวิทยาลัย ตัวเลือก D ผิดเพราะ experts เป็นผู้เตือน ไม่ใช่ผู้บอกให้ log off"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred that the author would most likely agree that",
+     "options": [
+      "early studies were right to say that social media causes loneliness",
+      "passive scrolling is harmless if it is limited to under an hour a day",
+      "guiding how young people use social media beats telling them to quit",
+      "face-to-face meetings matter less to young adults than online contact"
+     ],
+     "answer": 2,
+     "explain": "¶6 ปิดท้ายว่า \"A more realistic goal is to help young adults use the technology in ways that strengthen... their real-world relationships\" แสดงว่าผู้เขียนเห็นด้วยกับการแนะแนววิธีใช้มากกว่าการเลิกใช้ ตัวเลือก A ขัดกับ ¶3 ที่ชี้ว่าความสัมพันธ์ไม่ใช่เหตุและผลทางเดียว"
+    }
+   ]
+  },
+  {
+   "id": "W24",
+   "day": 34,
+   "focus": "Long-text practice: academic article with multiple-choice and short-answer questions",
+   "skill_tip_en": "Before answering, give each of the eight paragraphs a two- or three-word label, use those labels to go straight to the right paragraph for each question, and for short answers copy the exact words from the text while checking the word limit.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Understanding Vaccine Hesitancy: Causes, Contexts and Interventions",
+   "paragraphs": [
+    "Vaccines are among the most cost-effective tools in public health, preventing millions of deaths every year from diseases such as measles, diphtheria and whooping cough. Their success, however, depends not only on scientific development and reliable supply but also on people's willingness to accept them. Over the past two decades, public health experts have become increasingly concerned about vaccine hesitancy, usually understood as a delay in accepting, or a refusal of, recommended vaccines even when they are readily available. Importantly, hesitancy is not the same as outright opposition. It describes a continuum that ranges from people who accept every vaccine but with some anxiety, through those who delay or accept only certain vaccines, to a small minority who refuse all of them.",
+    "Hesitancy is not a new phenomenon. In nineteenth-century England, resistance to smallpox vaccination was widespread, and opponents objected both to the procedure itself and to laws that made it compulsory. More recently, a now-retracted 1998 study that claimed a link between the measles, mumps and rubella (MMR) vaccine and autism led to falling vaccination rates in several countries, followed by outbreaks of measles. What has changed is the speed at which doubts can spread. Social media allows misleading claims to reach millions of people within hours, often faster than health authorities are able to respond.",
+    "Researchers have proposed several frameworks to explain why people hesitate. One widely used model groups the causes into three categories, often referred to as the \"3Cs\". Confidence refers to trust in the safety and effectiveness of vaccines, in the health workers who deliver them and in the policymakers who decide which vaccines are needed. Complacency occurs when people perceive the risks of a disease as low, so that vaccination seems unnecessary. Convenience concerns practical barriers such as cost, distance, clinic opening hours and language. Later versions of the model have added further factors, including how far people search for and weigh up information themselves and their sense of collective responsibility.",
+    "An ironic consequence of successful vaccination programmes is that they can encourage complacency. When diseases such as polio or diphtheria are rarely seen, young parents may never have witnessed their effects and may come to fear the vaccine more than the illness. In this sense, vaccines can become \"victims of their own success\". A survey of 1,500 parents in three Southeast Asian countries found that those who could not name a single complication of measles were more than twice as likely to have delayed their child's vaccination as those who could name at least one.",
+    "Context also matters greatly. During the COVID-19 pandemic, studies in many countries found that hesitancy was shaped by political identity, previous experiences with the health system and levels of trust in government, not simply by knowledge about vaccines. In some communities, hesitancy reflected a history of injustice or discrimination in health care. For this reason, experts warn against treating hesitant individuals as merely ignorant. Labelling them in this way can deepen mistrust and push those with mild doubts towards firmer refusal.",
+    "What, then, works? Reviews of the evidence suggest that simply presenting people with more facts is often ineffective and may even backfire if it appears to dismiss their concerns. More promising are approaches that combine clear information with respectful dialogue. One technique, known as motivational interviewing, trains health workers to ask open questions, listen to patients' worries without judgement and help them reach their own decisions rather than lecturing them. In a trial at maternity clinics in northern Thailand, 87 percent of mothers whose nurses had received this training completed their infants' first-year vaccinations, compared with 76 percent in a comparison group.",
+    "Structural interventions can be equally important, particularly where convenience is the main barrier. Reminder messages sent by text or telephone, extended clinic hours and mobile teams that vaccinate people at workplaces, markets and schools have all been shown to raise coverage. In Thailand, village health volunteers have long helped to trace children who miss scheduled doses and to encourage their families to return. Because these volunteers live in the communities they serve, they are often trusted more than distant officials.",
+    "In short, vaccine hesitancy is a complex and context-specific phenomenon rather than a single problem with a single solution. Effective responses begin by identifying which concerns matter most in a particular community, whether they relate to confidence, complacency or convenience, and then selecting interventions accordingly. As misinformation continues to spread through digital channels, building and maintaining public trust is likely to remain the central challenge for immunisation programmes in the years ahead."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Social media is now the main reason why parents refuse to vaccinate their children.",
+      "Giving people more scientific facts is the best way to overcome doubts about vaccines.",
+      "Vaccine hesitancy is a recent problem created mainly by the COVID-19 pandemic.",
+      "Hesitancy has varied causes, so responses must be matched to local concerns."
+     ],
+     "answer": 3,
+     "explain": "¶8 สรุปว่าเป็น \"a complex and context-specific phenomenon rather than a single problem with a single solution\" และต้องเลือกวิธีแก้ตามความกังวลของแต่ละชุมชน ตัวเลือก B ขัดกับ ¶6 ที่ว่าการให้ข้อมูลอย่างเดียว \"is often ineffective\" ส่วน C ขัดกับ ¶2 ที่บอกว่าไม่ใช่เรื่องใหม่"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, vaccine hesitancy",
+     "options": [
+      "refers only to people who refuse every vaccine",
+      "may cover people who accept vaccines but worry",
+      "occurs mainly where vaccines are hard to obtain",
+      "is another name for organised anti-vaccine groups"
+     ],
+     "answer": 1,
+     "explain": "¶1: ความลังเลเป็นช่วงต่อเนื่องที่เริ่มจาก \"people who accept every vaccine but with some anxiety\" ตัวเลือก A ผิดเพราะผู้ปฏิเสธทุกวัคซีนเป็นเพียง \"a small minority\" ที่ปลายสุดของช่วง และ C ขัดกับวลี \"even when they are readily available\""
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention opposition to smallpox vaccination in nineteenth-century England?",
+     "options": [
+      "To show that public doubts about vaccines have a long history",
+      "To explain why smallpox vaccination later became compulsory",
+      "To compare the dangers of smallpox with those of measles",
+      "To argue that compulsory vaccination laws are always unpopular"
+     ],
+     "answer": 0,
+     "explain": "ตัวอย่างนี้ตามหลังประโยคหัวข้อของ ¶2: \"Hesitancy is not a new phenomenon\" จึงใช้เพื่อแสดงว่าความลังเลมีมานานแล้ว ตัวเลือก D สรุปเกินจริง เพราะผู้เขียนเพียงกล่าวว่ามีคนคัดค้านกฎหมายบังคับในยุคนั้น ไม่ได้อ้างว่าเป็นเช่นนี้เสมอ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is often given to the model that groups the causes of hesitancy into three categories? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "3Cs",
+      "the 3Cs",
+      "3 Cs",
+      "three Cs"
+     ],
+     "explain": "¶3: \"One widely used model groups the causes into three categories, often referred to as the '3Cs'\" คำตอบคือชื่อของโมเดล ไม่ใช่ชื่อหมวดย่อยใดหมวดหนึ่ง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which of the three categories describes people seeing the risks of a disease as low? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "complacency"
+     ],
+     "explain": "¶3: \"Complacency occurs when people perceive the risks of a disease as low\" ระวังอย่าตอบ confidence ซึ่งเกี่ยวกับความไว้วางใจในวัคซีนและผู้ให้บริการ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'ironic' in paragraph 4 is closest in meaning to",
+     "options": [
+      "serious and long-lasting",
+      "carefully planned in advance",
+      "contrary to expectations",
+      "minor and easily corrected"
+     ],
+     "answer": 2,
+     "explain": "¶4: \"An ironic consequence of successful vaccination programmes is that they can encourage complacency\" ความสำเร็จกลับนำไปสู่ความชะล่าใจ ซึ่งตรงข้ามกับสิ่งที่คาดไว้ ตัวเลือก A ผิดเพราะบริบทไม่ได้เน้นความรุนแรงหรือระยะเวลา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the author suggest by saying that vaccines can become 'victims of their own success'?",
+     "options": [
+      "Because diseases become rare, people see less need for vaccines.",
+      "Successful vaccines are often withdrawn because they are too costly.",
+      "Vaccines that work well also tend to have more serious side effects.",
+      "Public health officials receive too little credit for their work."
+     ],
+     "answer": 0,
+     "explain": "¶4 อธิบายก่อนวลีนี้ว่าเมื่อโรค \"are rarely seen\" พ่อแม่ \"may come to fear the vaccine more than the illness\" จึงเห็นความจำเป็นของวัคซีนน้อยลง ตัวเลือก C เป็นกับดักเพราะบทความพูดถึงความกลัววัคซีน ไม่ได้บอกว่าวัคซีนมีผลข้างเคียงมากขึ้นจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 5 refer to?",
+     "options": [
+      "political identities",
+      "health officials",
+      "experts",
+      "hesitant individuals"
+     ],
+     "answer": 3,
+     "explain": "¶5: \"experts warn against treating hesitant individuals as merely ignorant. Labelling them in this way...\" คนที่ถูกตีตราว่าไม่รู้คือผู้ที่ลังเลเรื่องวัคซีน ตัวเลือก C ผิดเพราะ experts คือผู้เตือนไม่ให้ตีตรา ไม่ใช่ผู้ถูกตีตรา"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 6, what may simply presenting people with more facts do if it seems to dismiss their concerns? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "backfire",
+      "backfires"
+     ],
+     "explain": "¶6: \"simply presenting people with more facts is often ineffective and may even backfire if it appears to dismiss their concerns\" คำว่า backfire หมายถึงให้ผลตรงกันข้ามกับที่ตั้งใจ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, health workers trained in motivational interviewing",
+     "options": [
+      "give patients as many scientific facts as possible",
+      "help patients to reach their own decisions freely",
+      "warn patients firmly about the dangers of refusal",
+      "visit mothers at home after their babies are born"
+     ],
+     "answer": 1,
+     "explain": "¶6: เทคนิคนี้ฝึกให้ \"help them reach their own decisions rather than lecturing them\" ตัวเลือก C ตรงข้ามกับแนวคิดนี้ เพราะการตักเตือนอย่างหนักแน่นคือการ lecturing ที่เทคนิคนี้หลีกเลี่ยง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 7 as a way of raising vaccination coverage?",
+     "options": [
+      "Sending reminders by text message or phone",
+      "Keeping clinics open for longer hours",
+      "Paying families who complete vaccinations",
+      "Vaccinating people where they work or shop"
+     ],
+     "answer": 2,
+     "explain": "¶7 กล่าวถึง \"Reminder messages\", \"extended clinic hours\" และ \"mobile teams that vaccinate people at workplaces, markets and schools\" แต่ไม่มีการจ่ายเงินให้ครอบครัว ตัวเลือก D ถอดความจาก workplaces และ markets จึงเป็นสิ่งที่กล่าวถึงแล้ว"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which group in Thailand helps to trace children who miss scheduled doses? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "village health volunteers",
+      "health volunteers",
+      "volunteers"
+     ],
+     "explain": "¶7: \"In Thailand, village health volunteers have long helped to trace children who miss scheduled doses\" อย่าตอบ mobile teams ซึ่งเป็นผู้ฉีดวัคซีนนอกสถานที่ ไม่ใช่ผู้ติดตามเด็ก"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 8?",
+     "options": [
+      "To sum up the argument and point to an ongoing challenge",
+      "To introduce a new model of the causes of hesitancy",
+      "To report the results of a trial conducted in Thailand",
+      "To criticise health authorities for spreading misinformation"
+     ],
+     "answer": 0,
+     "explain": "¶8 ขึ้นต้นด้วย \"In short\" เพื่อสรุป และปิดท้ายด้วยความท้าทายที่ยังคงอยู่คือ \"building and maintaining public trust\" ตัวเลือก B ผิดเพราะ ¶8 เพียงทบทวน confidence, complacency, convenience ซึ่งนำเสนอไปแล้วใน ¶3"
+    }
+   ]
+  },
+  {
+   "id": "W25",
+   "day": 35,
+   "focus": "Timed short text (12 minutes): exam-style news report",
+   "skill_tip_en": "Read the six questions first, skim the report once for its main point in about two minutes, then scan for each answer, allowing roughly one and a half minutes per question so that you finish within 12 minutes.",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "Nicotine in the Pencil Case",
+   "paragraphs": [
+    "Teachers in several provinces of northeastern Thailand say they are confiscating more electronic cigarettes from pupils than ever before, despite a national ban on the import and sale of the devices. A survey of 4,000 secondary school students in the region, carried out last year by university researchers, found that 17 percent of those aged 13 to 15 had tried vaping, up from 9 percent three years earlier.",
+    "Many of the devices seized look nothing like cigarettes. Shaped like highlighter pens, lipsticks or cartoon characters, they can easily be hidden in a pencil case. Most are bought online or through social media accounts and come in sweet flavours such as mango, bubble gum and milk tea, which health experts say are designed to appeal to young users.",
+    "Doctors warn that the products are far from harmless. Most contain nicotine, which is highly addictive and can affect the developing adolescent brain, harming attention, learning and memory. \"Many students honestly believe they are inhaling flavoured water vapour,\" said Dr. Wilaiwan Somsri, a paediatrician at a provincial hospital. \"By the time they discover it contains nicotine, they are already dependent.\"",
+    "In response, education officials plan to train at least one teacher in every secondary school in the region to lead lessons on the risks of vaping, and to work with police to target online sellers. Some parents, however, doubt that schools can solve the problem alone. \"These things are delivered straight to our homes,\" said one mother in Udon Thani. \"Enforcement has to start with the sellers, not the children.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most young vapers in Thailand do not know that e-cigarettes are illegal.",
+      "Teen vaping is growing despite a ban, and officials are planning a response.",
+      "Disguised vapes are now sold mainly in shops located near secondary schools.",
+      "Doctors consider flavoured vapes a safer choice than ordinary cigarettes."
+     ],
+     "answer": 1,
+     "explain": "¶1 รายงานว่าการสูบบุหรี่ไฟฟ้าเพิ่มขึ้น \"despite a national ban\" และ ¶4 กล่าวถึงแผนรับมือของเจ้าหน้าที่ ตัวเลือก C ผิดเพราะ ¶2 บอกว่าส่วนใหญ่ซื้อ \"online or through social media\" ส่วน D ขัดกับ ¶3 ที่ว่า \"far from harmless\""
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'confiscating' in paragraph 1 is closest in meaning to",
+     "options": [
+      "selling",
+      "noticing",
+      "throwing out",
+      "taking away"
+     ],
+     "answer": 3,
+     "explain": "¶1: ครู \"are confiscating more electronic cigarettes from pupils\" คือยึดของไปจากนักเรียน ซึ่งสอดคล้องกับคำว่า \"seized\" ใน ¶2 ตัวเลือก C ใกล้เคียงแต่ไม่ถูก เพราะ confiscate เน้นการยึดไปจากเจ้าของ ไม่ใช่การทิ้ง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the survey mentioned in paragraph 1,",
+     "options": [
+      "the share of 13- to 15-year-olds who had tried vaping almost doubled",
+      "17 percent of all secondary students in the region now vape every day",
+      "4,000 students admitted that they had tried electronic cigarettes",
+      "vaping fell among younger pupils but rose among older ones"
+     ],
+     "answer": 0,
+     "explain": "¶1: \"17 percent of those aged 13 to 15 had tried vaping, up from 9 percent three years earlier\" คือเพิ่มเกือบสองเท่า ตัวเลือก B ผิดเพราะ 17% คือผู้ที่เคยลองในกลุ่มอายุ 13–15 ปี ไม่ใช่นักเรียนทุกคนที่สูบทุกวัน และ C สับสนจำนวนผู้ตอบแบบสำรวจกับผู้ที่เคยลอง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, most of the devices",
+     "options": [
+      "are made to look exactly like ordinary cigarettes",
+      "are sold in shops near schools and markets",
+      "are bought online or via social media accounts",
+      "contain no flavours to avoid attracting pupils"
+     ],
+     "answer": 2,
+     "explain": "¶2: \"Most are bought online or through social media accounts\" ตัวเลือก A ขัดกับประโยคแรกที่ว่า \"look nothing like cigarettes\" และ D ขัดกับรสหวานอย่าง mango และ milk tea"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 2 refer to?",
+     "options": [
+      "the seized devices",
+      "pencil cases",
+      "cartoon characters",
+      "ordinary cigarettes"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"Shaped like highlighter pens, lipsticks or cartoon characters, they can easily be hidden in a pencil case\" สิ่งที่ถูกซ่อนในกล่องดินสอคืออุปกรณ์ที่ถูกยึด ตัวเลือก C อยู่ใกล้คำว่า they ที่สุด แต่เป็นเพียงรูปทรงที่อุปกรณ์เลียนแบบ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer include the comments of the mother in Udon Thani?",
+     "options": [
+      "To show that parents support the new school lessons",
+      "To explain how teachers discover vapes in school bags",
+      "To suggest that most vapes are bought by parents",
+      "To show doubts that schools alone can fix the problem"
+     ],
+     "answer": 3,
+     "explain": "คำพูดของเธอตามหลังประโยคใน ¶4: \"Some parents, however, doubt that schools can solve the problem alone\" และเธอเสนอให้ \"start with the sellers\" ตัวเลือก A ผิดเพราะคำว่า however แสดงความเห็นแย้ง ไม่ใช่การสนับสนุน"
+    }
+   ]
+  },
+  {
+   "id": "W26",
+   "day": 35,
+   "focus": "Timed short text (12 minutes): exam-style news report",
+   "skill_tip_en": "Spend no more than two minutes skimming, and for the best-title question choose the option that covers the whole report, including both the benefits and the risks, rather than one that matches a single paragraph or adds claims the text does not make.",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "AI/Technology",
+   "title": "A New Kind of Farmhand",
+   "paragraphs": [
+    "In the rice fields of Suphan Buri, the familiar sight of farmers carrying heavy tanks of chemicals on their backs is giving way to a new one: small drones flying a few metres above the crops, spraying fertiliser and pesticide in neat lines. Once a novelty, agricultural drones have spread rapidly across central and northeastern Thailand over the past five years.",
+    "Most farmers do not own the machines. Instead, they hire local operators, many of them young people who have returned from jobs in the city, who typically charge 60 to 80 baht per rai. A drone can treat a ten-rai field in under half an hour, a job that would take a worker most of a day by hand.",
+    "Supporters say the benefits go beyond speed. Because farmers no longer walk through the fields with sprayers, they are less exposed to harmful chemicals. Some newer models also use cameras and artificial intelligence to identify patches affected by pests or disease, so that chemicals are applied only where necessary. In a trial run by researchers at a northeastern university, this \"targeted spraying\" reduced pesticide use by about 30 percent.",
+    "The technology is not without risks. Spray can drift onto neighbouring fields, homes or ponds when drones are flown in strong wind, and many operators have had little formal training. Owners must register their drones with the authorities, but experts say the rules on agricultural spraying need to be clearer. \"The drone is only a tool,\" said Somchai Intharawong, a Chai Nat farmer who now runs a spraying business. \"How safely it is used depends on the person holding the controller.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Young Thais Leave Their City Jobs to Become Rice Farmers",
+      "AI Ends the Use of Pesticides on Thai Farms",
+      "Spraying Drones Spread in Thailand, but Risks Remain",
+      "New Law Bans Crop-Spraying Drones Near Homes"
+     ],
+     "answer": 2,
+     "explain": "ข่าวเล่าการแพร่หลายของโดรน (¶1–3) แล้วสรุปใน ¶4 ว่า \"The technology is not without risks\" ตัวเลือก C จึงครอบคลุมทั้งเรื่อง ตัวเลือก A แคบเกินไปเพราะคนหนุ่มสาวกลับมาเป็นผู้รับจ้างบังคับโดรน ไม่ใช่ชาวนา และ B เกินจริงเพราะการพ่นแบบเจาะจงลดสารเคมีเพียงราว 30%"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'novelty' in paragraph 1 is closest in meaning to",
+     "options": [
+      "an expensive luxury item",
+      "something new and unusual",
+      "a risky and dangerous device",
+      "a common sight"
+     ],
+     "answer": 1,
+     "explain": "¶1: \"Once a novelty, agricultural drones have spread rapidly\" คำว่า Once บอกว่าเมื่อก่อนโดรนเป็นของแปลกใหม่ แต่ตอนนี้แพร่หลายแล้ว ตัวเลือก D ตรงข้าม เพราะ common sight คือสภาพในปัจจุบัน ไม่ใช่ในอดีต"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, most farmers",
+     "options": [
+      "have bought drones using government loans",
+      "operate the drones themselves after training",
+      "spray their fields by hand to save money",
+      "pay local operators to spray their fields"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"Most farmers do not own the machines. Instead, they hire local operators\" ตัวเลือก B ผิดเพราะผู้บังคับโดรนคือผู้รับจ้างในท้องถิ่น ไม่ใช่ตัวชาวนาเอง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "farmers",
+      "drones",
+      "chemicals",
+      "researchers"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"Because farmers no longer walk through the fields with sprayers, they are less exposed to harmful chemicals\" ผู้ที่สัมผัสสารเคมีน้อยลงคือชาวนา ตัวเลือก C เป็นกับดักเพราะ chemicals อยู่ในประโยคเดียวกันแต่เป็นสิ่งที่คนสัมผัส ไม่ใช่ผู้สัมผัส"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, targeted spraying",
+     "options": [
+      "cut pesticide use by between 60 and 80 percent",
+      "applies chemicals only to the areas that need them",
+      "was first developed by farmers in Suphan Buri province",
+      "allows drones to fly safely in strong winds"
+     ],
+     "answer": 1,
+     "explain": "¶3: กล้องและ AI ช่วยให้ \"chemicals are applied only where necessary\" ตัวเลือก A เป็นกับดักตัวเลข เพราะ 60 ถึง 80 คือค่าจ้างเป็นบาทต่อไร่ใน ¶2 ส่วนการลดสารเคมีคือประมาณ 30%"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that",
+     "options": [
+      "there are no rules on the use of drones in Thailand",
+      "most spray drift is caused by faulty drone designs",
+      "better operator training could make spraying safer",
+      "drones should never be flown near water sources"
+     ],
+     "answer": 2,
+     "explain": "¶4 ระบุว่า \"many operators have had little formal training\" และคุณสมชายกล่าวว่าความปลอดภัย \"depends on the person holding the controller\" จึงอนุมานได้ว่าการฝึกอบรมผู้บังคับช่วยได้ ตัวเลือก A ขัดกับข้อความที่ว่าเจ้าของต้องลงทะเบียนโดรน"
+    }
+   ]
+  },
+  {
+   "id": "W27",
+   "day": 36,
+   "focus": "Timed long text (30 minutes): academic article with multiple-choice and short-answer questions",
+   "skill_tip_en": "Allow about five minutes to skim the article and note what each paragraph does, then spend roughly 90 seconds per question, and if one question is taking too long, mark it, move on and come back to it at the end.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Education",
+   "title": "Micro-credentials and Lifelong Learning in a Changing Labour Market",
+   "paragraphs": [
+    "For much of the twentieth century, education was widely regarded as something completed early in life. A person studied at school and perhaps at university, obtained a qualification, and then relied on that qualification for the rest of a working career. This model is becoming increasingly difficult to sustain. Rapid technological change, the automation of routine tasks and longer working lives mean that many adults will need to update their skills several times. Governments and universities have therefore placed growing emphasis on lifelong learning, and one of the most widely discussed tools for achieving it is the micro-credential.",
+    "Although definitions vary, a micro-credential is generally understood as a record of learning achieved through a short, focused course, typically lasting from a few hours to several weeks. Whereas a degree covers a broad field of study, a micro-credential certifies a specific skill or competence, such as data visualisation, infection control or online teaching. Many are issued as digital badges, which contain information about what the learner did, how the learning was assessed and which institution awarded it. These can be shared on professional networking sites or attached to job applications.",
+    "Advocates argue that micro-credentials offer several advantages over traditional programmes. Because they are short and often delivered online, they allow working adults to study without leaving their jobs or paying the full fees of a degree. They also enable providers to respond quickly to changes in the labour market: a new course can be designed and launched within months, whereas the approval of a new degree programme may take several years. In addition, some micro-credentials are \"stackable\", meaning that several of them can be combined and counted towards a larger qualification, such as a diploma or a master's degree.",
+    "In Thailand, interest in this form of learning has grown alongside the development of credit bank systems, which allow learners to accumulate credits from different courses and institutions over time. A number of Thai universities now offer short certified courses in fields such as digital marketing, elderly care and artificial intelligence, some of which can later be transferred into degree programmes. A 2024 survey of 900 working adults in Bangkok and Khon Kaen found that 62 percent would consider taking a micro-credential within the next two years, with career advancement the reason most commonly given. Supporters argue that such arrangements could be especially useful in a rapidly ageing society, where many people will need to work for longer and may change careers more than once.",
+    "Despite this enthusiasm, critics have raised several concerns. The first is quality. Because micro-credentials can be offered by universities, private companies, professional bodies and online platforms, the standards behind them vary considerably. Some micro-credentials involve rigorous assessment, while others certify little more than attendance. Without consistent quality assurance, learners may find it difficult to judge which courses are worth their time and money, and employers may struggle to interpret what a particular badge actually represents.",
+    "A second concern relates to recognition. A micro-credential is valuable only if others accept it as evidence of competence. Surveys of employers have produced mixed results: many say they value specific, up-to-date skills, yet relatively few report having used micro-credentials when making hiring decisions. In one study of 300 human resources managers in Southeast Asia, fewer than a quarter could correctly explain what a micro-credential was. This suggests that the currency of these credentials in the job market remains limited, at least for the time being.",
+    "Equity is a third issue. Micro-credentials are often promoted as a way of widening access to education, yet evidence suggests that they are taken up most often by people who already hold degrees. Learners with lower levels of education, limited internet access or little free time may benefit least, even though such workers are often the most vulnerable to automation. Older employees in rural areas, for example, may lack both the digital skills and the reliable connections needed to complete courses online. If this pattern continues, micro-credentials could widen rather than narrow existing inequalities.",
+    "None of these problems means that micro-credentials should be abandoned. Rather, they point to the need for national frameworks that set common standards, describe learning outcomes clearly and link short courses to recognised qualifications. Several countries are developing such frameworks, often in partnership with employers. Targeted financial support, such as government-funded learning accounts, may also help to reach adults who would otherwise be left behind. If these conditions are met, micro-credentials could become a valuable part of a genuinely lifelong education system rather than simply a fashionable label."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Micro-credentials will soon replace university degrees as the main qualification for work.",
+      "Micro-credentials could be valuable for adult learners, but only under certain conditions.",
+      "Employers in Southeast Asia now prefer micro-credentials to traditional degrees.",
+      "Thai universities have led the world in developing short certified courses."
+     ],
+     "answer": 1,
+     "explain": "บทความเสนอข้อดี (¶2–4) และปัญหาเรื่องคุณภาพ การยอมรับ และความเท่าเทียม (¶5–7) แล้วสรุปใน ¶8 ว่าจะมีคุณค่า \"If these conditions are met\" ตัวเลือก C ขัดกับ ¶6 ที่ว่านายจ้างส่วนน้อยเท่านั้นที่เคยใช้ micro-credentials ในการคัดเลือกคน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT given in paragraph 1 as a reason why adults may need to update their skills?",
+     "options": [
+      "Fast-moving changes in technology",
+      "Machines taking over routine tasks",
+      "People working for more years than before",
+      "The rising cost of university study"
+     ],
+     "answer": 3,
+     "explain": "¶1 ระบุเหตุผลสามข้อ: \"Rapid technological change, the automation of routine tasks and longer working lives\" ซึ่งตรงกับ A, B, C ส่วนค่าเล่าเรียนที่สูงขึ้นไม่ได้ถูกกล่าวถึงในย่อหน้านี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, how does a micro-credential differ from a degree?",
+     "options": [
+      "It certifies a particular skill rather than a broad field.",
+      "It is awarded only by private companies, not universities.",
+      "It requires several years of full-time study to complete.",
+      "It cannot be shared with employers or added to applications."
+     ],
+     "answer": 0,
+     "explain": "¶2: \"Whereas a degree covers a broad field of study, a micro-credential certifies a specific skill or competence\" ตัวเลือก D ตรงข้ามกับประโยคสุดท้ายที่บอกว่าสามารถแนบไปกับใบสมัครงานได้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In what form are many micro-credentials issued? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "digital badges",
+      "digital badge",
+      "badges"
+     ],
+     "explain": "¶2: \"Many are issued as digital badges\" ซึ่งบรรจุข้อมูลเกี่ยวกับสิ่งที่ผู้เรียนทำและวิธีประเมิน อย่าตอบ job applications ซึ่งเป็นที่ที่นำ badge ไปแนบ ไม่ใช่รูปแบบของ micro-credential"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, one advantage of micro-credentials for providers is that",
+     "options": [
+      "they can charge the same fees as for a full degree",
+      "they no longer need approval from any authority",
+      "new courses can be launched in a matter of months",
+      "students can study without using the internet"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"a new course can be designed and launched within months, whereas the approval of a new degree programme may take several years\" ตัวเลือก B สรุปเกินจริง เพราะบทความเพียงเปรียบเทียบว่าหลักสูตรปริญญาใช้เวลาอนุมัตินานกว่า ไม่ได้บอกว่าหลักสูตรสั้นไม่ต้องได้รับอนุมัติเลย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term describes micro-credentials that can be combined and counted towards a larger qualification? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "stackable"
+     ],
+     "explain": "¶3: \"some micro-credentials are 'stackable', meaning that several of them can be combined and counted towards a larger qualification\" คำนิยามที่ตามหลัง meaning that ช่วยยืนยันคำตอบ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What systems allow learners in Thailand to accumulate credits from different courses and institutions over time? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "credit bank systems",
+      "credit bank system",
+      "credit bank",
+      "credit banks"
+     ],
+     "explain": "¶4: \"the development of credit bank systems, which allow learners to accumulate credits from different courses and institutions over time\" คำตอบอยู่หน้าคำว่า which ที่ขยายความตรงกับคำถาม"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to the 2024 survey, what was the reason most commonly given for considering a micro-credential? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "career advancement"
+     ],
+     "explain": "¶4: \"with career advancement the reason most commonly given\" ระวังอย่าตอบเป็นตัวเลข 62 percent ซึ่งเป็นสัดส่วนผู้ที่สนใจ ไม่ใช่เหตุผล"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'others' in paragraph 5 refer to?",
+     "options": [
+      "employers",
+      "other micro-credentials",
+      "online platforms",
+      "quality assurance agencies"
+     ],
+     "answer": 1,
+     "explain": "¶5: \"Some micro-credentials involve rigorous assessment, while others certify little more than attendance\" คำว่า others คู่กับ Some micro-credentials จึงหมายถึง micro-credentials อื่น ๆ ตัวเลือก C เป็นกับดักเพราะ online platforms เป็นผู้ให้บริการที่กล่าวถึงในประโยคก่อนหน้า ไม่ใช่สิ่งที่รับรองการเข้าเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'currency' in paragraph 6 is closest in meaning to",
+     "options": [
+      "money used for payment",
+      "the latest version",
+      "rapid growth",
+      "acceptance and value"
+     ],
+     "answer": 3,
+     "explain": "¶6: \"the currency of these credentials in the job market remains limited\" ในบริบทนี้หมายถึงการเป็นที่ยอมรับและมีคุณค่าในตลาดงาน ตัวเลือก A เป็นความหมายที่คุ้นเคยของ currency (เงินตรา) แต่ไม่เข้ากับบริบทเรื่องการยอมรับของนายจ้าง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that",
+     "options": [
+      "job seekers may gain less from badges that employers do not understand",
+      "most employers now refuse to hire applicants who list micro-credentials",
+      "human resources managers prefer degrees because degrees take longer",
+      "a quarter of employers have designed their own micro-credentials"
+     ],
+     "answer": 0,
+     "explain": "¶6 ระบุว่า \"fewer than a quarter could correctly explain what a micro-credential was\" และ micro-credential \"is valuable only if others accept it\" จึงอนุมานได้ว่าผู้หางานได้ประโยชน์น้อยลง ตัวเลือก B เกินหลักฐาน เพราะบทความบอกเพียงว่านายจ้างไม่ค่อยใช้ ไม่ใช่ปฏิเสธผู้สมัคร และ D บิดตัวเลข \"a quarter\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 7, why might micro-credentials increase inequality?",
+     "options": [
+      "They are too expensive for most people with degrees.",
+      "They are available only in large cities such as Bangkok.",
+      "They are used mainly by people who are already educated.",
+      "They prepare workers only for jobs at risk from automation."
+     ],
+     "answer": 2,
+     "explain": "¶7: \"they are taken up most often by people who already hold degrees\" ขณะที่ผู้มีการศึกษาน้อยได้ประโยชน์น้อยที่สุด ตัวเลือก D นำคำว่า automation มาจากย่อหน้าแต่บิดความหมาย เพราะบทความพูดถึงคนงานที่เสี่ยงต่อระบบอัตโนมัติ ไม่ใช่เนื้อหาของหลักสูตร"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 8?",
+     "options": [
+      "To argue that micro-credentials should be abandoned",
+      "To propose ways to make micro-credentials work well",
+      "To describe the history of national education frameworks",
+      "To compare the costs of degrees and short courses"
+     ],
+     "answer": 1,
+     "explain": "¶8 เสนอกรอบมาตรฐานระดับชาติและการสนับสนุนทางการเงิน แล้วปิดว่า \"If these conditions are met, micro-credentials could become a valuable part...\" ตัวเลือก A ตรงข้ามกับประโยคแรก \"None of these problems means that micro-credentials should be abandoned\""
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What kind of government-funded support does the author suggest could help adults who might otherwise be left behind? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "learning accounts",
+      "government-funded learning accounts",
+      "learning account"
+     ],
+     "explain": "¶8: \"Targeted financial support, such as government-funded learning accounts, may also help to reach adults who would otherwise be left behind\" อย่าตอบ national frameworks ซึ่งเป็นข้อเสนอเรื่องมาตรฐาน ไม่ใช่การสนับสนุนทางการเงิน"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward micro-credentials can best be described as",
+     "options": [
+      "cautiously positive",
+      "uncritically enthusiastic",
+      "strongly opposed",
+      "completely indifferent"
+     ],
+     "answer": 0,
+     "explain": "ผู้เขียนวิจารณ์ปัญหาหลายด้าน แต่ยืนยันใน ¶8 ว่า \"None of these problems means that micro-credentials should be abandoned\" จึงมีทัศนคติบวกอย่างมีเงื่อนไข ตัวเลือก B ผิดเพราะผู้เขียนใช้สามย่อหน้า (¶5–7) อภิปรายข้อกังวล"
+    }
+   ]
+  },
+  {
+   "id": "W28",
+   "day": 37,
+   "focus": "Timed short text (12 minutes): research news",
+   "skill_tip_en": "In research news, locate the study's method, main finding and recommendation quickly, because questions usually target these parts, and check each number against the exact group or measure it describes before choosing an answer.",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Public Health",
+   "title": "The Sound of Traffic",
+   "paragraphs": [
+    "Long-term exposure to traffic noise may raise the risk of high blood pressure, even among people who say they have grown used to it, according to a new study of residents in three Southeast Asian capital cities. Researchers followed 5,200 adults for six years, using detailed noise maps to estimate the average sound level outside each participant's home.",
+    "Participants living where night-time road noise regularly exceeded 55 decibels were 18 percent more likely to develop hypertension during the study than those on quieter streets, after differences in age, income, smoking and air pollution had been taken into account. The link was strongest among people whose bedrooms faced the road.",
+    "The findings add to a growing body of evidence that noise is more than a nuisance. Sudden loud sounds trigger the body's stress response, releasing hormones such as cortisol and adrenaline, which raise heart rate and blood pressure. Crucially, this happens even during sleep, so people may be affected without waking up or remembering being disturbed.",
+    "\"Many residents told us the traffic no longer bothered them,\" said the study's lead author, Dr. Thanakorn Wongsuwan, an environmental epidemiologist. \"But their bodies were still reacting.\" He argues that cities should treat noise as a public health issue, using measures such as quieter road surfaces, lower night-time speed limits and stricter controls on modified motorcycle exhausts. Residents, he added, can reduce their own exposure by sleeping in rooms away from the street where possible."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Air pollution, not noise, is the main cause of high blood pressure in cities.",
+      "People soon adapt to traffic noise, so it causes no lasting harm to health.",
+      "Traffic noise may raise blood pressure even in people who feel unaffected.",
+      "Modified motorcycles are the loudest source of noise in Southeast Asian capitals."
+     ],
+     "answer": 2,
+     "explain": "¶1: เสียงจราจร \"may raise the risk of high blood pressure, even among people who say they have grown used to it\" ซึ่ง ¶3–4 อธิบายและยืนยันต่อ ตัวเลือก A ผิดเพราะ ¶2 บอกว่าผลยังคงอยู่หลังจากควบคุมปัจจัยมลพิษทางอากาศแล้ว ส่วน B ตรงข้ามกับคำพูด \"But their bodies were still reacting\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, how did the researchers estimate noise exposure?",
+     "options": [
+      "By placing microphones in participants' bedrooms",
+      "By using noise maps of the area around each home",
+      "By asking residents how loud their street seemed",
+      "By counting vehicles passing each home at night"
+     ],
+     "answer": 1,
+     "explain": "¶1: \"using detailed noise maps to estimate the average sound level outside each participant's home\" ตัวเลือก A เป็นกับดักเพราะ bedrooms ถูกกล่าวถึงใน ¶2 แต่ในฐานะกลุ่มที่เสี่ยงสูง ไม่ใช่จุดวัดเสียง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "What did the study find about participants exposed to night-time road noise above 55 decibels?",
+     "options": [
+      "They made up 18 percent of the 5,200 people studied.",
+      "They were 55 percent more likely to develop hypertension.",
+      "All of them developed high blood pressure within six years.",
+      "They were 18 percent more likely to develop hypertension."
+     ],
+     "answer": 3,
+     "explain": "¶2: \"were 18 percent more likely to develop hypertension during the study than those on quieter streets\" ตัวเลือก B สับสนระดับเสียง 55 เดซิเบลกับเปอร์เซ็นต์ความเสี่ยง และ A นำ 18% ไปใช้ผิดความหมายว่าเป็นสัดส่วนของผู้ร่วมวิจัย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'nuisance' in paragraph 3 is closest in meaning to",
+     "options": [
+      "an annoyance",
+      "a serious danger",
+      "a mystery",
+      "a necessity"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"noise is more than a nuisance\" หมายความว่าเสียงไม่ได้เป็นแค่สิ่งที่น่ารำคาญ แต่ส่งผลต่อสุขภาพด้วย ตัวเลือก B ผิดเพราะ more than บอกว่าอันตรายคือสิ่งที่มากกว่า nuisance ไม่ใช่ความหมายของ nuisance เอง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 4 refer to?",
+     "options": [
+      "the researchers",
+      "the traffic noises",
+      "many residents",
+      "city officials"
+     ],
+     "answer": 2,
+     "explain": "¶4: \"Many residents told us the traffic no longer bothered them\" ผู้ที่ไม่รู้สึกรำคาญเสียงจราจรแล้วคือผู้อยู่อาศัยที่ให้สัมภาษณ์ ตัวเลือก A ผิดเพราะนักวิจัยคือ us ซึ่งเป็นผู้ที่ได้รับคำบอกเล่า"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that the stress response happens 'even during sleep'?",
+     "options": [
+      "To suggest that people should sleep with their windows closed",
+      "To show that cortisol is released only at night",
+      "To argue that bedrooms should be built away from roads",
+      "To explain how noise can harm people without them noticing"
+     ],
+     "answer": 3,
+     "explain": "¶3: \"this happens even during sleep, so people may be affected without waking up or remembering being disturbed\" จึงอธิบายว่าเสียงทำร้ายได้โดยไม่รู้ตัว ตัวเลือก C ฟังดูสมเหตุสมผล แต่คำแนะนำเรื่องห้องนอนใน ¶4 เป็นเรื่องของผู้อยู่อาศัยเลือกห้อง ไม่ใช่เหตุผลที่ผู้เขียนกล่าวถึงการนอนหลับ"
+    }
+   ]
+  },
+  {
+   "id": "W29",
+   "day": 37,
+   "focus": "Timed short text (12 minutes): exam-style news report",
+   "skill_tip_en": "For best-title questions, cross out options that are too narrow (one detail), too broad, or that add claims the report does not make, such as 'for good' or 'blamed', and choose the headline that matches the whole passage.",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Environment",
+   "title": "A Hard Summer Underwater",
+   "paragraphs": [
+    "Marine scientists are reporting widespread coral bleaching along the coasts of southern Thailand after sea temperatures remained unusually high for much of the hot season. Surveys of more than 40 reef sites in the Andaman Sea and the Gulf of Thailand found that over half of the corals examined had turned partly or completely white.",
+    "Bleaching occurs when corals are stressed by heat. Normally, tiny algae living inside coral tissue supply the coral with most of its food through photosynthesis and give it its colour. When the water stays too warm for several weeks, the corals expel these algae, leaving their white skeletons visible through transparent tissue. Bleached corals are not yet dead, but if high temperatures persist, many will starve.",
+    "\"We have seen bleaching before, but never this widespread or this early in the year,\" said Dr. Chalida Thongkham, a marine biologist who led one of the survey teams. She noted that reefs which had recovered from earlier events had not had enough time to regain their full strength before the latest heatwave struck.",
+    "In response, authorities have temporarily closed several popular dive sites to reduce additional pressure from tourism, and volunteers have been asked to report bleaching through a mobile app. Scientists stress that local measures, such as limiting pollution and protecting the fish that keep seaweed under control, can help reefs recover. In the long term, however, they warn that the survival of coral reefs will depend on global efforts to slow the warming of the oceans."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Heat Turns Thai Reefs White as Scientists Urge Action",
+      "Thai Dive Sites Close for Good After Coral Deaths",
+      "Tourists Blamed for Serious Damage to Thailand's Coral Reefs",
+      "New Mobile App Helps Volunteers Count Reef Fish"
+     ],
+     "answer": 0,
+     "explain": "ข่าวรายงานปะการังฟอกขาวจากความร้อน (¶1–3) และมาตรการที่นักวิทยาศาสตร์เรียกร้อง (¶4) ตัวเลือก B ผิดสองจุด เพราะ ¶4 ปิดจุดดำน้ำ \"temporarily\" และ ¶2 ระบุว่า \"Bleached corals are not yet dead\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, the surveys found that",
+     "options": [
+      "40 percent of the reef sites had been completely destroyed",
+      "corals in the Gulf of Thailand were not affected",
+      "more than half of the corals examined had lost colour",
+      "most bleaching occurred at the end of the hot season"
+     ],
+     "answer": 2,
+     "explain": "¶1: \"over half of the corals examined had turned partly or completely white\" ตัวเลือก A เป็นกับดักตัวเลข เพราะ 40 คือจำนวนจุดสำรวจ ไม่ใช่เปอร์เซ็นต์ของแนวปะการังที่ถูกทำลาย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what happens when the water stays too warm for several weeks?",
+     "options": [
+      "The algae inside the corals multiply rapidly.",
+      "The corals push out the algae that feed them.",
+      "The coral skeletons slowly turn dark in colour.",
+      "The corals die immediately from the heat."
+     ],
+     "answer": 1,
+     "explain": "¶2: \"the corals expel these algae\" และสาหร่ายเหล่านี้ \"supply the coral with most of its food\" ตัวเลือก D ผิดเพราะย่อหน้าเดียวกันบอกว่าปะการังที่ฟอกขาว \"are not yet dead\""
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'persist' in paragraph 2 is closest in meaning to",
+     "options": [
+      "increase",
+      "disappear",
+      "change",
+      "continue"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"if high temperatures persist, many will starve\" หมายถึงถ้าอุณหภูมิสูงยังคงอยู่ต่อไป ตัวเลือก A น่าสนใจ แต่ประโยคไม่จำเป็นต้องให้อุณหภูมิสูงขึ้นอีก เพียงแค่สูงต่อเนื่องปะการังก็อดตายได้"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 4 refer to?",
+     "options": [
+      "authorities",
+      "scientists",
+      "volunteers",
+      "dive sites"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Scientists stress that local measures... can help reefs recover. In the long term, however, they warn...\" ผู้เตือนคือนักวิทยาศาสตร์ซึ่งเป็นประธานของประโยคก่อนหน้า ตัวเลือก A ผิดเพราะ authorities เป็นผู้ปิดจุดดำน้ำ ไม่ใช่ผู้ให้ความเห็นเชิงวิทยาศาสตร์"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that",
+     "options": [
+      "Dr. Chalida had never seen coral bleaching before",
+      "bleaching usually begins earlier in the year than this",
+      "repeated heat events can leave reefs less able to cope",
+      "reefs damaged by earlier events had fully recovered"
+     ],
+     "answer": 2,
+     "explain": "¶3: แนวปะการังที่เคยฟื้นตัว \"had not had enough time to regain their full strength before the latest heatwave struck\" จึงอนุมานได้ว่าการเกิดซ้ำทำให้รับมือได้น้อยลง ตัวเลือก A ขัดกับ \"We have seen bleaching before\" และ B ตรงข้ามกับ \"never... this early in the year\""
+    }
+   ]
+  },
+  {
+   "id": "W30",
+   "day": 38,
+   "focus": "Timed long text (30 minutes): academic article with multiple-choice and short-answer questions",
+   "skill_tip_en": "Under time pressure, answer short-answer and detail questions first by scanning for key words, and leave main-idea and purpose questions until the end, when you have a clear picture of the whole argument.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "AI/Technology",
+   "title": "Robotics and the Care of Older People in Ageing Societies",
+   "paragraphs": [
+    "Populations across East and Southeast Asia are ageing at an unprecedented pace. In Japan, almost three in ten people are now aged 65 or over, while in Thailand around one in five citizens has passed the age of 60, making it one of the most rapidly ageing countries in the developing world. As the number of older people grows, the number of working-age adults available to care for them is shrinking. Falling birth rates, the migration of young people to cities and the increasing participation of women in paid work have all weakened the family-based care on which many societies have traditionally relied.",
+    "Against this background, governments, technology companies and researchers have turned to robotics as a possible partial solution. The robots being developed for elderly care fall broadly into three groups. Assistive robots help with physical tasks, such as lifting a person from a bed into a wheelchair or supporting someone as they walk. Monitoring robots and sensors track vital signs, detect falls and remind users to take their medication. Social robots, finally, are designed to provide companionship and mental stimulation through conversation, games or simple emotional responses.",
+    "Of these, social robots have attracted the most public attention. Some resemble animals such as seals or puppies and respond to touch and voice with movements and sounds. Studies in nursing homes have reported that interacting with such robots can reduce agitation and improve mood among residents with dementia, producing effects similar to those of animal-assisted therapy but without the need to look after a live animal. However, many of these studies have been small, short and conducted without control groups, so their conclusions should be treated with caution.",
+    "Assistive and monitoring technologies may offer more measurable benefits. Lifting and moving patients is a leading cause of back injuries among care workers, and robotic lifting devices can reduce this risk. Fall-detection systems can alert staff within seconds, shortening the time an older person may lie on the floor before help arrives. In a pilot project at a long-term care facility in northern Thailand, the introduction of bed sensors and a robotic transfer aid was associated with a 40 percent reduction in the time staff spent on routine night-time checks, allowing nurses to concentrate on residents who needed direct attention.",
+    "Despite these potential advantages, the adoption of care robots has been slower than many predicted. Cost is one obstacle: advanced robots remain expensive to buy and maintain, which puts them beyond the reach of most care homes and families in middle-income countries. Usability is another. Devices designed in laboratories often perform poorly in crowded, unpredictable real-world settings, and older users with limited eyesight, hearing or experience of technology may find such machines confusing. Care staff, too, may resist technologies that they feel have been introduced without consultation or that add to their workload.",
+    "The use of robots in care also raises ethical questions. Critics worry that robots could be used to justify cuts in human staff, leaving older people more isolated rather than less. Others question whether it is acceptable to give a person with dementia a robotic pet that he or she may believe to be alive, arguing that this involves a form of deception. Monitoring technologies, meanwhile, collect large amounts of personal data, raising concerns about privacy and about who controls information on residents' health and daily routines.",
+    "Researchers who study care robots increasingly argue that the central question is not whether machines can replace human caregivers but how they can best support them. Care involves not only completing tasks but also recognising and responding to a person's feelings and preferences, abilities that current machines do not possess. A robot can lift a patient, but it cannot sense that she is frightened or lonely. From this perspective, the most promising role for robots is to take over physically demanding or repetitive work, freeing human carers to spend more time on the relational aspects of care that matter most to older people.",
+    "For countries such as Thailand, where long-term care systems are still being developed, this suggests a cautious and practical approach. Rather than investing heavily in expensive humanoid machines, policymakers might prioritise affordable technologies with clear benefits, such as fall sensors and lifting aids, and evaluate them carefully in local settings. Equally important will be involving older people, families and care workers in decisions about which technologies to adopt and how. Robots may well become a valuable part of elderly care, but only if they are designed and deployed around human needs."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Robots offer real but limited benefits in elderly care and need careful use.",
+      "Social robots have now been proven to cure agitation in people living with dementia.",
+      "Robots will soon take over most caring work in Asia's rapidly ageing societies.",
+      "High costs mean that care robots have no future in middle-income countries."
+     ],
+     "answer": 0,
+     "explain": "บทความชี้ประโยชน์ (¶3–4) อุปสรรคและประเด็นจริยธรรม (¶5–6) แล้วสรุปใน ¶8 ว่าหุ่นยนต์จะมีคุณค่า \"only if they are designed and deployed around human needs\" ตัวเลือก B ผิดเพราะ ¶3 เตือนว่าผลการศึกษา \"should be treated with caution\" และ D เกินจริงเพราะ ¶8 ยังแนะนำเทคโนโลยีราคาไม่แพง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In which country are almost three in ten people aged 65 or over? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "Japan"
+     ],
+     "explain": "¶1: \"In Japan, almost three in ten people are now aged 65 or over\" อย่าตอบ Thailand ซึ่งตัวเลขคือราวหนึ่งในห้าคนที่อายุเกิน 60 ปี"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'unprecedented' in paragraph 1 is closest in meaning to",
+     "options": [
+      "steady and predictable",
+      "slow and gradual",
+      "never seen before",
+      "officially recorded"
+     ],
+     "answer": 2,
+     "explain": "¶1: \"ageing at an unprecedented pace\" หมายถึงความเร็วที่ไม่เคยเกิดขึ้นมาก่อน ซึ่งประโยคต่อมายืนยันด้วยคำว่า \"most rapidly ageing\" ตัวเลือก B ตรงข้ามกับบริบทเรื่องความรวดเร็ว"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as weakening family-based care?",
+     "options": [
+      "Lower birth rates",
+      "Rising rents in cities",
+      "Young people moving to cities",
+      "More women in paid employment"
+     ],
+     "answer": 1,
+     "explain": "¶1 ระบุ \"Falling birth rates, the migration of young people to cities and the increasing participation of women in paid work\" ไม่มีเรื่องค่าเช่าที่อยู่อาศัย ตัวเลือก B เป็นกับดักเพราะมีคำว่า cities เหมือนข้อ C"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which of the following is a function of monitoring robots?",
+     "options": [
+      "Lifting people from beds into wheelchairs",
+      "Playing games and holding conversations",
+      "Helping older people walk more safely",
+      "Reminding users to take their medicine"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"Monitoring robots and sensors track vital signs, detect falls and remind users to take their medication\" ตัวเลือก A และ C เป็นหน้าที่ของ assistive robots ส่วน B เป็นหน้าที่ของ social robots"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Interacting with robotic animals has produced effects similar to those of what kind of therapy? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "animal-assisted therapy",
+      "animal-assisted",
+      "animal assisted therapy"
+     ],
+     "explain": "¶3: \"producing effects similar to those of animal-assisted therapy but without the need to look after a live animal\" คำว่า animal-assisted ที่มีขีดกลางนับเป็นหนึ่งคำ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author point out that many studies of robotic companions were small, short and lacked control groups?",
+     "options": [
+      "To indicate that their reported benefits are not yet firmly proven",
+      "To argue that robotic animals should be removed from nursing homes",
+      "To show that live animals are more effective than robots",
+      "To explain why dementia is difficult to study scientifically"
+     ],
+     "answer": 0,
+     "explain": "¶3 สรุปข้อจำกัดนี้ว่า \"so their conclusions should be treated with caution\" จึงเป็นการบอกว่าประโยชน์ยังไม่ได้รับการพิสูจน์อย่างหนักแน่น ตัวเลือก B เกินเลย เพราะผู้เขียนเพียงให้ระวังการสรุป ไม่ได้เสนอให้เลิกใช้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 4, lifting and moving patients is a leading cause of what kind of injury among care workers? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "back injuries",
+      "back injury",
+      "back"
+     ],
+     "explain": "¶4: \"Lifting and moving patients is a leading cause of back injuries among care workers\" ซึ่งเป็นเหตุผลที่อุปกรณ์ยกด้วยหุ่นยนต์ช่วยลดความเสี่ยงได้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, the pilot project in northern Thailand",
+     "options": [
+      "cut the number of falls among residents by 40 percent",
+      "replaced night-shift nurses with robotic transfer aids",
+      "reduced the time staff spent on routine checks at night",
+      "was carried out in the emergency ward of a city hospital"
+     ],
+     "answer": 2,
+     "explain": "¶4: \"a 40 percent reduction in the time staff spent on routine night-time checks\" ตัวเลือก A ใช้ตัวเลข 40 ผิดสิ่ง เพราะสิ่งที่ลดลงคือเวลาตรวจตอนกลางคืน ไม่ใช่จำนวนการหกล้ม และ B ขัดกับข้อความที่ว่าพยาบาลได้ \"concentrate on residents\""
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from cost, what other obstacle to the adoption of care robots is named in paragraph 5? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "usability"
+     ],
+     "explain": "¶5: \"Cost is one obstacle... Usability is another\" โครงสร้าง one... another บอกว่าเป็นอุปสรรคข้อที่สองต่อจากค่าใช้จ่าย"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that care robots would be more readily accepted by staff if",
+     "options": [
+      "they were designed to look more like humans",
+      "they were tested only in laboratory conditions",
+      "they replaced the most experienced care workers",
+      "staff were consulted before their introduction"
+     ],
+     "answer": 3,
+     "explain": "¶5: เจ้าหน้าที่อาจต่อต้านเทคโนโลยี \"that they feel have been introduced without consultation\" จึงอนุมานได้ว่าการปรึกษาก่อนจะช่วยให้ยอมรับมากขึ้น ตัวเลือก B ขัดกับข้อความที่ว่าอุปกรณ์จากห้องทดลอง \"often perform poorly\" ในสถานการณ์จริง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'deception' in paragraph 6 is closest in meaning to",
+     "options": [
+      "causing physical harm",
+      "misleading someone",
+      "ignoring someone's needs",
+      "treating someone unfairly"
+     ],
+     "answer": 1,
+     "explain": "¶6: การให้หุ่นยนต์สัตว์เลี้ยงแก่ผู้ป่วยสมองเสื่อม \"that he or she may believe to be alive\" ถูกมองว่าเป็น deception คือการทำให้เข้าใจผิด ตัวเลือก C เกี่ยวกับความกังวลเรื่องการลดพนักงานในประโยคก่อนหน้า ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Besides who controls information, what concern do monitoring technologies raise because they collect personal data? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "privacy"
+     ],
+     "explain": "¶6: \"collect large amounts of personal data, raising concerns about privacy and about who controls information\" คำตอบคือความเป็นส่วนตัว ไม่ใช่ deception ซึ่งเป็นประเด็นเรื่องหุ่นยนต์สัตว์เลี้ยง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 7 refer to?",
+     "options": [
+      "human caregivers",
+      "care robots",
+      "older people",
+      "researchers who study robots"
+     ],
+     "answer": 0,
+     "explain": "¶7: \"not whether machines can replace human caregivers but how they can best support them\" they คือ machines ที่เป็นผู้สนับสนุน ส่วน them คือผู้ดูแลที่เป็นมนุษย์ ตัวเลือก B สลับบทบาทระหว่าง they กับ them"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 8?",
+     "options": [
+      "To describe the history of long-term care in Thailand",
+      "To argue that humanoid robots are the best investment",
+      "To summarise the ethical objections to care robots",
+      "To apply the article's main conclusions to Thailand"
+     ],
+     "answer": 3,
+     "explain": "¶8 เริ่มด้วย \"For countries such as Thailand... this suggests a cautious and practical approach\" คือนำข้อสรุปของบทความมาใช้กับบริบทไทย ตัวเลือก B ตรงข้ามกับคำแนะนำ \"Rather than investing heavily in expensive humanoid machines\""
+    }
+   ]
+  },
+  {
+   "id": "W31",
+   "day": 45,
+   "focus": "Light review before the exam: short news text with exam-style questions",
+   "skill_tip_en": "Stay calm and follow the routine you have practised: skim for the main idea, scan for details, read the sentence before any reference word, and choose answers based only on what the text actually says.",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Society",
+   "title": "Turning the Page Together",
+   "paragraphs": [
+    "Every Tuesday morning, about twenty retired residents gather at a small community library in Khon Kaen to read aloud, discuss short stories and swap books. What began two years ago as a simple social activity has now attracted the attention of researchers, who believe the club may be doing more than helping its members pass the time.",
+    "A team of public health researchers compared 64 club members aged 60 to 82 with a similar group of older adults who did not attend. After six months, the members performed better on tests of short-term memory and reported fewer symptoms of low mood. Those who came to at least three sessions a month showed the greatest improvements.",
+    "Organisers believe that the combination of mental challenge and friendship is the key. \"Reading keeps the brain working, but talking about a story with others is what brings people back each week,\" said Malee Chaiyasit, a retired teacher who founded the club. Several members said the meetings had given them a reason to leave the house and a new circle of friends.",
+    "The researchers point out that the study was small and that people who join such clubs may already be healthier or more active than others. Even so, they describe the results as encouraging, especially because reading groups are cheap and easy to organise. The library now plans to start a second group in the afternoons, and staff have begun recording audiobooks for members with poor eyesight."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Older adults in Khon Kaen now prefer audiobooks to printed books.",
+      "Retired teachers score higher on memory tests than other older people.",
+      "Reading alone helps memory more than discussing books with other people.",
+      "A reading club for older people seems to benefit their memory and mood."
+     ],
+     "answer": 3,
+     "explain": "¶2 รายงานว่าสมาชิก \"performed better on tests of short-term memory and reported fewer symptoms of low mood\" และย่อหน้าอื่นขยายความเรื่องชมรมนี้ ตัวเลือก C ขัดกับ ¶3 ที่ว่าการพูดคุยกับผู้อื่นคือสิ่งที่ทำให้คนกลับมา"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'swap' in paragraph 1 is closest in meaning to",
+     "options": [
+      "borrow",
+      "exchange",
+      "review",
+      "recommend"
+     ],
+     "answer": 1,
+     "explain": "¶1: สมาชิก \"read aloud, discuss short stories and swap books\" คือแลกหนังสือกัน ตัวเลือก A ใกล้เคียงแต่ borrow คือยืมจากผู้อื่นฝ่ายเดียว ส่วน swap คือการให้และรับแลกกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which club members showed the greatest improvements?",
+     "options": [
+      "Those who attended at least three sessions a month",
+      "Those who were aged between 60 and 82",
+      "Those who had worked as school teachers before retiring",
+      "Those who had joined the club two years earlier"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"Those who came to at least three sessions a month showed the greatest improvements\" ตัวเลือก B ผิดเพราะช่วงอายุ 60–82 ปีคือสมาชิกทุกคนในการศึกษา ไม่ใช่กลุ่มที่ดีขึ้นมากที่สุด"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 3 refer to?",
+     "options": [
+      "the organisers",
+      "the stories",
+      "several members",
+      "other library users"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"Several members said the meetings had given them a reason to leave the house\" ผู้ที่ได้เหตุผลให้ออกจากบ้านคือสมาชิกที่ให้สัมภาษณ์ ตัวเลือก A ผิดเพราะผู้จัดเป็นผู้ให้ความเห็นในประโยคก่อนหน้า ไม่ใช่ผู้กล่าวประโยคนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, what does the library plan to do next?",
+     "options": [
+      "Close the morning group and move it to the afternoon",
+      "Open a second group that will meet in the afternoons",
+      "Train volunteers to test members' memory each month",
+      "Buy large-print books for members with poor eyesight"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"The library now plans to start a second group in the afternoons\" ตัวเลือก D เป็นกับดัก เพราะสำหรับผู้มีปัญหาสายตา เจ้าหน้าที่อัดหนังสือเสียง (audiobooks) ไม่ใช่ซื้อหนังสือตัวพิมพ์ใหญ่ และ A ผิดเพราะกลุ่มใหม่เป็นกลุ่มที่สอง ไม่ได้ย้ายกลุ่มเดิม"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that the researchers",
+     "options": [
+      "think larger studies are needed to confirm the results",
+      "believe club members were less healthy at the start",
+      "plan to close the club once the study has finished",
+      "consider reading groups too costly for most communities"
+     ],
+     "answer": 0,
+     "explain": "¶4: นักวิจัยยอมรับว่า \"the study was small\" และผู้เข้าร่วมอาจสุขภาพดีอยู่แล้ว จึงอนุมานได้ว่าต้องการการศึกษาที่ใหญ่ขึ้นเพื่อยืนยันผล ตัวเลือก B ตรงข้ามกับข้อความที่ว่าสมาชิก \"may already be healthier\" และ D ขัดกับ \"cheap and easy to organise\""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="th" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>KKU-AELT 42 วัน</title>
+<meta name="description" content="ตารางอ่าน KKU-AELT 42 วัน (10 ต.ค.–20 พ.ย. 2569) พร้อมข้อสอบทุกวัน คำศัพท์ 740 คำ และ Writing Studio">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+__CSS__
+</style>
+</head>
+<body>
+__SPRITE__
+<div class="aurora" aria-hidden="true"></div>
+<canvas id="aiNet" aria-hidden="true"></canvas>
+<a class="skip" href="#main">ข้ามไปเนื้อหา</a>
+<div class="app">
+  <aside class="side" aria-label="เมนูหลัก">
+    <a class="brand" href="#/today">
+      <span class="brand-mark" aria-hidden="true"><span>42</span></span>
+      <span class="brand-txt"><b>KKU-AELT</b><small>42-Day Study Studio</small></span>
+    </a>
+    <nav class="side-nav">
+      <a href="#/today" data-nav="today"><svg class="ico"><use href="#i-target"/></svg><span>วันนี้</span></a>
+      <a href="#/plan" data-nav="plan"><svg class="ico"><use href="#i-calendar"/></svg><span>ตาราง 42 วัน</span></a>
+      <a href="#/vocab" data-nav="vocab"><svg class="ico"><use href="#i-type"/></svg><span>คำศัพท์</span></a>
+      <a href="#/errors" data-nav="errors"><svg class="ico"><use href="#i-retry"/></svg><span>ข้อผิดพลาด</span></a>
+      <a href="#/writing" data-nav="writing"><svg class="ico"><use href="#i-pen"/></svg><span>Writing Studio</span></a>
+      <a href="#/stats" data-nav="stats"><svg class="ico"><use href="#i-chart"/></svg><span>สถิติ</span></a>
+      <a href="#/guide" data-nav="guide"><svg class="ico"><use href="#i-book"/></svg><span>คู่มือ</span></a>
+      <a href="#/settings" data-nav="settings"><svg class="ico"><use href="#i-gear"/></svg><span>ตั้งค่า</span></a>
+    </nav>
+    <button class="themetog" data-act="toggleTheme" type="button"><svg class="ico"><use href="#i-moon"/></svg><span>โหมดมืด</span></button>
+    <div class="side-card" id="sideCard"></div>
+  </aside>
+  <div class="mainwrap">
+    <header class="appbar">
+      <a class="brand brand-mobile" href="#/today"><span class="brand-mark" aria-hidden="true"><span>42</span></span><b>KKU-AELT</b></a>
+      <div class="tb-right"><span class="countdown" id="countdown"></span><button class="iconbtn themetog-m" data-act="toggleTheme" type="button" aria-label="สลับโหมดสว่าง/มืด"><svg class="ico"><use href="#i-sun"/></svg></button></div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <footer class="foot">สร้างจากเอกสารของคุณ 5 ไฟล์ + ข้อมูลทางการของศูนย์ CELEx · ข้อสอบในแอปแต่งขึ้นใหม่เพื่อการฝึก ไม่ใช่ข้อสอบจริง · คะแนนร้อยละไม่ใช่ระดับคะแนนทางการ</footer>
+  </div>
+</div>
+<div id="storageWarn" class="banner warn floating" hidden><svg class="ico"><use href="#i-alert"/></svg><span>เบราว์เซอร์นี้บันทึกอัตโนมัติไม่ได้ — ไปที่ ตั้งค่า แล้วกด “สำรองข้อมูล” ก่อนปิดไฟล์</span></div>
+<nav class="tabbar" aria-label="เมนูมือถือ">
+  <a href="#/today" data-nav="today"><svg class="ico"><use href="#i-target"/></svg><span>วันนี้</span></a>
+  <a href="#/plan" data-nav="plan"><svg class="ico"><use href="#i-calendar"/></svg><span>ตาราง</span></a>
+  <a href="#/vocab" data-nav="vocab"><svg class="ico"><use href="#i-type"/></svg><span>ศัพท์</span></a>
+  <a href="#/errors" data-nav="errors"><svg class="ico"><use href="#i-retry"/></svg><span>ข้อผิด</span></a>
+  <a href="#/more" data-nav="more"><svg class="ico"><use href="#i-menu"/></svg><span>เมนู</span></a>
+</nav>
+<div id="dock" class="dock" hidden role="timer" aria-live="off"><svg class="ico"><use href="#i-clock"/></svg><span id="dockLabel" class="small"></span><span id="dockTime" class="tm"></span><button id="dockPause" data-act="dockPause">พัก</button><button data-act="dockStop">หยุด</button></div>
+<div id="toast" class="toast" role="status" hidden></div>
+<div id="tip" class="tip" hidden></div>
+<script id="study-data" type="application/json">__DATA__</script>
+<script>
+__JS__
+</script>
+</body>
+</html>

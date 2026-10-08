@@ -1,0 +1,7 @@
+[
+ {"qid": "T3P6.17", "issue": "Cross-question giveaway: the stem of T3P6.11 ('a robot tax and a universal basic income') and option D of T3P6.12 ('a basic income') supply the exact term asked for in T3P6.17."},
+ {"qid": "T3P6.16", "issue": "Cross-question cue: distractor C of T3P6.1 ('Reskilling programmes in Singapore and Denmark...') exposes the one-word answer 'reskilling'."},
+ {"qid": "T3P6.13", "issue": "Cross-question cue: distractor B of T3P6.1 ('Robots are better than humans at routine tasks...') exposes the one-word answer 'routine'."},
+ {"qid": "T3P5.16", "issue": "Cross-question cue: distractor B of T3P5.9 ('the teach-back method') names the technique asked for in T3P5.16."},
+ {"qid": "T3P5.14", "issue": "Minor cue: distractor C of T3P5.8 ('makes most patients feel ashamed of their difficulties') hints at the answer 'shame'."}
+]

@@ -1,0 +1,2918 @@
+{
+ "23": [
+  {
+   "w": "revenue",
+   "pos": "n.",
+   "th": "รายได้ (ของรัฐ, องค์กร) / รายรับ",
+   "fam": "",
+   "col": "tax revenue / generate revenue",
+   "ex": "Revenue from tobacco taxes is used to fund health promotion programmes nationwide."
+  },
+  {
+   "w": "stable",
+   "pos": "adj.",
+   "th": "มั่นคง / คงที่ / (อาการ) ทรงตัว",
+   "fam": "stability (n.), stabilise (v.), unstable (adj.), instability (n.)",
+   "col": "remain stable / stable condition",
+   "ex": "The patient's condition remained stable throughout the night after emergency surgery."
+  },
+  {
+   "w": "style",
+   "pos": "n.",
+   "th": "รูปแบบ / ลีลา, สไตล์ / วิถี (การดำเนินชีวิต)",
+   "fam": "stylistic (adj.), lifestyle (n.)",
+   "col": "learning style / leadership style",
+   "ex": "A democratic leadership style was linked to higher job satisfaction among ward nurses."
+  },
+  {
+   "w": "substitute",
+   "pos": "n./v.",
+   "th": "สิ่งทดแทน / ตัวแทน (n.) / ทดแทน, ใช้แทน (v.)",
+   "fam": "substitution (n.)",
+   "col": "substitute A for B / a substitute for",
+   "ex": "Participants were encouraged to substitute water for sugary soft drinks at every meal."
+  },
+  {
+   "w": "sustain",
+   "pos": "v.",
+   "th": "รักษาไว้ (ให้ต่อเนื่อง) / ค้ำจุน / ได้รับ (บาดเจ็บ, ความเสียหาย)",
+   "fam": "sustainable (adj.), sustainability (n.), sustained (adj.)",
+   "col": "sustain growth / sustain an injury",
+   "ex": "Without long-term funding, it is difficult to sustain community health programmes in remote areas."
+  },
+  {
+   "w": "symbol",
+   "pos": "n.",
+   "th": "สัญลักษณ์",
+   "fam": "symbolic (adj.), symbolise (v.), symbolically (adv.)",
+   "col": "a symbol of / a powerful symbol",
+   "ex": "For many families, a university degree remains a powerful symbol of social mobility."
+  },
+  {
+   "w": "target",
+   "pos": "n./v.",
+   "th": "เป้าหมาย / กลุ่มเป้าหมาย (n.) / มุ่งเป้า, ตั้งเป้าไปที่ (v.)",
+   "fam": "targeted (adj.)",
+   "col": "target group / meet a target",
+   "ex": "The campaign specifically targeted young men, who had the lowest screening rates."
+  },
+  {
+   "w": "transit",
+   "pos": "n.",
+   "th": "การขนส่ง (สาธารณะ) / การผ่าน, การเดินทางผ่าน",
+   "fam": "transition (n.), transitional (adj.)",
+   "col": "public transit / in transit",
+   "ex": "Expanding public transit can reduce traffic congestion and improve urban air quality."
+  },
+  {
+   "w": "trend",
+   "pos": "n.",
+   "th": "แนวโน้ม",
+   "fam": "trend (v.), trending (adj.)",
+   "col": "downward trend / a growing trend",
+   "ex": "National data show a downward trend in smoking rates among adolescents since 2010."
+  },
+  {
+   "w": "version",
+   "pos": "n.",
+   "th": "ฉบับ / รูปแบบ, เวอร์ชัน",
+   "fam": "",
+   "col": "an updated version / a shortened version",
+   "ex": "A shortened version of the questionnaire was used to reduce participant fatigue."
+  },
+  {
+   "w": "welfare",
+   "pos": "n.",
+   "th": "สวัสดิการ / ความเป็นอยู่ที่ดี",
+   "fam": "",
+   "col": "social welfare / animal welfare",
+   "ex": "Social welfare programmes help protect low-income families from catastrophic health expenses."
+  },
+  {
+   "w": "abstract",
+   "pos": "adj./n.",
+   "th": "เชิงนามธรรม (adj.) / บทคัดย่อ (n.)",
+   "fam": "abstraction (n.), abstractly (adv.)",
+   "col": "abstract concept / submit an abstract",
+   "ex": "Each abstract should summarise the study's aims, methods, key findings and conclusions."
+  },
+  {
+   "w": "accurate",
+   "pos": "adj.",
+   "th": "ถูกต้อง / แม่นยำ",
+   "fam": "accuracy (n.), accurately (adv.), inaccurate (adj.)",
+   "col": "accurate diagnosis / highly accurate",
+   "ex": "The new rapid test proved highly accurate in detecting malaria in children."
+  },
+  {
+   "w": "acknowledge",
+   "pos": "v.",
+   "th": "ยอมรับ / แสดงความขอบคุณ (ในกิตติกรรมประกาศ)",
+   "fam": "acknowledgement (n.), acknowledged (adj.)",
+   "col": "acknowledge the limitations / widely acknowledged",
+   "ex": "The authors acknowledge that self-reported data may have introduced recall bias."
+  },
+  {
+   "w": "aggregate",
+   "pos": "n./adj./v.",
+   "th": "ผลรวม, ภาพรวม (n.) / โดยรวม (adj.) / รวมเข้าด้วยกัน (v.)",
+   "fam": "aggregation (n.), aggregated (adj.)",
+   "col": "aggregate data / in aggregate",
+   "ex": "Only aggregate data were reported, so no individual patient could be identified."
+  },
+  {
+   "w": "moreover",
+   "pos": "adv.",
+   "th": "ยิ่งไปกว่านั้น / นอกจากนี้",
+   "fam": "",
+   "col": "Moreover, + clause / ...; moreover, ...",
+   "ex": "Regular exercise lowers blood pressure; moreover, it improves mood and sleep quality."
+  },
+  {
+   "w": "in addition",
+   "pos": "phr.",
+   "th": "นอกจากนี้ / เพิ่มเติมจาก (in addition to)",
+   "fam": "",
+   "col": "In addition, + clause / in addition to + noun/V-ing",
+   "ex": "In addition to lowering costs, telemedicine saves patients long journeys to hospital."
+  },
+  {
+   "w": "for instance",
+   "pos": "phr.",
+   "th": "ตัวอย่างเช่น / ยกตัวอย่างเช่น",
+   "fam": "",
+   "col": "For instance, + clause / ..., for instance, ...",
+   "ex": "Some foods contain hidden salt; instant noodles, for instance, are extremely high in sodium."
+  },
+  {
+   "w": "as a result",
+   "pos": "phr.",
+   "th": "ผลที่ตามมาคือ / ด้วยเหตุนี้ / เป็นผลให้ (as a result of = เป็นผลมาจาก)",
+   "fam": "",
+   "col": "As a result, + clause / as a result of + noun",
+   "ex": "Many clinics closed during the floods; as a result, vaccination rates fell sharply."
+  },
+  {
+   "w": "thus",
+   "pos": "adv.",
+   "th": "ดังนั้น / ด้วยเหตุนี้ / ด้วยวิธีนี้",
+   "fam": "",
+   "col": "..., thus + V-ing / and thus",
+   "ex": "Handwashing removes most germs, thus reducing the spread of diarrhoeal disease in schools."
+  }
+ ],
+ "24": [
+  {
+   "w": "allocate",
+   "pos": "v.",
+   "th": "จัดสรร / แบ่งสรร",
+   "fam": "allocation (n.)",
+   "col": "allocate resources / allocate funds to",
+   "ex": "The province allocated additional funds to expand mental health services in schools."
+  },
+  {
+   "w": "assign",
+   "pos": "v.",
+   "th": "มอบหมาย / กำหนดให้ / จัด (ผู้เข้าร่วม) เข้ากลุ่ม",
+   "fam": "assignment (n.)",
+   "col": "randomly assigned to / assign a task",
+   "ex": "Participants were randomly assigned to either the intervention or the control group."
+  },
+  {
+   "w": "attach",
+   "pos": "v.",
+   "th": "แนบ / ติด / ให้ (ความสำคัญ) (attach importance to)",
+   "fam": "attachment (n.), attached (adj.)",
+   "col": "attach importance to / attached file",
+   "ex": "Many parents attach great importance to their children's examination results."
+  },
+  {
+   "w": "author",
+   "pos": "n./v.",
+   "th": "ผู้แต่ง / ผู้เขียน (n.) / เขียน, แต่ง (v.)",
+   "fam": "authorship (n.), co-author (n./v.)",
+   "col": "the corresponding author / co-authored by",
+   "ex": "The corresponding author is responsible for answering questions about the published data."
+  },
+  {
+   "w": "bond",
+   "pos": "n./v.",
+   "th": "สายสัมพันธ์, ความผูกพัน / พันธะ (เคมี) / พันธบัตร (n.) / ผูกพัน, ยึดติด (v.)",
+   "fam": "bonding (n.)",
+   "col": "social bonds / mother-infant bonding",
+   "ex": "Skin-to-skin contact after birth strengthens the bond between mother and baby."
+  },
+  {
+   "w": "brief",
+   "pos": "adj./v.",
+   "th": "สั้น / กระชับ (adj.) / สรุปให้ฟัง, ชี้แจง (v.)",
+   "fam": "briefly (adv.), briefing (n.), brevity (n.)",
+   "col": "a brief intervention / briefly describe",
+   "ex": "A brief counselling session reduced alcohol consumption among emergency department patients."
+  },
+  {
+   "w": "capable",
+   "pos": "adj.",
+   "th": "มีความสามารถ / สามารถ (capable of)",
+   "fam": "capability (n.), incapable (adj.)",
+   "col": "capable of + V-ing / highly capable",
+   "ex": "Modern AI systems are capable of reading chest X-rays with impressive speed."
+  },
+  {
+   "w": "cite",
+   "pos": "v.",
+   "th": "อ้างอิง / ยกมาอ้าง",
+   "fam": "citation (n.), cited (adj.)",
+   "col": "cite a study / frequently cited",
+   "ex": "Students must cite every source they use, including websites and lecture notes."
+  },
+  {
+   "w": "cooperate",
+   "pos": "v.",
+   "th": "ร่วมมือ",
+   "fam": "cooperation (n.), cooperative (adj.), cooperatively (adv.)",
+   "col": "cooperate with / cooperate closely",
+   "ex": "Hospitals and local schools cooperated closely to deliver HPV vaccines to girls."
+  },
+  {
+   "w": "discriminate",
+   "pos": "v.",
+   "th": "เลือกปฏิบัติ / แยกแยะ, จำแนก",
+   "fam": "discrimination (n.), discriminatory (adj.)",
+   "col": "discriminate against / discriminate between",
+   "ex": "Employers must not discriminate against job applicants on the basis of HIV status."
+  },
+  {
+   "w": "display",
+   "pos": "v./n.",
+   "th": "แสดง / จัดแสดง (v.) / การแสดง, สิ่งที่จัดแสดง (n.)",
+   "fam": "",
+   "col": "display symptoms / displayed in Table 1",
+   "ex": "Baseline characteristics of the participants are displayed in Table 1."
+  },
+  {
+   "w": "diverse",
+   "pos": "adj.",
+   "th": "หลากหลาย / แตกต่างกัน",
+   "fam": "diversity (n.), diversify (v.), diversification (n.)",
+   "col": "culturally diverse / a diverse range of",
+   "ex": "The sample was drawn from a diverse range of ethnic and economic backgrounds."
+  },
+  {
+   "w": "domain",
+   "pos": "n.",
+   "th": "ขอบเขต, ด้าน / สาขา (ความรู้) / องค์ประกอบย่อย (ของแบบวัด)",
+   "fam": "",
+   "col": "public domain / cognitive domain",
+   "ex": "The quality-of-life scale measures four domains: physical, psychological, social and environmental."
+  },
+  {
+   "w": "edit",
+   "pos": "v.",
+   "th": "แก้ไข, ตรวจแก้ (ต้นฉบับ) / เป็นบรรณาธิการ",
+   "fam": "edition (n.), editor (n.), editorial (adj./n.)",
+   "col": "edit a manuscript / edited volume",
+   "ex": "The manuscript was carefully edited for clarity before being submitted to the journal."
+  },
+  {
+   "w": "enhance",
+   "pos": "v.",
+   "th": "เพิ่มพูน / ยกระดับ / ส่งเสริมให้ดีขึ้น",
+   "fam": "enhancement (n.), enhanced (adj.)",
+   "col": "enhance the quality of / significantly enhance",
+   "ex": "Peer support groups can enhance treatment adherence among people living with HIV."
+  },
+  {
+   "w": "ageing population",
+   "pos": "phr.",
+   "th": "ประชากรสูงวัย / สังคมผู้สูงอายุ",
+   "fam": "",
+   "col": "a rapidly ageing population / cope with an ageing population",
+   "ex": "Thailand's rapidly ageing population will place heavy demands on long-term care services."
+  },
+  {
+   "w": "life expectancy",
+   "pos": "phr.",
+   "th": "อายุคาดเฉลี่ย / อายุขัยเฉลี่ย",
+   "fam": "",
+   "col": "life expectancy at birth / increase life expectancy",
+   "ex": "Life expectancy at birth has risen steadily thanks to better nutrition and sanitation."
+  },
+  {
+   "w": "pension",
+   "pos": "n.",
+   "th": "เงินบำนาญ",
+   "fam": "pensioner (n.)",
+   "col": "state pension / pension scheme",
+   "ex": "Many informal workers have no pension and depend on their children in old age."
+  },
+  {
+   "w": "dependency",
+   "pos": "n.",
+   "th": "การพึ่งพา / ภาวะพึ่งพิง / การติด (สาร)",
+   "fam": "dependent (adj./n.), depend (v.), dependence (n.)",
+   "col": "old-age dependency ratio / drug dependency",
+   "ex": "A rising old-age dependency ratio means fewer workers support each retired person."
+  },
+  {
+   "w": "retirement",
+   "pos": "n.",
+   "th": "การเกษียณอายุ",
+   "fam": "retire (v.), retired (adj.), retiree (n.)",
+   "col": "retirement age / early retirement",
+   "ex": "Raising the retirement age is one way to reduce pressure on public pension funds."
+  }
+ ],
+ "25": [
+  {
+   "w": "estate",
+   "pos": "n.",
+   "th": "ที่ดิน, อสังหาริมทรัพย์ / ทรัพย์สิน, มรดก / หมู่บ้าน, นิคม (housing/industrial estate)",
+   "fam": "",
+   "col": "real estate / housing estate",
+   "ex": "Residents of low-cost housing estates often have limited access to green space."
+  },
+  {
+   "w": "exceed",
+   "pos": "v.",
+   "th": "เกิน / มากกว่า, สูงกว่า",
+   "fam": "excess (n.), excessive (adj.), exceedingly (adv.)",
+   "col": "exceed the limit / far exceed",
+   "ex": "PM2.5 levels in the city exceeded the safe limit on forty days last year."
+  },
+  {
+   "w": "expert",
+   "pos": "n./adj.",
+   "th": "ผู้เชี่ยวชาญ (n.) / เชี่ยวชาญ (adj.)",
+   "fam": "expertise (n.), expertly (adv.)",
+   "col": "expert opinion / a panel of experts",
+   "ex": "A group of independent experts reviewed the draft guidelines before they were released."
+  },
+  {
+   "w": "explicit",
+   "pos": "adj.",
+   "th": "ชัดเจน / แจ้งชัด / ตรงไปตรงมา",
+   "fam": "explicitly (adv.)",
+   "col": "explicit instruction / make explicit",
+   "ex": "Consent forms should explain the risks of the study in explicit, simple language."
+  },
+  {
+   "w": "federal",
+   "pos": "adj.",
+   "th": "ของรัฐบาลกลาง / แห่งสหพันธรัฐ",
+   "fam": "federation (n.), federalism (n.)",
+   "col": "federal government / federal funding",
+   "ex": "In federal systems, health policy is often shared between national and state governments."
+  },
+  {
+   "w": "fee",
+   "pos": "n.",
+   "th": "ค่าธรรมเนียม / ค่าบริการ / ค่าเล่าเรียน (tuition fees)",
+   "fam": "",
+   "col": "tuition fees / user fees",
+   "ex": "Removing user fees greatly increased clinic attendance among the poorest households."
+  },
+  {
+   "w": "flexible",
+   "pos": "adj.",
+   "th": "ยืดหยุ่น / ปรับเปลี่ยนได้",
+   "fam": "flexibility (n.), inflexible (adj.), flexibly (adv.)",
+   "col": "flexible working hours / a flexible approach",
+   "ex": "Flexible appointment times make it easier for working parents to attend clinics."
+  },
+  {
+   "w": "furthermore",
+   "pos": "adv.",
+   "th": "นอกจากนี้ / ยิ่งไปกว่านั้น",
+   "fam": "",
+   "col": "Furthermore, + clause / ...; furthermore, ...",
+   "ex": "The drug is inexpensive; furthermore, it can be stored without refrigeration."
+  },
+  {
+   "w": "gender",
+   "pos": "n.",
+   "th": "เพศสภาพ / เพศ",
+   "fam": "gendered (adj.)",
+   "col": "gender equality / gender differences",
+   "ex": "Significant gender differences were found in rates of depression and alcohol use."
+  },
+  {
+   "w": "ignorance",
+   "pos": "n.",
+   "th": "ความไม่รู้ / ความเขลา",
+   "fam": "ignorant (adj.), ignore (v.)",
+   "col": "ignorance of / widespread ignorance about",
+   "ex": "Widespread ignorance about how HIV spreads continues to fuel stigma in some communities."
+  },
+  {
+   "w": "incentive",
+   "pos": "n.",
+   "th": "สิ่งจูงใจ / แรงจูงใจ",
+   "fam": "incentivise (v.)",
+   "col": "financial incentive / an incentive to",
+   "ex": "Small financial incentives encouraged more pregnant women to attend antenatal check-ups."
+  },
+  {
+   "w": "incidence",
+   "pos": "n.",
+   "th": "อุบัติการณ์ (อัตราการเกิดรายใหม่) / การเกิดขึ้น",
+   "fam": "incident (n.), incidental (adj.)",
+   "col": "incidence rate / a high incidence of",
+   "ex": "The incidence of dengue fever rises sharply during the rainy season."
+  },
+  {
+   "w": "incorporate",
+   "pos": "v.",
+   "th": "รวมเข้าไว้ / ผนวก / บรรจุไว้",
+   "fam": "incorporation (n.), incorporated (adj.)",
+   "col": "incorporate into / incorporate feedback",
+   "ex": "Teachers incorporated short mindfulness exercises into the daily routine of primary pupils."
+  },
+  {
+   "w": "index",
+   "pos": "n.",
+   "th": "ดัชนี / ตัวชี้วัด / ดรรชนี (ท้ายเล่ม)",
+   "fam": "indices (n., pl.), indexed (adj.)",
+   "col": "body mass index / index case",
+   "ex": "Body mass index is a simple but imperfect measure of body fat."
+  },
+  {
+   "w": "inhibit",
+   "pos": "v.",
+   "th": "ยับยั้ง / ขัดขวาง / ทำให้ไม่กล้า",
+   "fam": "inhibition (n.), inhibitor (n.), inhibitory (adj.)",
+   "col": "inhibit the growth of / inhibit learning",
+   "ex": "This compound inhibits the growth of bacteria that cause tooth decay."
+  },
+  {
+   "w": "sodium",
+   "pos": "n.",
+   "th": "โซเดียม",
+   "fam": "",
+   "col": "sodium intake / high-sodium diet",
+   "ex": "Reducing daily sodium intake can lower blood pressure in people with hypertension."
+  },
+  {
+   "w": "renewable",
+   "pos": "adj.",
+   "th": "หมุนเวียน, ทดแทนได้ (พลังงาน) / ต่ออายุได้",
+   "fam": "renew (v.), renewal (n.)",
+   "col": "renewable energy / renewable resources",
+   "ex": "Shifting to renewable energy would cut both carbon emissions and air pollution."
+  },
+  {
+   "w": "privacy",
+   "pos": "n.",
+   "th": "ความเป็นส่วนตัว",
+   "fam": "private (adj.), privately (adv.)",
+   "col": "data privacy / invasion of privacy",
+   "ex": "Patients worry that health apps may not protect the privacy of their data."
+  },
+  {
+   "w": "depression",
+   "pos": "n.",
+   "th": "ภาวะซึมเศร้า, โรคซึมเศร้า / ภาวะเศรษฐกิจตกต่ำ",
+   "fam": "depressed (adj.), depressive (adj.), depress (v.)",
+   "col": "clinical depression / symptoms of depression",
+   "ex": "Untreated depression in older adults is often mistaken for normal ageing."
+  },
+  {
+   "w": "surveillance camera",
+   "pos": "phr.",
+   "th": "กล้องวงจรปิด / กล้องเฝ้าระวัง",
+   "fam": "",
+   "col": "install surveillance cameras / surveillance camera footage",
+   "ex": "Installing surveillance cameras in public spaces raises concerns about personal privacy."
+  }
+ ],
+ "27": [
+  {
+   "w": "initiate",
+   "pos": "v.",
+   "th": "ริเริ่ม / เริ่มต้น (การรักษา, โครงการ)",
+   "fam": "initiative (n.), initiation (n.), initial (adj.)",
+   "col": "initiate treatment / initiate a programme",
+   "ex": "Doctors should initiate antiretroviral treatment as soon as HIV is diagnosed."
+  },
+  {
+   "w": "input",
+   "pos": "n./v.",
+   "th": "ข้อมูลป้อนเข้า / ความคิดเห็น, ส่วนร่วม (n.) / ป้อนข้อมูล (v.)",
+   "fam": "",
+   "col": "input from stakeholders / data input",
+   "ex": "The guidelines were revised with input from nurses, patients and community leaders."
+  },
+  {
+   "w": "instruct",
+   "pos": "v.",
+   "th": "สั่ง / ชี้แจง (ให้ปฏิบัติ) / สอน",
+   "fam": "instruction (n.), instructor (n.), instructional (adj.)",
+   "col": "instruct someone to / clear instructions",
+   "ex": "Participants were instructed to fast for eight hours before the blood test."
+  },
+  {
+   "w": "intelligence",
+   "pos": "n.",
+   "th": "สติปัญญา / ความฉลาด / ข่าวกรอง",
+   "fam": "intelligent (adj.), intellect (n.), intelligently (adv.)",
+   "col": "artificial intelligence / emotional intelligence",
+   "ex": "Artificial intelligence is increasingly used to predict which patients may deteriorate."
+  },
+  {
+   "w": "interval",
+   "pos": "n.",
+   "th": "ช่วง (เวลา) / ระยะห่าง / ช่วง (ความเชื่อมั่น)",
+   "fam": "",
+   "col": "at regular intervals / confidence interval",
+   "ex": "Blood samples were collected at six-month intervals over a two-year period."
+  },
+  {
+   "w": "lecture",
+   "pos": "n./v.",
+   "th": "การบรรยาย (n.) / บรรยาย, สั่งสอน (v.)",
+   "fam": "lecturer (n.)",
+   "col": "give a lecture / lecture hall",
+   "ex": "Recorded lectures allow students to review difficult content at their own pace."
+  },
+  {
+   "w": "migrate",
+   "pos": "v.",
+   "th": "ย้ายถิ่น / อพยพ",
+   "fam": "migration (n.), migrant (n.), migratory (adj.)",
+   "col": "migrate to / migrant workers",
+   "ex": "Many young adults migrate to cities for work, leaving older relatives in villages."
+  },
+  {
+   "w": "minimum",
+   "pos": "n./adj.",
+   "th": "ขั้นต่ำ / ค่าต่ำสุด / อย่างน้อยที่สุด",
+   "fam": "minimal (adj.), minimise (v.)",
+   "col": "minimum wage / a minimum of",
+   "ex": "Adults should do a minimum of 150 minutes of moderate exercise each week."
+  },
+  {
+   "w": "ministry",
+   "pos": "n.",
+   "th": "กระทรวง",
+   "fam": "minister (n.), ministerial (adj.)",
+   "col": "government ministry / ministry officials",
+   "ex": "Ministry officials met hospital directors to discuss staff shortages in rural areas."
+  },
+  {
+   "w": "motive",
+   "pos": "n.",
+   "th": "แรงจูงใจ / เหตุจูงใจ",
+   "fam": "motivate (v.), motivation (n.), motivated (adj.)",
+   "col": "profit motive / the motive for",
+   "ex": "Understanding parents' motives for refusing vaccines is key to designing effective messages."
+  },
+  {
+   "w": "neutral",
+   "pos": "adj.",
+   "th": "เป็นกลาง / ไม่ลำเอียง",
+   "fam": "neutrality (n.), neutralise (v.)",
+   "col": "carbon neutral / remain neutral",
+   "ex": "Interviewers were trained to ask questions in a neutral, non-judgemental tone."
+  },
+  {
+   "w": "overseas",
+   "pos": "adj./adv.",
+   "th": "ต่างประเทศ / โพ้นทะเล",
+   "fam": "",
+   "col": "overseas students / study overseas",
+   "ex": "Nurses who trained overseas may need extra support to adapt to local practices."
+  },
+  {
+   "w": "precede",
+   "pos": "v.",
+   "th": "มาก่อน / เกิดขึ้นก่อน / นำหน้า",
+   "fam": "preceding (adj.), precedent (n.), unprecedented (adj.)",
+   "col": "be preceded by / the preceding year",
+   "ex": "Symptoms of fatigue often precede the diagnosis of diabetes by several years."
+  },
+  {
+   "w": "presume",
+   "pos": "v.",
+   "th": "สันนิษฐาน / ถือว่า",
+   "fam": "presumably (adv.), presumption (n.)",
+   "col": "presumed to be / it is presumed that",
+   "ex": "Cases were presumed to be influenza if patients had a fever and a cough."
+  },
+  {
+   "w": "rational",
+   "pos": "adj.",
+   "th": "มีเหตุผล / สมเหตุสมผล",
+   "fam": "rationale (n.), rationality (n.), rationally (adv.)",
+   "col": "rational decision / rational use of medicines",
+   "ex": "Campaigns promoting the rational use of antibiotics have reduced unnecessary prescriptions."
+  },
+  {
+   "w": "in conclusion",
+   "pos": "phr.",
+   "th": "โดยสรุป / กล่าวโดยสรุป",
+   "fam": "",
+   "col": "In conclusion, + clause / In conclusion, I believe that ...",
+   "ex": "In conclusion, the benefits of a sugar tax clearly outweigh its drawbacks."
+  },
+  {
+   "w": "to sum up",
+   "pos": "phr.",
+   "th": "สรุปได้ว่า / โดยสรุป",
+   "fam": "",
+   "col": "To sum up, + clause / To sum up, it is clear that ...",
+   "ex": "To sum up, schools should play a central role in preventing childhood obesity."
+  },
+  {
+   "w": "undoubtedly",
+   "pos": "adv.",
+   "th": "อย่างไม่ต้องสงสัย / อย่างแน่นอน",
+   "fam": "",
+   "col": "Undoubtedly, + clause / will undoubtedly + V",
+   "ex": "Undoubtedly, smartphones have changed the way students access information."
+  },
+  {
+   "w": "outweigh",
+   "pos": "v.",
+   "th": "มีน้ำหนัก (มีความสำคัญ) มากกว่า / มากกว่า",
+   "fam": "",
+   "col": "the benefits outweigh the risks / far outweigh",
+   "ex": "For most adults, the benefits of vaccination far outweigh the small risk of side effects."
+  },
+  {
+   "w": "on balance",
+   "pos": "phr.",
+   "th": "เมื่อชั่งน้ำหนักทุกด้านแล้ว / โดยรวมแล้ว",
+   "fam": "",
+   "col": "On balance, + clause / On balance, I believe that ...",
+   "ex": "On balance, the advantages of online medical consultations seem greater than the risks."
+  }
+ ],
+ "28": [
+  {
+   "w": "recover",
+   "pos": "v.",
+   "th": "ฟื้นตัว / หายป่วย / ได้คืน, กู้คืน",
+   "fam": "recovery (n.), recoverable (adj.)",
+   "col": "recover from / fully recover",
+   "ex": "Most patients with mild pneumonia recover fully within two to three weeks."
+  },
+  {
+   "w": "reveal",
+   "pos": "v.",
+   "th": "เปิดเผย / แสดงให้เห็น",
+   "fam": "revelation (n.), revealing (adj.)",
+   "col": "results revealed that / reveal a pattern",
+   "ex": "Blood tests revealed that one in four participants had undiagnosed anaemia."
+  },
+  {
+   "w": "scope",
+   "pos": "n.",
+   "th": "ขอบเขต / โอกาส, ช่องทาง (scope for)",
+   "fam": "",
+   "col": "beyond the scope of / scope for improvement",
+   "ex": "A detailed cost analysis was beyond the scope of the present study."
+  },
+  {
+   "w": "subsidy",
+   "pos": "n.",
+   "th": "เงินอุดหนุน",
+   "fam": "subsidise (v.), subsidised (adj.)",
+   "col": "government subsidy / food subsidies",
+   "ex": "Subsidies for fresh fruit and vegetables could encourage healthier diets among poor families."
+  },
+  {
+   "w": "trace",
+   "pos": "n./v.",
+   "th": "ร่องรอย / ปริมาณเล็กน้อย (n.) / ติดตาม, สืบหา (ต้นตอ) (v.)",
+   "fam": "traceable (adj.), tracing (n.)",
+   "col": "contact tracing / trace back to",
+   "ex": "The outbreak was traced back to contaminated ice sold at a local market."
+  },
+  {
+   "w": "transform",
+   "pos": "v.",
+   "th": "เปลี่ยนแปลง (อย่างสิ้นเชิง) / แปลงรูป",
+   "fam": "transformation (n.), transformative (adj.)",
+   "col": "transform into / radically transform",
+   "ex": "Smartphones have transformed the way young people search for health information."
+  },
+  {
+   "w": "transport",
+   "pos": "n./v.",
+   "th": "การขนส่ง / การคมนาคม (n.) / ขนส่ง, ลำเลียง (v.)",
+   "fam": "transportation (n.)",
+   "col": "public transport / transport to hospital",
+   "ex": "Lack of affordable transport prevents many rural patients from attending follow-up appointments."
+  },
+  {
+   "w": "underlie",
+   "pos": "v.",
+   "th": "เป็นพื้นฐานของ / อยู่เบื้องหลัง, เป็นสาเหตุแฝง",
+   "fam": "underlying (adj.)",
+   "col": "underlying cause / underlying condition",
+   "ex": "Poverty and poor housing underlie many of the health problems seen in urban slums."
+  },
+  {
+   "w": "utilise",
+   "pos": "v.",
+   "th": "ใช้ประโยชน์ / นำมาใช้",
+   "fam": "utilisation (n.), utility (n.)",
+   "col": "utilise resources / service utilisation",
+   "ex": "Women in remote villages were less likely to utilise antenatal care services."
+  },
+  {
+   "w": "adapt",
+   "pos": "v.",
+   "th": "ปรับตัว / ดัดแปลง / ปรับให้เหมาะ",
+   "fam": "adaptation (n.), adaptive (adj.), adaptable (adj.)",
+   "col": "adapt to / adapted from",
+   "ex": "The questionnaire was adapted from an existing instrument and translated into Thai."
+  },
+  {
+   "w": "advocate",
+   "pos": "v./n.",
+   "th": "สนับสนุน, ส่งเสริม (v.) / ผู้สนับสนุน, ผู้รณรงค์ (n.)",
+   "fam": "advocacy (n.)",
+   "col": "advocate for / a strong advocate of",
+   "ex": "Many paediatricians advocate a complete ban on junk food advertising aimed at children."
+  },
+  {
+   "w": "aid",
+   "pos": "n./v.",
+   "th": "ความช่วยเหลือ / อุปกรณ์ช่วย (n.) / ช่วยเหลือ (v.)",
+   "fam": "",
+   "col": "first aid / foreign aid",
+   "ex": "Teachers trained in first aid can respond quickly to injuries at school."
+  },
+  {
+   "w": "channel",
+   "pos": "n./v.",
+   "th": "ช่องทาง (n.) / ส่งผ่าน, ทุ่มเท (ทรัพยากร) ไปที่ (v.)",
+   "fam": "",
+   "col": "communication channel / channel funds into",
+   "ex": "Social media has become a key channel for spreading public health messages."
+  },
+  {
+   "w": "chemical",
+   "pos": "n./adj.",
+   "th": "สารเคมี (n.) / ทางเคมี (adj.)",
+   "fam": "chemistry (n.), chemist (n.), chemically (adv.)",
+   "col": "toxic chemicals / chemical exposure",
+   "ex": "Farmers exposed to agricultural chemicals reported higher rates of skin and breathing problems."
+  },
+  {
+   "w": "classic",
+   "pos": "adj./n.",
+   "th": "เป็นแบบฉบับ, คลาสสิก (adj.) / ผลงานชั้นครู (n.)",
+   "fam": "classical (adj.), classically (adv.)",
+   "col": "classic example / classic symptoms",
+   "ex": "Excessive thirst and frequent urination are classic symptoms of type 2 diabetes."
+  },
+  {
+   "w": "substantial",
+   "pos": "adj.",
+   "th": "มาก, จำนวนมาก / สำคัญ, มีน้ำหนัก",
+   "fam": "substantially (adv.), substance (n.)",
+   "col": "a substantial increase / substantial evidence",
+   "ex": "Smoke-free laws have led to a substantial reduction in heart attack admissions."
+  },
+  {
+   "w": "compelling",
+   "pos": "adj.",
+   "th": "น่าเชื่อถือ, มีน้ำหนัก (ข้อโต้แย้ง, หลักฐาน) / น่าสนใจมาก",
+   "fam": "compel (v.), compellingly (adv.)",
+   "col": "compelling evidence / a compelling argument",
+   "ex": "There is compelling evidence that breastfeeding protects infants against common infections."
+  },
+  {
+   "w": "undeniable",
+   "pos": "adj.",
+   "th": "ปฏิเสธไม่ได้ / ไม่อาจโต้แย้งได้",
+   "fam": "undeniably (adv.), deny (v.)",
+   "col": "undeniable fact / it is undeniable that",
+   "ex": "It is undeniable that social media shapes how teenagers view their own bodies."
+  },
+  {
+   "w": "paramount",
+   "pos": "adj.",
+   "th": "สำคัญที่สุด / สำคัญยิ่ง",
+   "fam": "",
+   "col": "of paramount importance / safety is paramount",
+   "ex": "In clinical research, the safety of participants is of paramount importance."
+  },
+  {
+   "w": "detrimental",
+   "pos": "adj.",
+   "th": "เป็นผลร้าย / เป็นอันตราย, เป็นโทษ",
+   "fam": "detriment (n.), detrimentally (adv.)",
+   "col": "a detrimental effect on / detrimental to health",
+   "ex": "Long working hours can have a detrimental effect on doctors' mental health."
+  }
+ ],
+ "29": [
+  {
+   "w": "comprehensive",
+   "pos": "adj.",
+   "th": "ครอบคลุม / ครบถ้วน, รอบด้าน",
+   "fam": "comprehensively (adv.), comprehensiveness (n.)",
+   "col": "a comprehensive review / comprehensive care",
+   "ex": "The clinic offers comprehensive care, from screening and diagnosis to rehabilitation."
+  },
+  {
+   "w": "comprise",
+   "pos": "v.",
+   "th": "ประกอบด้วย / ประกอบขึ้นเป็น",
+   "fam": "",
+   "col": "be comprised of / comprise mainly",
+   "ex": "Women comprised nearly seventy percent of the nursing workforce surveyed."
+  },
+  {
+   "w": "confirm",
+   "pos": "v.",
+   "th": "ยืนยัน / ยืนยัน (ผลการวินิจฉัย)",
+   "fam": "confirmation (n.), confirmatory (adj.), confirmed (adj.)",
+   "col": "confirm the diagnosis / confirmed cases",
+   "ex": "Laboratory tests confirmed the diagnosis of tuberculosis in twelve of the patients."
+  },
+  {
+   "w": "contrary",
+   "pos": "adj./n.",
+   "th": "ตรงกันข้าม / ขัดแย้ง (contrary to = ตรงข้ามกับ, ขัดกับ)",
+   "fam": "",
+   "col": "contrary to expectations / contrary to popular belief",
+   "ex": "Contrary to expectations, screen time was not associated with poorer sleep in teenagers."
+  },
+  {
+   "w": "convert",
+   "pos": "v.",
+   "th": "เปลี่ยน, แปลง / ดัดแปลง / เปลี่ยนศาสนา",
+   "fam": "conversion (n.), convertible (adj.)",
+   "col": "convert into / convert to",
+   "ex": "The body converts excess glucose into fat for long-term storage."
+  },
+  {
+   "w": "decade",
+   "pos": "n.",
+   "th": "ทศวรรษ (ช่วงเวลา 10 ปี)",
+   "fam": "",
+   "col": "over the past decade / in recent decades",
+   "ex": "Obesity rates among Thai children have doubled over the past two decades."
+  },
+  {
+   "w": "definite",
+   "pos": "adj.",
+   "th": "แน่นอน / ชัดเจน",
+   "fam": "definitely (adv.), indefinite (adj.), definitive (adj.)",
+   "col": "a definite answer / definite diagnosis",
+   "ex": "Doctors could not give a definite diagnosis until the biopsy results arrived."
+  },
+  {
+   "w": "deny",
+   "pos": "v.",
+   "th": "ปฏิเสธ / ไม่ยอมให้, กีดกัน (deny access)",
+   "fam": "denial (n.), undeniable (adj.)",
+   "col": "deny access to / deny the existence of",
+   "ex": "Undocumented migrants are sometimes denied access to basic health services."
+  },
+  {
+   "w": "differentiate",
+   "pos": "v.",
+   "th": "แยกแยะ / จำแนก / ทำให้แตกต่าง",
+   "fam": "differentiation (n.), difference (n.), different (adj.)",
+   "col": "differentiate between / clearly differentiate",
+   "ex": "Young children cannot always differentiate between advertising and entertainment online."
+  },
+  {
+   "w": "dispose",
+   "pos": "v.",
+   "th": "กำจัด / ทิ้ง (dispose of)",
+   "fam": "disposal (n.), disposable (adj.)",
+   "col": "dispose of waste / safely dispose of",
+   "ex": "Hospitals must dispose of used needles in sealed, puncture-proof containers."
+  },
+  {
+   "w": "dynamic",
+   "pos": "adj./n.",
+   "th": "มีพลวัต, เปลี่ยนแปลงอยู่เสมอ (adj.) / พลวัต (n.)",
+   "fam": "dynamics (n.), dynamically (adv.)",
+   "col": "a dynamic process / population dynamics",
+   "ex": "Learning is a dynamic process shaped by students, teachers and their environment."
+  },
+  {
+   "w": "eliminate",
+   "pos": "v.",
+   "th": "กำจัด / ขจัด / ตัดออก",
+   "fam": "elimination (n.)",
+   "col": "eliminate a disease / eliminate the need for",
+   "ex": "Mass drug administration helped eliminate lymphatic filariasis from several provinces."
+  },
+  {
+   "w": "empirical",
+   "pos": "adj.",
+   "th": "เชิงประจักษ์ / ที่ได้จากการสังเกตหรือทดลอง",
+   "fam": "empirically (adv.), empiricism (n.)",
+   "col": "empirical evidence / empirical study",
+   "ex": "Few empirical studies have examined how AI chatbots affect students' writing skills."
+  },
+  {
+   "w": "equip",
+   "pos": "v.",
+   "th": "จัดเตรียม (อุปกรณ์) / เตรียมความพร้อม (ด้านทักษะ)",
+   "fam": "equipment (n.), well-equipped (adj.)",
+   "col": "equip with / well equipped to",
+   "ex": "Medical schools must equip graduates with the skills to work in rural communities."
+  },
+  {
+   "w": "extract",
+   "pos": "v./n.",
+   "th": "สกัด / ดึงออก, คัดข้อมูลออก (v.) / สารสกัด, ข้อความที่ตัดตอนมา (n.)",
+   "fam": "extraction (n.)",
+   "col": "extract data from / plant extract",
+   "ex": "Two reviewers independently extracted data from each of the included studies."
+  },
+  {
+   "w": "exhaustion",
+   "pos": "n.",
+   "th": "ความเหนื่อยล้า, ความอ่อนเพลีย / การหมดไป (ของทรัพยากร)",
+   "fam": "exhaust (v.), exhausted (adj.), exhausting (adj.)",
+   "col": "emotional exhaustion / heat exhaustion",
+   "ex": "Emotional exhaustion is a core feature of burnout among intensive care nurses."
+  },
+  {
+   "w": "resilience",
+   "pos": "n.",
+   "th": "ความสามารถในการฟื้นตัว / ความยืดหยุ่น, ความเข้มแข็งทางใจ",
+   "fam": "resilient (adj.)",
+   "col": "build resilience / psychological resilience",
+   "ex": "Mentoring programmes can build resilience among junior doctors facing heavy workloads."
+  },
+  {
+   "w": "morale",
+   "pos": "n.",
+   "th": "ขวัญกำลังใจ",
+   "fam": "",
+   "col": "low morale / boost staff morale",
+   "ex": "Chronic understaffing has led to low morale on many hospital wards."
+  },
+  {
+   "w": "turnover",
+   "pos": "n.",
+   "th": "อัตราการลาออก (ของบุคลากร) / การหมุนเวียน / ยอดขาย",
+   "fam": "",
+   "col": "staff turnover / high turnover rate",
+   "ex": "High staff turnover disrupts continuity of care and raises training costs."
+  },
+  {
+   "w": "stigma",
+   "pos": "n.",
+   "th": "ตราบาป / การตีตรา",
+   "fam": "stigmatise (v.), stigmatisation (n.), stigmatised (adj.)",
+   "col": "social stigma / reduce stigma",
+   "ex": "Fear of stigma prevents many people from seeking help for mental illness."
+  }
+ ],
+ "30": [
+  {
+   "w": "finite",
+   "pos": "adj.",
+   "th": "มีจำกัด / มีขอบเขต",
+   "fam": "infinite (adj.)",
+   "col": "finite resources / a finite number of",
+   "ex": "Health systems must decide how to share finite resources among competing needs."
+  },
+  {
+   "w": "foundation",
+   "pos": "n.",
+   "th": "รากฐาน / พื้นฐาน / มูลนิธิ",
+   "fam": "found (v.), founder (n.), foundational (adj.)",
+   "col": "lay the foundation for / a solid foundation",
+   "ex": "Good nutrition in early childhood lays the foundation for lifelong health."
+  },
+  {
+   "w": "globe",
+   "pos": "n.",
+   "th": "โลก / ลูกโลก",
+   "fam": "global (adj.), globally (adv.), globalisation (n.)",
+   "col": "around the globe / across the globe",
+   "ex": "Antibiotic-resistant infections are spreading across the globe at an alarming rate."
+  },
+  {
+   "w": "grade",
+   "pos": "n./v.",
+   "th": "ระดับ, ชั้น / เกรด, คะแนน (n.) / จัดระดับ, ให้คะแนน (v.)",
+   "fam": "graded (adj.), grading (n.)",
+   "col": "low-grade fever / improve grades",
+   "ex": "Students' grades improved after the school introduced a free breakfast programme."
+  },
+  {
+   "w": "guarantee",
+   "pos": "v./n.",
+   "th": "รับประกัน, รับรอง (v.) / การรับประกัน (n.)",
+   "fam": "guaranteed (adj.)",
+   "col": "guarantee access to / no guarantee that",
+   "ex": "There is no guarantee that a healthy lifestyle will prevent every chronic disease."
+  },
+  {
+   "w": "hierarchy",
+   "pos": "n.",
+   "th": "ลำดับชั้น / ลำดับขั้น / ระบบชนชั้น",
+   "fam": "hierarchical (adj.)",
+   "col": "hierarchy of evidence / social hierarchy",
+   "ex": "Systematic reviews sit at the top of the hierarchy of evidence."
+  },
+  {
+   "w": "identical",
+   "pos": "adj.",
+   "th": "เหมือนกันทุกประการ",
+   "fam": "identically (adv.)",
+   "col": "identical twins / identical to",
+   "ex": "Studies of identical twins help separate genetic and environmental causes of disease."
+  },
+  {
+   "w": "ideology",
+   "pos": "n.",
+   "th": "อุดมการณ์ / ลัทธิ (ทางความคิด, การเมือง)",
+   "fam": "ideological (adj.), ideologically (adv.)",
+   "col": "political ideology / dominant ideology",
+   "ex": "Political ideology strongly influenced public attitudes towards lockdown measures."
+  },
+  {
+   "w": "infer",
+   "pos": "v.",
+   "th": "อนุมาน / สรุป (จากหลักฐาน)",
+   "fam": "inference (n.), inferential (adj.)",
+   "col": "infer from / it can be inferred that",
+   "ex": "From these data, it can be inferred that sleep loss impairs memory consolidation."
+  },
+  {
+   "w": "innovate",
+   "pos": "v.",
+   "th": "คิดค้นสิ่งใหม่ / สร้างนวัตกรรม",
+   "fam": "innovation (n.), innovative (adj.), innovator (n.)",
+   "col": "innovate in / an innovative approach",
+   "ex": "Hospitals that innovated quickly were better able to cope during the pandemic."
+  },
+  {
+   "w": "insert",
+   "pos": "v.",
+   "th": "ใส่ / สอดเข้าไป / แทรก",
+   "fam": "insertion (n.)",
+   "col": "insert into / insert a catheter",
+   "ex": "A small sensor is inserted under the skin to monitor glucose levels continuously."
+  },
+  {
+   "w": "intervene",
+   "pos": "v.",
+   "th": "แทรกแซง / เข้ามาจัดการ, ยื่นมือเข้าช่วย",
+   "fam": "intervention (n.)",
+   "col": "intervene early / intervene in",
+   "ex": "Teachers should intervene early when they notice signs of bullying in class."
+  },
+  {
+   "w": "isolate",
+   "pos": "v.",
+   "th": "แยก / กักตัว (ผู้ป่วย) / แยกเชื้อ (ในห้องปฏิบัติการ)",
+   "fam": "isolation (n.), isolated (adj.)",
+   "col": "isolate a virus / socially isolated",
+   "ex": "Scientists isolated the virus from samples taken from infected bats."
+  },
+  {
+   "w": "media",
+   "pos": "n.",
+   "th": "สื่อ / สื่อมวลชน (พหูพจน์ของ medium)",
+   "fam": "medium (n.), multimedia (n./adj.)",
+   "col": "social media / mass media",
+   "ex": "Mass media campaigns can shift public attitudes towards drink-driving."
+  },
+  {
+   "w": "mode",
+   "pos": "n.",
+   "th": "รูปแบบ / วิธี / ฐานนิยม (สถิติ)",
+   "fam": "modal (adj.)",
+   "col": "mode of transmission / mode of delivery",
+   "ex": "Respiratory droplets are the main mode of transmission for influenza viruses."
+  },
+  {
+   "w": "admittedly",
+   "pos": "adv.",
+   "th": "ต้องยอมรับว่า / จริงอยู่ว่า (ใช้ยอมรับข้อด้อยก่อนแย้ง)",
+   "fam": "",
+   "col": "Admittedly, ...; however, ... / admittedly + adj.",
+   "ex": "Admittedly, the new screening programme is costly; however, early detection saves lives."
+  },
+  {
+   "w": "granted that",
+   "pos": "phr.",
+   "th": "ถึงแม้ว่า / ยอมรับว่า ... ก็จริง (แต่)",
+   "fam": "",
+   "col": "Granted that + clause, ... / Granted that this is true, ...",
+   "ex": "Granted that online classes are convenient, they still limit practical clinical training."
+  },
+  {
+   "w": "critics argue",
+   "pos": "phr.",
+   "th": "ผู้วิพากษ์วิจารณ์ (ฝ่ายคัดค้าน) โต้แย้งว่า",
+   "fam": "",
+   "col": "Critics argue that + clause / Some critics argue that ...",
+   "ex": "Critics argue that sugar taxes place an unfair burden on low-income households."
+  },
+  {
+   "w": "it is true that",
+   "pos": "phr.",
+   "th": "เป็นความจริงที่ว่า / จริงอยู่ที่ว่า (ใช้ยอมรับก่อนโต้แย้ง)",
+   "fam": "",
+   "col": "It is true that ..., but ... / While it is true that ...",
+   "ex": "It is true that vaccines can cause side effects, but serious reactions are rare."
+  },
+  {
+   "w": "on the contrary",
+   "pos": "phr.",
+   "th": "ในทางตรงกันข้าม / ตรงกันข้ามเลย (ใช้ปฏิเสธข้อความก่อนหน้า)",
+   "fam": "",
+   "col": "On the contrary, + clause / ...; on the contrary, ...",
+   "ex": "Screen time did not improve learning; on the contrary, it reduced students' concentration."
+  }
+ ],
+ "31": [
+  {
+   "w": "paradigm",
+   "pos": "n.",
+   "th": "กระบวนทัศน์ / แบบแผนความคิด",
+   "fam": "paradigmatic (adj.)",
+   "col": "paradigm shift / a new paradigm",
+   "ex": "Precision medicine represents a paradigm shift in how cancer is treated."
+  },
+  {
+   "w": "phenomenon",
+   "pos": "n.",
+   "th": "ปรากฏการณ์",
+   "fam": "phenomena (n., pl.), phenomenal (adj.)",
+   "col": "a global phenomenon / social phenomenon",
+   "ex": "Cyberbullying is a relatively new phenomenon that affects many secondary school students."
+  },
+  {
+   "w": "priority",
+   "pos": "n.",
+   "th": "สิ่งที่สำคัญเป็นอันดับแรก / ลำดับความสำคัญ",
+   "fam": "prioritise (v.), prioritisation (n.), prior (adj.)",
+   "col": "top priority / give priority to",
+   "ex": "Reducing maternal deaths should remain a top priority for the health system."
+  },
+  {
+   "w": "prohibit",
+   "pos": "v.",
+   "th": "ห้าม / ห้ามตามกฎหมาย",
+   "fam": "prohibition (n.), prohibitive (adj.)",
+   "col": "prohibit from / strictly prohibited",
+   "ex": "Smoking is strictly prohibited in all hospital buildings and grounds."
+  },
+  {
+   "w": "publication",
+   "pos": "n.",
+   "th": "การตีพิมพ์ / สิ่งตีพิมพ์, ผลงานตีพิมพ์",
+   "fam": "publish (v.), publisher (n.)",
+   "col": "accepted for publication / scientific publications",
+   "ex": "The paper was accepted for publication after two rounds of peer review."
+  },
+  {
+   "w": "quote",
+   "pos": "v./n.",
+   "th": "อ้างคำพูด, ยกข้อความมา (v.) / ข้อความที่ยกมา (n.)",
+   "fam": "quotation (n.)",
+   "col": "quote directly / direct quotation",
+   "ex": "Short quotes from participants were included to illustrate each theme."
+  },
+  {
+   "w": "release",
+   "pos": "v./n.",
+   "th": "ปล่อย, ปลดปล่อย (สาร) / เผยแพร่ (v.) / การปล่อย, การเผยแพร่ (n.)",
+   "fam": "",
+   "col": "release a report / the release of toxins",
+   "ex": "Factories that release untreated waste into rivers threaten the health of nearby communities."
+  },
+  {
+   "w": "reverse",
+   "pos": "v./adj./n.",
+   "th": "พลิกกลับ, ทำให้กลับเป็นปกติ (v.) / ตรงกันข้าม (adj.) / ด้านกลับ (n.)",
+   "fam": "reversal (n.), reversible (adj.), irreversible (adj.)",
+   "col": "reverse the trend / in reverse",
+   "ex": "Early weight loss can reverse type 2 diabetes in some newly diagnosed patients."
+  },
+  {
+   "w": "simulate",
+   "pos": "v.",
+   "th": "จำลอง / เลียนแบบ",
+   "fam": "simulation (n.), simulator (n.), simulated (adj.)",
+   "col": "simulate a situation / computer simulation",
+   "ex": "Medical students practise on mannequins that simulate real cardiac arrest situations."
+  },
+  {
+   "w": "sole",
+   "pos": "adj.",
+   "th": "แต่เพียงผู้เดียว / เพียงอย่างเดียว",
+   "fam": "solely (adv.)",
+   "col": "the sole purpose / sole responsibility",
+   "ex": "Exam scores should not be the sole measure of a student's ability."
+  },
+  {
+   "w": "somewhat",
+   "pos": "adv.",
+   "th": "ค่อนข้าง / บ้าง, อยู่บ้าง",
+   "fam": "",
+   "col": "somewhat lower / somewhat surprisingly",
+   "ex": "Response rates were somewhat lower among men than among women."
+  },
+  {
+   "w": "submit",
+   "pos": "v.",
+   "th": "ยื่น, ส่ง (เอกสาร, ผลงาน) / ยอมจำนน",
+   "fam": "submission (n.)",
+   "col": "submit an application / submit to a journal",
+   "ex": "Students must submit their research proposals to the ethics committee before collecting data."
+  },
+  {
+   "w": "successor",
+   "pos": "n.",
+   "th": "ผู้สืบทอด / ผู้รับตำแหน่งต่อ / สิ่งที่มาแทนที่",
+   "fam": "succeed (v.), succession (n.), successive (adj.)",
+   "col": "successor to / a natural successor",
+   "ex": "The new vaccine is a safer successor to an older one that caused more reactions."
+  },
+  {
+   "w": "survive",
+   "pos": "v.",
+   "th": "รอดชีวิต / อยู่รอด",
+   "fam": "survival (n.), survivor (n.)",
+   "col": "survive cancer / survival rate",
+   "ex": "More premature babies now survive thanks to advances in neonatal intensive care."
+  },
+  {
+   "w": "thesis",
+   "pos": "n.",
+   "th": "วิทยานิพนธ์ / ประเด็นหลัก, ข้อเสนอหลัก (ของเรียงความ)",
+   "fam": "theses (n., pl.)",
+   "col": "thesis statement / doctoral thesis",
+   "ex": "A clear thesis statement tells the reader exactly what your essay will argue."
+  },
+  {
+   "w": "play a crucial role in",
+   "pos": "phr.",
+   "th": "มีบทบาทสำคัญยิ่งใน",
+   "fam": "",
+   "col": "... play(s) a crucial role in + noun/V-ing / could play a crucial role in",
+   "ex": "Community health volunteers play a crucial role in detecting disease outbreaks early."
+  },
+  {
+   "w": "have a profound impact on",
+   "pos": "phr.",
+   "th": "มีผลกระทบอย่างลึกซึ้ง (รุนแรง) ต่อ",
+   "fam": "",
+   "col": "... can have a profound impact on + noun / has had a profound impact on",
+   "ex": "Childhood poverty can have a profound impact on brain development and later health."
+  },
+  {
+   "w": "raise awareness of",
+   "pos": "phr.",
+   "th": "สร้างความตระหนักรู้เกี่ยวกับ",
+   "fam": "",
+   "col": "raise awareness of + noun / campaigns to raise awareness of",
+   "ex": "Schools can raise awareness of mental health through regular classroom discussions."
+  },
+  {
+   "w": "take measures to",
+   "pos": "phr.",
+   "th": "ใช้มาตรการเพื่อ / ดำเนินการเพื่อ",
+   "fam": "",
+   "col": "take measures to + V / Governments should take measures to ...",
+   "ex": "Governments must take measures to protect outdoor workers from extreme heat."
+  },
+  {
+   "w": "address the issue of",
+   "pos": "phr.",
+   "th": "แก้ไข (จัดการกับ) ปัญหาเรื่อง",
+   "fam": "",
+   "col": "address the issue of + noun / effectively address the issue of",
+   "ex": "Universities need to address the issue of rising stress among first-year students."
+  }
+ ],
+ "32": [
+  {
+   "w": "transmit",
+   "pos": "v.",
+   "th": "แพร่ (เชื้อ) / ส่งผ่าน / ถ่ายทอด",
+   "fam": "transmission (n.), transmissible (adj.)",
+   "col": "transmit a disease / sexually transmitted infection",
+   "ex": "The virus is transmitted mainly through close contact with infected respiratory droplets."
+  },
+  {
+   "w": "ultimate",
+   "pos": "adj.",
+   "th": "ที่สุด / สุดท้าย / สูงสุด",
+   "fam": "ultimately (adv.)",
+   "col": "the ultimate goal / ultimately responsible",
+   "ex": "The ultimate aim of cancer screening is to reduce deaths, not simply to detect more cases."
+  },
+  {
+   "w": "unique",
+   "pos": "adj.",
+   "th": "เป็นเอกลักษณ์ / มีเพียงหนึ่งเดียว / พิเศษ",
+   "fam": "uniquely (adv.), uniqueness (n.)",
+   "col": "a unique opportunity / unique to",
+   "ex": "Each participant was given a unique code to protect their identity."
+  },
+  {
+   "w": "visible",
+   "pos": "adj.",
+   "th": "มองเห็นได้ / เห็นได้ชัด",
+   "fam": "visibility (n.), invisible (adj.), visibly (adv.)",
+   "col": "clearly visible / highly visible",
+   "ex": "Signs of malnutrition were clearly visible among children in the flooded villages."
+  },
+  {
+   "w": "voluntary",
+   "pos": "adj.",
+   "th": "โดยสมัครใจ / อาสาสมัคร",
+   "fam": "volunteer (n./v.), voluntarily (adv.)",
+   "col": "voluntary participation / on a voluntary basis",
+   "ex": "Participation in the study was voluntary, and students could withdraw at any time."
+  },
+  {
+   "w": "abandon",
+   "pos": "v.",
+   "th": "ละทิ้ง / เลิก (แผน, การรักษา)",
+   "fam": "abandonment (n.), abandoned (adj.)",
+   "col": "abandon a plan / abandon treatment",
+   "ex": "Many patients abandon treatment once their symptoms disappear, increasing the risk of drug resistance."
+  },
+  {
+   "w": "accompany",
+   "pos": "v.",
+   "th": "ไปด้วย / มาพร้อมกับ / ประกอบ",
+   "fam": "accompaniment (n.), accompanying (adj.)",
+   "col": "accompanied by / accompanying text",
+   "ex": "Children under fifteen must be accompanied by a parent during clinic visits."
+  },
+  {
+   "w": "accumulate",
+   "pos": "v.",
+   "th": "สะสม / พอกพูน",
+   "fam": "accumulation (n.), cumulative (adj.)",
+   "col": "accumulate evidence / accumulate in the body",
+   "ex": "Heavy metals can accumulate in the body after years of drinking contaminated water."
+  },
+  {
+   "w": "ambiguous",
+   "pos": "adj.",
+   "th": "กำกวม / คลุมเครือ",
+   "fam": "ambiguity (n.), unambiguous (adj.), ambiguously (adv.)",
+   "col": "ambiguous results / highly ambiguous",
+   "ex": "Several survey items were ambiguous, so they were reworded after the pilot study."
+  },
+  {
+   "w": "append",
+   "pos": "v.",
+   "th": "แนบท้าย / ผนวก",
+   "fam": "appendix (n.), appendices (n., pl.)",
+   "col": "append to / appended at the end",
+   "ex": "A copy of the full questionnaire is appended to this report."
+  },
+  {
+   "w": "appreciate",
+   "pos": "v.",
+   "th": "ตระหนัก, เข้าใจ (ความสำคัญ) / ซาบซึ้ง, ชื่นชม / มีมูลค่าเพิ่มขึ้น",
+   "fam": "appreciation (n.), appreciable (adj.)",
+   "col": "fully appreciate / appreciate the importance of",
+   "ex": "Few parents fully appreciate the risks of leaving young children alone near water."
+  },
+  {
+   "w": "arbitrary",
+   "pos": "adj.",
+   "th": "ตามอำเภอใจ / ไม่มีหลักเกณฑ์",
+   "fam": "arbitrarily (adv.)",
+   "col": "an arbitrary decision / somewhat arbitrary",
+   "ex": "The cut-off age of sixty is somewhat arbitrary and may exclude vulnerable adults."
+  },
+  {
+   "w": "automate",
+   "pos": "v.",
+   "th": "ทำให้เป็นระบบอัตโนมัติ",
+   "fam": "automation (n.), automatic (adj.), automated (adj.)",
+   "col": "fully automated / automate a process",
+   "ex": "Many hospitals now automate appointment reminders through text messages."
+  },
+  {
+   "w": "bias",
+   "pos": "n./v.",
+   "th": "อคติ, ความลำเอียง / ความคลาดเคลื่อนเชิงระบบ (n.) / ทำให้ลำเอียง (v.)",
+   "fam": "biased (adj.), unbiased (adj.)",
+   "col": "selection bias / reduce bias",
+   "ex": "Random sampling helps reduce selection bias in population-based surveys."
+  },
+  {
+   "w": "chart",
+   "pos": "n./v.",
+   "th": "แผนภูมิ / ตาราง (n.) / บันทึก, ติดตาม (ความก้าวหน้า) (v.)",
+   "fam": "",
+   "col": "bar chart / chart progress",
+   "ex": "The bar chart compares obesity rates across five age groups."
+  },
+  {
+   "w": "biodiversity",
+   "pos": "n.",
+   "th": "ความหลากหลายทางชีวภาพ",
+   "fam": "",
+   "col": "loss of biodiversity / protect biodiversity",
+   "ex": "Loss of biodiversity can increase the risk of new diseases spreading from animals."
+  },
+  {
+   "w": "deforestation",
+   "pos": "n.",
+   "th": "การตัดไม้ทำลายป่า",
+   "fam": "deforest (v.), forest (n.)",
+   "col": "rapid deforestation / reduce deforestation",
+   "ex": "Deforestation brings people closer to wildlife and the viruses they carry."
+  },
+  {
+   "w": "universal coverage",
+   "pos": "phr.",
+   "th": "หลักประกันสุขภาพถ้วนหน้า / การครอบคลุมถ้วนหน้า",
+   "fam": "",
+   "col": "achieve universal coverage / universal coverage scheme",
+   "ex": "Universal coverage has reduced the number of families pushed into poverty by illness."
+  },
+  {
+   "w": "donor",
+   "pos": "n.",
+   "th": "ผู้บริจาค / ผู้ให้ (อวัยวะ, เลือด, ทุน)",
+   "fam": "donate (v.), donation (n.)",
+   "col": "blood donor / organ donor",
+   "ex": "A shortage of organ donors means many patients wait years for a transplant."
+  },
+  {
+   "w": "food waste",
+   "pos": "phr.",
+   "th": "ขยะอาหาร / อาหารเหลือทิ้ง",
+   "fam": "",
+   "col": "reduce food waste / household food waste",
+   "ex": "Restaurants can reduce food waste by offering smaller portions at lower prices."
+  }
+ ],
+ "34": [
+  {
+   "w": "clarify",
+   "pos": "v.",
+   "th": "ทำให้ชัดเจน / ชี้แจง",
+   "fam": "clarification (n.), clarity (n.)",
+   "col": "clarify the role of / seek clarification",
+   "ex": "Further research is needed to clarify the role of diet in preventing dementia."
+  },
+  {
+   "w": "commodity",
+   "pos": "n.",
+   "th": "สินค้าโภคภัณฑ์ / สินค้า (พื้นฐาน)",
+   "fam": "",
+   "col": "commodity prices / basic commodities",
+   "ex": "Rising commodity prices have made rice and cooking oil less affordable for poor families."
+  },
+  {
+   "w": "complement",
+   "pos": "v./n.",
+   "th": "เสริม, ทำให้สมบูรณ์ (v.) / สิ่งที่เติมเต็ม (n.)",
+   "fam": "complementary (adj.)",
+   "col": "complement each other / complementary medicine",
+   "ex": "Online modules should complement, not replace, hands-on clinical training."
+  },
+  {
+   "w": "conform",
+   "pos": "v.",
+   "th": "ปฏิบัติตาม / สอดคล้องกับ / คล้อยตาม (ผู้อื่น)",
+   "fam": "conformity (n.), conformist (n.)",
+   "col": "conform to standards / pressure to conform",
+   "ex": "All laboratory procedures must conform to national safety standards."
+  },
+  {
+   "w": "contemporary",
+   "pos": "adj./n.",
+   "th": "ร่วมสมัย / ปัจจุบัน (adj.) / ผู้ที่อยู่ร่วมสมัย (n.)",
+   "fam": "",
+   "col": "contemporary society / contemporary issues",
+   "ex": "Loneliness has become one of the most serious problems in contemporary society."
+  },
+  {
+   "w": "contradict",
+   "pos": "v.",
+   "th": "ขัดแย้ง / แย้ง",
+   "fam": "contradiction (n.), contradictory (adj.)",
+   "col": "contradict previous findings / contradictory evidence",
+   "ex": "These results contradict earlier studies that found no link between noise and stress."
+  },
+  {
+   "w": "crucial",
+   "pos": "adj.",
+   "th": "สำคัญยิ่ง / ชี้ขาด",
+   "fam": "crucially (adv.)",
+   "col": "crucial for / a crucial step",
+   "ex": "Early diagnosis is crucial for improving survival among women with breast cancer."
+  },
+  {
+   "w": "currency",
+   "pos": "n.",
+   "th": "สกุลเงิน / การเป็นที่ยอมรับแพร่หลาย (ของแนวคิด)",
+   "fam": "",
+   "col": "local currency / gain currency",
+   "ex": "Costs were converted into a single currency to allow comparison between countries."
+  },
+  {
+   "w": "denote",
+   "pos": "v.",
+   "th": "หมายถึง / แสดงถึง / ใช้แทน",
+   "fam": "denotation (n.)",
+   "col": "denote significance / be denoted by",
+   "ex": "In the table, an asterisk denotes a statistically significant difference."
+  },
+  {
+   "w": "detect",
+   "pos": "v.",
+   "th": "ตรวจพบ / ค้นพบ",
+   "fam": "detection (n.), detectable (adj.), detector (n.)",
+   "col": "detect early / early detection",
+   "ex": "Mammography can detect breast tumours before they can be felt by hand."
+  },
+  {
+   "w": "deviate",
+   "pos": "v.",
+   "th": "เบี่ยงเบน / ออกนอกแนว",
+   "fam": "deviation (n.), deviant (adj.)",
+   "col": "deviate from / standard deviation",
+   "ex": "Any researcher who deviates from the approved protocol must report it to the committee."
+  },
+  {
+   "w": "displace",
+   "pos": "v.",
+   "th": "ทำให้ต้องพลัดถิ่น / แทนที่",
+   "fam": "displacement (n.), displaced (adj.)",
+   "col": "displaced persons / displace workers",
+   "ex": "Floods displaced thousands of families, many of whom lacked clean water for weeks."
+  },
+  {
+   "w": "eventual",
+   "pos": "adj.",
+   "th": "ในที่สุด / ท้ายที่สุด (ที่จะเกิดขึ้นตามมา)",
+   "fam": "eventually (adv.)",
+   "col": "the eventual outcome / eventually lead to",
+   "ex": "Untreated high blood pressure can eventually lead to stroke or kidney failure."
+  },
+  {
+   "w": "exhibit",
+   "pos": "v./n.",
+   "th": "แสดง (อาการ, ลักษณะ) (v.) / สิ่งจัดแสดง (n.)",
+   "fam": "exhibition (n.)",
+   "col": "exhibit symptoms / exhibit behaviour",
+   "ex": "Children who exhibit signs of anxiety should be referred to a school counsellor."
+  },
+  {
+   "w": "exploit",
+   "pos": "v.",
+   "th": "ใช้ประโยชน์ / เอารัดเอาเปรียบ, แสวงประโยชน์",
+   "fam": "exploitation (n.), exploitative (adj.)",
+   "col": "exploit resources / exploit workers",
+   "ex": "Some advertisers exploit young people's insecurities to sell unhealthy diet products."
+  },
+  {
+   "w": "vaccine hesitancy",
+   "pos": "phr.",
+   "th": "ความลังเลที่จะรับวัคซีน",
+   "fam": "",
+   "col": "address vaccine hesitancy / rising vaccine hesitancy",
+   "ex": "Vaccine hesitancy among parents has contributed to recent measles outbreaks."
+  },
+  {
+   "w": "immunisation",
+   "pos": "n.",
+   "th": "การสร้างเสริมภูมิคุ้มกันโรค / การให้วัคซีน",
+   "fam": "immunise (v.), immunity (n.), immune (adj.)",
+   "col": "childhood immunisation / immunisation schedule",
+   "ex": "Childhood immunisation is one of the most cost-effective public health interventions."
+  },
+  {
+   "w": "misinformation",
+   "pos": "n.",
+   "th": "ข้อมูลเท็จ / ข้อมูลที่ผิด",
+   "fam": "misinform (v.), misinformed (adj.)",
+   "col": "spread misinformation / health misinformation",
+   "ex": "Health misinformation spreads faster on social media than accurate medical advice."
+  },
+  {
+   "w": "herd immunity",
+   "pos": "phr.",
+   "th": "ภูมิคุ้มกันหมู่",
+   "fam": "",
+   "col": "achieve herd immunity / herd immunity threshold",
+   "ex": "High vaccination coverage is needed to achieve herd immunity against measles."
+  },
+  {
+   "w": "side effect",
+   "pos": "phr.",
+   "th": "ผลข้างเคียง / อาการข้างเคียง",
+   "fam": "",
+   "col": "common side effects / serious side effects",
+   "ex": "Mild fever and a sore arm are common side effects after vaccination."
+  }
+ ],
+ "35": [
+  {
+   "w": "fluctuate",
+   "pos": "v.",
+   "th": "ผันผวน / ขึ้นๆ ลงๆ",
+   "fam": "fluctuation (n.)",
+   "col": "fluctuate widely / fluctuate between",
+   "ex": "Blood sugar levels fluctuated widely in patients who regularly skipped meals."
+  },
+  {
+   "w": "guideline",
+   "pos": "n.",
+   "th": "แนวทาง (ปฏิบัติ) / ข้อแนะนำ",
+   "fam": "",
+   "col": "clinical practice guidelines / follow guidelines",
+   "ex": "Doctors were reminded to follow national guidelines when prescribing antibiotics for children."
+  },
+  {
+   "w": "highlight",
+   "pos": "v./n.",
+   "th": "เน้น, ชี้ให้เห็น (v.) / ส่วนที่โดดเด่น (n.)",
+   "fam": "",
+   "col": "highlight the need for / highlight the importance of",
+   "ex": "These findings highlight the need for better mental health support in schools."
+  },
+  {
+   "w": "implicit",
+   "pos": "adj.",
+   "th": "โดยนัย / แฝงอยู่, ไม่ได้กล่าวตรงๆ",
+   "fam": "implicitly (adv.), imply (v.)",
+   "col": "implicit bias / implicit assumption",
+   "ex": "Training can help clinicians recognise implicit bias in how they treat patients."
+  },
+  {
+   "w": "induce",
+   "pos": "v.",
+   "th": "ชักนำ / ทำให้เกิด / เร่ง (คลอด) (induce labour)",
+   "fam": "induction (n.), inducement (n.)",
+   "col": "induce labour / stress-induced",
+   "ex": "Certain medications can induce drowsiness, so patients should avoid driving."
+  },
+  {
+   "w": "inevitable",
+   "pos": "adj.",
+   "th": "หลีกเลี่ยงไม่ได้",
+   "fam": "inevitably (adv.), inevitability (n.)",
+   "col": "an inevitable consequence / seemingly inevitable",
+   "ex": "Memory loss is not an inevitable part of growing older."
+  },
+  {
+   "w": "infrastructure",
+   "pos": "n.",
+   "th": "โครงสร้างพื้นฐาน",
+   "fam": "",
+   "col": "health infrastructure / digital infrastructure",
+   "ex": "Poor digital infrastructure limits the use of telemedicine in mountainous districts."
+  },
+  {
+   "w": "inspect",
+   "pos": "v.",
+   "th": "ตรวจสอบ / ตรวจตรา",
+   "fam": "inspection (n.), inspector (n.)",
+   "col": "inspect premises / food safety inspection",
+   "ex": "Officials inspect restaurant kitchens regularly to ensure food safety standards are met."
+  },
+  {
+   "w": "intense",
+   "pos": "adj.",
+   "th": "รุนแรง / เข้มข้น / หนัก",
+   "fam": "intensity (n.), intensive (adj.), intensify (v.)",
+   "col": "intense pressure / intense physical activity",
+   "ex": "Medical students often face intense pressure to perform well in examinations."
+  },
+  {
+   "w": "manipulate",
+   "pos": "v.",
+   "th": "จัดกระทำ, ควบคุม (ตัวแปร) / บิดเบือน, ชักใย",
+   "fam": "manipulation (n.), manipulative (adj.)",
+   "col": "manipulate data / manipulate variables",
+   "ex": "In experimental studies, researchers manipulate one variable to observe its effect on another."
+  },
+  {
+   "w": "minimise",
+   "pos": "v.",
+   "th": "ลดให้เหลือน้อยที่สุด",
+   "fam": "minimum (n.), minimal (adj.)",
+   "col": "minimise the risk of / minimise harm",
+   "ex": "Wearing masks in crowded places can minimise the risk of infection."
+  },
+  {
+   "w": "nuclear",
+   "pos": "adj.",
+   "th": "นิวเคลียร์ / (ครอบครัว) เดี่ยว (nuclear family)",
+   "fam": "nucleus (n.)",
+   "col": "nuclear energy / nuclear family",
+   "ex": "The shift from extended to nuclear families leaves many elderly people living alone."
+  },
+  {
+   "w": "offset",
+   "pos": "v./n.",
+   "th": "ชดเชย, หักกลบ (v.) / สิ่งชดเชย (n.)",
+   "fam": "",
+   "col": "offset the cost / carbon offset",
+   "ex": "Savings from fewer hospital admissions could offset the cost of the screening programme."
+  },
+  {
+   "w": "practitioner",
+   "pos": "n.",
+   "th": "ผู้ประกอบวิชาชีพ",
+   "fam": "practice (n.), practise (v.), practical (adj.)",
+   "col": "general practitioner / health practitioners",
+   "ex": "General practitioners are often the first point of contact for patients with depression."
+  },
+  {
+   "w": "predominant",
+   "pos": "adj.",
+   "th": "เด่นที่สุด / เป็นส่วนใหญ่ / มีอิทธิพลมากที่สุด",
+   "fam": "predominantly (adv.), predominate (v.), predominance (n.)",
+   "col": "the predominant cause / predominantly female",
+   "ex": "The predominant reason for missing appointments was the cost of travel."
+  },
+  {
+   "w": "indispensable",
+   "pos": "adj.",
+   "th": "ขาดไม่ได้ / จำเป็นอย่างยิ่ง",
+   "fam": "",
+   "col": "indispensable to / an indispensable tool",
+   "ex": "Smartphones have become indispensable tools for both teaching and learning."
+  },
+  {
+   "w": "rigorous",
+   "pos": "adj.",
+   "th": "เข้มงวด / รัดกุม, ละเอียดถี่ถ้วน",
+   "fam": "rigour (n.), rigorously (adv.)",
+   "col": "rigorous testing / methodologically rigorous",
+   "ex": "New drugs must pass rigorous testing before they can be approved for use."
+  },
+  {
+   "w": "meritocracy",
+   "pos": "n.",
+   "th": "ระบบคุณธรรม (ระบบที่ยึดความสามารถ)",
+   "fam": "merit (n.), meritocratic (adj.)",
+   "col": "a true meritocracy / the myth of meritocracy",
+   "ex": "Critics question whether entrance exams create a genuine meritocracy or reward wealthy families."
+  },
+  {
+   "w": "standardised test",
+   "pos": "phr.",
+   "th": "แบบทดสอบมาตรฐาน",
+   "fam": "",
+   "col": "standardised test scores / rely on standardised tests",
+   "ex": "Standardised test scores may not reflect students' creativity or practical skills."
+  },
+  {
+   "w": "holistic",
+   "pos": "adj.",
+   "th": "แบบองค์รวม",
+   "fam": "holistically (adv.), holism (n.)",
+   "col": "a holistic approach / holistic care",
+   "ex": "Nurses are trained to provide holistic care that also addresses patients' emotional needs."
+  }
+ ],
+ "36": [
+  {
+   "w": "prospect",
+   "pos": "n.",
+   "th": "โอกาส / ความเป็นไปได้ / อนาคต (ด้านอาชีพ)",
+   "fam": "prospective (adj.)",
+   "col": "career prospects / job prospects",
+   "ex": "Poor job prospects in rural areas push many graduates to move to Bangkok."
+  },
+  {
+   "w": "radical",
+   "pos": "adj./n.",
+   "th": "ถึงรากถึงโคน / สุดโต่ง (adj.) / อนุมูล (เคมี: free radical) (n.)",
+   "fam": "radically (adv.)",
+   "col": "radical change / free radicals",
+   "ex": "Tackling climate change will require radical changes to how cities are designed."
+  },
+  {
+   "w": "random",
+   "pos": "adj.",
+   "th": "สุ่ม / ไม่มีแบบแผน",
+   "fam": "randomly (adv.), randomise (v.), randomisation (n.)",
+   "col": "a random sample / at random",
+   "ex": "A random sample of 300 households was selected from the district register."
+  },
+  {
+   "w": "reinforce",
+   "pos": "v.",
+   "th": "เสริมกำลัง / ตอกย้ำ / เสริมแรง",
+   "fam": "reinforcement (n.)",
+   "col": "reinforce the message / positive reinforcement",
+   "ex": "Text message reminders reinforced the advice given during clinic visits."
+  },
+  {
+   "w": "restore",
+   "pos": "v.",
+   "th": "ฟื้นฟู / ทำให้กลับคืนสู่สภาพเดิม",
+   "fam": "restoration (n.), restorative (adj.)",
+   "col": "restore confidence / restore function",
+   "ex": "Physiotherapy helped restore movement in patients recovering from knee surgery."
+  },
+  {
+   "w": "revise",
+   "pos": "v.",
+   "th": "แก้ไข, ปรับปรุง / ทบทวน (บทเรียน)",
+   "fam": "revision (n.), revised (adj.)",
+   "col": "revise a policy / a revised version",
+   "ex": "The authors revised their manuscript in response to the reviewers' comments."
+  },
+  {
+   "w": "schedule",
+   "pos": "n./v.",
+   "th": "ตารางเวลา, กำหนดการ (n.) / กำหนดเวลา, นัดหมาย (v.)",
+   "fam": "scheduling (n.), reschedule (v.)",
+   "col": "ahead of schedule / scheduled appointment",
+   "ex": "Follow-up visits were scheduled every three months for one year."
+  },
+  {
+   "w": "tension",
+   "pos": "n.",
+   "th": "ความตึงเครียด / ความขัดแย้ง / แรงตึง",
+   "fam": "tense (adj.)",
+   "col": "tension between / ease tensions",
+   "ex": "There is often tension between protecting public health and respecting individual freedom."
+  },
+  {
+   "w": "terminate",
+   "pos": "v.",
+   "th": "ยุติ / สิ้นสุด / ยกเลิก",
+   "fam": "termination (n.), terminal (adj.)",
+   "col": "terminate a contract / terminate a trial early",
+   "ex": "The trial was terminated early because the drug showed clear benefits."
+  },
+  {
+   "w": "theme",
+   "pos": "n.",
+   "th": "หัวข้อ / ประเด็นหลัก, แก่นเรื่อง",
+   "fam": "thematic (adj.), thematically (adv.)",
+   "col": "a recurring theme / thematic analysis",
+   "ex": "Thematic analysis identified four main themes in the nurses' interview responses."
+  },
+  {
+   "w": "thereby",
+   "pos": "adv.",
+   "th": "ด้วยเหตุนั้น / โดยวิธีนั้น, จึง",
+   "fam": "",
+   "col": "..., thereby + V-ing / thereby reducing",
+   "ex": "The city planted more trees, thereby lowering summer temperatures in crowded neighbourhoods."
+  },
+  {
+   "w": "uniform",
+   "pos": "adj./n.",
+   "th": "สม่ำเสมอ, เหมือนกันทั้งหมด (adj.) / เครื่องแบบ (n.)",
+   "fam": "uniformity (n.), uniformly (adv.)",
+   "col": "uniform standards / school uniform",
+   "ex": "Health outcomes were not uniform across regions, with the north performing worst."
+  },
+  {
+   "w": "vehicle",
+   "pos": "n.",
+   "th": "ยานพาหนะ / สื่อ, เครื่องมือ (ในการถ่ายทอด)",
+   "fam": "vehicular (adj.)",
+   "col": "motor vehicle / a vehicle for",
+   "ex": "Exhaust fumes from motor vehicles are a major source of urban air pollution."
+  },
+  {
+   "w": "via",
+   "pos": "prep.",
+   "th": "ผ่าน / โดยทาง / โดยใช้",
+   "fam": "",
+   "col": "via the internet / transmitted via",
+   "ex": "Questionnaires were distributed via email to all registered nurses in the province."
+  },
+  {
+   "w": "virtual",
+   "pos": "adj.",
+   "th": "เสมือนจริง / ออนไลน์ / แทบจะ, เกือบ (virtually)",
+   "fam": "virtually (adv.)",
+   "col": "virtual reality / virtual classroom",
+   "ex": "Virtual reality is being used to train surgeons without risk to patients."
+  },
+  {
+   "w": "lifelong learning",
+   "pos": "phr.",
+   "th": "การเรียนรู้ตลอดชีวิต",
+   "fam": "",
+   "col": "promote lifelong learning / a culture of lifelong learning",
+   "ex": "Lifelong learning helps older workers keep their skills relevant in a changing economy."
+  },
+  {
+   "w": "credential",
+   "pos": "n.",
+   "th": "คุณวุฒิ / หลักฐานรับรองความสามารถ",
+   "fam": "credentialing (n.)",
+   "col": "academic credentials / digital credentials",
+   "ex": "Employers increasingly accept short online credentials alongside traditional university degrees."
+  },
+  {
+   "w": "self-paced",
+   "pos": "adj.",
+   "th": "ที่ผู้เรียนกำหนดจังหวะการเรียนเอง",
+   "fam": "",
+   "col": "self-paced learning / a self-paced course",
+   "ex": "Self-paced courses suit busy health workers who cannot attend fixed classes."
+  },
+  {
+   "w": "isolation",
+   "pos": "n.",
+   "th": "ความโดดเดี่ยว, การแยกตัว / การแยกกัก (ผู้ป่วย)",
+   "fam": "isolate (v.), isolated (adj.)",
+   "col": "social isolation / in isolation",
+   "ex": "Social isolation among older adults is linked to higher rates of dementia."
+  },
+  {
+   "w": "engagement",
+   "pos": "n.",
+   "th": "การมีส่วนร่วม / ความผูกพัน",
+   "fam": "engage (v.), engaging (adj.), engaged (adj.)",
+   "col": "student engagement / community engagement",
+   "ex": "Interactive quizzes significantly increased student engagement during online lectures."
+  }
+ ],
+ "37": [
+  {
+   "w": "visual",
+   "pos": "adj.",
+   "th": "ทางการมองเห็น / ทางภาพ",
+   "fam": "visualise (v.), visually (adv.), visualisation (n.)",
+   "col": "visual aids / visual impairment",
+   "ex": "Visual aids such as diagrams help patients understand complex treatment options."
+  },
+  {
+   "w": "widespread",
+   "pos": "adj.",
+   "th": "แพร่หลาย / กว้างขวาง",
+   "fam": "",
+   "col": "widespread use / widespread concern",
+   "ex": "The widespread use of antibiotics in farming has accelerated drug resistance."
+  },
+  {
+   "w": "accommodate",
+   "pos": "v.",
+   "th": "รองรับ / ปรับให้เข้ากับ (ความต้องการ) / จัดที่พัก",
+   "fam": "accommodation (n.)",
+   "col": "accommodate the needs of / accommodate patients",
+   "ex": "Clinics should be designed to accommodate patients who use wheelchairs."
+  },
+  {
+   "w": "analogy",
+   "pos": "n.",
+   "th": "การเปรียบเทียบ / การอุปมา",
+   "fam": "analogous (adj.)",
+   "col": "draw an analogy / by analogy",
+   "ex": "Teachers often use the analogy of a lock and key to explain enzymes."
+  },
+  {
+   "w": "anticipate",
+   "pos": "v.",
+   "th": "คาดการณ์ / คาดหมาย / เตรียมรับมือล่วงหน้า",
+   "fam": "anticipation (n.), anticipated (adj.)",
+   "col": "anticipate problems / than anticipated",
+   "ex": "Demand for elderly care is anticipated to double within the next twenty years."
+  },
+  {
+   "w": "assure",
+   "pos": "v.",
+   "th": "รับรอง / ทำให้มั่นใจ",
+   "fam": "assurance (n.), reassure (v.)",
+   "col": "quality assurance / assure participants that",
+   "ex": "Participants were assured that their answers would remain strictly confidential."
+  },
+  {
+   "w": "attain",
+   "pos": "v.",
+   "th": "บรรลุ / ได้มา (ซึ่งระดับ, เป้าหมาย)",
+   "fam": "attainment (n.), attainable (adj.)",
+   "col": "attain a goal / educational attainment",
+   "ex": "Lower educational attainment is strongly associated with poorer health in later life."
+  },
+  {
+   "w": "behalf",
+   "pos": "n.",
+   "th": "ในนามของ, แทน (on behalf of)",
+   "fam": "",
+   "col": "on behalf of / act on behalf of",
+   "ex": "Parents gave consent on behalf of children under the age of eighteen."
+  },
+  {
+   "w": "bulk",
+   "pos": "n.",
+   "th": "ส่วนใหญ่ (the bulk of) / ปริมาณมาก (in bulk)",
+   "fam": "bulky (adj.)",
+   "col": "the bulk of / buy in bulk",
+   "ex": "The bulk of healthcare spending goes on treating chronic diseases in older adults."
+  },
+  {
+   "w": "cease",
+   "pos": "v.",
+   "th": "หยุด / ยุติ / เลิก",
+   "fam": "ceasefire (n.), incessant (adj.)",
+   "col": "cease to exist / cease operations",
+   "ex": "Many smokers cease smoking only after being diagnosed with a serious illness."
+  },
+  {
+   "w": "coherent",
+   "pos": "adj.",
+   "th": "สอดคล้องกัน, เชื่อมโยงกันดี / เป็นเหตุเป็นผล",
+   "fam": "coherence (n.), coherently (adv.), incoherent (adj.)",
+   "col": "a coherent argument / coherent policy",
+   "ex": "A good essay presents a coherent argument supported by relevant examples."
+  },
+  {
+   "w": "coincide",
+   "pos": "v.",
+   "th": "เกิดขึ้นพร้อมกัน / ตรงกัน",
+   "fam": "coincidence (n.), coincidental (adj.)",
+   "col": "coincide with / happen to coincide",
+   "ex": "The rise in asthma cases coincided with the start of the burning season."
+  },
+  {
+   "w": "commence",
+   "pos": "v.",
+   "th": "เริ่มต้น",
+   "fam": "commencement (n.)",
+   "col": "commence treatment / commence on",
+   "ex": "Data collection commenced in January and was completed by the end of June."
+  },
+  {
+   "w": "compatible",
+   "pos": "adj.",
+   "th": "เข้ากันได้ / ใช้ร่วมกันได้",
+   "fam": "compatibility (n.), incompatible (adj.)",
+   "col": "compatible with / fully compatible",
+   "ex": "The new app is compatible with most smartphones used by village health volunteers."
+  },
+  {
+   "w": "concurrent",
+   "pos": "adj.",
+   "th": "ที่เกิดขึ้นพร้อมกัน / ควบคู่กัน",
+   "fam": "concurrently (adv.)",
+   "col": "concurrent validity / concurrent use",
+   "ex": "Patients with concurrent depression and diabetes often have poorer blood sugar control."
+  },
+  {
+   "w": "collaboration",
+   "pos": "n.",
+   "th": "ความร่วมมือ / การทำงานร่วมกัน",
+   "fam": "collaborate (v.), collaborative (adj.), collaborator (n.)",
+   "col": "in collaboration with / interprofessional collaboration",
+   "ex": "The project was conducted in collaboration with three rural community hospitals."
+  },
+  {
+   "w": "synergy",
+   "pos": "n.",
+   "th": "การเสริมพลังกัน / พลังร่วม",
+   "fam": "synergistic (adj.)",
+   "col": "create synergy / synergy between",
+   "ex": "Combining diet and exercise programmes produced a synergy that neither achieved alone."
+  },
+  {
+   "w": "autonomy",
+   "pos": "n.",
+   "th": "ความเป็นอิสระ / สิทธิในการตัดสินใจด้วยตนเอง (ของผู้ป่วย) / การปกครองตนเอง",
+   "fam": "autonomous (adj.), autonomously (adv.)",
+   "col": "patient autonomy / professional autonomy",
+   "ex": "Respecting patient autonomy means involving patients fully in decisions about their care."
+  },
+  {
+   "w": "interpersonal",
+   "pos": "adj.",
+   "th": "ระหว่างบุคคล",
+   "fam": "",
+   "col": "interpersonal skills / interpersonal relationships",
+   "ex": "Strong interpersonal skills are essential for doctors who deliver bad news to families."
+  },
+  {
+   "w": "delegate",
+   "pos": "v./n.",
+   "th": "มอบหมาย (งาน, อำนาจ) (v.) / ผู้แทน (n.)",
+   "fam": "delegation (n.)",
+   "col": "delegate tasks to / delegate responsibility",
+   "ex": "Senior nurses learned to delegate routine tasks to trained assistants."
+  }
+ ],
+ "38": [
+  {
+   "w": "confine",
+   "pos": "v.",
+   "th": "จำกัด (ขอบเขต) / กักขัง, กักบริเวณ",
+   "fam": "confinement (n.), confined (adj.)",
+   "col": "confined to / confine the analysis to",
+   "ex": "The analysis was confined to adults aged between eighteen and sixty-five."
+  },
+  {
+   "w": "controversy",
+   "pos": "n.",
+   "th": "ข้อถกเถียง / ความขัดแย้ง",
+   "fam": "controversial (adj.), controversially (adv.)",
+   "col": "considerable controversy / spark controversy",
+   "ex": "The proposal to tax sugary drinks sparked considerable controversy among food producers."
+  },
+  {
+   "w": "converse",
+   "pos": "adj./n./v.",
+   "th": "ตรงกันข้าม, กลับกัน (adj./n.) / สนทนา (v.)",
+   "fam": "conversely (adv.), conversation (n.)",
+   "col": "the converse is true / conversely,",
+   "ex": "Poor sleep can increase stress, and the converse is also true."
+  },
+  {
+   "w": "device",
+   "pos": "n.",
+   "th": "อุปกรณ์ / เครื่องมือ / กลวิธี",
+   "fam": "devise (v.)",
+   "col": "medical device / mobile device",
+   "ex": "Wearable devices allow doctors to track patients' heart rates remotely."
+  },
+  {
+   "w": "devote",
+   "pos": "v.",
+   "th": "อุทิศ / ทุ่มเท",
+   "fam": "devotion (n.), devoted (adj.)",
+   "col": "devote time to / devoted to",
+   "ex": "Schools should devote more class time to physical education and outdoor play."
+  },
+  {
+   "w": "diminish",
+   "pos": "v.",
+   "th": "ลดลง / ลดน้อยลง",
+   "fam": "diminishing (adj.), undiminished (adj.)",
+   "col": "diminish over time / diminishing returns",
+   "ex": "The protective effect of the vaccine appears to diminish after about five years."
+  },
+  {
+   "w": "distort",
+   "pos": "v.",
+   "th": "บิดเบือน / ทำให้ผิดรูป",
+   "fam": "distortion (n.), distorted (adj.)",
+   "col": "distort the results / a distorted picture",
+   "ex": "Missing data can distort the results if they are not handled appropriately."
+  },
+  {
+   "w": "duration",
+   "pos": "n.",
+   "th": "ระยะเวลา",
+   "fam": "",
+   "col": "duration of treatment / short duration",
+   "ex": "The average duration of hospital stay fell from seven days to four."
+  },
+  {
+   "w": "erode",
+   "pos": "v.",
+   "th": "กัดกร่อน / บั่นทอน",
+   "fam": "erosion (n.)",
+   "col": "erode trust / soil erosion",
+   "ex": "Repeated misinformation can erode public trust in health authorities."
+  },
+  {
+   "w": "ethic",
+   "pos": "n.",
+   "th": "จรรยาบรรณ / หลักจริยธรรม (work ethic = ความขยันและความรับผิดชอบต่องาน)",
+   "fam": "ethics (n.), ethical (adj.), ethically (adv.)",
+   "col": "work ethic / research ethics",
+   "ex": "Nurses described a strong work ethic rooted in caring for their communities."
+  },
+  {
+   "w": "format",
+   "pos": "n./v.",
+   "th": "รูปแบบ / โครงสร้าง (n.) / จัดรูปแบบ (v.)",
+   "fam": "formatting (n.)",
+   "col": "in a format / standard format",
+   "ex": "Health information should be provided in a format that older adults can easily read."
+  },
+  {
+   "w": "found",
+   "pos": "v.",
+   "th": "ก่อตั้ง / ตั้งอยู่บน (founded on)",
+   "fam": "foundation (n.), founder (n.)",
+   "col": "found an organisation / founded on",
+   "ex": "The clinic was founded by local volunteers to serve migrant workers and their families."
+  },
+  {
+   "w": "inherent",
+   "pos": "adj.",
+   "th": "มีอยู่ในตัว / โดยธรรมชาติ",
+   "fam": "inherently (adv.)",
+   "col": "inherent risk / inherent in",
+   "ex": "All surgical procedures carry some inherent risk, however small."
+  },
+  {
+   "w": "insight",
+   "pos": "n.",
+   "th": "ความเข้าใจอย่างลึกซึ้ง / ข้อค้นพบเชิงลึก",
+   "fam": "insightful (adj.)",
+   "col": "gain insight into / valuable insight",
+   "ex": "Focus groups provided valuable insight into why young mothers stopped breastfeeding early."
+  },
+  {
+   "w": "integral",
+   "pos": "adj.",
+   "th": "เป็นส่วนสำคัญ (ที่ขาดไม่ได้) / ที่เป็นส่วนหนึ่งของทั้งหมด",
+   "fam": "integrate (v.), integration (n.)",
+   "col": "an integral part of / integral to",
+   "ex": "Family support is an integral part of recovery from substance abuse."
+  },
+  {
+   "w": "fulfilment",
+   "pos": "n.",
+   "th": "ความรู้สึกสมหวัง, ความอิ่มเอมใจ / การบรรลุ, การทำให้สำเร็จ",
+   "fam": "fulfil (v.), fulfilling (adj.)",
+   "col": "a sense of fulfilment / personal fulfilment",
+   "ex": "Many rural doctors find a deep sense of fulfilment in serving their home communities."
+  },
+  {
+   "w": "job satisfaction",
+   "pos": "phr.",
+   "th": "ความพึงพอใจในงาน",
+   "fam": "",
+   "col": "high job satisfaction / improve job satisfaction",
+   "ex": "Job satisfaction among primary care nurses was strongly linked to supportive management."
+  },
+  {
+   "w": "remuneration",
+   "pos": "n.",
+   "th": "ค่าตอบแทน / เงินเดือน",
+   "fam": "remunerate (v.), remunerative (adj.)",
+   "col": "fair remuneration / remuneration package",
+   "ex": "Better remuneration may encourage more doctors to work in remote districts."
+  },
+  {
+   "w": "motivation",
+   "pos": "n.",
+   "th": "แรงจูงใจ / ความกระตือรือร้น",
+   "fam": "motivate (v.), motivated (adj.), motive (n.)",
+   "col": "lack of motivation / boost motivation",
+   "ex": "Lack of motivation is a common reason why patients stop doing their exercises."
+  },
+  {
+   "w": "career advancement",
+   "pos": "phr.",
+   "th": "ความก้าวหน้าในอาชีพ",
+   "fam": "",
+   "col": "opportunities for career advancement / limited career advancement",
+   "ex": "Limited opportunities for career advancement drive many nurses to leave the public sector."
+  }
+ ],
+ "39": [
+  {
+   "w": "intermediate",
+   "pos": "adj./n.",
+   "th": "ระดับกลาง / ระหว่างกลาง",
+   "fam": "intermediary (n.)",
+   "col": "intermediate level / intermediate outcome",
+   "ex": "Students at an intermediate level of English benefited most from the reading programme."
+  },
+  {
+   "w": "manual",
+   "pos": "adj./n.",
+   "th": "ที่ใช้มือ, ที่ใช้แรงงาน (adj.) / คู่มือ (n.)",
+   "fam": "manually (adv.)",
+   "col": "manual labour / training manual",
+   "ex": "Manual workers are more likely to suffer back injuries than office staff."
+  },
+  {
+   "w": "mature",
+   "pos": "adj./v.",
+   "th": "เป็นผู้ใหญ่, โตเต็มที่ (adj.) / เติบโต, พัฒนาเต็มที่ (v.)",
+   "fam": "maturity (n.), maturation (n.), immature (adj.)",
+   "col": "mature students / emotionally mature",
+   "ex": "The adolescent brain does not fully mature until the mid-twenties."
+  },
+  {
+   "w": "mediate",
+   "pos": "v.",
+   "th": "เป็นตัวแปรส่งผ่าน (ทางสถิติ) / ไกล่เกลี่ย / เป็นสื่อกลาง",
+   "fam": "mediation (n.), mediator (n.)",
+   "col": "mediate the relationship between / mediate a dispute",
+   "ex": "Self-esteem partly mediated the relationship between bullying and depressive symptoms."
+  },
+  {
+   "w": "medium",
+   "pos": "n./adj.",
+   "th": "สื่อกลาง, ช่องทาง (n.) / ขนาดกลาง (adj.)",
+   "fam": "media (n., pl.)",
+   "col": "medium of instruction / medium-sized",
+   "ex": "English is the medium of instruction in most international programmes."
+  },
+  {
+   "w": "military",
+   "pos": "adj./n.",
+   "th": "ทางทหาร (adj.) / กองทัพ, ทหาร (n.)",
+   "fam": "",
+   "col": "military service / military hospital",
+   "ex": "Military hospitals sometimes provide emergency care to civilians during natural disasters."
+  },
+  {
+   "w": "minimal",
+   "pos": "adj.",
+   "th": "น้อยที่สุด / เล็กน้อย",
+   "fam": "minimise (v.), minimum (n.), minimally (adv.)",
+   "col": "minimal risk / minimally invasive",
+   "ex": "Minimally invasive surgery means less pain and a shorter stay in hospital."
+  },
+  {
+   "w": "mutual",
+   "pos": "adj.",
+   "th": "ซึ่งกันและกัน / ร่วมกัน",
+   "fam": "mutually (adv.)",
+   "col": "mutual respect / mutual understanding",
+   "ex": "Effective teamwork depends on mutual respect between doctors and nurses."
+  },
+  {
+   "w": "norm",
+   "pos": "n.",
+   "th": "บรรทัดฐาน / ค่าปกติ, เกณฑ์ปกติ",
+   "fam": "normal (adj.), normative (adj.)",
+   "col": "social norms / the norm",
+   "ex": "Social norms strongly influence how much young people drink at parties."
+  },
+  {
+   "w": "overlap",
+   "pos": "v./n.",
+   "th": "ทับซ้อน / ซ้อนเหลื่อม (v.) / ส่วนที่ทับซ้อน (n.)",
+   "fam": "overlapping (adj.)",
+   "col": "overlap with / considerable overlap",
+   "ex": "Symptoms of anxiety and depression often overlap, which complicates diagnosis."
+  },
+  {
+   "w": "passive",
+   "pos": "adj.",
+   "th": "เฉื่อยชา, ไม่มีส่วนร่วม / ที่ได้รับโดยอ้อม (passive smoking = การได้รับควันบุหรี่มือสอง) / (ไวยากรณ์) กรรมวาจก",
+   "fam": "passively (adv.), passivity (n.)",
+   "col": "passive smoking / passive learning",
+   "ex": "Children exposed to passive smoking have more frequent ear and chest infections."
+  },
+  {
+   "w": "portion",
+   "pos": "n.",
+   "th": "ส่วน / สัดส่วน / ปริมาณอาหาร (ต่อจาน)",
+   "fam": "",
+   "col": "portion size / a large portion of",
+   "ex": "Larger portion sizes in restaurants have contributed to rising rates of obesity."
+  },
+  {
+   "w": "preliminary",
+   "pos": "adj.",
+   "th": "เบื้องต้น / ขั้นต้น",
+   "fam": "",
+   "col": "preliminary results / preliminary study",
+   "ex": "Preliminary results suggest that the app may help users reduce their alcohol intake."
+  },
+  {
+   "w": "protocol",
+   "pos": "n.",
+   "th": "ระเบียบวิธี, โครงร่าง (การวิจัย) / ระเบียบปฏิบัติ, แนวปฏิบัติ",
+   "fam": "",
+   "col": "study protocol / treatment protocol",
+   "ex": "The study protocol was approved by the university's human research ethics committee."
+  },
+  {
+   "w": "qualitative",
+   "pos": "adj.",
+   "th": "เชิงคุณภาพ",
+   "fam": "qualitatively (adv.), quality (n.)",
+   "col": "qualitative research / qualitative data",
+   "ex": "Qualitative interviews explored how caregivers coped with looking after relatives with dementia."
+  },
+  {
+   "w": "genomics",
+   "pos": "n.",
+   "th": "จีโนมิกส์ (ศาสตร์ว่าด้วยจีโนม)",
+   "fam": "genome (n.), genomic (adj.), genetic (adj.)",
+   "col": "advances in genomics / genomic medicine",
+   "ex": "Advances in genomics are making it possible to predict individual responses to drugs."
+  },
+  {
+   "w": "tailor",
+   "pos": "v.",
+   "th": "ปรับให้เหมาะ (กับความต้องการเฉพาะ)",
+   "fam": "tailored (adj.), tailor-made (adj.)",
+   "col": "tailor to / tailored intervention",
+   "ex": "Health messages work best when they are tailored to the audience's culture and language."
+  },
+  {
+   "w": "citizen science",
+   "pos": "phr.",
+   "th": "วิทยาศาสตร์ภาคพลเมือง (การวิจัยที่ประชาชนทั่วไปมีส่วนร่วม)",
+   "fam": "",
+   "col": "a citizen science project / take part in citizen science",
+   "ex": "In one citizen science project, villagers recorded local air quality using low-cost sensors."
+  },
+  {
+   "w": "volunteering",
+   "pos": "n.",
+   "th": "การเป็นอาสาสมัคร / งานอาสา",
+   "fam": "volunteer (n./v.), voluntary (adj.)",
+   "col": "community volunteering / volunteering opportunities",
+   "ex": "Regular volunteering has been linked to lower levels of loneliness in retirees."
+  },
+  {
+   "w": "fatality",
+   "pos": "n.",
+   "th": "การเสียชีวิต (จากอุบัติเหตุ, ภัยพิบัติ) / ผู้เสียชีวิต",
+   "fam": "fatal (adj.), fatally (adv.)",
+   "col": "road fatalities / fatality rate",
+   "ex": "Helmet laws have reduced motorcycle fatalities in many low- and middle-income countries."
+  }
+ ],
+ "41": [
+  {
+   "w": "refine",
+   "pos": "v.",
+   "th": "ปรับปรุงให้ดีขึ้น / ขัดเกลา / กลั่น",
+   "fam": "refinement (n.), refined (adj.)",
+   "col": "refine a model / refined sugar",
+   "ex": "Feedback from the pilot study was used to refine the interview questions."
+  },
+  {
+   "w": "relax",
+   "pos": "v.",
+   "th": "ผ่อนคลาย / ผ่อนปรน (กฎ, มาตรการ)",
+   "fam": "relaxation (n.), relaxed (adj.)",
+   "col": "relax restrictions / relaxation techniques",
+   "ex": "The government relaxed travel restrictions once infection rates had fallen."
+  },
+  {
+   "w": "restrain",
+   "pos": "v.",
+   "th": "ยับยั้ง / ควบคุม, หน่วงเหนี่ยว / จำกัด",
+   "fam": "restraint (n.)",
+   "col": "restrain oneself from / physical restraint",
+   "ex": "Staff should physically restrain agitated patients only as a last resort."
+  },
+  {
+   "w": "revolution",
+   "pos": "n.",
+   "th": "การปฏิวัติ / การเปลี่ยนแปลงครั้งใหญ่",
+   "fam": "revolutionary (adj.), revolutionise (v.)",
+   "col": "digital revolution / industrial revolution",
+   "ex": "The digital revolution has changed how patients find and share health information."
+  },
+  {
+   "w": "rigid",
+   "pos": "adj.",
+   "th": "เข้มงวด / ไม่ยืดหยุ่น / แข็งทื่อ",
+   "fam": "rigidity (n.), rigidly (adv.)",
+   "col": "rigid rules / rigid structure",
+   "ex": "Rigid working hours make it difficult for nurses to care for young children."
+  },
+  {
+   "w": "route",
+   "pos": "n.",
+   "th": "เส้นทาง / ช่องทาง (การให้ยา, การแพร่เชื้อ)",
+   "fam": "",
+   "col": "route of administration / route of transmission",
+   "ex": "In emergencies, the drug is usually given by the intravenous route."
+  },
+  {
+   "w": "scenario",
+   "pos": "n.",
+   "th": "สถานการณ์ (สมมติ) / ฉากทัศน์",
+   "fam": "",
+   "col": "worst-case scenario / a likely scenario",
+   "ex": "In the worst-case scenario, hospitals could run out of intensive care beds."
+  },
+  {
+   "w": "sphere",
+   "pos": "n.",
+   "th": "ขอบเขต / แวดวง / ทรงกลม",
+   "fam": "spherical (adj.)",
+   "col": "public sphere / sphere of influence",
+   "ex": "Debates about vaccines have moved from the medical sphere into the political one."
+  },
+  {
+   "w": "subordinate",
+   "pos": "n./adj.",
+   "th": "ผู้ใต้บังคับบัญชา (n.) / ที่อยู่ในระดับรอง (adj.)",
+   "fam": "subordination (n.)",
+   "col": "subordinate to / subordinate clause",
+   "ex": "Managers who listen to their subordinates tend to have more motivated teams."
+  },
+  {
+   "w": "supplement",
+   "pos": "n./v.",
+   "th": "อาหารเสริม, สิ่งเสริม (n.) / เสริม, เพิ่มเติม (v.)",
+   "fam": "supplementary (adj.), supplementation (n.)",
+   "col": "dietary supplements / supplementary material",
+   "ex": "Pregnant women are advised to take folic acid supplements to prevent birth defects."
+  },
+  {
+   "w": "suspend",
+   "pos": "v.",
+   "th": "ระงับ (ชั่วคราว) / พักงาน, พักการเรียน / แขวน",
+   "fam": "suspension (n.)",
+   "col": "suspend classes / temporarily suspended",
+   "ex": "Classes were suspended for two weeks after several students tested positive."
+  },
+  {
+   "w": "temporary",
+   "pos": "adj.",
+   "th": "ชั่วคราว",
+   "fam": "temporarily (adv.)",
+   "col": "a temporary measure / temporary relief",
+   "ex": "School closures were intended only as a temporary measure to slow transmission."
+  },
+  {
+   "w": "trigger",
+   "pos": "v./n.",
+   "th": "กระตุ้น, ก่อให้เกิด (v.) / ตัวกระตุ้น (n.)",
+   "fam": "",
+   "col": "trigger an attack / common triggers",
+   "ex": "Dust, smoke and cold air can trigger asthma attacks in sensitive children."
+  },
+  {
+   "w": "unify",
+   "pos": "v.",
+   "th": "รวมเป็นหนึ่งเดียว / ทำให้เป็นเอกภาพ",
+   "fam": "unification (n.), unified (adj.)",
+   "col": "a unified system / unify efforts",
+   "ex": "A unified health record system would let hospitals share patient data more efficiently."
+  },
+  {
+   "w": "violate",
+   "pos": "v.",
+   "th": "ละเมิด / ฝ่าฝืน",
+   "fam": "violation (n.)",
+   "col": "violate the law / violate privacy",
+   "ex": "Sharing patients' photos on social media violates their right to privacy."
+  },
+  {
+   "w": "face-to-face",
+   "pos": "adj./adv.",
+   "th": "แบบตัวต่อตัว / แบบพบหน้ากัน",
+   "fam": "",
+   "col": "face-to-face classes / meet face-to-face",
+   "ex": "Many students still prefer face-to-face classes for practical clinical subjects."
+  },
+  {
+   "w": "flexibility",
+   "pos": "n.",
+   "th": "ความยืดหยุ่น",
+   "fam": "flexible (adj.), flexibly (adv.)",
+   "col": "greater flexibility / flexibility in",
+   "ex": "Online learning offers greater flexibility for students who also work part-time."
+  },
+  {
+   "w": "interaction",
+   "pos": "n.",
+   "th": "ปฏิสัมพันธ์ / ปฏิกิริยาระหว่างกัน (เช่น ระหว่างยา)",
+   "fam": "interact (v.), interactive (adj.)",
+   "col": "social interaction / drug interaction",
+   "ex": "Pharmacists check every new prescription for possible drug interactions."
+  },
+  {
+   "w": "convenience",
+   "pos": "n.",
+   "th": "ความสะดวก",
+   "fam": "convenient (adj.), conveniently (adv.), inconvenience (n.)",
+   "col": "for convenience / convenience sampling",
+   "ex": "Convenience sampling was used because of limited time and funding."
+  },
+  {
+   "w": "distraction",
+   "pos": "n.",
+   "th": "สิ่งที่ทำให้ไขว้เขว / การเสียสมาธิ",
+   "fam": "distract (v.), distracted (adj.), distracting (adj.)",
+   "col": "a source of distraction / minimise distractions",
+   "ex": "Mobile phones are a major source of distraction during lectures."
+  }
+ ],
+ "42": [
+  {
+   "w": "vision",
+   "pos": "n.",
+   "th": "การมองเห็น, สายตา / วิสัยทัศน์",
+   "fam": "visionary (adj./n.), visual (adj.)",
+   "col": "vision loss / a shared vision",
+   "ex": "Diabetes is a leading cause of preventable vision loss among working-age adults."
+  },
+  {
+   "w": "adjacent",
+   "pos": "adj.",
+   "th": "ติดกัน / ใกล้เคียง, อยู่ข้างเคียง",
+   "fam": "",
+   "col": "adjacent to / adjacent areas",
+   "ex": "Families living adjacent to busy roads were exposed to higher levels of pollution."
+  },
+  {
+   "w": "albeit",
+   "pos": "conj.",
+   "th": "แม้ว่า / ถึงแม้จะ (ใช้นำวลีสั้นๆ)",
+   "fam": "",
+   "col": "albeit + adj./adv. / albeit with + noun",
+   "ex": "Vaccination rates improved, albeit slowly, after the campaign was launched."
+  },
+  {
+   "w": "assemble",
+   "pos": "v.",
+   "th": "รวบรวม / ประกอบ / ชุมนุม",
+   "fam": "assembly (n.)",
+   "col": "assemble a team / assemble evidence",
+   "ex": "The hospital assembled a team of specialists to manage the outbreak."
+  },
+  {
+   "w": "collapse",
+   "pos": "v./n.",
+   "th": "ล่มสลาย / ทรุดตัว, ล้มลง (หมดสติ) (v.) / การล่มสลาย (n.)",
+   "fam": "",
+   "col": "economic collapse / on the verge of collapse",
+   "ex": "Several health systems came close to collapse during the worst months of the pandemic."
+  },
+  {
+   "w": "colleague",
+   "pos": "n.",
+   "th": "เพื่อนร่วมงาน",
+   "fam": "",
+   "col": "senior colleagues / colleagues and I",
+   "ex": "Junior doctors often turn to senior colleagues for advice on difficult cases."
+  },
+  {
+   "w": "compile",
+   "pos": "v.",
+   "th": "รวบรวม / จัดทำ (ข้อมูล, รายการ)",
+   "fam": "compilation (n.)",
+   "col": "compile data / compile a list",
+   "ex": "Researchers compiled a list of all published trials on the topic since 2000."
+  },
+  {
+   "w": "conceive",
+   "pos": "v.",
+   "th": "คิดขึ้น, คิดค้น / เข้าใจ, จินตนาการ / ตั้งครรภ์",
+   "fam": "conception (n.), concept (n.), conceivable (adj.)",
+   "col": "conceive of / conceive a plan",
+   "ex": "Women who smoke may find it harder to conceive than non-smokers."
+  },
+  {
+   "w": "convince",
+   "pos": "v.",
+   "th": "ทำให้เชื่อ / โน้มน้าว",
+   "fam": "convincing (adj.), convinced (adj.), conviction (n.)",
+   "col": "convince someone to / convincing evidence",
+   "ex": "Health workers struggled to convince some parents to vaccinate their children."
+  },
+  {
+   "w": "depress",
+   "pos": "v.",
+   "th": "ทำให้ลดลง / ทำให้หดหู่ / กด",
+   "fam": "depression (n.), depressed (adj.), depressing (adj.)",
+   "col": "depress wages / depress demand",
+   "ex": "High unemployment can depress wages and reduce families' spending on healthy food."
+  },
+  {
+   "w": "encounter",
+   "pos": "v./n.",
+   "th": "เผชิญ, พบ (v.) / การพบ, การเผชิญ (n.)",
+   "fam": "",
+   "col": "encounter difficulties / clinical encounter",
+   "ex": "International students often encounter language barriers when using local health services."
+  },
+  {
+   "w": "enormous",
+   "pos": "adj.",
+   "th": "มหาศาล / มากมาย",
+   "fam": "enormously (adv.)",
+   "col": "an enormous burden / an enormous amount of",
+   "ex": "Chronic diseases place an enormous burden on families and health budgets."
+  },
+  {
+   "w": "forthcoming",
+   "pos": "adj.",
+   "th": "ที่กำลังจะมาถึง / (ข้อมูล, ความช่วยเหลือ) ที่จะได้รับ / เต็มใจให้ข้อมูล",
+   "fam": "",
+   "col": "a forthcoming report / forthcoming election",
+   "ex": "Details of the new policy will be explained in a forthcoming report."
+  },
+  {
+   "w": "incline",
+   "pos": "v.",
+   "th": "มีแนวโน้ม, โน้มเอียง (be inclined to) / เอียง, ลาด",
+   "fam": "inclination (n.), inclined (adj.)",
+   "col": "be inclined to / an inclination to",
+   "ex": "People who sleep poorly are more inclined to choose sugary snacks."
+  },
+  {
+   "w": "integrity",
+   "pos": "n.",
+   "th": "ความซื่อสัตย์, ความซื่อตรง / ความสมบูรณ์ครบถ้วน (ของข้อมูล)",
+   "fam": "",
+   "col": "research integrity / data integrity",
+   "ex": "Fabricating data is a serious breach of research integrity."
+  },
+  {
+   "w": "language acquisition",
+   "pos": "phr.",
+   "th": "การรับภาษา / การเรียนรู้ภาษา",
+   "fam": "",
+   "col": "second language acquisition / the process of language acquisition",
+   "ex": "Early exposure to rich conversation supports language acquisition in young children."
+  },
+  {
+   "w": "immersion",
+   "pos": "n.",
+   "th": "การเรียนแบบอยู่ในสภาพแวดล้อมของภาษา / การจุ่ม, การแช่",
+   "fam": "immerse (v.), immersive (adj.)",
+   "col": "language immersion / immersion programme",
+   "ex": "Students in the immersion programme spend most of the school day using English."
+  },
+  {
+   "w": "interdisciplinary",
+   "pos": "adj.",
+   "th": "สหวิทยาการ",
+   "fam": "",
+   "col": "interdisciplinary research / an interdisciplinary approach",
+   "ex": "Tackling obesity requires interdisciplinary research involving doctors, economists and urban planners."
+  },
+  {
+   "w": "content-based",
+   "pos": "adj.",
+   "th": "ที่ยึดเนื้อหาเป็นหลัก (สอนภาษาผ่านเนื้อหาวิชา)",
+   "fam": "",
+   "col": "content-based instruction / content-based learning",
+   "ex": "Content-based instruction teaches English through subjects such as science and health."
+  },
+  {
+   "w": "bilingual",
+   "pos": "adj./n.",
+   "th": "สองภาษา (adj.) / ผู้ใช้สองภาษา (n.)",
+   "fam": "bilingualism (n.), multilingual (adj.)",
+   "col": "bilingual education / bilingual speakers",
+   "ex": "Bilingual health leaflets helped migrant workers understand their treatment options."
+  }
+ ],
+ "43": [
+  {
+   "w": "intrinsic",
+   "pos": "adj.",
+   "th": "ที่มีอยู่ในตัว / ภายใน (แรงจูงใจ)",
+   "fam": "intrinsically (adv.)",
+   "col": "intrinsic motivation / intrinsic value",
+   "ex": "Students with strong intrinsic motivation tend to persist with difficult tasks."
+  },
+  {
+   "w": "invoke",
+   "pos": "v.",
+   "th": "อ้าง, ยกขึ้นมาอ้าง (กฎหมาย, หลักการ) / ใช้ (อำนาจ) / ปลุก (ความรู้สึก)",
+   "fam": "invocation (n.)",
+   "col": "invoke a principle / invoke emergency powers",
+   "ex": "Governments may invoke emergency powers to impose quarantine during an epidemic."
+  },
+  {
+   "w": "levy",
+   "pos": "n./v.",
+   "th": "ภาษี, การจัดเก็บ (n.) / จัดเก็บ (ภาษี) (v.)",
+   "fam": "",
+   "col": "impose a levy on / levy a tax",
+   "ex": "A levy on sugary drinks could raise funds for school nutrition programmes."
+  },
+  {
+   "w": "likewise",
+   "pos": "adv.",
+   "th": "เช่นเดียวกัน / ในทำนองเดียวกัน",
+   "fam": "",
+   "col": "Likewise, + clause / do likewise",
+   "ex": "Smoking harms the lungs; likewise, heavy drinking damages the liver over time."
+  },
+  {
+   "w": "nonetheless",
+   "pos": "adv.",
+   "th": "อย่างไรก็ตาม / ถึงกระนั้น",
+   "fam": "",
+   "col": "...; nonetheless, ... / but nonetheless",
+   "ex": "The effect was small; nonetheless, it could benefit millions at the population level."
+  },
+  {
+   "w": "notwithstanding",
+   "pos": "prep./adv.",
+   "th": "แม้จะมี / ทั้งๆ ที่ / ถึงอย่างไรก็ดี",
+   "fam": "",
+   "col": "notwithstanding these limitations / notwithstanding the fact that",
+   "ex": "Notwithstanding these limitations, the study provides useful evidence for local planners."
+  },
+  {
+   "w": "ongoing",
+   "pos": "adj.",
+   "th": "ที่ดำเนินอยู่ / ต่อเนื่อง",
+   "fam": "",
+   "col": "ongoing research / ongoing support",
+   "ex": "Patients recovering from stroke need ongoing support from families and therapists."
+  },
+  {
+   "w": "panel",
+   "pos": "n.",
+   "th": "คณะ (ผู้เชี่ยวชาญ, กรรมการ) / แผง / ข้อมูลระยะยาวจากกลุ่มเดิม (panel data)",
+   "fam": "panellist (n.)",
+   "col": "an expert panel / panel data",
+   "ex": "An independent panel reviewed all reports of serious adverse events."
+  },
+  {
+   "w": "persist",
+   "pos": "v.",
+   "th": "คงอยู่, ยังคงมี / ยืนกราน, มุ่งมั่นทำต่อ",
+   "fam": "persistent (adj.), persistence (n.), persistently (adv.)",
+   "col": "symptoms persist / persist in",
+   "ex": "Patients should see a doctor if a cough persists for more than three weeks."
+  },
+  {
+   "w": "pose",
+   "pos": "v.",
+   "th": "ก่อให้เกิด (ความเสี่ยง, ปัญหา) / ตั้ง (คำถาม)",
+   "fam": "",
+   "col": "pose a threat / pose a question",
+   "ex": "Rising temperatures pose a serious threat to the health of outdoor workers."
+  },
+  {
+   "w": "reluctance",
+   "pos": "n.",
+   "th": "ความไม่เต็มใจ / ความลังเล",
+   "fam": "reluctant (adj.), reluctantly (adv.)",
+   "col": "reluctance to + V / a reluctance to seek help",
+   "ex": "Men's reluctance to seek medical help often delays the diagnosis of cancer."
+  },
+  {
+   "w": "so-called",
+   "pos": "adj.",
+   "th": "ที่เรียกกันว่า (บางครั้งแฝงความไม่เชื่อถือ)",
+   "fam": "",
+   "col": "so-called experts / the so-called + noun",
+   "ex": "So-called detox teas have no proven health benefits and may cause dehydration."
+  },
+  {
+   "w": "straightforward",
+   "pos": "adj.",
+   "th": "ไม่ซับซ้อน, เข้าใจง่าย / ตรงไปตรงมา",
+   "fam": "straightforwardly (adv.)",
+   "col": "relatively straightforward / a straightforward procedure",
+   "ex": "Measuring blood pressure is a relatively straightforward procedure that nurses can teach patients."
+  },
+  {
+   "w": "undergo",
+   "pos": "v.",
+   "th": "ได้รับ (การผ่าตัด, การตรวจ) / ผ่าน (การเปลี่ยนแปลง)",
+   "fam": "",
+   "col": "undergo surgery / undergo change",
+   "ex": "All participants underwent a full medical examination before joining the exercise programme."
+  },
+  {
+   "w": "whereby",
+   "pos": "adv.",
+   "th": "ซึ่ง (โดยวิธีนั้น) / ที่ทำให้ (ใช้อธิบายระบบ, กระบวนการ)",
+   "fam": "",
+   "col": "a system whereby / a process whereby",
+   "ex": "The hospital introduced a system whereby nurses can order basic tests directly."
+  },
+  {
+   "w": "automation",
+   "pos": "n.",
+   "th": "ระบบอัตโนมัติ / การทำให้เป็นอัตโนมัติ",
+   "fam": "automate (v.), automatic (adj.), automated (adj.)",
+   "col": "workplace automation / job losses due to automation",
+   "ex": "Automation may replace many routine office jobs within the next two decades."
+  },
+  {
+   "w": "critical thinking",
+   "pos": "phr.",
+   "th": "การคิดเชิงวิพากษ์ / การคิดอย่างมีวิจารณญาณ",
+   "fam": "",
+   "col": "develop critical thinking / critical thinking skills",
+   "ex": "Problem-based learning helps medical students develop critical thinking skills."
+  },
+  {
+   "w": "academic integrity",
+   "pos": "phr.",
+   "th": "ความซื่อสัตย์ทางวิชาการ",
+   "fam": "",
+   "col": "uphold academic integrity / a breach of academic integrity",
+   "ex": "Universities are updating their academic integrity policies to address the use of AI tools."
+  },
+  {
+   "w": "digital literacy",
+   "pos": "phr.",
+   "th": "การรู้ดิจิทัล / ความรู้เท่าทันดิจิทัล",
+   "fam": "",
+   "col": "improve digital literacy / digital literacy skills",
+   "ex": "Older adults with limited digital literacy may struggle to book appointments online."
+  },
+  {
+   "w": "over-reliance",
+   "pos": "n.",
+   "th": "การพึ่งพามากเกินไป",
+   "fam": "rely (v.), reliance (n.), over-rely (v.)",
+   "col": "over-reliance on / reduce over-reliance",
+   "ex": "Over-reliance on chatbots may weaken students' ability to write and reason independently."
+  }
+ ]
+}

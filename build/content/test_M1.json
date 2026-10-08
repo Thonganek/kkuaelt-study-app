@@ -1,0 +1,979 @@
+{
+ "id": "M1",
+ "day": 41,
+ "title": "Full Mock Exam 1 — Reading",
+ "passages": [
+  {
+   "id": "M1P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "A Simple Routine at the Classroom Sink",
+   "paragraphs": [
+    "Primary schools in three northeastern provinces have recorded a marked fall in pupil absences after introducing a structured handwashing routine, according to an evaluation released this week by researchers at a regional university.",
+    "Under the programme, which ran for one academic year in 48 schools, children washed their hands with soap at fixed times: on arrival, before lunch and after using the toilet. Each school received low-cost washing stations, and teachers were trained to supervise the sessions rather than simply remind pupils to wash.",
+    "Compared with 46 similar schools that did not take part, participating schools reported 21 per cent fewer school days lost to illness. The largest reductions were in absences caused by diarrhoea and other stomach complaints, while the effect on colds and influenza was smaller but still noticeable.",
+    "“Telling children that handwashing matters is not enough,” said Dr. Pornthip Sangthong, who led the evaluation. “What made the difference was building the habit into the timetable, so that it became as automatic as lining up for lunch.”",
+    "The researchers caution, however, that such gains may be difficult to sustain. In several schools, soap supplies ran out during the second term, and attendance in those schools slipped back towards its earlier level. The team therefore recommends that local authorities set aside a dedicated budget for soap rather than relying on donations from parents and local businesses.",
+    "Provincial education officers are now considering whether to extend the scheme to a further 200 schools from next year, although no decision on funding has yet been made."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Teachers in three provinces were trained to supervise pupils at lunchtime.",
+      "Local authorities should fund soap rather than depend on donations.",
+      "A timetabled handwashing routine was linked to fewer absences in schools.",
+      "Children wash their hands less often at school than they do at home."
+     ],
+     "answer": 2,
+     "explain": "ใจความหลักอยู่ที่ ¶1: “recorded a marked fall in pupil absences after introducing a structured handwashing routine” ส่วนย่อหน้าอื่นเป็นรายละเอียดของโครงการนี้ จึงตอบ C ตัวเลือก B เป็นเพียงข้อเสนอแนะย่อยใน ¶5 จึงแคบเกินไปที่จะเป็นใจความหลัก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'marked' in paragraph 1 is closest in meaning to",
+     "options": [
+      "sudden",
+      "slight",
+      "recorded",
+      "clear"
+     ],
+     "answer": 3,
+     "explain": "¶1: “recorded a marked fall in pupil absences” — marked ในที่นี้หมายถึงชัดเจน เห็นได้ชัด (clear) ตัวเลือก C เป็นกับดักเพราะคำว่า recorded อยู่หน้าคำนี้ในประโยคเดียวกัน ส่วน sudden ผิดเพราะข้อความไม่ได้บอกว่าการลดลงเกิดขึ้นอย่างฉับพลัน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as part of the programme?",
+     "options": [
+      "posters reminding pupils to wash",
+      "handwashing at fixed times of day",
+      "low-cost washing stations in schools",
+      "training for teachers to supervise washing"
+     ],
+     "answer": 0,
+     "explain": "¶2 ระบุองค์ประกอบของโครงการไว้สามอย่าง คือ “at fixed times”, “low-cost washing stations” และ “teachers were trained to supervise the sessions” ซึ่งตรงกับ B, C, D ส่วนโปสเตอร์เตือนให้ล้างมือไม่ปรากฏในบทความเลย จึงตอบ A ระวังว่า ¶2 กล่าวถึงการ “remind pupils” เพียงเพื่อบอกว่าโครงการทำ ‘มากกว่า’ การเตือนเฉย ๆ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, which statement about colds and influenza is true?",
+     "options": [
+      "Absences caused by them did not change at all.",
+      "Absences caused by them fell, though less sharply.",
+      "They caused more absences than stomach complaints.",
+      "They were the main target of the programme."
+     ],
+     "answer": 1,
+     "explain": "¶3: “the effect on colds and influenza was smaller but still noticeable” แปลว่าการขาดเรียนจากหวัดและไข้หวัดใหญ่ลดลงเช่นกัน แต่ลดน้อยกว่าโรคทางเดินอาหาร จึงตอบ B ตัวเลือก A ผิดเพราะคำว่า still noticeable ยืนยันว่ามีผลอยู่จริง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Dr. Pornthip mentions 'lining up for lunch' in paragraph 4 in order to",
+     "options": [
+      "describe how pupils queued at the washing stations",
+      "illustrate how habitual handwashing should become",
+      "explain why pupils washed their hands before eating",
+      "compare the cost of two different school activities"
+     ],
+     "answer": 1,
+     "explain": "¶4: “so that it became as automatic as lining up for lunch” — ผู้พูดเปรียบเทียบเพื่อให้เห็นว่าการล้างมือควรกลายเป็นกิจวัตรที่ทำโดยอัตโนมัติ จึงตอบ B ตัวเลือก A ผิดเพราะบทความไม่ได้พูดถึงการต่อแถวที่จุดล้างมือ เป็นเพียงการยืมคำว่า lining up มาหลอก"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'those' in paragraph 5 refer to?",
+     "options": [
+      "schools where soap ran out",
+      "the 46 comparison schools",
+      "schools that received donations",
+      "all schools in the programme"
+     ],
+     "answer": 0,
+     "explain": "¶5: “soap supplies ran out during the second term, and attendance in those schools slipped back” — those schools ชี้กลับไปที่โรงเรียนกลุ่ม “several schools” ที่สบู่หมด จึงตอบ A ตัวเลือก D กว้างเกินไป เพราะไม่ใช่ทุกโรงเรียนในโครงการที่สบู่หมด"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that",
+     "options": [
+      "parents were unwilling to donate soap to schools",
+      "attendance fell below its level before the programme",
+      "local authorities have already agreed to fund soap",
+      "soap had so far come mainly from donations"
+     ],
+     "answer": 3,
+     "explain": "¶5: “recommends that local authorities set aside a dedicated budget for soap rather than relying on donations from parents and local businesses” — การเสนอให้เลิกพึ่งเงินบริจาค แสดงว่าที่ผ่านมาสบู่มาจากการบริจาคเป็นหลัก จึงตอบ D ตัวเลือก A เป็นกับดัก เพราะบทความไม่ได้บอกว่าผู้ปกครองไม่ยอมบริจาค และ B ผิดเพราะ “slipped back towards its earlier level” หมายถึงกลับไปใกล้ระดับเดิม ไม่ใช่ต่ำกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, provincial education officers are currently",
+     "options": [
+      "training teachers in 200 more schools",
+      "collecting soap from local businesses",
+      "deciding whether to expand the scheme",
+      "setting aside a budget for soap"
+     ],
+     "answer": 2,
+     "explain": "¶6: “Provincial education officers are now considering whether to extend the scheme to a further 200 schools” จึงตอบ C ตัวเลือก A ใช้ตัวเลข 200 มาหลอก แต่ยังไม่มีการขยายโครงการจริง และ D เป็นสิ่งที่นักวิจัยเสนอใน ¶5 ซึ่ง ¶6 ยืนยันว่า “no decision on funding has yet been made”"
+    }
+   ]
+  },
+  {
+   "id": "M1P2",
+   "kind": "short",
+   "genre": "announcement/notice",
+   "domain": "Environment",
+   "title": "Public Notice: Changes to Traffic Arrangements in the City Centre",
+   "paragraphs": [
+    "From March, the City Council will close part of the city centre to private motor vehicles on the first Sunday of every month, between 7 a.m. and 6 p.m. The scheme, which builds on a one-day trial held last November, is intended to reduce air pollution and noise and to give residents more space to walk, cycle and take part in community activities.",
+    "On each car-free day, the following roads will be closed to private cars and motorcycles: Riverside Road (between the Old Bridge and the Night Market), the whole of Market Street, and Temple Avenue as far as its junction with Station Road. Station Road itself will remain open, as will all routes to the main railway station.",
+    "To help people travel without a car, the council will run free shuttle buses every ten minutes from three park-and-ride sites on the edge of the city. Bus routes 4 and 11, which normally pass along Market Street, will be diverted via the ring road. Bicycle-sharing stations inside the closed area will remain in operation, and the council has arranged for them to offer the first hour free of charge.",
+    "Certain vehicles are exempt from the restrictions. These include ambulances, fire engines, police vehicles and vehicles displaying a valid disabled parking permit. Residents whose homes are inside the closed zone may drive to and from their property, but only at walking speed and only if they have registered their vehicle online at least five working days in advance. Deliveries to shops and restaurants will be permitted before 7 a.m. only.",
+    "Drivers who enter the zone without permission during the closure may be fined up to 1,000 baht. A map of the closed roads, together with the online registration form, is available on the council website. Enquiries about the scheme should be directed to the City Transport Office."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of the notice?",
+     "options": [
+      "To report the results of a road-closure trial held last November",
+      "To encourage residents to register for a bicycle-sharing scheme",
+      "To explain a new road-closure scheme and how it will operate",
+      "To warn drivers about higher fines for speeding in the centre"
+     ],
+     "answer": 2,
+     "explain": "¶1 ประกาศว่า “the City Council will close part of the city centre to private motor vehicles” แล้ว ¶2–¶5 อธิบายถนนที่ปิด ทางเลือกในการเดินทาง ข้อยกเว้น และค่าปรับ จึงตอบ C ตัวเลือก A ผิดเพราะการทดลองเมื่อเดือนพฤศจิกายนถูกกล่าวถึงเพียงประโยคเดียวเป็นภูมิหลัง ไม่มีการรายงานผลใด ๆ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the notice, which of the following roads will remain open to private cars on car-free days?",
+     "options": [
+      "Riverside Road",
+      "Market Street",
+      "Temple Avenue",
+      "Station Road"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Station Road itself will remain open” จึงตอบ D ตัวเลือก C เป็นกับดัก เพราะ Temple Avenue ถูกปิด “as far as its junction with Station Road” คือปิดไปจนถึงทางแยกที่ตัดกับ Station Road เท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, what will happen to bus routes 4 and 11 on car-free days?",
+     "options": [
+      "They will be cancelled for the day.",
+      "They will follow another route.",
+      "They will run every ten minutes.",
+      "They will carry passengers free."
+     ],
+     "answer": 1,
+     "explain": "¶3: “Bus routes 4 and 11 ... will be diverted via the ring road” — divert แปลว่าเปลี่ยนเส้นทาง จึงตอบ B ตัวเลือก C และ D หยิบรายละเอียดของรถรับส่งฟรี (shuttle buses) ที่วิ่ง “every ten minutes” มาหลอก ซึ่งไม่ใช่รถเมล์สาย 4 และ 11"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'them' in paragraph 3 refer to?",
+     "options": [
+      "the bicycle-sharing stations",
+      "the three park-and-ride sites",
+      "the free shuttle buses",
+      "bus routes 4 and 11"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Bicycle-sharing stations inside the closed area will remain in operation, and the council has arranged for them to offer the first hour free of charge” — สิ่งที่ให้ใช้ฟรีชั่วโมงแรกคือจุดจักรยานสาธารณะ จึงตอบ A ตัวเลือก C ผิดแม้รถรับส่งจะฟรีเช่นกัน เพราะ them อยู่ในประโยคเดียวกับ bicycle-sharing stations"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'exempt' in paragraph 4 is closest in meaning to",
+     "options": [
+      "removed",
+      "excused",
+      "prevented",
+      "separated"
+     ],
+     "answer": 1,
+     "explain": "¶4: “Certain vehicles are exempt from the restrictions. These include ambulances ...” — exempt from แปลว่าได้รับการยกเว้นจากข้อบังคับ ใกล้เคียงกับ excused (from) จึงตอบ B ตัวเลือก C (prevented) มีความหมายตรงข้าม เพราะรถเหล่านี้ได้รับอนุญาตให้เข้าได้ ไม่ใช่ถูกห้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following would NOT be allowed to enter the closed area during a car-free day?",
+     "options": [
+      "an ambulance responding to an emergency call",
+      "a car displaying a valid disabled parking permit",
+      "a registered resident driving home at walking speed",
+      "a van delivering goods to a restaurant at 9 a.m."
+     ],
+     "answer": 3,
+     "explain": "¶4: “Deliveries to shops and restaurants will be permitted before 7 a.m. only.” และเขตนี้ปิดตั้งแต่ 7 โมงเช้า รถส่งของเวลา 9 โมงเช้าจึงเข้าไม่ได้ ตอบ D ส่วน A, B, C ล้วนอยู่ในรายการข้อยกเว้นของ ¶4"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that a resident of the closed zone who registers their car only two days before a car-free day",
+     "options": [
+      "may not drive to their home on that day",
+      "will automatically be fined 1,000 baht",
+      "will be given a temporary permit on arrival",
+      "must leave the car at a park-and-ride site"
+     ],
+     "answer": 0,
+     "explain": "¶4 กำหนดว่าผู้อยู่อาศัยขับรถเข้าได้ “only if they have registered their vehicle online at least five working days in advance” การลงทะเบียนล่วงหน้าเพียงสองวันจึงไม่ทันสำหรับวันนั้น ตอบ A ตัวเลือก B ผิดเพราะ ¶5 ใช้คำว่า “may be fined” และจะถูกปรับก็ต่อเมื่อขับเข้าไปจริงเท่านั้น ไม่ใช่โดยอัตโนมัติ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the notice, where can people find a map of the closed roads?",
+     "options": [
+      "at the park-and-ride sites",
+      "at the City Transport Office",
+      "on the council website",
+      "at the main railway station"
+     ],
+     "answer": 2,
+     "explain": "¶5: “A map of the closed roads, together with the online registration form, is available on the council website.” จึงตอบ C ตัวเลือก B เป็นกับดัก เพราะ City Transport Office เป็นที่สำหรับส่งคำถาม (enquiries) ไม่ใช่ที่รับแผนที่"
+    }
+   ]
+  },
+  {
+   "id": "M1P3",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Education",
+   "title": "Keeping the Streak Alive: Games and the Language Learner",
+   "paragraphs": [
+    "Millions of people now begin their day not with coffee but with a five-minute language lesson on their phones. Many of the most popular learning apps borrow heavily from video games: learners earn points for correct answers, collect badges for completing units and compete with strangers on weekly leaderboards. Above all, they are urged to protect their “streak”, the number of consecutive days on which they have practised.",
+    "Supporters argue that these features address one of the oldest problems in language learning: persistence. Acquiring a new language takes hundreds of hours, and most adult learners abandon the effort long before they reach a useful level. A streak turns a distant, abstract goal into a concrete daily target, and the fear of losing a long streak appears to be a powerful motivator. In a recent survey of 900 adult app users in Bangkok and Chiang Mai, two-thirds said that protecting their streak was the main reason they opened the app on days when they felt tired.",
+    "Critics, however, question what exactly is being learned. Because points are usually awarded for speed and accuracy on short, predictable exercises, learners may be tempted to choose the easiest tasks and to repeat lessons they have already mastered. The outcome, warns Ajarn Nattaya Phromma, who teaches English at a university language centre, can be “a long streak and a short memory”. Learners may recognise hundreds of words on a screen yet struggle to produce a single spontaneous sentence in conversation.",
+    "Psychologists raise a further concern. Research on motivation suggests that external rewards can sometimes undermine the inner satisfaction people gain from an activity. If learners study mainly to collect points, their interest may fade once the rewards lose their novelty.",
+    "None of this means that game elements are worthless. Used thoughtfully, they can bring learners back day after day; what matters is what happens once they arrive. The wisest approach is to treat apps as a supplement to, rather than a substitute for, genuine communication with other people."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Language-learning apps have become more popular than traditional classes.",
+      "Game-like features in learning apps bring real benefits as well as risks.",
+      "Learners who keep long streaks usually become fluent speakers more quickly.",
+      "Psychologists recommend points and badges as the best way to motivate learners."
+     ],
+     "answer": 1,
+     "explain": "บทความเสนอทั้งมุมของผู้สนับสนุน (¶2) และผู้วิจารณ์ (¶3–¶4) แล้วสรุปใน ¶5: “None of this means that game elements are worthless” จึงตอบ B ตัวเลือก C ขัดกับ ¶3 ที่ชี้ว่าผู้เรียนอาจจำคำศัพท์ได้แต่ยังพูดเองไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'consecutive' in paragraph 1 is closest in meaning to",
+     "options": [
+      "individual",
+      "scheduled",
+      "recent",
+      "successive"
+     ],
+     "answer": 3,
+     "explain": "¶1: “the number of consecutive days on which they have practised” — streak คือจำนวนวันที่ฝึกต่อเนื่องกันไม่ขาด consecutive จึงตรงกับ successive (ติดต่อกัน) ตอบ D ตัวเลือก B (scheduled) ฟังดูเข้ากับบริบทแต่หมายถึงวันที่นัดหมายไว้ ไม่ได้หมายถึงความต่อเนื่อง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as a game feature used by learning apps?",
+     "options": [
+      "coins to spend on new lessons",
+      "badges for finishing units",
+      "rankings on weekly leaderboards",
+      "points for correct answers"
+     ],
+     "answer": 0,
+     "explain": "¶1 ระบุว่า “learners earn points for correct answers, collect badges for completing units and compete with strangers on weekly leaderboards” ตรงกับ B, C, D ส่วนเหรียญสำหรับซื้อบทเรียนไม่ได้กล่าวถึง จึงตอบ A"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the survey mentioned in paragraph 2, two-thirds of the users",
+     "options": [
+      "had kept a streak for more than a year",
+      "preferred leaderboards to earning badges",
+      "opened the app when tired to save their streak",
+      "felt tired after their daily practice sessions"
+     ],
+     "answer": 2,
+     "explain": "¶2: “two-thirds said that protecting their streak was the main reason they opened the app on days when they felt tired” จึงตอบ C ตัวเลือก D หยิบคำว่า tired มาหลอก แต่ความเหนื่อยเกิดขึ้น ‘ก่อน’ เปิดแอป ไม่ใช่ผลจากการฝึก"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'they' in paragraph 3 refer to?",
+     "options": [
+      "the points",
+      "the learners",
+      "the exercises",
+      "the lessons"
+     ],
+     "answer": 1,
+     "explain": "¶3: “learners may be tempted ... to repeat lessons they have already mastered” — ผู้ที่ ‘เชี่ยวชาญแล้ว’ คือผู้เรียน จึงตอบ B ตัวเลือก D เป็นกับดักเพราะ lessons อยู่ติดกับ they แต่บทเรียนไม่สามารถ master อะไรได้ (lessons เป็นกรรมของ mastered)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does Ajarn Nattaya most likely mean by 'a long streak and a short memory' in paragraph 3?",
+     "options": [
+      "Learners forget their streak once they stop using the app.",
+      "Long streaks help learners remember more vocabulary.",
+      "Short daily lessons are easier to remember than long ones.",
+      "Daily practice may not lead to lasting, usable knowledge."
+     ],
+     "answer": 3,
+     "explain": "ประโยคถัดมาใน ¶3 ขยายความว่า “Learners may recognise hundreds of words on a screen yet struggle to produce a single spontaneous sentence” คือฝึกทุกวันแต่ความรู้ไม่ติดตัวและนำไปใช้จริงไม่ได้ จึงตอบ D ตัวเลือก B มีความหมายตรงข้ามกับสิ่งที่อาจารย์ต้องการสื่อ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of paragraph 4?",
+     "options": [
+      "to add another criticism of game-based features",
+      "to explain how psychologists design learning apps",
+      "to show that rewards strengthen inner satisfaction",
+      "to describe a learner who lost interest in an app"
+     ],
+     "answer": 0,
+     "explain": "¶4 เปิดด้วย “Psychologists raise a further concern.” คำว่า further concern บอกว่านี่คือข้อวิจารณ์เพิ่มเติมจาก ¶3 จึงตอบ A ตัวเลือก C ตรงข้ามกับเนื้อหา เพราะรางวัลภายนอกอาจ “undermine” ความพึงพอใจภายใน"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "Many popular learning apps borrow heavily from video games.",
+      "Points are usually awarded for speed and accuracy.",
+      "The wisest approach is to treat apps as a supplement.",
+      "Acquiring a new language takes hundreds of hours."
+     ],
+     "answer": 2,
+     "explain": "¶5: “The wisest approach is to treat apps as a supplement to, rather than a substitute for, genuine communication” — คำว่า wisest เป็นการตัดสินคุณค่าของผู้เขียน จึงเป็นความคิดเห็น ตอบ C ส่วนข้ออื่นเป็นข้อเท็จจริงที่ตรวจสอบได้เกี่ยวกับลักษณะของแอปและเวลาที่ใช้เรียนภาษา"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward game elements in language apps can best be described as",
+     "options": [
+      "wholly enthusiastic",
+      "cautiously positive",
+      "strongly disapproving",
+      "largely indifferent"
+     ],
+     "answer": 1,
+     "explain": "¶5: “Used thoughtfully, they can bring learners back day after day” แสดงว่าผู้เขียนเห็นประโยชน์ แต่มีเงื่อนไขว่าต้องใช้อย่างรอบคอบและเป็นเพียงส่วนเสริม จึงตอบ B ตัวเลือก A ผิดเพราะผู้เขียนให้พื้นที่กับข้อวิจารณ์ถึงสองย่อหน้า"
+    }
+   ]
+  },
+  {
+   "id": "M1P4",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Medicine",
+   "title": "Out of Step with the Sun",
+   "paragraphs": [
+    "Nurses, factory workers, security guards and long-distance drivers keep modern societies running around the clock. A growing body of research suggests, however, that the price of working while others sleep may be paid not only in tiredness but also in long-term health.",
+    "At the centre of the problem is the circadian rhythm, the internal clock of roughly 24 hours that regulates sleep, body temperature, hormone release and digestion. This clock is set mainly by exposure to light. When people work through the night and sleep during the day, their behaviour falls out of step with the signals that the clock evolved to follow, and different systems in the body can become poorly coordinated with one another.",
+    "The consequences appear to be most pronounced for metabolism. In a study that followed 3,100 hospital nurses in central Thailand for eight years, those who had worked rotating night shifts for more than five years were about 30 per cent more likely to develop type 2 diabetes than colleagues who worked days only, even after differences in diet, exercise and body weight had been taken into account. Laboratory experiments offer a possible explanation: when healthy volunteers eat at night, their bodies process sugar less efficiently than when they eat an identical meal during the day.",
+    "Night work has also been associated with higher rates of high blood pressure, heart disease and digestive disorders, although researchers acknowledge that such studies cannot always separate the effects of the shift itself from those of the stress, poor sleep and irregular meals that frequently accompany it.",
+    "Since giving up night work is not an option for most of the people affected, attention has turned to reducing the harm. Sleep specialists recommend that employers rotate shifts in a “forward” direction, from mornings to evenings to nights, because the body adjusts more easily to a later schedule than to an earlier one. Workers are advised to avoid heavy meals between midnight and 6 a.m., to keep their bedrooms completely dark when sleeping during the day, and to wear sunglasses on the journey home to limit their exposure to morning light.",
+    "“We are never going to abolish the night shift,” says Dr. Wichai Thammasiri, an occupational health physician who was not involved in the nurses study. “But we can certainly design it so that it does far less damage.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Hospital Nurses Are Leaving Night Work",
+      "Night Work and Health: Risks and Remedies",
+      "How Light Sets the Human Body Clock",
+      "Diabetes Rates Soar Among Thai Factory Workers"
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายผลเสียต่อสุขภาพจากงานกะกลางคืน (¶2–¶4) แล้วเสนอวิธีลดผลเสีย (¶5: “attention has turned to reducing the harm”) ชื่อเรื่อง B จึงครอบคลุมที่สุด ตัวเลือก C แคบเกินไปเพราะกล่าวถึงแค่ ¶2 ส่วน D ผิดเพราะการศึกษาใน ¶3 ทำกับพยาบาล ไม่ใช่คนงานโรงงาน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what can happen when people work at night and sleep during the day?",
+     "options": [
+      "Bodily systems may stop working in harmony.",
+      "Their bodies stop releasing hormones at night.",
+      "Their internal clock switches to a 12-hour cycle.",
+      "They become more sensitive to bright light."
+     ],
+     "answer": 0,
+     "explain": "¶2: “different systems in the body can become poorly coordinated with one another” — ระบบต่าง ๆ ในร่างกายทำงานไม่ประสานกัน ตรงกับ A ตัวเลือก B ผิดเพราะบทความบอกเพียงว่านาฬิกาชีวภาพควบคุม hormone release ไม่ได้บอกว่าฮอร์โมนหยุดหลั่ง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'pronounced' in paragraph 3 is closest in meaning to",
+     "options": [
+      "spoken",
+      "announced",
+      "predictable",
+      "noticeable"
+     ],
+     "answer": 3,
+     "explain": "¶3: “The consequences appear to be most pronounced for metabolism” — pronounced ในฐานะคำคุณศัพท์แปลว่าเด่นชัด เห็นได้ชัด จึงตอบ D ตัวเลือก A และ B เป็นกับดักจากความหมายของกริยา pronounce (ออกเสียง/ประกาศ) ซึ่งไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The phrase 'even after differences in diet, exercise and body weight had been taken into account' in paragraph 3 suggests that",
+     "options": [
+      "the night-shift nurses ate less healthily than the day-shift nurses",
+      "body weight was the main cause of diabetes among the nurses",
+      "lifestyle differences alone could not explain the higher risk",
+      "the researchers did not collect data on the nurses' diets"
+     ],
+     "answer": 2,
+     "explain": "¶3: “even after differences in diet, exercise and body weight had been taken into account” แปลว่านักวิจัยปรับตัวแปรด้านวิถีชีวิตแล้วแต่ความเสี่ยงยังสูงอยู่ จึงอนุมานได้ว่าวิถีชีวิตอย่างเดียวอธิบายไม่ได้ ตอบ C ตัวเลือก D ผิดเพราะการ ‘นำมาพิจารณา’ ได้ แสดงว่ามีการเก็บข้อมูลอาหารแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention laboratory experiments in paragraph 3?",
+     "options": [
+      "to suggest why the study produced its result",
+      "to show that the nurses study was poorly designed",
+      "to advise healthy volunteers not to eat at night",
+      "to compare Thai nurses with nurses in other countries"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Laboratory experiments offer a possible explanation: when healthy volunteers eat at night, their bodies process sugar less efficiently” — ผู้เขียนยกการทดลองมาเพื่ออธิบายกลไกที่อาจเชื่อมงานกะดึกกับเบาหวาน จึงตอบ A ตัวเลือก C ผิดเพราะผู้เขียนไม่ได้ให้คำแนะนำแก่อาสาสมัคร แต่ใช้ผลการทดลองเป็นหลักฐาน"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'those' in paragraph 4 refer to?",
+     "options": [
+      "the studies",
+      "the effects",
+      "the researchers",
+      "the rates"
+     ],
+     "answer": 1,
+     "explain": "¶4: “separate the effects of the shift itself from those of the stress, poor sleep and irregular meals” — those ใช้แทนคำนามพหูพจน์ effects เพื่อไม่ต้องซ้ำคำ (the effects of the stress ...) จึงตอบ B ตัวเลือก A ผิดเพราะ ‘studies of the stress’ ไม่เข้ากับโครงสร้าง separate X from Y ในประโยคนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, why do sleep specialists recommend a 'forward' rotation of shifts?",
+     "options": [
+      "It reduces the total number of night shifts.",
+      "It allows workers to sleep in darker rooms.",
+      "It gives workers more days off between shifts.",
+      "The body adjusts better to later hours."
+     ],
+     "answer": 3,
+     "explain": "¶5: “because the body adjusts more easily to a later schedule than to an earlier one” จึงตอบ D ตัวเลือก B นำคำแนะนำเรื่องห้องนอนมืดซึ่งอยู่ในประโยคถัดไปมาหลอก แต่นั่นเป็นคำแนะนำสำหรับคนทำงาน ไม่ใช่เหตุผลของการหมุนกะไปข้างหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT recommended in paragraph 5?",
+     "options": [
+      "avoiding heavy meals in the early hours of the morning",
+      "keeping the bedroom dark when sleeping during the day",
+      "taking a short nap in the middle of a night shift",
+      "wearing sunglasses while travelling home after work"
+     ],
+     "answer": 2,
+     "explain": "¶5 แนะนำให้ “avoid heavy meals between midnight and 6 a.m.”, ให้ห้องนอน “completely dark” และ “wear sunglasses on the journey home” ตรงกับ A, B, D ส่วนการงีบระหว่างกะไม่ได้กล่าวถึงเลย จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'abolish' in paragraph 6 is closest in meaning to",
+     "options": [
+      "eliminate",
+      "shorten",
+      "reorganise",
+      "criticise"
+     ],
+     "answer": 0,
+     "explain": "¶6: “We are never going to abolish the night shift” — abolish แปลว่ายกเลิกให้หมดไป ตรงกับ eliminate ตอบ A ตัวเลือก C (reorganise) ตรงกับสิ่งที่แพทย์เสนอในประโยคถัดไป (design it) ซึ่งเป็นสิ่งที่ทำได้ ต่างจาก abolish ที่เขาบอกว่าทำไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Wichai's attitude toward night work can best be described as",
+     "options": [
+      "alarmed",
+      "dismissive",
+      "enthusiastic",
+      "pragmatic"
+     ],
+     "answer": 3,
+     "explain": "¶6: “But we can certainly design it so that it does far less damage.” — แพทย์ยอมรับว่ากะกลางคืนยกเลิกไม่ได้ จึงมุ่งหาทางลดผลเสียอย่างเป็นรูปธรรม ทัศนคติจึงเป็นแบบปฏิบัติได้จริง (pragmatic) ตอบ D ตัวเลือก A ผิดเพราะน้ำเสียงไม่ได้ตื่นตระหนก แต่มั่นใจว่าแก้ไขได้"
+    }
+   ]
+  },
+  {
+   "id": "M1P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Society",
+   "title": "Environmental Change and Human Mobility: Patterns, Concepts and Policy Challenges",
+   "paragraphs": [
+    "Few images of climate change have proved as powerful as that of the “climate refugee”: a person driven from a sinking island or a parched farm to seek safety in a distant country. Forecasts of hundreds of millions of people crossing international borders by the middle of the century are frequently repeated in campaigns and news reports. Yet researchers who study the links between environment and migration paint a far more complicated picture. Environmental change rarely acts alone; it interacts with poverty, land ownership, conflict and government policy, which is why many analysts describe it as a “threat multiplier” rather than a direct cause of movement.",
+    "A useful starting point is the distinction between sudden-onset and slow-onset events. Sudden-onset hazards, such as floods, cyclones and landslides, can displace very large numbers of people within hours. Most of this displacement, however, is short in both distance and duration: people typically shelter with relatives or in temporary camps nearby and return once the water recedes. A household survey conducted after a severe cyclone on the Bay of Bengal coast, for instance, found that more than four in five displaced families were back in their villages within six months. The picture changes when disasters strike the same area repeatedly. Each event erodes savings and assets, and a family that recovered from the first flood may lack the means to rebuild after the third.",
+    "Slow-onset processes, by contrast, include rising sea levels, the intrusion of salt water into farmland, prolonged drought and the gradual degradation of soil. Their effects accumulate over years or decades, and the migration they produce is correspondingly gradual. Rather than abandoning their homes all at once, households often diversify: one or two younger members move to a city or abroad, while the rest of the family remains on the land, supported by the remittances that migrants send home. In the Mekong Delta, where rising salinity has reduced rice yields in many coastal districts, this pattern has become common. Yet when such migrants are interviewed, most cite jobs and wages rather than the environment as their reason for leaving, which makes the role of climate notoriously difficult to measure.",
+    "A second point that popular accounts tend to overlook is that the great majority of environmentally related migration takes place within national borders. Rural people who leave drought-stricken or flood-prone areas usually move to nearby towns or to the capital, where they can draw on existing social networks and where no passport or visa is required. This internal movement has consequences of its own. Newcomers often settle in informal neighbourhoods on low-lying or unstable land that other residents have avoided, and these areas are frequently more exposed to flooding and extreme heat than the villages that migrants left behind. In this sense, poorly managed urban growth can simply relocate risk rather than reduce it.",
+    "Equally important, migration requires resources. Moving to a city means paying for transport, finding accommodation and surviving without income until work is found, and these costs are beyond the reach of the poorest households. As a result, the people most exposed to environmental hazards are not necessarily the ones most likely to move. Researchers have used the term “trapped populations” to describe groups who wish to leave a dangerous area but cannot, as well as those so tied to the land that they choose not to. Viewed from this angle, the ability to migrate is itself a form of adaptation, and its absence may signal greater, not lesser, vulnerability.",
+    "The language used to describe these movements remains contested. Under the 1951 Refugee Convention, a refugee is someone who has crossed an international border owing to a well-founded fear of persecution; environmental hazards fall outside this definition, so in legal terms there is no such thing as a climate refugee. Some advocates nonetheless favour the term precisely because it conveys urgency and implies a duty of protection. Others reject it. Leaders in several Pacific island nations, for example, have objected that it portrays their citizens as helpless victims, calling instead for “migration with dignity”, planned well in advance. Most researchers now prefer more neutral expressions, such as “climate-related mobility”, which cover displacement, voluntary migration and planned relocation alike.",
+    "Policy responses have struggled to keep pace. No binding international agreement protects people who cross borders because of environmental change, and only a handful of governments offer humanitarian visas on these grounds. At the national level, several countries have begun to incorporate mobility into their adaptation plans. Fiji, for instance, has moved a number of coastal villages to higher ground and has drawn up guidelines for future relocations. Such schemes, however, are expensive and socially delicate. Communities may lose access to fishing grounds, farmland and burial sites, and resettlement that is imposed rather than negotiated has a long history of leaving people poorer than before.",
+    "What emerges from this body of research is that migration should be understood neither simply as a failure of adaptation nor as a looming security threat. Policies that aim only to keep people in place are likely to fail, and those that treat migrants mainly as a burden risk making their situation worse. A more promising approach would pursue three goals at once: reducing the pressures that force people to leave, enabling those who do move to do so safely and legally, and supporting those who remain. In my view, the central question for the coming decades is not whether people will move in response to a changing climate, but whether they will be able to do so in safety."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most people displaced by sudden disasters return home within a few months.",
+      "Climate-related migration is more complex than the popular image suggests.",
+      "The 1951 Refugee Convention should be revised to protect climate refugees.",
+      "Governments should move vulnerable coastal villages away from the sea."
+     ],
+     "answer": 1,
+     "explain": "¶1 ตั้งประเด็นว่าภาพ “climate refugee” ที่คนทั่วไปเข้าใจนั้นง่ายเกินไป: “researchers ... paint a far more complicated picture” แล้วย่อหน้าที่เหลือแสดงความซับซ้อนนั้นในแง่รูปแบบ ถ้อยคำ และนโยบาย จึงตอบ B ตัวเลือก A เป็นเพียงรายละเอียดใน ¶2 ส่วน C ผู้เขียนไม่ได้เสนอให้แก้อนุสัญญาเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'parched' in paragraph 1 is closest in meaning to",
+     "options": [
+      "flooded",
+      "abandoned",
+      "dried-out",
+      "overcrowded"
+     ],
+     "answer": 2,
+     "explain": "¶1: “driven from a sinking island or a parched farm” — parched แปลว่าแห้งผาก ขาดน้ำ (dried-out) ซึ่งคู่กับภาพเกาะที่กำลังจมเป็นภัยสองแบบที่ตรงข้ามกัน จึงตอบ C ตัวเลือก A (flooded) เป็นความหมายตรงข้าม และ B (abandoned) เป็นผลที่ตามมา ไม่ใช่ความหมายของคำ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, most displacement caused by sudden-onset hazards is",
+     "options": [
+      "permanent and long-distance",
+      "directed toward other countries",
+      "organised by national governments",
+      "brief and close to home"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Most of this displacement, however, is short in both distance and duration” คือย้ายไม่ไกลและไม่นาน จึงตอบ D ตัวเลือก A มีความหมายตรงข้าม และ B ขัดกับข้อความที่ว่าผู้คนไปพักกับญาติหรือค่ายชั่วคราว “nearby”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that repeated disasters in the same area",
+     "options": [
+      "may eventually force families to leave for good",
+      "cause less damage as families learn to prepare",
+      "are less common than single, isolated disasters",
+      "make relatives more willing to offer shelter"
+     ],
+     "answer": 0,
+     "explain": "¶2: “a family that recovered from the first flood may lack the means to rebuild after the third” — เมื่อไม่มีทุนสร้างบ้านใหม่ ครอบครัวจึงอาจต้องย้ายออกถาวร ต่างจากการอพยพชั่วคราวหลังภัยครั้งเดียว ตอบ A ตัวเลือก B ขัดกับคำว่า “erodes savings and assets” ที่บอกว่าความเสียหายสะสมเพิ่มขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'they' in paragraph 3 refer to?",
+     "options": [
+      "years or decades",
+      "slow-onset processes",
+      "younger household members",
+      "coastal farmland"
+     ],
+     "answer": 1,
+     "explain": "¶3: “Their effects accumulate over years or decades, and the migration they produce is correspondingly gradual” — สิ่งที่ ‘ก่อให้เกิด’ การย้ายถิ่นคือกระบวนการที่เกิดขึ้นช้า ๆ ซึ่งเป็นประธานของย่อหน้า จึงตอบ B ตัวเลือก A เป็นกับดักเพราะอยู่ใกล้ they ที่สุด แต่ระยะเวลาไม่สามารถ produce การย้ายถิ่นได้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, why is the role of climate in slow-onset migration difficult to measure?",
+     "options": [
+      "Few households allow researchers to interview them.",
+      "Salinity levels in the delta change every year.",
+      "Most migrants return to their villages quickly.",
+      "Migrants usually give economic reasons for moving."
+     ],
+     "answer": 3,
+     "explain": "¶3: “most cite jobs and wages rather than the environment as their reason for leaving, which makes the role of climate notoriously difficult to measure” จึงตอบ D ตัวเลือก B ใช้คำว่า salinity จากประโยคก่อนหน้ามาหลอก แต่ความเค็มไม่ใช่เหตุผลที่ทำให้วัดบทบาทของภูมิอากาศได้ยาก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'overlook' in paragraph 4 is closest in meaning to",
+     "options": [
+      "ignore",
+      "supervise",
+      "exaggerate",
+      "look down on"
+     ],
+     "answer": 0,
+     "explain": "¶4: “A second point that popular accounts tend to overlook” — overlook ในที่นี้คือมองข้าม ไม่ได้ให้ความสนใจ (ignore) ตอบ A ตัวเลือก B (supervise) เป็นความหมายอีกแบบของ overlook ที่ใช้กับการดูแลงาน ซึ่งไม่เข้ากับบริบทของรายงานข่าวที่มองข้ามข้อเท็จจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention informal neighbourhoods on low-lying or unstable land in paragraph 4?",
+     "options": [
+      "to explain why most migrants prefer to move abroad",
+      "to argue that cities should stop accepting rural migrants",
+      "to show that moving to a city may not make migrants safer",
+      "to describe the villages that migrants have left behind"
+     ],
+     "answer": 2,
+     "explain": "¶4 สรุปว่า “poorly managed urban growth can simply relocate risk rather than reduce it” ผู้เขียนยกชุมชนแออัดบนที่ลุ่มเพื่อชี้ว่าผู้ย้ายถิ่นอาจเผชิญความเสี่ยงไม่น้อยกว่าเดิม จึงตอบ C ตัวเลือก B ไปไกลกว่าที่ผู้เขียนกล่าว เพราะผู้เขียนวิจารณ์การจัดการเมือง ไม่ได้เสนอให้ปฏิเสธผู้ย้ายถิ่น"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that a rise in household incomes in a hazard-prone area could",
+     "options": [
+      "reduce the number of people who wish to leave",
+      "lower the area's exposure to environmental hazards",
+      "make it harder for researchers to study migration",
+      "make it more likely that some residents will leave"
+     ],
+     "answer": 3,
+     "explain": "¶5: “these costs are beyond the reach of the poorest households” — เมื่อการย้ายถิ่นต้องใช้เงิน รายได้ที่สูงขึ้นจึงทำให้บางครัวเรือนมีกำลังย้ายออกได้มากขึ้น ตอบ D ตัวเลือก A เป็นกับดักเพราะดูสมเหตุสมผล แต่บทความไม่ได้พูดถึงความ ‘ต้องการ’ ย้ายที่ลดลงเมื่อรายได้เพิ่ม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 7 as a drawback of relocating communities?",
+     "options": [
+      "the high cost of moving whole villages",
+      "tension with existing host communities",
+      "loss of access to burial sites",
+      "loss of access to fishing grounds"
+     ],
+     "answer": 1,
+     "explain": "¶7 ระบุว่าโครงการย้ายชุมชน “are expensive” และชุมชน “may lose access to fishing grounds, farmland and burial sites” ตรงกับ A, C, D ส่วนความขัดแย้งกับชุมชนเดิมในพื้นที่ใหม่ไม่ได้กล่าวถึง จึงตอบ B"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Policies that aim only to keep people in place are likely to fail.",
+      "Most environmentally related migration takes place within national borders.",
+      "Environmental hazards fall outside the 1951 legal definition of a refugee.",
+      "Rising salinity has reduced rice yields in parts of the Mekong Delta."
+     ],
+     "answer": 0,
+     "explain": "¶8: “Policies that aim only to keep people in place are likely to fail” เป็นการคาดการณ์และประเมินของผู้เขียน (likely to) ซึ่งพิสูจน์ไม่ได้ในปัจจุบัน จึงเป็นความคิดเห็น ตอบ A ส่วน C เป็นข้อเท็จจริงทางกฎหมายที่ตรวจสอบได้จากตัวอนุสัญญา แม้จะฟังดูเป็นการตีความ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is paragraph 3 related to paragraph 2?",
+     "options": [
+      "It provides further examples of the hazards described in paragraph 2.",
+      "It challenges the survey findings reported in paragraph 2.",
+      "It turns to a contrasting type of change and its effects.",
+      "It explains the causes of the disasters mentioned in paragraph 2."
+     ],
+     "answer": 2,
+     "explain": "¶2 พูดถึงภัยแบบฉับพลัน ส่วน ¶3 เปิดด้วย “Slow-onset processes, by contrast” ซึ่งเป็นสัญญาณของการเปรียบเทียบความแตกต่าง จึงตอบ C ตัวเลือก A ผิดเพราะภัยใน ¶3 (น้ำทะเลหนุน ภัยแล้ง) เป็นคนละประเภทกับน้ำท่วมและพายุใน ¶2 ไม่ใช่ตัวอย่างเพิ่มเติม"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Rather than a direct cause of movement, what do many analysts call environmental change? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "threat multiplier",
+      "a threat multiplier"
+     ],
+     "explain": "¶1: “many analysts describe it as a “threat multiplier” rather than a direct cause of movement” — หมายถึงปัจจัยที่ทำให้แรงกดดันเดิม เช่น ความยากจนหรือความขัดแย้ง รุนแรงขึ้น"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 3, what do migrants send home that helps the rest of the family remain on the land? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "remittances",
+      "remittance",
+      "the remittances"
+     ],
+     "explain": "¶3: “the rest of the family remains on the land, supported by the remittances that migrants send home” — remittances คือเงินที่สมาชิกซึ่งไปทำงานต่างถิ่นส่งกลับบ้าน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term have researchers used for groups who wish to leave a dangerous area but are unable to do so? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "trapped populations",
+      "trapped population"
+     ],
+     "explain": "¶5: “Researchers have used the term “trapped populations” to describe groups who wish to leave a dangerous area but cannot” — คำนี้ชี้ว่าคนจนที่สุดมักไม่มีทุนพอจะย้ายออก"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What did leaders in several Pacific island nations call for instead of having their citizens described as climate refugees? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "migration with dignity"
+     ],
+     "explain": "¶6: “calling instead for “migration with dignity”, planned well in advance” — ผู้นำเหล่านี้ปฏิเสธคำว่า climate refugee เพราะทำให้พลเมืองดูเป็นเหยื่อที่ช่วยตัวเองไม่ได้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 7, where has Fiji moved a number of coastal villages? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "higher ground",
+      "to higher ground"
+     ],
+     "explain": "¶7: “Fiji, for instance, has moved a number of coastal villages to higher ground” — เป็นตัวอย่างของการย้ายชุมชนตามแผน (planned relocation) ในระดับประเทศ"
+    }
+   ]
+  },
+  {
+   "id": "M1P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "AI/Technology",
+   "title": "The Road Ahead: Autonomous Vehicles in Transport Policy",
+   "paragraphs": [
+    "Each year more than a million people die on the world's roads, and tens of millions more are injured. Thailand has long had one of the highest rates of road deaths in Asia, with motorcyclists accounting for the majority of victims. Against this background, the appeal of the autonomous vehicle is easy to understand. A car that never drinks, never falls asleep and never checks a message while driving could, its supporters argue, prevent most of these deaths, while also offering independent mobility to elderly and disabled people. Whether that promise can be fulfilled, however, depends on technical, legal and social questions that remain largely unresolved.",
+    "It is first necessary to clarify what is meant by “autonomous”. Engineers commonly distinguish six levels of automation, ranging from level 0, in which the human performs every driving task, to level 5, in which the vehicle can drive anywhere, in any conditions, without human involvement. Most new cars marketed as self-driving in fact operate at level 2: they can steer, brake and accelerate on their own, but the driver must supervise continuously and be ready to intervene at any moment. Fully driverless taxis do exist, but only in a few cities and only within carefully mapped zones, often described as “geofenced” areas, where conditions are relatively predictable.",
+    "The central safety argument rests on a frequently quoted statistic: human error is a contributing factor in more than nine out of ten crashes. If machines replace humans, the reasoning goes, most crashes will disappear. Critics point out that this conclusion does not follow. The statistic shows only that a human mistake usually appears somewhere in the chain of events leading to a crash; it does not show that a computer would have avoided that mistake, and automated systems introduce errors of their own, such as misidentifying an unusual object. Moreover, fatal crashes are rare relative to the distance driven, so a driverless fleet would need to cover hundreds of millions of kilometres before its safety record could be compared with that of human drivers with any confidence.",
+    "A further difficulty concerns the transfer of control between machine and human. At levels 2 and 3, the system handles routine driving but may hand control back to the driver when it meets a situation it cannot manage. Decades of research in aviation and industrial automation show that people are poor at monitoring a process that rarely requires their input: attention drifts, reaction times lengthen, and skills that are seldom practised gradually decline. A driver who has been passively watching the road for forty minutes may need several seconds to grasp an emergency, and at motorway speed a car covers more than thirty metres every second. Ironically, therefore, partial automation may in some circumstances be more hazardous than either full automation or none at all.",
+    "Questions of liability are equally pressing. When a human driver causes a crash, legal responsibility is usually clear. When a vehicle is driving itself, however, responsibility might plausibly rest with the manufacturer, the developer of the software, the supplier of the digital maps, or an owner who failed to install an update. Several countries have begun to revise their laws so that the company that built and authorised the system, rather than the person in the driver's seat, is held responsible while the automated mode is engaged. Insurers, meanwhile, will need access to the vehicle's data to establish what happened, which raises further questions about who owns that data and who may examine it.",
+    "In the public mind, the ethical debate has been dominated by variations on the so-called trolley problem: should a car that cannot avoid a collision swerve to save five pedestrians at the cost of its own passenger? A large online survey that gathered millions of responses from around the world found that people's preferences in such dilemmas differed noticeably between cultures. Many engineers, however, regard these scenarios as a distraction, since situations in which a vehicle must choose between victims are extremely rare. More important, they argue, are everyday ethical questions: how much risk society should accept from a new technology, how that risk is distributed between passengers, pedestrians and cyclists, and how the vast quantities of data collected by vehicles are used.",
+    "Infrastructure presents a different kind of challenge. Automated vehicles rely on clearly painted lane markings, consistent road signs and detailed digital maps that must be constantly updated. Many roads in Southeast Asia, where faded markings, temporary roadworks, street vendors and dense motorcycle traffic are part of everyday driving, fall far short of this ideal. Upgrading them, or installing the roadside sensors that allow vehicles to communicate with traffic signals, would require heavy public investment. There is a risk, therefore, that the benefits of automation will flow first to wealthy cities and well-maintained highways, widening the gap between those places and the rural areas where road deaths are often highest.",
+    "Finally, automation would have significant consequences for employment. Driving is one of the largest sources of work for people without university degrees, from long-distance lorry drivers to taxi and motorcycle-taxi riders. Optimists note that the transition will be gradual and that new jobs will emerge in fleet maintenance, remote supervision and data management; yet there is little reason to assume that these jobs will go to the same workers, in the same places. Taken together, the evidence suggests that autonomous vehicles are neither the cure for road deaths that their promoters claim nor the menace that their opponents fear. Their eventual impact will depend less on the technology itself than on the regulations, investments and honest evaluation that accompany it."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Autonomous vehicles will soon eliminate most deaths on the world's roads.",
+      "Driverless cars have already proved safer than human drivers in most cities.",
+      "The benefits of driverless cars depend on many unresolved questions.",
+      "Governments should invest heavily in roads to prepare for driverless cars."
+     ],
+     "answer": 2,
+     "explain": "¶1 วางกรอบไว้ว่า “Whether that promise can be fulfilled ... depends on technical, legal and social questions that remain largely unresolved” แล้ว ¶2–¶8 ไล่อภิปรายทีละประเด็น จึงตอบ C ตัวเลือก D แคบเกินไปเพราะเรื่องลงทุนถนนเป็นเพียงประเด็นใน ¶7 และ B ขัดกับ ¶3 ที่บอกว่ายังพิสูจน์ความปลอดภัยไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'fulfilled' in paragraph 1 is closest in meaning to",
+     "options": [
+      "realised",
+      "explained",
+      "measured",
+      "promoted"
+     ],
+     "answer": 0,
+     "explain": "¶1: “Whether that promise can be fulfilled” — การ fulfil คำสัญญาคือทำให้เป็นจริง (realised) ตอบ A ตัวเลือก D (promoted) เป็นกับดักเพราะผู้สนับสนุนกำลังโปรโมตรถไร้คนขับอยู่จริง แต่ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, cars that operate at level 2",
+     "options": [
+      "can drive anywhere without any human involvement",
+      "require constant supervision by the driver",
+      "are mainly used as taxis in a few large cities",
+      "cannot steer or brake without the driver's help"
+     ],
+     "answer": 1,
+     "explain": "¶2: “the driver must supervise continuously and be ready to intervene at any moment” จึงตอบ B ตัวเลือก A เป็นคำอธิบายของ level 5 และ D ขัดกับข้อความที่ว่ารถระดับนี้ “can steer, brake and accelerate on their own”"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is paragraph 3 organised?",
+     "options": [
+      "A problem is described and several solutions are then proposed.",
+      "Two sets of statistics are compared to show which is more reliable.",
+      "Events in the development of automated cars are given in time order.",
+      "A common argument is presented and its reasoning is then questioned."
+     ],
+     "answer": 3,
+     "explain": "¶3 เริ่มจากข้ออ้างที่นิยมใช้ (“The central safety argument rests on a frequently quoted statistic”) แล้วหักล้างด้วย “Critics point out that this conclusion does not follow” จึงตอบ D ตัวเลือก B ผิดเพราะย่อหน้ามีสถิติเพียงชุดเดียว ไม่ได้เปรียบเทียบสองชุด"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'its' in paragraph 3 refer to?",
+     "options": [
+      "the chain of events",
+      "the statistic",
+      "a driverless fleet",
+      "an automated system"
+     ],
+     "answer": 2,
+     "explain": "¶3: “a driverless fleet would need to cover hundreds of millions of kilometres before its safety record could be compared” — สถิติความปลอดภัยที่ต้องสะสมคือของฝูงรถไร้คนขับ จึงตอบ C ตัวเลือก D ใกล้เคียงแต่ผิด เพราะ automated systems ในย่อหน้าเป็นพหูพจน์และอยู่คนละประโยค"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'seldom' in paragraph 4 is closest in meaning to",
+     "options": [
+      "rarely",
+      "carefully",
+      "regularly",
+      "recently"
+     ],
+     "answer": 0,
+     "explain": "¶4: “skills that are seldom practised gradually decline” — seldom แปลว่าแทบไม่ค่อย (rarely) ทักษะที่ไม่ค่อยได้ใช้จึงเสื่อมลง ตอบ A ตัวเลือก C (regularly) มีความหมายตรงข้ามและทำให้ประโยคขัดแย้งในตัวเอง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that a car covers more than thirty metres every second at motorway speed?",
+     "options": [
+      "to argue that speed limits on motorways should be lowered",
+      "to compare the speed of automated and human-driven cars",
+      "to explain why automated systems need detailed digital maps",
+      "to stress how costly a slow human response can be"
+     ],
+     "answer": 3,
+     "explain": "ประโยคใน ¶4 จับคู่ “may need several seconds to grasp an emergency” กับระยะทางกว่า 30 เมตรต่อวินาที เพื่อให้เห็นว่าความล่าช้าเพียงไม่กี่วินาทีเท่ากับระยะทางหลายสิบเมตร จึงตอบ D ตัวเลือก A ผิดเพราะผู้เขียนไม่ได้เสนอให้ลดความเร็วเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'pressing' in paragraph 5 is closest in meaning to",
+     "options": [
+      "forceful",
+      "urgent",
+      "confusing",
+      "expensive"
+     ],
+     "answer": 1,
+     "explain": "¶5: “Questions of liability are equally pressing.” — pressing questions คือคำถามที่เร่งด่วนต้องได้รับคำตอบ (urgent) ตอบ B ตัวเลือก A (forceful) เป็นกับดักจากความหมายตรงตัวของกริยา press (กด) ซึ่งไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a party that might be held responsible when a self-driving vehicle crashes?",
+     "options": [
+      "the company that supplied the digital maps",
+      "an owner who did not install an update",
+      "the government that approved the vehicle",
+      "the developer of the vehicle's software"
+     ],
+     "answer": 2,
+     "explain": "¶5 ระบุผู้ที่อาจต้องรับผิดไว้ว่า “the manufacturer, the developer of the software, the supplier of the digital maps, or an owner who failed to install an update” ไม่มีรัฐบาลอยู่ในรายการ จึงตอบ C ระวังคำว่า authorised ในประโยคถัดมา ซึ่งหมายถึงบริษัทผู้สร้างระบบ ไม่ใช่หน่วยงานรัฐ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that many engineers believe",
+     "options": [
+      "rare dilemmas have received more attention than they deserve",
+      "cultural differences should decide how each car is programmed",
+      "cars should always be programmed to protect their own passengers",
+      "online surveys are the most reliable guide to ethical decisions"
+     ],
+     "answer": 0,
+     "explain": "¶6: “Many engineers, however, regard these scenarios as a distraction, since situations in which a vehicle must choose between victims are extremely rare” — การเรียกว่าเป็นสิ่งที่ทำให้ไขว้เขว แสดงว่าพวกเขาเห็นว่าสถานการณ์เหล่านี้ได้รับความสนใจเกินควร ตอบ A ตัวเลือก B มาจากผลสำรวจออนไลน์ ซึ่งเป็นข้อค้นพบ ไม่ใช่ความเห็นของวิศวกร"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 7 that, without heavy public investment, automated vehicles",
+     "options": [
+      "will be banned from most roads in Southeast Asia",
+      "will mainly be used by street vendors and motorcyclists",
+      "will make digital maps unnecessary in rural areas",
+      "may help least where road deaths are highest"
+     ],
+     "answer": 3,
+     "explain": "¶7: “the benefits of automation will flow first to wealthy cities ... widening the gap between those places and the rural areas where road deaths are often highest” — พื้นที่ที่ต้องการความช่วยเหลือมากที่สุดจึงอาจได้ประโยชน์น้อยที่สุด ตอบ D ตัวเลือก A เกินกว่าที่ข้อความบอก เพราะผู้เขียนพูดถึงถนนที่ไม่พร้อม ไม่ได้พูดถึงการห้ามใช้"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward autonomous vehicles can best be described as",
+     "options": [
+      "openly enthusiastic",
+      "even-handed",
+      "deeply hostile",
+      "largely indifferent"
+     ],
+     "answer": 1,
+     "explain": "¶8: “autonomous vehicles are neither the cure for road deaths that their promoters claim nor the menace that their opponents fear” — ผู้เขียนไม่เข้าข้างฝ่ายใด แต่ชั่งน้ำหนักทั้งข้อดีและปัญหา จึงตอบ B ตัวเลือก C ผิดเพราะผู้เขียนยอมรับใน ¶1 ว่าแรงดึงดูดของเทคโนโลยีนี้ “easy to understand”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What word is often used to describe the carefully mapped zones in which fully driverless taxis operate? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "geofenced",
+      "geofenced areas",
+      "geofenced area"
+     ],
+     "explain": "¶2: “only within carefully mapped zones, often described as “geofenced” areas” — คือพื้นที่ที่กำหนดขอบเขตไว้และมีสภาพการจราจรค่อนข้างคาดเดาได้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 4, what may in some circumstances be more hazardous than either full automation or none at all? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "partial automation"
+     ],
+     "explain": "¶4: “Ironically, therefore, partial automation may in some circumstances be more hazardous than either full automation or none at all.” — เพราะคนขับที่เฝ้ามองเฉย ๆ เป็นเวลานานจะตอบสนองต่อเหตุฉุกเฉินได้ช้า"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the name of the well-known dilemma, mentioned in paragraph 6, about whether a car should swerve to save five pedestrians? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "trolley problem",
+      "the trolley problem",
+      "so-called trolley problem"
+     ],
+     "explain": "¶6: “variations on the so-called trolley problem: should a car that cannot avoid a collision swerve to save five pedestrians” — เป็นโจทย์จริยธรรมว่าควรเลือกให้ใครได้รับอันตราย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What could be installed to allow vehicles to communicate with traffic signals? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "roadside sensors",
+      "the roadside sensors",
+      "sensors"
+     ],
+     "explain": "¶7: “installing the roadside sensors that allow vehicles to communicate with traffic signals, would require heavy public investment” — ผู้เขียนยกเป็นตัวอย่างของโครงสร้างพื้นฐานที่ต้องใช้งบประมาณสูง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from fleet maintenance and data management, in which area do optimists expect new jobs to emerge? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "remote supervision"
+     ],
+     "explain": "¶8: “new jobs will emerge in fleet maintenance, remote supervision and data management” — แต่ผู้เขียนเตือนว่างานใหม่เหล่านี้อาจไม่ได้ตกอยู่กับคนขับรถกลุ่มเดิม"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+[
+  {"qid": "T1P5.13", "issue": "The full term in the passage is 'the double burden of malnutrition' (4 words without 'the'), which exceeds the THREE-WORD limit. Only the truncated 'double burden' fits. Suggest raising the limit to FOUR WORDS (or accept 'double burden'). Also, the question says 'same population', but the passage says 'sometimes within a single household'. That is acceptable but loosely paraphrased."},
+  {"qid": "T2P2.5", "issue": "Minor: in 'Prices for recyclables rise and fall with global markets, and when they collapse', 'they' most naturally means prices (the clause subject), but 'global markets' is the nearest noun and 'markets collapse' is also idiomatic. Option A could be argued. Consider rewording to 'when prices collapse...' elsewhere or 'when these prices collapse'."},
+  {"qid": "T2P6.8", "issue": "Minor: paragraph 6 says the closures 'exposed these inequalities', not that they increased them. Option C ('increased existing gaps') is still the best choice because others 'fell behind', but a stricter key might want wording like 'made existing gaps more visible / widened'."}
+]

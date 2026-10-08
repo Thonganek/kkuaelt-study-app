@@ -1,0 +1,977 @@
+{
+ "id": "T1",
+ "day": 4,
+ "title": "Reading Test 1 — Diagnostic",
+ "passages": [
+  {
+   "id": "T1P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "Bangkok District Launches Free Evening Health Checks for Office Workers",
+   "paragraphs": [
+    "Office workers in one of Bangkok's busiest business districts can now have their health checked on the way home. Since the beginning of this month, the district health centre has been offering free evening screening for blood pressure, blood sugar and body mass index (BMI) every Tuesday and Thursday from 5 p.m. to 8 p.m.",
+    "The service is aimed at employees who seldom see a doctor because most clinics have closed by the time they leave the office. According to the centre's director, Dr. Kittipong Srisuk, many people in their thirties and forties are unaware that they have high blood pressure or early-stage diabetes until the condition has already damaged their heart, kidneys or eyes. “These problems are often silent,” he explained. “A ten-minute check can reveal them years before any symptoms appear.”",
+    "No appointment is required, but participants are asked to bring their national ID card and to avoid eating for at least two hours beforehand so that the blood sugar reading is more accurate. Anyone whose results fall outside the normal range receives advice from a nurse and a referral letter to a nearby public hospital for further tests.",
+    "In the first two weeks, around 450 people took part. Nearly one in four of them had blood pressure above the recommended level, a proportion that staff had not anticipated. If demand keeps growing, the district intends to add Saturday sessions, and it is already encouraging large local companies to send employees in groups."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "A Bangkok district has started free after-work health checks for office employees.",
+      "Office workers in Bangkok are more likely than other people to develop diabetes.",
+      "A district health centre is asking companies to pay for their staff's medical tests.",
+      "Doctors warn that high blood pressure is now the most serious disease in Bangkok."
+     ],
+     "answer": 0,
+     "explain": "ใจความหลักคือเขตหนึ่งในกรุงเทพฯ เปิดตรวจสุขภาพฟรีช่วงเย็นให้พนักงานออฟฟิศ ¶1: “the district health centre has been offering free evening screening…” ตัวเลือก B และ D สรุปเกินกว่าที่เนื้อเรื่องบอก ส่วน C ผิดเพราะบริการนี้ฟรี เขตเพียงชวนบริษัทส่งพนักงานมาเป็นกลุ่ม ไม่ได้ขอให้จ่ายเงิน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, when can office workers use the service?",
+     "options": [
+      "every weekday from 5 p.m. to 8 p.m.",
+      "on two weekday evenings each week",
+      "on Saturday mornings only",
+      "at the beginning of each month"
+     ],
+     "answer": 1,
+     "explain": "¶1: “every Tuesday and Thursday from 5 p.m. to 8 p.m.” คือสองเย็นต่อสัปดาห์ ตัวเลือก A ผิดเพราะไม่ได้เปิดทุกวันทำการ C เป็นเพียงแผนในอนาคต (¶4) และ D หลอกด้วยวลี “the beginning of this month” ซึ่งหมายถึงช่วงที่โครงการเริ่ม ไม่ใช่วันให้บริการ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'reveal' in paragraph 2 is closest in meaning to",
+     "options": [
+      "cure",
+      "hide",
+      "worsen",
+      "detect"
+     ],
+     "answer": 3,
+     "explain": "¶2: “A ten-minute check can reveal them years before any symptoms appear” การตรวจสั้น ๆ ช่วยให้ “เห็น/ตรวจพบ” โรคที่ยังไม่แสดงอาการ จึงตรงกับ detect ส่วน cure ผิดเพราะการตรวจคัดกรองไม่ได้รักษาโรค และ hide มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 2 refer to?",
+     "options": [
+      "people in their thirties and forties",
+      "clinics that close early in the evening",
+      "problems such as high blood pressure and diabetes",
+      "the symptoms that patients notice"
+     ],
+     "answer": 2,
+     "explain": "¶2: “These problems are often silent… A ten-minute check can reveal them” คำว่า them ย้อนไปที่ these problems คือความดันโลหิตสูงและเบาหวานระยะแรก ตัวเลือก D หลอกเพราะคำว่า symptoms อยู่ในประโยคเดียวกัน แต่สิ่งที่การตรวจค้นพบคือตัวโรค ไม่ใช่อาการที่ยังไม่ปรากฏ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, why are participants asked not to eat for two hours before the check?",
+     "options": [
+      "so that their blood sugar result is more accurate",
+      "so that their blood pressure reading is lower",
+      "so that the queue at the centre moves faster",
+      "so that they can receive a referral letter"
+     ],
+     "answer": 0,
+     "explain": "¶3: “avoid eating for at least two hours beforehand so that the blood sugar reading is more accurate” จุดประสงค์ของการงดอาหารคือให้ค่าน้ำตาลในเลือดแม่นยำ ตัวเลือก B ผิดเพราะเนื้อเรื่องไม่ได้โยงการงดอาหารกับค่าความดันโลหิต"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as part of the screening service?",
+     "options": [
+      "a measurement of blood pressure",
+      "advice from a nurse for some participants",
+      "a referral letter to a hospital when needed",
+      "free medicine for people with high results"
+     ],
+     "answer": 3,
+     "explain": "เนื้อเรื่องกล่าวถึงการวัดความดัน (¶1) และ ¶3: “receives advice from a nurse and a referral letter to a nearby public hospital” แต่ไม่มีตอนใดบอกว่าแจกยาฟรี ผู้ที่ผลผิดปกติจะถูกส่งต่อไปตรวจเพิ่มที่โรงพยาบาลเท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that the staff at the health centre",
+     "options": [
+      "had planned to screen far more than 450 people",
+      "believed that office workers were generally unhealthy",
+      "expected fewer participants to have high blood pressure",
+      "intended to stop the service before Saturday sessions began"
+     ],
+     "answer": 2,
+     "explain": "¶4: “Nearly one in four of them had blood pressure above the recommended level, a proportion that staff had not anticipated” การที่เจ้าหน้าที่ไม่ได้คาดคิดไว้ แสดงว่าเดิมคาดว่าจะพบผู้มีความดันสูงน้อยกว่านี้ ตัวเลือก B ขัดกับหลักฐาน เพราะถ้าเชื่ออยู่แล้วว่าพนักงานสุขภาพไม่ดีก็คงไม่แปลกใจกับตัวเลขนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that most clinics have closed by the time employees leave the office?",
+     "options": [
+      "to criticise clinics for having short opening hours",
+      "to explain why the screening takes place in the evening",
+      "to show that office workers do not care about their health",
+      "to suggest that hospitals should stay open at night"
+     ],
+     "answer": 1,
+     "explain": "¶2: “The service is aimed at employees who seldom see a doctor because most clinics have closed by the time they leave the office” ผู้เขียนให้ข้อมูลนี้เพื่ออธิบายเหตุผลที่จัดบริการช่วงเย็น ไม่ได้มีน้ำเสียงตำหนิคลินิก (A) และไม่ได้เสนอให้โรงพยาบาลเปิดกลางคืน (D)"
+    }
+   ]
+  },
+  {
+   "id": "T1P2",
+   "kind": "short",
+   "genre": "announcement/notice",
+   "domain": "Education",
+   "title": "Central Library Extends Opening Hours for the Final Examination Period",
+   "paragraphs": [
+    "The Central Library is pleased to announce extended opening hours to support students during the final examination period. From Monday 17 November to Sunday 7 December, the library will be open from 8:00 a.m. to 2:00 a.m. every day, including weekends and public holidays. Normal opening hours (8:00 a.m. to 8:00 p.m.) will resume on Monday 8 December.",
+    "During the extended period, the ground and first floors will stay open until 2:00 a.m., while the second floor, which houses the print collection and the media room, will close at 10:00 p.m. as usual. Books may be borrowed or returned at the self-service machines on the ground floor whenever the building is open; however, the staffed service desk will operate only until 8:00 p.m.",
+    "Group study rooms can be reserved through the library website for up to three hours per person per day. Any room that has not been occupied within 15 minutes of the booking time will be released to other users. The silent study zone on the first floor is reserved for individual work, and mobile phone calls are not permitted in this area.",
+    "For safety reasons, entry after 10:00 p.m. is restricted to current students and staff, who must scan a valid university ID card at the entrance. Food may not be consumed in any reading area, although drinks in covered containers are permitted. A free shuttle bus will run between the library and the main dormitories every 30 minutes from 10:00 p.m. to 2:00 a.m.",
+    "Students who need help finding materials or searching online databases are encouraged to book a consultation with a subject librarian before Friday 14 November, as consultations will not be offered during the examination weeks. For further information, please contact the Library Information Desk."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this notice?",
+     "options": [
+      "to announce new rules on food and drink in the library",
+      "to explain why the library will close earlier once the exams are over",
+      "to inform users of longer opening hours and related arrangements",
+      "to encourage students to book group study rooms online"
+     ],
+     "answer": 2,
+     "explain": "¶1: “The Central Library is pleased to announce extended opening hours to support students during the final examination period” ส่วนย่อหน้าอื่นเป็นรายละเอียดประกอบ เช่น ชั้นที่เปิด กฎการใช้ห้อง และรถรับส่ง ตัวเลือก A และ D เป็นเพียงรายละเอียดย่อย ไม่ใช่จุดประสงค์หลักของประกาศ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "On which date will the library return to its usual opening hours?",
+     "options": [
+      "Sunday 7 December",
+      "Monday 8 December",
+      "Monday 17 November",
+      "Friday 14 November"
+     ],
+     "answer": 1,
+     "explain": "¶1: “Normal opening hours (8:00 a.m. to 8:00 p.m.) will resume on Monday 8 December” ตัวเลือก A เป็นวันสุดท้ายของช่วงขยายเวลา ไม่ใช่วันที่กลับสู่เวลาปกติ ส่วน D คือวันสุดท้ายของการจองคำปรึกษากับบรรณารักษ์ (¶5)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, a student who wants to return a book at 11:00 p.m. should",
+     "options": [
+      "use a self-service machine on the ground floor",
+      "hand it to a staff member at the service desk",
+      "leave it in the media room on the second floor",
+      "wait until the service desk opens at 8:00 p.m."
+     ],
+     "answer": 0,
+     "explain": "¶2: “Books may be borrowed or returned at the self-service machines on the ground floor whenever the building is open” ขณะที่เคาน์เตอร์ที่มีเจ้าหน้าที่เปิดถึง 8:00 p.m. เท่านั้น (B ผิด) และชั้น 2 ปิดตั้งแต่ 10:00 p.m. (C ผิด) ส่วน D อ่านเวลาผิด เพราะ 8:00 p.m. คือเวลาปิดเคาน์เตอร์ ไม่ใช่เวลาเปิด"
+    },
+    {
+     "type": "mc",
+     "skill": "topic",
+     "q": "What is paragraph 3 mainly about?",
+     "options": [
+      "how to book a consultation with a librarian",
+      "the opening hours of different floors",
+      "where to borrow and return books",
+      "rules for using the library's study spaces"
+     ],
+     "answer": 3,
+     "explain": "¶3 พูดถึงการจองห้องศึกษากลุ่มและข้อปฏิบัติในโซนเงียบ เช่น “mobile phone calls are not permitted in this area” จึงเป็นเรื่องกฎการใช้พื้นที่อ่านหนังสือ ตัวเลือก B และ C เป็นเนื้อหาของ ¶2 ส่วน A อยู่ใน ¶5"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'released' in paragraph 3 is closest in meaning to",
+     "options": [
+      "sold",
+      "cancelled",
+      "locked",
+      "offered"
+     ],
+     "answer": 3,
+     "explain": "¶3: “Any room that has not been occupied within 15 minutes of the booking time will be released to other users” ห้องที่ไม่มีคนมาใช้จะถูก “ปล่อย/เปิดให้” ผู้อื่นใช้ จึงใกล้เคียงกับ offered ตัวเลือก cancelled น่าหลงเพราะการจองเดิมถูกยกเลิก แต่คำว่า released ในที่นี้บรรยายตัวห้องที่ว่างให้คนอื่นจองต่อ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that before 10:00 p.m.",
+     "options": [
+      "visitors from outside the university may be allowed to enter",
+      "drinks in covered containers are not permitted inside",
+      "the free shuttle bus runs every 30 minutes",
+      "each student must show an ID card on every floor of the building"
+     ],
+     "answer": 0,
+     "explain": "¶4: “entry after 10:00 p.m. is restricted to current students and staff” การจำกัดเฉพาะหลัง 4 ทุ่ม แสดงว่าก่อนเวลานั้นบุคคลภายนอกอาจเข้าได้ ตัวเลือก C ผิดเพราะรถรับส่งเริ่มวิ่งตั้งแต่ 10:00 p.m. และ B ขัดกับข้อความที่อนุญาตเครื่องดื่มในภาชนะมีฝาปิด"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'who' in paragraph 4 refer to?",
+     "options": [
+      "library security officers",
+      "current students and staff",
+      "users of the reading areas",
+      "visitors from other universities"
+     ],
+     "answer": 1,
+     "explain": "¶4: “restricted to current students and staff, who must scan a valid university ID card” คำว่า who ขยายนามที่อยู่หน้ามันโดยตรง คือนักศึกษาและบุคลากรปัจจุบัน ตัวเลือก D ผิดเพราะบุคคลภายนอกไม่มีบัตรมหาวิทยาลัยและไม่ได้รับอนุญาตให้เข้าหลัง 4 ทุ่ม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following will NOT be available to students during the examination weeks?",
+     "options": [
+      "a shuttle bus to the dormitories",
+      "self-service borrowing machines",
+      "consultations with subject librarians",
+      "online reservations for group study rooms"
+     ],
+     "answer": 2,
+     "explain": "¶5: “consultations will not be offered during the examination weeks” จึงต้องจองก่อน 14 November ส่วนรถรับส่ง (¶4) เครื่องยืม-คืนอัตโนมัติ (¶2) และการจองห้องกลุ่มผ่านเว็บไซต์ (¶3) ยังให้บริการตามปกติในช่วงสอบ"
+    }
+   ]
+  },
+  {
+   "id": "T1P3",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Environment",
+   "title": "Electric Motorcycles Gain Ground on Thai City Streets",
+   "paragraphs": [
+    "On the crowded roads of Bangkok, Chiang Mai and Khon Kaen, a quieter kind of motorcycle is becoming a familiar sight. Electric motorcycles, once regarded as a novelty for wealthy enthusiasts, are now being bought by delivery riders, students and motorcycle-taxi drivers who want to cut their daily costs.",
+    "The appeal is largely financial. According to a 2024 survey of 800 delivery riders in three provinces, charging an electric motorcycle costs roughly one-fifth as much per kilometre as fuelling a comparable petrol model. Electric motors also contain far fewer moving parts, so they require less maintenance. “I used to change the oil every month,” said Anan, a food-delivery rider in Khon Kaen. “Now I hardly ever visit the repair shop.”",
+    "Environmental benefits are another selling point. Since they produce no exhaust, electric motorcycles do not directly add to the fine-particle (PM2.5) pollution that covers many Thai cities during the dry season. They are also considerably quieter, which residents of dense neighbourhoods welcome.",
+    "Nevertheless, several obstacles remain. The most frequently mentioned is the shortage of public charging points. Most owners charge their vehicles at home overnight, which is impractical for people living in rented rooms or condominiums without suitable power outlets. Battery-swapping stations, where riders can exchange an empty battery for a fully charged one in less than a minute, have opened in some districts, but they remain concentrated in city centres.",
+    "Cost is a further concern. Although running costs are low, the purchase price of an electric motorcycle is often higher than that of a similar petrol model, mainly because of the battery. Batteries also gradually lose capacity, and replacing one can cost almost half the price of the vehicle. As a result, some buyers hesitate, unsure whether the savings will outweigh the extra expense in the long run.",
+    "Industry analysts expect these barriers to shrink as battery prices fall and charging networks expand. For the time being, however, electric motorcycles remain a promising, though not yet perfect, answer to urban transport problems."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Delivery Riders Earn Higher Incomes on Electric Motorcycles",
+      "Thailand Moves to Ban Petrol Motorcycles in Its Cities",
+      "Electric Motorcycles: Growing Appeal, Remaining Obstacles",
+      "Battery-Swapping Stations Replace Charging at Home"
+     ],
+     "answer": 2,
+     "explain": "เนื้อเรื่องครอบคลุมทั้งข้อดี (¶2–3) และอุปสรรค (¶4–5: “Nevertheless, several obstacles remain”) ชื่อเรื่อง C จึงครอบคลุมที่สุด ตัวเลือก A แคบเกินไปและบทความพูดถึงการประหยัดค่าใช้จ่าย ไม่ใช่รายได้ที่เพิ่มขึ้น ส่วน B ไม่มีการกล่าวถึงการห้ามใช้รถน้ำมัน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'novelty' in paragraph 1 is closest in meaning to",
+     "options": [
+      "something new and unusual",
+      "something cheap and reliable",
+      "something old-fashioned",
+      "something dangerous to use"
+     ],
+     "answer": 0,
+     "explain": "¶1: “once regarded as a novelty for wealthy enthusiasts” เดิมรถไฟฟ้าถูกมองเป็นของแปลกใหม่สำหรับคนมีเงินที่ชื่นชอบ ก่อนจะกลายเป็น “a familiar sight” คำนี้จึงหมายถึงสิ่งใหม่และแปลก ตัวเลือก B ผิดเพราะบริบทบอกว่าเป็นของสำหรับคนร่ำรวย ไม่ใช่ของถูก"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, the main reason many people choose electric motorcycles is that they",
+     "options": [
+      "can travel faster than petrol models",
+      "are supported by government subsidies",
+      "have a more modern appearance",
+      "are cheaper to run and maintain"
+     ],
+     "answer": 3,
+     "explain": "¶2: “The appeal is largely financial.” ตามด้วยข้อมูลว่าค่าชาร์จถูกกว่าค่าน้ำมันมาก และ “they require less maintenance” ตัวเลือก B ฟังดูสมเหตุสมผลแต่บทความไม่ได้กล่าวถึงเงินอุดหนุนจากรัฐเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as an advantage of electric motorcycles?",
+     "options": [
+      "They need less regular maintenance.",
+      "They save time in heavy traffic.",
+      "They produce no exhaust.",
+      "They make less noise."
+     ],
+     "answer": 1,
+     "explain": "ข้อดีที่กล่าวถึงคือดูแลรักษาน้อย (¶2) ไม่มีไอเสียและเสียงเบา (¶3: “Since they produce no exhaust… They are also considerably quieter”) แต่ไม่มีตอนใดบอกว่าช่วยประหยัดเวลาเมื่อรถติด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, why is charging at home difficult for some riders?",
+     "options": [
+      "Their homes lack suitable power outlets.",
+      "Electricity costs too much at night.",
+      "Their batteries cannot be charged overnight.",
+      "Their landlords do not allow motorcycles."
+     ],
+     "answer": 0,
+     "explain": "¶4: “impractical for people living in rented rooms or condominiums without suitable power outlets” ปัญหาคือที่พักไม่มีปลั๊กไฟที่เหมาะสม ตัวเลือก D หลอกด้วยคำว่า rented rooms แต่บทความไม่ได้บอกว่าเจ้าของห้องห้ามจอดรถ"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 4 refer to?",
+     "options": [
+      "vehicle owners",
+      "rented rooms",
+      "battery-swapping stations",
+      "public charging points in the city"
+     ],
+     "answer": 2,
+     "explain": "¶4: “Battery-swapping stations… have opened in some districts, but they remain concentrated in city centres” ประธานของทั้งสองอนุประโยคคือสถานีสลับแบตเตอรี่ ตัวเลือก D น่าหลงเพราะจุดชาร์จสาธารณะก็อยู่ในย่อหน้าเดียวกัน แต่ประโยคนั้นพูดถึงการขาดแคลน ไม่ได้พูดถึงที่ตั้ง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that riders who live far from city centres",
+     "options": [
+      "usually charge at public charging points",
+      "may find battery-swapping services hard to use",
+      "are more likely to live in rented condominiums",
+      "can exchange their batteries faster than other riders"
+     ],
+     "answer": 1,
+     "explain": "¶4: “they remain concentrated in city centres” เมื่อสถานีสลับแบตเตอรี่กระจุกอยู่ใจกลางเมือง ผู้ที่อยู่รอบนอกจึงน่าจะเข้าถึงบริการได้ยาก ตัวเลือก A ผิดเพราะย่อหน้านี้บอกว่าจุดชาร์จสาธารณะขาดแคลน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'outweigh' in paragraph 5 is closest in meaning to",
+     "options": [
+      "be separated from",
+      "be equal to",
+      "reduce",
+      "be greater than"
+     ],
+     "answer": 3,
+     "explain": "¶5: “unsure whether the savings will outweigh the extra expense” ผู้ซื้อลังเลว่าเงินที่ประหยัดได้จะ “มากกว่า” ค่าใช้จ่ายที่เพิ่มขึ้นหรือไม่ ตัวเลือก be equal to ใกล้เคียงแต่ไม่ถูก เพราะ outweigh หมายถึงมีน้ำหนักหรือคุณค่ามากกว่า ไม่ใช่เท่ากัน"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward electric motorcycles can best be described as",
+     "options": [
+      "strongly critical",
+      "largely indifferent",
+      "cautiously optimistic",
+      "wholeheartedly enthusiastic"
+     ],
+     "answer": 2,
+     "explain": "¶6: “electric motorcycles remain a promising, though not yet perfect, answer” ผู้เขียนมองในแง่ดี (promising) แต่ยอมรับข้อจำกัด (not yet perfect) จึงเป็นการมองโลกในแง่ดีอย่างระมัดระวัง ตัวเลือก D ผิดเพราะบทความให้พื้นที่กับอุปสรรคถึงสองย่อหน้า"
+    }
+   ]
+  },
+  {
+   "id": "T1P4",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Education",
+   "title": "Why We Forget — and How Spaced Repetition Helps Us Remember",
+   "paragraphs": [
+    "Most students know the frustration of studying hard for a test, only to discover a week later that much of the material has disappeared. Yet forgetting is not necessarily a sign of laziness or poor ability. It is a normal function of the brain, which constantly filters incoming information so that it is not overloaded with details it may never need again.",
+    "The pattern of forgetting was first studied systematically in the 1880s by the German psychologist Hermann Ebbinghaus. Acting as his own and only subject, he memorised lists of meaningless syllables and tested how many he could recall after different intervals. Memory declined steeply at first, with much of the material lost within a day, before the rate of loss slowed. Plotted on a graph, his results formed a sharply falling line that became known as the forgetting curve.",
+    "Ebbinghaus also made a second, more encouraging discovery. Each time he relearned a list, he needed less effort than before, and the information faded more slowly afterwards. In other words, each review seemed to flatten the curve. This observation forms the basis of a technique now known as spaced repetition.",
+    "Spaced repetition means reviewing material at gradually increasing intervals—for example, one day after first learning it, then three days later, then after a week and a month. Instead of cramming everything into one long session, learners return to the content just as they are starting to forget it. The effort of retrieving a fading memory appears to strengthen it far more than simply rereading notes.",
+    "The method has been tested in many settings. In one study at a university in northern Thailand, medical students who reviewed anatomy terms on a spaced schedule remembered considerably more after two months than classmates who spent the same total time studying in a single block. Similar benefits have been reported for foreign-language vocabulary and clinical guidelines.",
+    "Today, many flashcard apps use algorithms to decide when each item should be reviewed, showing difficult cards more often and easy ones less frequently. However, the principle does not depend on technology; a paper notebook and a simple calendar can serve the same purpose. What matters most is not the tool but the habit of returning to information before it slips away completely."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Students forget what they learn mainly because they do not study hard enough.",
+      "Forgetting is natural, but reviewing at increasing intervals improves memory.",
+      "Flashcard apps have become the most effective tool for learning new vocabulary.",
+      "Ebbinghaus showed that meaningless syllables are harder to learn than real words."
+     ],
+     "answer": 1,
+     "explain": "บทความเริ่มจาก ¶1: “forgetting is not necessarily a sign of laziness” แล้วอธิบายเส้นโค้งการลืมและวิธี spaced repetition จนจบ จึงตรงกับ B ตัวเลือก A ขัดกับ ¶1 โดยตรง ส่วน C และ D เป็นรายละเอียดย่อยหรือข้อสรุปที่บทความไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, the brain forgets information partly in order to",
+     "options": [
+      "recover after long periods of study",
+      "keep only the most recent information it receives",
+      "reduce stress before examinations",
+      "avoid being overloaded with unneeded details"
+     ],
+     "answer": 3,
+     "explain": "¶1: “constantly filters incoming information so that it is not overloaded with details it may never need again” สมองลืมเพื่อไม่ให้รับข้อมูลที่ไม่จำเป็นมากเกินไป ตัวเลือก B ฟังดูใกล้เคียงแต่บทความไม่ได้บอกว่าสมองเลือกเก็บเฉพาะข้อมูลล่าสุด"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'steeply' in paragraph 2 is closest in meaning to",
+     "options": [
+      "sharply",
+      "slowly",
+      "steadily",
+      "unexpectedly"
+     ],
+     "answer": 0,
+     "explain": "¶2: “Memory declined steeply at first… before the rate of loss slowed” ความจำลดลงอย่างรวดเร็วและมากในช่วงแรกก่อนจะช้าลง ซึ่งสอดคล้องกับ “a sharply falling line” ตัวเลือก steadily ผิดเพราะหมายถึงสม่ำเสมอ ขัดกับการที่อัตราการลืมเปลี่ยนไป"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what was unusual about Ebbinghaus's research?",
+     "options": [
+      "He tested a large group of university medical students.",
+      "He used real words from several languages.",
+      "He was the only person who took part in it.",
+      "He recorded his results with a computer."
+     ],
+     "answer": 2,
+     "explain": "¶2: “Acting as his own and only subject” Ebbinghaus ทดลองกับตัวเองเพียงคนเดียว ตัวเลือก A หลอกด้วยข้อมูลนักศึกษาแพทย์ซึ่งมาจากงานวิจัยใน ¶5 และ B ขัดกับข้อความที่ว่าเขาใช้ “meaningless syllables”"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'This observation' in paragraph 3 refer to?",
+     "options": [
+      "the finding that memory declines steeply at first",
+      "the finding that each review slowed later forgetting",
+      "the finding that meaningless syllables are easy to learn",
+      "the finding that relearning takes more effort over time"
+     ],
+     "answer": 1,
+     "explain": "¶3: “each time he relearned a list… the information faded more slowly afterwards. In other words, each review seemed to flatten the curve.” This observation จึงหมายถึงการทบทวนแต่ละครั้งทำให้ลืมช้าลง ตัวเลือก A คือข้อค้นพบแรกใน ¶2 ไม่ใช่ข้อสังเกตที่นำไปสู่ spaced repetition และ D กลับความหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 4?",
+     "options": [
+      "to explain how spaced repetition is carried out",
+      "to report the results of a study on medical students",
+      "to compare several popular flashcard apps",
+      "to describe Ebbinghaus's early experiments"
+     ],
+     "answer": 0,
+     "explain": "¶4 เปิดด้วยนิยามและตัวอย่างตารางทบทวน: “Spaced repetition means reviewing material at gradually increasing intervals—for example, one day after…” จึงเป็นการอธิบายวิธีปฏิบัติ ตัวเลือก B เป็นหน้าที่ของ ¶5 และ D เป็นเนื้อหาของ ¶2–3"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that simply rereading notes",
+     "options": [
+      "is the best preparation for an exam the next day",
+      "should be repeated at gradually increasing intervals",
+      "requires more effort than recalling information",
+      "is less effective than trying to recall information"
+     ],
+     "answer": 3,
+     "explain": "¶4: “The effort of retrieving a fading memory appears to strengthen it far more than simply rereading notes” จึงอนุมานได้ว่าการอ่านโน้ตซ้ำเฉย ๆ ได้ผลน้อยกว่าการพยายามดึงความจำออกมา ตัวเลือก C กลับด้าน เพราะบทความเน้นว่าการนึกให้ได้ต่างหากที่ต้องใช้ความพยายาม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "In the study described in paragraph 5, the two groups of students",
+     "options": [
+      "studied different subjects at university",
+      "were tested after one week",
+      "spent the same total time studying",
+      "followed the same study schedule"
+     ],
+     "answer": 2,
+     "explain": "¶5: “classmates who spent the same total time studying in a single block” ทั้งสองกลุ่มใช้เวลารวมเท่ากัน ต่างกันที่การกระจายเวลา ตัวเลือก D ผิดเพราะกลุ่มหนึ่งใช้ตารางแบบเว้นระยะ อีกกลุ่มอ่านรวดเดียว และ B ผิดเพราะทดสอบหลังสองเดือน"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention 'a paper notebook and a simple calendar' in paragraph 6?",
+     "options": [
+      "to show that the method can work without technology",
+      "to suggest that flashcard apps are often unreliable",
+      "to recommend products that students should buy",
+      "to explain how algorithms choose review times"
+     ],
+     "answer": 0,
+     "explain": "¶6: “the principle does not depend on technology; a paper notebook and a simple calendar can serve the same purpose” ผู้เขียนยกตัวอย่างนี้เพื่อแสดงว่าใช้วิธีนี้ได้โดยไม่ต้องพึ่งแอป ตัวเลือก B ผิดเพราะบทความไม่ได้วิจารณ์ว่าแอปไม่น่าเชื่อถือ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "Two competing theories of memory are presented and then compared.",
+      "A common problem is explained, then research and a practical method follow.",
+      "Major events in the history of psychology are listed in time order.",
+      "An argument against using technology for learning is supported with examples."
+     ],
+     "answer": 1,
+     "explain": "¶1 เสนอปัญหาการลืม ¶2–3 เป็นงานวิจัยของ Ebbinghaus ¶4–6 อธิบายวิธี spaced repetition หลักฐาน และการนำไปใช้ จึงเป็นโครงสร้าง ปัญหา–งานวิจัย–วิธีแก้ ตัวเลือก D ผิดเพราะ ¶6 ไม่ได้คัดค้านเทคโนโลยี เพียงบอกว่าไม่จำเป็นต้องใช้"
+    }
+   ]
+  },
+  {
+   "id": "T1P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Rising Waistlines: The Drivers of Obesity in Southeast Asia and the Policy Response",
+   "paragraphs": [
+    "For much of the twentieth century, obesity was regarded as a problem of wealthy Western nations. In Southeast Asia, public health programmes concentrated instead on undernutrition, infectious disease and maternal and child health. Over the past three decades, however, this picture has changed dramatically. Rates of overweight and obesity have climbed across the region, often while undernutrition persists in poorer communities. The coexistence of these two problems, sometimes within a single household, is known as the double burden of malnutrition, and it confronts health systems with an unusually complex challenge.",
+    "The scale of the increase is striking. A 2022 review of national health surveys from six Southeast Asian countries estimated that the proportion of adults classified as overweight had roughly doubled over twenty years in several of them. Among children and adolescents the rise was proportionally even steeper, a trend that alarms researchers because overweight children frequently remain overweight as adults. The consequences extend far beyond appearance. Excess body weight is a major risk factor for type 2 diabetes, hypertension, cardiovascular disease and several cancers—conditions that are costly to treat and that place long-term pressure on public budgets.",
+    "Researchers commonly explain this trend through the concept of the nutrition transition. As incomes rise, diets tend to move away from traditional patterns based on rice, vegetables, legumes and fish towards foods that are higher in refined carbohydrates, added sugar, salt and saturated fat. In Southeast Asia, this shift has been accelerated by the rapid spread of convenience stores and fast-food chains, which make inexpensive, energy-dense products available at almost any hour. Sweetened beverages deserve particular attention. Sugary teas, coffees and soft drinks are now part of the daily routine of many young people, and because liquid calories produce only a weak feeling of fullness, they are easily consumed on top of regular meals.",
+    "Urbanisation has reinforced these dietary changes. Millions of people have migrated from rural villages to cities such as Bangkok, Jakarta, Manila and Ho Chi Minh City in search of work. Urban residents typically face long working hours and lengthy commutes, which leave little time to prepare meals at home. Instead, they rely on street food, ready-made meals and, increasingly, food-delivery applications. While street food can be nutritious, portion sizes have grown, and many popular dishes are deep-fried or served with sweet sauces. Moreover, city dwellers are surrounded by advertising for snacks and soft drinks, much of it aimed deliberately at children.",
+    "At the same time, levels of physical activity have fallen. Agricultural and manual work, which once demanded considerable energy, has been replaced for many people by office and service jobs that involve sitting for most of the day. Motorised transport has largely displaced walking and cycling, partly because of the hot climate and partly because many cities lack shaded pavements and safe cycle lanes. Children, too, are less active than previous generations. Intense academic competition means that many spend their evenings and weekends at tutoring schools, leaving limited time for sport or outdoor play, while screen-based entertainment fills much of what remains.",
+    "Governments in the region have begun to respond, and fiscal measures have attracted the most attention. Thailand introduced a tiered excise tax on sugar-sweetened beverages in 2017, under which drinks with a higher sugar content are taxed at higher rates, and several neighbouring countries have since adopted comparable schemes. The design of such taxes matters. Because the rate depends on sugar content rather than on volume, manufacturers have a strong incentive to change their recipes. Evaluations suggest that this is precisely what happened: rather than simply passing higher prices on to consumers, many manufacturers reformulated their drinks to qualify for lower tax bands. Critics argue that such taxes fall most heavily on low-income households, although supporters reply that these households also bear the greatest burden of diet-related disease.",
+    "A second group of measures aims to help consumers make better choices. Front-of-pack labels, such as simple logos identifying healthier products or colour-coded grades showing sugar content, allow shoppers to compare items at a glance instead of studying detailed nutrition tables. Schools have also become an important setting for intervention. Programmes in several countries restrict the sale of sugary drinks and fried snacks on school grounds, provide healthier lunches and require a fixed period of daily physical activity. However, their impact is frequently weakened by inconsistent enforcement and by vendors who sell unhealthy food outside school gates, beyond the reach of school rules.",
+    "No single measure is likely to reverse the rise in obesity on its own. Taxes, labels and school programmes each address only one part of a problem that is rooted in economic development, urban design and changing social norms. Arguably, the most promising strategies are those that make the healthy choice the easy choice—for example, by improving access to affordable fresh food, designing walkable neighbourhoods and protecting children from aggressive marketing—rather than relying mainly on individual willpower. Achieving this will require health ministries to work closely with sectors such as transport, education, agriculture and commerce."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "The Success of Sugar Taxes in Thailand and Its Neighbours",
+      "Obesity in Southeast Asia: Causes and Policy Responses",
+      "Why Children in Asian Cities No Longer Play Outdoors",
+      "Undernutrition: Southeast Asia's Forgotten Health Crisis"
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายสาเหตุของโรคอ้วน (¶3–5) และมาตรการของรัฐ (¶6–7: “Governments in the region have begun to respond”) ชื่อเรื่อง B จึงครอบคลุมที่สุด ตัวเลือก A แคบเกินไปเพราะภาษีน้ำตาลเป็นเพียงมาตรการเดียวใน ¶6 และ D ผิดเพราะภาวะทุพโภชนาการถูกกล่าวถึงเพียงในบทนำ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, public health programmes in twentieth-century Southeast Asia mainly focused on",
+     "options": [
+      "reducing obesity in wealthy families",
+      "treating heart disease and diabetes",
+      "undernutrition and infectious disease",
+      "controlling food advertising to children"
+     ],
+     "answer": 2,
+     "explain": "¶1: “public health programmes concentrated instead on undernutrition, infectious disease and maternal and child health” ตัวเลือก A หลอกด้วยประโยคแรกที่บอกว่าโรคอ้วนเคยถูกมองว่าเป็นปัญหาของ “wealthy Western nations” ไม่ใช่สิ่งที่โครงการในภูมิภาคนี้เน้น"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'striking' in paragraph 2 is closest in meaning to",
+     "options": [
+      "remarkable",
+      "violent",
+      "uncertain",
+      "gradual"
+     ],
+     "answer": 0,
+     "explain": "¶2: “The scale of the increase is striking.” ตามด้วยตัวเลขที่เพิ่มขึ้นเกือบเท่าตัว คำนี้จึงหมายถึง “น่าทึ่ง/เด่นชัด” ตัวเลือก violent มาจากความหมายของกริยา strike (ตี) ซึ่งไม่เข้ากับบริบท และ gradual ขัดกับการเพิ่มขึ้นอย่างรวดเร็ว"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that rising obesity among children is particularly worrying because",
+     "options": [
+      "the treatment of children is far more expensive than that of adults",
+      "it has already doubled in all six of the countries studied",
+      "overweight children usually lose weight as they grow up",
+      "it is likely to increase diet-related disease among future adults"
+     ],
+     "answer": 3,
+     "explain": "¶2: “overweight children frequently remain overweight as adults” เมื่อรวมกับข้อมูลว่าน้ำหนักเกินเป็นปัจจัยเสี่ยงของเบาหวานและโรคหัวใจ จึงอนุมานได้ว่าจะมีผู้ใหญ่ป่วยโรคเหล่านี้มากขึ้นในอนาคต ตัวเลือก B อ่านตัวเลขผิด เพราะ “roughly doubled” พูดถึงผู้ใหญ่ “in several of them” ไม่ใช่เด็กในทุกประเทศ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'accelerated' in paragraph 3 is closest in meaning to",
+     "options": [
+      "reversed",
+      "sped up",
+      "started",
+      "measured"
+     ],
+     "answer": 1,
+     "explain": "¶3: “this shift has been accelerated by the rapid spread of convenience stores and fast-food chains” ร้านสะดวกซื้อทำให้การเปลี่ยนแปลงที่เกิดจากรายได้สูงขึ้น “เร็วขึ้น” ตัวเลือก started น่าหลง แต่ย่อหน้าบอกว่าการเปลี่ยนแปลงเริ่มจากรายได้ที่เพิ่มขึ้นอยู่แล้ว ร้านค้าเพียงเร่งให้เร็วขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, sweetened drinks are a particular concern because they",
+     "options": [
+      "do not make people feel full, so they are added to normal meals",
+      "are more expensive than traditional foods such as rice and fish",
+      "contain more salt than most fast-food products",
+      "are sold only in convenience stores and fast-food chains"
+     ],
+     "answer": 0,
+     "explain": "¶3: “because liquid calories produce only a weak feeling of fullness, they are easily consumed on top of regular meals” ตัวเลือก D ใช้คำที่ปรากฏในย่อหน้า (convenience stores) มาหลอก แต่บทความไม่ได้บอกว่าเครื่องดื่มหวานขายเฉพาะที่นั่น"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 4 as a feature of urban life that encourages unhealthy eating?",
+     "options": [
+      "long commutes to and from work",
+      "the growing use of food-delivery apps",
+      "advertising aimed at children",
+      "the high price of fresh vegetables"
+     ],
+     "answer": 3,
+     "explain": "¶4 กล่าวถึง “lengthy commutes”, “food-delivery applications” และโฆษณา “aimed deliberately at children” แต่ไม่ได้พูดถึงราคาผักสด เรื่องอาหารสดราคาย่อมเยาปรากฏเฉพาะใน ¶8 ในฐานะข้อเสนอแนะ ไม่ใช่ลักษณะของชีวิตในเมือง"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How are paragraphs 3, 4 and 5 related to one another?",
+     "options": [
+      "Each presents a different policy response to obesity.",
+      "They compare obesity rates in three different countries.",
+      "Each describes a different factor behind rising obesity.",
+      "They describe one main cause and two of its effects."
+     ],
+     "answer": 2,
+     "explain": "¶3 พูดถึง nutrition transition ¶4 พูดถึงการกลายเป็นเมือง (“Urbanisation has reinforced these dietary changes”) และ ¶5 พูดถึงการขาดกิจกรรมทางกาย จึงเป็นสาเหตุคนละด้าน ตัวเลือก A ผิดเพราะมาตรการเชิงนโยบายเริ่มที่ ¶6"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that shaded pavements and safe cycle lanes might",
+     "options": [
+      "reduce the number of tutoring schools in cities",
+      "encourage more people to walk or cycle",
+      "make the region's hot climate cooler",
+      "increase the use of motorised transport"
+     ],
+     "answer": 1,
+     "explain": "¶5: “Motorised transport has largely displaced walking and cycling, partly because… many cities lack shaded pavements and safe cycle lanes” ถ้าการขาดสิ่งเหล่านี้ทำให้คนไม่เดินหรือปั่นจักรยาน การมีสิ่งเหล่านี้ก็น่าจะส่งเสริมให้คนเดินและปั่นมากขึ้น ตัวเลือก C ผิดเพราะทางเดินที่มีร่มเงาไม่ได้เปลี่ยนสภาพภูมิอากาศ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author point out that the tax rate 'depends on sugar content rather than on volume'?",
+     "options": [
+      "to show that the tax is unfair to low-income households",
+      "to argue that the tax should be based on volume instead",
+      "to compare Thailand's tax with those of neighbouring countries",
+      "to explain why manufacturers had a reason to change recipes"
+     ],
+     "answer": 3,
+     "explain": "¶6: “Because the rate depends on sugar content rather than on volume, manufacturers have a strong incentive to change their recipes” ผู้เขียนชี้จุดนี้เพื่ออธิบายแรงจูงใจให้ผู้ผลิตลดน้ำตาล ตัวเลือก A เป็นข้อโต้แย้งของผู้วิจารณ์ที่ปรากฏท้ายย่อหน้า ไม่ใช่เหตุผลที่ผู้เขียนกล่าวถึงวิธีคิดอัตราภาษี"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'their' in paragraph 7 refer to?",
+     "options": [
+      "school programmes",
+      "front-of-pack labels",
+      "shoppers",
+      "vendors outside schools"
+     ],
+     "answer": 0,
+     "explain": "¶7: “Programmes in several countries restrict the sale of sugary drinks… However, their impact is frequently weakened by inconsistent enforcement” สิ่งที่ถูกบังคับใช้ไม่สม่ำเสมอคือโครงการในโรงเรียน ตัวเลือก D ผิดเพราะพ่อค้าแม่ค้าหน้าโรงเรียนเป็นสาเหตุที่ทำให้ผลของโครงการลดลง ไม่ใช่เจ้าของ impact"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage expresses an opinion rather than a fact?",
+     "options": [
+      "Thailand introduced a tiered excise tax on sugar-sweetened beverages in 2017.",
+      "Millions of people have migrated from rural villages to cities in search of work.",
+      "Arguably, the most promising strategies are those that make the healthy choice the easy choice.",
+      "Excess body weight is a major risk factor for type 2 diabetes, hypertension, cardiovascular disease and several cancers."
+     ],
+     "answer": 2,
+     "explain": "¶8: “Arguably, the most promising strategies…” คำว่า Arguably และ most promising เป็นการประเมินของผู้เขียนซึ่งพิสูจน์ไม่ได้โดยตรง ขณะที่ A, B และ D เป็นข้อเท็จจริงที่ตรวจสอบได้จากหลักฐานหรือข้อมูลทางการแพทย์"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term is used for the coexistence of undernutrition and overweight in the same population? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "double burden",
+      "the double burden"
+     ],
+     "explain": "¶1: “The coexistence of these two problems… is known as the double burden of malnutrition” คำตอบคือ double burden (ถ้าเขียน double burden of malnutrition จะเกินสามคำตามที่โจทย์กำหนด)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What concept do researchers use to explain the shift from traditional diets to foods high in sugar and fat? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "nutrition transition",
+      "the nutrition transition"
+     ],
+     "explain": "¶3: “Researchers commonly explain this trend through the concept of the nutrition transition” ประโยคถัดไปอธิบายว่าคือการเปลี่ยนจากอาหารดั้งเดิมไปสู่อาหารที่มีน้ำตาล เกลือ และไขมันสูง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What has largely taken the place of walking and cycling in the region? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "motorised transport",
+      "motorized transport"
+     ],
+     "explain": "¶5: “Motorised transport has largely displaced walking and cycling” คำว่า displaced หมายถึงเข้ามาแทนที่ ซึ่งโจทย์ถอดความเป็น taken the place of"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 6, what did many manufacturers do instead of simply passing higher prices on to consumers? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "reformulated their drinks",
+      "reformulated drinks",
+      "reformulated"
+     ],
+     "explain": "¶6: “rather than simply passing higher prices on to consumers, many manufacturers reformulated their drinks to qualify for lower tax bands” คือปรับสูตรเครื่องดื่มให้น้ำตาลน้อยลงเพื่อเสียภาษีในอัตราที่ต่ำกว่า"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Where do some vendors sell unhealthy food, out of reach of school rules? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "outside school gates",
+      "outside the school gates"
+     ],
+     "explain": "¶7: “vendors who sell unhealthy food outside school gates, beyond the reach of school rules” การขายนอกรั้วโรงเรียนทำให้กฎของโรงเรียนควบคุมไม่ได้ และทำให้ผลของโครงการลดลง"
+    }
+   ]
+  },
+  {
+   "id": "T1P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "AI/Technology",
+   "title": "Artificial Intelligence in Medical Imaging: Promise, Pitfalls and the Continuing Role of the Clinician",
+   "paragraphs": [
+    "Medical imaging—including X-rays, computed tomography (CT), magnetic resonance imaging (MRI) and ultrasound—lies at the heart of modern diagnosis. Yet in many countries the number of images produced each year is growing far faster than the number of radiologists trained to interpret them. The result is heavy workloads, fatigue and, in some hospitals, delays of days or even weeks before a scan is reported. Against this background, artificial intelligence (AI) has been widely promoted as a way of easing the pressure on imaging services.",
+    "Most current systems rely on a technique known as deep learning. Rather than following explicit rules written by programmers, a deep learning model learns from large collections of labelled examples. If it is shown many thousands of chest X-rays that specialists have classified as either normal or showing pneumonia, for instance, the model gradually adjusts millions of internal parameters until it can distinguish between the two categories on its own. This sets it apart from earlier computer-aided detection software, which depended on hand-coded instructions and often produced so many false alarms that radiologists learned to ignore it.",
+    "In carefully controlled studies, the results have been impressive. Algorithms have matched experienced specialists in a number of narrowly defined tasks, such as detecting signs of diabetic eye disease in retinal photographs, identifying small lung nodules on CT scans and spotting fractures on X-rays. AI can also be used for triage: by flagging scans that appear to show an urgent problem, such as bleeding in the brain, it allows radiologists to examine those cases first. At one large teaching hospital in Southeast Asia, a 2023 audit found that introducing such a system cut the average time taken to report urgent head scans by almost half.",
+    "The potential benefits are greatest where specialists are scarce. In rural areas of Thailand and several other countries, AI tools have been tested for diabetic eye screening: a nurse photographs the patient's retina, and the software returns a result within minutes, so that patients who need treatment can be referred on the same day instead of waiting weeks for a specialist's report. However, field trials have also exposed practical difficulties. Poor lighting in some clinics produced images that the system rejected as unreadable, and unstable internet connections repeatedly interrupted the uploading of photographs, forcing patients to return another day.",
+    "A more fundamental limitation concerns generalisability. An algorithm trained on images from one hospital may perform noticeably worse at another because of differences in scanner models, imaging protocols and patient populations, a problem known as dataset shift. In one widely discussed case, a model designed to detect pneumonia on chest X-rays appeared highly accurate, but further analysis suggested that it was partly relying on features unrelated to the disease, such as markings that revealed which hospital an image had come from. Similarly, if certain groups, such as particular ethnic groups or age ranges, are underrepresented in the training data, the system may perform less reliably for those patients.",
+    "Two further concerns relate to the way humans interact with these systems. First, many deep learning models function as a 'black box', producing an answer without revealing the reasoning behind it. Colour-coded 'heat maps', which highlight the regions of an image that most influenced a decision, offer some insight but can themselves be misleading. Second, clinicians may come to trust the software too readily, a tendency known as automation bias. In a 2023 experiment involving 27 radiologists, participants who were shown deliberately incorrect AI suggestions made noticeably more errors than when they read the same images without assistance.",
+    "These problems explain why experts insist on rigorous validation before AI tools are used in routine care. An algorithm should be tested not only on data from the institution where it was developed but also on images from other hospitals, a process called external validation. Ideally, it should then be evaluated prospectively, within real clinical workflows, rather than only on stored images. Even after deployment, ongoing monitoring is essential, since performance can drift as equipment, software and patient populations change. Regulatory approval is an important step, but it does not guarantee that a system will perform equally well in every setting.",
+    "None of this means that AI has failed to deliver. About a decade ago, some commentators predicted that radiologists would soon be unnecessary; instead, demand for their expertise has continued to rise. A more realistic vision is one of augmented practice, in which software handles repetitive tasks such as measuring lesions and prioritising worklists, while clinicians integrate imaging findings with the patient's history, discuss uncertain cases with colleagues and take responsibility for the final decision. The central question is therefore no longer whether AI will be used in medical imaging, but how it can be used safely, fairly and transparently."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "AI has already replaced radiologists in many large hospitals.",
+      "Deep learning systems are less accurate than older computer-aided detection.",
+      "AI is useful mainly in rural clinics where specialists are scarce.",
+      "AI can improve imaging, but it requires validation and human oversight."
+     ],
+     "answer": 3,
+     "explain": "บทความกล่าวถึงประโยชน์ (¶3–4) ข้อจำกัด (¶5–6) และความจำเป็นของการตรวจสอบและบทบาทแพทย์ (¶7–8: “take responsibility for the final decision”) จึงตรงกับ D ตัวเลือก A ขัดกับ ¶8 ที่บอกว่าความต้องการรังสีแพทย์ยังเพิ่มขึ้น และ C แคบเกินไปเพราะเป็นเพียงเนื้อหาของ ¶4"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what has created interest in using AI for medical imaging?",
+     "options": [
+      "Image numbers are rising faster than radiologist numbers.",
+      "Patients increasingly prefer computers to human doctors.",
+      "New types of scanner produce images that humans cannot interpret.",
+      "Radiologists have asked for software that can replace them."
+     ],
+     "answer": 0,
+     "explain": "¶1: “the number of images produced each year is growing far faster than the number of radiologists trained to interpret them” ทำให้งานล้นมือและรายงานผลล่าช้า AI จึงถูกเสนอเป็นทางออก ตัวเลือก C หลอกด้วยคำว่า interpret แต่บทความไม่ได้บอกว่ามนุษย์อ่านภาพไม่ได้ เพียงแต่มีรังสีแพทย์ไม่พอ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'explicit' in paragraph 2 is closest in meaning to",
+     "options": [
+      "very complicated",
+      "hidden",
+      "clearly stated",
+      "temporary"
+     ],
+     "answer": 2,
+     "explain": "¶2: “Rather than following explicit rules written by programmers” กฎที่โปรแกรมเมอร์เขียนไว้ชัดเจนเป็นข้อ ๆ ตรงข้ามกับการที่โมเดลเรียนรู้รูปแบบเองจากตัวอย่าง จึงหมายถึง clearly stated ส่วน hidden มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, how do deep learning systems differ from earlier computer-aided detection software?",
+     "options": [
+      "They need no examples in order to learn.",
+      "They learn from labelled examples instead of hand-coded rules.",
+      "They tend to produce many more false alarms than the earlier software did.",
+      "They are designed so that radiologists can safely ignore them."
+     ],
+     "answer": 1,
+     "explain": "¶2: deep learning “learns from large collections of labelled examples” ขณะที่ซอฟต์แวร์รุ่นก่อน “depended on hand-coded instructions” ตัวเลือก C กลับด้าน เพราะซอฟต์แวร์รุ่นเก่าต่างหากที่แจ้งเตือนผิดบ่อยจนรังสีแพทย์ไม่สนใจ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention 'bleeding in the brain' in paragraph 3?",
+     "options": [
+      "to give an example of a case that AI can help doctors prioritise",
+      "to show that AI is not yet able to detect serious brain injuries reliably",
+      "to compare the accuracy of CT scans with that of X-rays",
+      "to explain why radiologists often feel tired at work"
+     ],
+     "answer": 0,
+     "explain": "¶3: “by flagging scans that appear to show an urgent problem, such as bleeding in the brain, it allows radiologists to examine those cases first” เลือดออกในสมองเป็นตัวอย่างของภาวะเร่งด่วนที่ AI ช่วยจัดลำดับให้อ่านก่อน ตัวเลือก B ขัดกับย่อหน้าที่รายงานผลเชิงบวก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'scarce' in paragraph 4 is closest in meaning to",
+     "options": [
+      "very expensive to employ",
+      "highly trained",
+      "unwilling",
+      "in short supply"
+     ],
+     "answer": 3,
+     "explain": "¶4: “The potential benefits are greatest where specialists are scarce.” ตัวอย่างที่ตามมาคือพื้นที่ชนบทที่ผู้ป่วยต้องรอรายงานจากแพทย์เฉพาะทางหลายสัปดาห์ แสดงว่ามีแพทย์เฉพาะทางน้อย ตัวเลือก very expensive to employ ฟังดูเป็นไปได้แต่บริบทพูดถึงจำนวน ไม่ใช่ค่าจ้าง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The problems found in the field trials described in paragraph 4 suggest that",
+     "options": [
+      "nurses are not able to take clear retinal photographs",
+      "AI tools should also be tested in real clinical conditions",
+      "rural patients are generally unwilling to be screened by a computer",
+      "internet connections in large cities are generally unreliable"
+     ],
+     "answer": 1,
+     "explain": "¶4: “field trials have also exposed practical difficulties” เช่น แสงไม่พอและอินเทอร์เน็ตไม่เสถียร ซึ่งไม่ปรากฏในการศึกษาแบบควบคุม (¶3) จึงอนุมานได้ว่าต้องทดสอบ AI ในสภาพการทำงานจริงด้วย ตัวเลือก A ผิดเพราะภาพใช้ไม่ได้เนื่องจาก “Poor lighting” ไม่ใช่ความสามารถของพยาบาล"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from the pneumonia example in paragraph 5 that the model",
+     "options": [
+      "was more accurate than human radiologists",
+      "had been trained on far too few chest X-ray images",
+      "might perform poorly on images from other hospitals",
+      "could clearly explain the reasons for its decisions"
+     ],
+     "answer": 2,
+     "explain": "¶5: โมเดลอาศัย “markings that revealed which hospital an image had come from” แทนลักษณะของโรค เมื่อนำไปใช้กับภาพจากโรงพยาบาลที่ไม่มีเครื่องหมายเหล่านั้น ความแม่นยำจึงน่าจะลดลง ตัวเลือก A ผิดเพราะความแม่นยำที่เห็นเป็นเพียง “appeared highly accurate” ซึ่งภายหลังพบว่าไม่น่าเชื่อถือ"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a reason why an algorithm may perform worse at a new hospital?",
+     "options": [
+      "differences in scanner models",
+      "differences in imaging protocols",
+      "differences in patient populations",
+      "differences in radiologist numbers"
+     ],
+     "answer": 3,
+     "explain": "¶5: “because of differences in scanner models, imaging protocols and patient populations” ไม่มีการกล่าวถึงจำนวนรังสีแพทย์ในย่อหน้านี้ ตัวเลือก D หลอกเพราะการขาดแคลนรังสีแพทย์ปรากฏใน ¶1 แต่เป็นเหตุผลที่ทำให้สนใจ AI ไม่ใช่สาเหตุที่อัลกอริทึมทำงานแย่ลง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 6 refer to?",
+     "options": [
+      "the radiologists in the experiment",
+      "the deliberately incorrect AI suggestions",
+      "the colour-coded heat maps",
+      "the deep learning models"
+     ],
+     "answer": 0,
+     "explain": "¶6: “participants who were shown deliberately incorrect AI suggestions made noticeably more errors than when they read the same images” ผู้ที่อ่านภาพคือผู้เข้าร่วมการทดลองซึ่งเป็นรังสีแพทย์ 27 คน ตัวเลือก B อยู่ใกล้คำว่า they ที่สุดแต่คำแนะนำของ AI ไม่สามารถ “read” ภาพได้"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "Most current systems rely on a technique known as deep learning.",
+      "A more realistic vision is one of augmented practice.",
+      "Algorithms have matched experienced specialists in a number of narrowly defined tasks.",
+      "In a 2023 experiment involving 27 radiologists, participants made noticeably more errors."
+     ],
+     "answer": 1,
+     "explain": "¶8: “A more realistic vision is one of augmented practice” คำว่า more realistic เป็นการประเมินของผู้เขียนว่าภาพอนาคตแบบใดสมเหตุสมผลกว่า ส่วนตัวเลือกอื่นเป็นข้อมูลที่ตรวจสอบได้จากงานวิจัย เช่น ตัวเลือก D รายงานผลการทดลองที่ระบุปีและจำนวนผู้เข้าร่วม"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward the use of AI in medical imaging can best be described as",
+     "options": [
+      "hostile and suspicious",
+      "excited and uncritical",
+      "balanced but broadly positive",
+      "detached and largely uninterested"
+     ],
+     "answer": 2,
+     "explain": "¶8: “None of this means that AI has failed to deliver.” ผู้เขียนยอมรับประโยชน์ของ AI แต่ก็ใช้หลายย่อหน้า (¶5–7) อธิบายข้อจำกัดและความจำเป็นในการตรวจสอบ จึงเป็นทัศนคติที่สมดุลแต่ค่อนไปทางบวก ตัวเลือก B ผิดเพราะผู้เขียนไม่ได้มองข้ามความเสี่ยง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What technique do most current AI imaging systems rely on? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "deep learning"
+     ],
+     "explain": "¶2: “Most current systems rely on a technique known as deep learning.” ซึ่งเป็นการเรียนรู้จากตัวอย่างภาพที่มีป้ายกำกับจำนวนมาก"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In the rural eye-screening programmes, who takes the photograph of the patient's retina? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "a nurse",
+      "nurse",
+      "nurses"
+     ],
+     "explain": "¶4: “a nurse photographs the patient's retina, and the software returns a result within minutes” ผู้ถ่ายภาพจึงเป็นพยาบาล ไม่ใช่จักษุแพทย์ ซึ่งช่วยให้คัดกรองได้ในพื้นที่ที่ขาดแพทย์เฉพาะทาง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the problem of an algorithm performing worse on images from a different hospital? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "dataset shift"
+     ],
+     "explain": "¶5: “An algorithm trained on images from one hospital may perform noticeably worse at another… a problem known as dataset shift”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term describes the tendency of clinicians to rely on AI software more than they should? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "automation bias"
+     ],
+     "explain": "¶6: “clinicians may come to trust the software too readily, a tendency known as automation bias” โจทย์ถอดความ trust too readily เป็น rely on… more than they should"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 7, what remains essential even after an AI system has been deployed? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "ongoing monitoring",
+      "monitoring",
+      "continuous monitoring"
+     ],
+     "explain": "¶7: “Even after deployment, ongoing monitoring is essential, since performance can drift” เพราะประสิทธิภาพอาจเปลี่ยนไปเมื่ออุปกรณ์ ซอฟต์แวร์ หรือกลุ่มผู้ป่วยเปลี่ยน"
+    }
+   ]
+  }
+ ]
+}

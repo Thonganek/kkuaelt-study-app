@@ -1,0 +1,977 @@
+{
+ "id": "T5",
+ "day": 32,
+ "title": "Reading Test 5",
+ "passages": [
+  {
+   "id": "T5P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "Health Officials Raise Heat Alert as Northeast Swelters",
+   "paragraphs": [
+    "Health authorities in several northeastern provinces raised their heat warning to the highest level on Monday after temperatures climbed above 42°C for the third consecutive day. Forecasters expect the hot spell to last until at least the weekend, with little relief at night.",
+    "Officials stressed that the main danger is not discomfort but heat stroke, a medical emergency in which the body can no longer control its own temperature. Early signs include headache, dizziness and nausea. If these are ignored, a person may become confused and eventually collapse. Without rapid cooling, heat stroke can damage the brain, kidneys and heart.",
+    "A provincial disease control office reported that 37 people were treated for heat-related illness last week, most of them farmers and construction workers. Older adults living alone, young children and people with heart disease or diabetes are also at high risk, as their bodies cope less well with prolonged heat.",
+    "The public is advised to drink water regularly rather than waiting until they feel thirsty, to avoid alcohol, and to stay indoors between 11 a.m. and 3 p.m. where possible. Employers have been urged to provide shaded rest areas and schedule heavy work for early morning.",
+    "“Heat stroke is largely preventable,” said Dr. Anucha Srisuk, a physician at a district hospital. “Checking on an elderly neighbour once or twice a day can save a life.” Anyone with symptoms should be moved somewhere cool while the emergency number 1669 is called."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the report?",
+     "options": [
+      "Temperatures in the northeast have broken every previous national record.",
+      "Hospitals across the northeast are struggling to treat a sharp rise in heat stroke cases.",
+      "Officials warn that the extreme heat can be deadly and explain how people can stay safe.",
+      "Employers must now stop all outdoor work during the hottest part of the day."
+     ],
+     "answer": 2,
+     "explain": "ข่าวทั้งเรื่องเตือนถึงอันตรายของฮีทสโตรก (¶2: “the main danger is not discomfort but heat stroke”) ระบุกลุ่มเสี่ยง และให้คำแนะนำในการป้องกัน (¶4–5) ตัวเลือก C จึงครอบคลุมที่สุด ตัวเลือก B ผิดเพราะข่าวรายงานผู้ป่วยเพียง 37 ราย ไม่ได้บอกว่าโรงพยาบาลรับมือไม่ไหว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, forecasters expect that",
+     "options": [
+      "temperatures will fall sharply by the weekend",
+      "the heat will continue for several more days",
+      "nights will be noticeably cooler than days",
+      "rain will bring some relief early in the week"
+     ],
+     "answer": 1,
+     "explain": "¶1: “Forecasters expect the hot spell to last until at least the weekend” ข่าวออกในวันจันทร์ จึงหมายความว่าอากาศร้อนจะต่อเนื่องไปอีกหลายวัน ตัวเลือก C ขัดกับวลี “with little relief at night” ที่บอกว่ากลางคืนก็ไม่ได้เย็นลง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'these' in paragraph 2 refer to?",
+     "options": [
+      "officials' warnings about the heat",
+      "the body's ways of controlling temperature",
+      "the brain, kidneys and heart",
+      "the early signs of heat stroke"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Early signs include headache, dizziness and nausea. If these are ignored…” คำว่า these ชี้กลับไปที่อาการเริ่มแรกในประโยคก่อนหน้าทันที ตัวเลือก A ดูเข้าเค้าเพราะประโยคแรกพูดถึงเจ้าหน้าที่ แต่ผลที่ตามมา (สับสนและล้มลง) เป็นผลของการละเลยอาการ ไม่ใช่ละเลยคำเตือน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as an early sign of heat stroke?",
+     "options": [
+      "a headache",
+      "muscle cramps",
+      "feeling sick",
+      "feeling dizzy"
+     ],
+     "answer": 1,
+     "explain": "¶2 ระบุอาการเริ่มแรกไว้เพียงสามอย่าง: “Early signs include headache, dizziness and nausea.” (feeling sick = nausea, feeling dizzy = dizziness) ไม่มีการพูดถึงตะคริวกล้ามเนื้อ (muscle cramps) แม้ในชีวิตจริงจะเป็นอาการที่เกี่ยวกับความร้อนก็ตาม"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that most of the people treated last week",
+     "options": [
+      "had ignored the official warnings about the heat",
+      "were older adults who lived on their own",
+      "had been exposed to the heat through their work",
+      "already suffered from heart disease or diabetes"
+     ],
+     "answer": 2,
+     "explain": "¶3: “most of them farmers and construction workers” ทั้งสองอาชีพต้องทำงานกลางแจ้ง จึงอนุมานได้ว่าพวกเขาเจอความร้อนจากการทำงาน ตัวเลือก B ผิดเพราะผู้สูงอายุที่อยู่ลำพังถูกกล่าวถึงว่าเป็นกลุ่มเสี่ยงอีกกลุ่มหนึ่ง (“are also at high risk”) ไม่ใช่ผู้ป่วยส่วนใหญ่"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'prolonged' in paragraph 3 is closest in meaning to",
+     "options": [
+      "long-lasting",
+      "short-lived",
+      "very intense",
+      "unexpected"
+     ],
+     "answer": 0,
+     "explain": "¶3: “their bodies cope less well with prolonged heat” คำว่า prolonged หมายถึงยืดเยื้อ ต่อเนื่องเป็นเวลานาน ตรงกับ long-lasting ส่วน very intense (รุนแรงมาก) เป็นตัวลวงเพราะเข้ากับเรื่องความร้อน แต่ไม่ได้บอกเรื่องระยะเวลา และ short-lived มีความหมายตรงกันข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the report, members of the public are advised to",
+     "options": [
+      "rest in the shade during the early morning",
+      "take sugary drinks to replace lost energy",
+      "go outdoors only in the late morning",
+      "drink water before they feel thirsty"
+     ],
+     "answer": 3,
+     "explain": "¶4: “drink water regularly rather than waiting until they feel thirsty” คือให้ดื่มน้ำก่อนรู้สึกกระหาย ตัวเลือก A หยิบคำว่า shaded และ early morning มาจากคำแนะนำสำหรับนายจ้าง ไม่ใช่คำแนะนำสำหรับประชาชนทั่วไป"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does Dr. Anucha mention checking on an elderly neighbour?",
+     "options": [
+      "to show that ordinary people can help prevent deaths",
+      "to explain why older people are more likely to fall ill",
+      "to criticise families who leave older relatives alone",
+      "to describe the first aid that should be given to victims"
+     ],
+     "answer": 0,
+     "explain": "¶5: “Heat stroke is largely preventable… Checking on an elderly neighbour once or twice a day can save a life.” แพทย์ยกตัวอย่างนี้เพื่อชี้ว่าคนทั่วไปก็ช่วยป้องกันการเสียชีวิตได้ ตัวเลือก D ผิดเพราะการปฐมพยาบาล (ย้ายไปที่เย็นและโทร 1669) อยู่ในประโยคถัดไปและไม่ใช่เหตุผลที่เอ่ยถึงเพื่อนบ้าน"
+    }
+   ]
+  },
+  {
+   "id": "T5P2",
+   "kind": "short",
+   "genre": "announcement/notice",
+   "domain": "Medicine",
+   "title": "Blood Bank Notice: Donation Drive, 3–7 March",
+   "paragraphs": [
+    "The Blood Bank of the Provincial Hospital is appealing to all healthy members of the public to donate blood. Our reserves have fallen to roughly half of their usual level, and supplies of group O and group B blood are expected to last fewer than three days. Several non-urgent operations have already been postponed to keep the remaining units for emergencies.",
+    "The shortage has several causes. Donations normally decline during the long school holidays, when the student blood drives that provide much of our supply do not take place. At the same time, demand has risen because of more road accident cases and the opening of the hospital's new cancer unit.",
+    "You may give blood if you are aged 17 to 65 (first-time donors must be under 60), weigh at least 45 kilograms and are in good health. You should have slept for at least six hours the night before and eaten within four hours of donating. Please do not donate if you have had a cold or fever in the past seven days, or a tattoo or piercing in the past three months.",
+    "Donations will be accepted from 3 to 7 March, 8:30 a.m. to 3:30 p.m., on the ground floor of Building 2. Please bring your national ID card or passport. The whole process, including registration, a brief health check and a short rest, takes about 45 minutes, although the donation itself lasts only around ten minutes.",
+    "If you cannot come on these dates, you are welcome to donate at the Blood Bank on any weekday. For further information, please call extension 2204. A single donation can help save up to three lives."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this notice?",
+     "options": [
+      "to explain new rules about who may donate blood",
+      "to announce that non-urgent operations have been cancelled",
+      "to ask eligible people to give blood during a shortage",
+      "to thank students for supporting earlier blood drives"
+     ],
+     "answer": 2,
+     "explain": "ประกาศเปิดด้วย ¶1: “The Blood Bank … is appealing to all healthy members of the public to donate blood.” ส่วนที่เหลือเป็นเหตุผล คุณสมบัติ และวันเวลา จุดประสงค์หลักจึงเป็นการขอรับบริจาคช่วงขาดแคลน ตัวเลือก A แคบเกินไปเพราะคุณสมบัติผู้บริจาคเป็นเพียงส่วนหนึ่ง (¶3) และประกาศไม่ได้บอกว่าเป็นกฎใหม่"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, supplies of group O blood",
+     "options": [
+      "have fallen to half of their usual level",
+      "may run out in less than three days",
+      "are being kept only for cancer patients",
+      "were used up by non-urgent operations"
+     ],
+     "answer": 1,
+     "explain": "¶1: “supplies of group O and group B blood are expected to last fewer than three days” ตัวเลือก A เป็นกับดักเพราะ “roughly half of their usual level” หมายถึงเลือดสำรองโดยรวมของธนาคารเลือด ไม่ได้เจาะจงกรุ๊ป O"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 1 that some operations were postponed because the hospital",
+     "options": [
+      "wanted to save blood for urgent cases",
+      "had too few surgeons during the holidays",
+      "found that patients were not fit for surgery",
+      "needed the operating rooms for the cancer unit"
+     ],
+     "answer": 0,
+     "explain": "¶1: “Several non-urgent operations have already been postponed to keep the remaining units for emergencies.” จึงอนุมานได้ว่าโรงพยาบาลเลื่อนผ่าตัดเพื่อสำรองเลือดไว้ให้ผู้ป่วยฉุกเฉิน ตัวเลือก D หยิบคำว่า cancer unit จาก ¶2 มาหลอก แต่ไม่มีข้อมูลเรื่องห้องผ่าตัดเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'decline' in paragraph 2 is closest in meaning to",
+     "options": [
+      "refuse",
+      "decrease",
+      "vary",
+      "increase"
+     ],
+     "answer": 1,
+     "explain": "¶2: “Donations normally decline during the long school holidays” ในบริบทนี้ decline หมายถึงลดลง (decrease) เพราะไม่มีการรับบริจาคจากนักศึกษา ตัวเลือก refuse เป็นอีกความหมายหนึ่งของ decline (ปฏิเสธ) ซึ่งใช้กับคน ไม่ใช่กับจำนวนการบริจาค ส่วน increase มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT given as a cause of the shortage?",
+     "options": [
+      "fewer student blood drives in the holidays",
+      "a rise in the number of road accident cases",
+      "the opening of a new cancer unit",
+      "an outbreak of dengue fever in the province"
+     ],
+     "answer": 3,
+     "explain": "¶2 ให้สาเหตุไว้สามข้อ ได้แก่ช่วงปิดภาคเรียนไม่มีการรับบริจาคจากนักศึกษา อุบัติเหตุทางถนนที่เพิ่มขึ้น (“more road accident cases”) และการเปิดหน่วยรักษามะเร็งใหม่ ไม่มีตอนใดกล่าวถึงการระบาดของไข้เลือดออก"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Based on the notice, which of these people should NOT donate during the drive?",
+     "options": [
+      "a 62-year-old who has donated regularly for years",
+      "a 19-year-old student who weighs 48 kilograms",
+      "a 30-year-old who had a fever four days ago",
+      "a 45-year-old who got a tattoo two years ago"
+     ],
+     "answer": 2,
+     "explain": "¶3: “Please do not donate if you have had a cold or fever in the past seven days” คนที่เป็นไข้เมื่อสี่วันก่อนจึงยังบริจาคไม่ได้ ตัวเลือก A อาจหลอกเพราะอายุ 62 เกินเกณฑ์ของผู้บริจาครายใหม่ (ต้องต่ำกว่า 60) แต่คนนี้บริจาคเป็นประจำอยู่แล้วและยังอยู่ในช่วงอายุ 17–65 ส่วนตัวอเลือก D สักมาแล้วสองปี จึงพ้นช่วงห้ามสามเดือน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the notice, how long does the donation itself take?",
+     "options": [
+      "around ten minutes",
+      "about 45 minutes",
+      "up to four hours",
+      "at least six hours"
+     ],
+     "answer": 0,
+     "explain": "¶4: “the donation itself lasts only around ten minutes” ส่วน 45 นาทีเป็นเวลาของกระบวนการทั้งหมดซึ่งรวมการลงทะเบียน ตรวจสุขภาพ และพัก ตัวเลือก B จึงเป็นกับดักตัวเลข ส่วนสี่และหกชั่วโมงมาจากเงื่อนไขเรื่องการกินอาหารและการนอนใน ¶3"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "What does the notice say about people who cannot attend between 3 and 7 March?",
+     "options": [
+      "They should telephone to book a later date.",
+      "They will be contacted by the hospital in April.",
+      "They may donate at any time during the weekend.",
+      "They can donate at the Blood Bank on a weekday."
+     ],
+     "answer": 3,
+     "explain": "¶5: “If you cannot come on these dates, you are welcome to donate at the Blood Bank on any weekday.” ตัวเลือก A ผิดเพราะเบอร์โทรมีไว้สอบถามข้อมูล (“For further information”) ไม่ใช่สำหรับนัดวัน และ C ผิดเพราะ weekday คือวันจันทร์–ศุกร์ ไม่ใช่วันเสาร์–อาทิตย์"
+    }
+   ]
+  },
+  {
+   "id": "T5P3",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "AI/Technology",
+   "title": "Machine Translation in the Language Classroom: Helpful Tool or Shortcut?",
+   "paragraphs": [
+    "When Nattapong, a second-year engineering student, has to write a report in English, he no longer reaches for a dictionary. Instead, he types his ideas in Thai into a free translation app, copies the result and makes a few changes. “It takes ten minutes instead of two hours,” he says. Across Thailand and beyond, millions of learners now work in a similar way, and teachers are divided over what this means for language learning.",
+    "The technology has improved dramatically. Early systems worked largely word by word and often produced awkward or meaningless sentences. Today's tools, built on neural networks trained on enormous quantities of text, generate output that is frequently fluent enough to pass as the work of a competent human writer.",
+    "Critics argue that this very fluency is the problem. If an app does the hard work of choosing words and building sentences, they say, students never develop those abilities themselves. A lecturer at a Bangkok language institute compares the situation to giving children calculators before they have learned to add: the right answer appears, but understanding does not. There are also concerns about accuracy. Although errors have become less common, they have not disappeared, and learners at lower levels are often unable to spot them.",
+    "Supporters, however, regard the technology as a resource rather than a threat. Used deliberately, they argue, it can show learners how ideas are naturally expressed in English and help them check their own drafts. In a small classroom study at a university in northern Thailand, students who first wrote paragraphs on their own and then compared them with machine translations made more accurate revisions than students who received only teacher feedback.",
+    "Many teachers are therefore shifting from banning the tools to teaching students how to use them. The key, says another lecturer, is the order of steps: “Write first, translate second, and always ask why the machine chose a different word.” Whether students will follow that advice when a deadline is approaching is, of course, another matter."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Translation apps have now become so accurate that students no longer need to study grammar.",
+      "Educators disagree about translation apps, and many now teach students to use them well.",
+      "Thai universities have decided to ban translation apps from English writing courses.",
+      "Engineering students depend on translation apps far more heavily than other students."
+     ],
+     "answer": 1,
+     "explain": "บทความเสนอทั้งฝ่ายที่วิจารณ์ (¶3) และฝ่ายที่สนับสนุน (¶4) แล้วสรุปว่าครูหลายคนหันมาสอนวิธีใช้แทนการห้าม (¶5: “shifting from banning the tools to teaching students how to use them”) ตัวเลือก C ตรงข้ามกับข้อความนี้ ส่วน A เกินจริงเพราะ ¶3 ยังบอกว่าข้อผิดพลาดไม่ได้หายไป"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author begin the passage with the example of Nattapong?",
+     "options": [
+      "to illustrate how many learners now use translation apps",
+      "to suggest that engineering students have weak English",
+      "to compare the speed of dictionaries and translation apps",
+      "to criticise students who copy their work from the internet"
+     ],
+     "answer": 0,
+     "explain": "¶1 ปิดท้ายด้วย “millions of learners now work in a similar way” แสดงว่าเรื่องของณัฐพงษ์เป็นตัวอย่างพฤติกรรมของผู้เรียนจำนวนมาก ตัวเลือก C เป็นตัวลวงเพราะมีการเทียบเวลา 10 นาทีกับ 2 ชั่วโมง แต่นั่นเป็นคำพูดของเขา ไม่ใช่จุดประสงค์ของผู้เขียน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, early machine translation systems",
+     "options": [
+      "were trained on enormous quantities of text",
+      "were mainly used by professional writers",
+      "produced output that sounded natural",
+      "translated mostly one word at a time"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Early systems worked largely word by word” ตรงกับ translated mostly one word at a time ตัวเลือก A และ C เป็นลักษณะของระบบปัจจุบัน (“Today's tools… trained on enormous quantities of text”) ไม่ใช่ระบบยุคแรก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'competent' in paragraph 2 is closest in meaning to",
+     "options": [
+      "famous",
+      "creative",
+      "capable",
+      "careful"
+     ],
+     "answer": 2,
+     "explain": "¶2: “fluent enough to pass as the work of a competent human writer” คำว่า competent หมายถึงมีความสามารถเพียงพอ ตรงกับ capable ตัวเลือก famous ไม่เข้ากับบริบทเพราะประเด็นอยู่ที่คุณภาพของงานเขียน ไม่ใช่ชื่อเสียงของผู้เขียน"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 3 refer to?",
+     "options": [
+      "learners at lower levels",
+      "translation errors",
+      "calculators",
+      "words and sentences"
+     ],
+     "answer": 1,
+     "explain": "¶3: “Although errors have become less common, they have not disappeared, and learners at lower levels are often unable to spot them.” สิ่งที่ผู้เรียนมองไม่เห็นคือข้อผิดพลาดของการแปล ตัวเลือก A ผิดเพราะผู้เรียนระดับต้นเป็นผู้กระทำ (ผู้ที่ spot) ไม่ใช่สิ่งที่ถูกมองหา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The lecturer's comparison with calculators in paragraph 3 suggests that translation apps may",
+     "options": [
+      "give correct answers without building real skills",
+      "be too expensive for most students to use regularly",
+      "be more useful for mathematics than for languages",
+      "give wrong answers more often than students realise"
+     ],
+     "answer": 0,
+     "explain": "¶3: “the right answer appears, but understanding does not” การเปรียบกับเครื่องคิดเลขชี้ว่าแอปให้คำตอบที่ถูกได้ แต่ผู้เรียนไม่ได้พัฒนาทักษะของตนเอง ตัวเลือก D ขัดกับภาพเปรียบนี้โดยตรง เพราะในภาพเปรียบนั้นคำตอบออกมาถูกต้อง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the classroom study, which students made more accurate revisions?",
+     "options": [
+      "those who received feedback only from a teacher",
+      "those who translated their paragraphs from Thai",
+      "those who used translation apps throughout every task",
+      "those who wrote alone, then compared machine versions"
+     ],
+     "answer": 3,
+     "explain": "¶4: “students who first wrote paragraphs on their own and then compared them with machine translations made more accurate revisions” ตัวเลือก A คือกลุ่มเปรียบเทียบที่ได้เพียง “teacher feedback” ซึ่งแก้งานได้แม่นยำน้อยกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "In the final sentence of the passage, the author's tone can best be described as",
+     "options": [
+      "confident and enthusiastic",
+      "angry and accusing",
+      "mildly sceptical",
+      "deeply alarmed"
+     ],
+     "answer": 2,
+     "explain": "¶5: “Whether students will follow that advice when a deadline is approaching is, of course, another matter.” ผู้เขียนแสดงความสงสัยเล็กน้อยว่านักศึกษาจะทำตามจริงหรือไม่ ตัวเลือก D (deeply alarmed) รุนแรงเกินไป เพราะเป็นเพียงการตั้งข้อสังเกตเบา ๆ ไม่ใช่ความตื่นตระหนก"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "A problem is described, and one solution is shown to have succeeded.",
+      "The history of machine translation is traced in strict time order.",
+      "An example raises an issue; opposing views and a middle path follow.",
+      "Two research studies are compared, and their methods are evaluated."
+     ],
+     "answer": 2,
+     "explain": "บทความเริ่มด้วยตัวอย่างของณัฐพงษ์ (¶1) ตามด้วยฝ่ายวิจารณ์ (¶3: “Critics argue…”) และฝ่ายสนับสนุน (¶4: “Supporters, however…”) แล้วจบด้วยทางสายกลางคือสอนวิธีใช้ (¶5) ตัวเลือก D ผิดเพราะมีงานวิจัยเพียงชิ้นเดียวใน ¶4 และ B ผิดเพราะประวัติของเทคโนโลยีปรากฏแค่ใน ¶2"
+    }
+   ]
+  },
+  {
+   "id": "T5P4",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Environment",
+   "title": "Weighing the Waste: Inside a Study of Family Kitchens",
+   "paragraphs": [
+    "Most people believe they waste very little food. A new study suggests they are mistaken. Researchers at a university in central Thailand asked 400 households in three provinces to weigh all the food they threw away over four weeks. Before the study began, participants estimated that they discarded less than half a kilogram of food per person each week. The scales told a different story: the actual average was nearly 1.4 kilograms per person per week.",
+    "Fresh vegetables and fruit made up the largest share of the waste, followed by cooked rice and leftover meals. Packaged and dried foods, by contrast, were rarely thrown away. According to the lead researcher, Dr. Kanokwan Petchrat, this pattern reflects how quickly fresh produce spoils in a hot climate. “Families buy vegetables with good intentions,” she said, “but if plans change and nobody cooks that evening, they can be inedible within two days.”",
+    "The study also identified habits that increase waste. Households that shopped without a list, or bought large quantities to take advantage of discounts, wasted significantly more than those that planned their meals. Confusion over date labels was another factor. Many participants threw food away on its “best before” date, even though this label refers to quality rather than safety and the food would usually still have been fine to eat.",
+    "The findings matter for the environment as well as for household budgets. Food that rots in landfill releases methane, a greenhouse gas that traps far more heat than carbon dioxide over the short term. In addition, the water, energy and land used to produce, transport and store uneaten food are wasted too.",
+    "Encouragingly, the researchers found that small changes made a measurable difference. Halfway through the study, half of the households received simple advice: check the fridge before shopping, store vegetables properly, and freeze leftovers instead of leaving them out. These families cut their waste by about a quarter, while the other group's waste remained almost unchanged.",
+    "Dr. Kanokwan believes, however, that information alone will not solve the problem. She would like supermarkets to sell vegetables in smaller packs and to replace “buy one, get one free” offers with simple price cuts. “We cannot expect families to do everything,” she said. “The system they shop in has to change too.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Supermarket Discounts Help Thai Families Save Money",
+      "Families Waste More Food Than They Think, Study Finds",
+      "Methane from Landfills: Thailand's Biggest Climate Threat",
+      "Why Fresh Vegetables Are Healthier Than Packaged Food"
+     ],
+     "answer": 1,
+     "explain": "ประเด็นหลักคือผลวิจัยที่ว่าครัวเรือนทิ้งอาหารมากกว่าที่คิด (¶1: “Most people believe they waste very little food. A new study suggests they are mistaken.”) พร้อมสาเหตุและวิธีลด ตัวเลือก C แคบและเกินจริง เพราะมีเทนถูกพูดถึงเพียงใน ¶4 และไม่มีตอนใดบอกว่าเป็นภัยใหญ่ที่สุดของไทย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, how much food did participants actually throw away?",
+     "options": [
+      "less than half a kilogram per household each week",
+      "about 1.4 kilograms per household over four weeks",
+      "less than half a kilogram per person each week",
+      "nearly 1.4 kilograms per person each week"
+     ],
+     "answer": 3,
+     "explain": "¶1: “the actual average was nearly 1.4 kilograms per person per week” ส่วน “less than half a kilogram” (ตัวเลือก C) คือค่าที่ผู้ร่วมวิจัยคาดเดาเองก่อนเริ่มการศึกษา ไม่ใช่ปริมาณที่ชั่งได้จริง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'inedible' in paragraph 2 is closest in meaning to",
+     "options": [
+      "unfit to eat",
+      "too expensive",
+      "hard to cook",
+      "out of season"
+     ],
+     "answer": 0,
+     "explain": "¶2: “if plans change and nobody cooks that evening, they can be inedible within two days” ผักที่เสียภายในสองวันคือผักที่กินไม่ได้แล้ว (in- = ไม่, edible = กินได้) ตัวเลือก hard to cook ไม่เข้ากับบริบทเรื่องผักที่เน่าเสียเร็ว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which type of food was thrown away least often?",
+     "options": [
+      "fresh fruit and vegetables",
+      "cooked rice",
+      "leftover meals",
+      "packaged and dried foods"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Packaged and dried foods, by contrast, were rarely thrown away.” คำว่า rarely แปลว่าแทบไม่ ตัวเลือก A ตรงข้ามกับที่ถาม เพราะผักและผลไม้สดเป็นขยะในสัดส่วนสูงที่สุด (“the largest share”)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from Dr. Kanokwan's comments in paragraph 2 that fresh vegetables are often wasted because",
+     "options": [
+      "families buy them with no intention of cooking them",
+      "they cost more to store in a hot climate",
+      "they spoil quickly when meal plans change",
+      "families prefer packaged food to fresh produce"
+     ],
+     "answer": 2,
+     "explain": "¶2: “if plans change and nobody cooks that evening, they can be inedible within two days” แสดงว่าผักเสียเร็วเมื่อแผนการทำอาหารเปลี่ยน ตัวเลือก A ขัดกับ “Families buy vegetables with good intentions” ซึ่งบอกว่าครอบครัวตั้งใจจะทำอาหารจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 3 as a habit that increases food waste?",
+     "options": [
+      "shopping without a list",
+      "buying large amounts to get discounts",
+      "cooking more rice than is needed",
+      "misunderstanding date labels"
+     ],
+     "answer": 2,
+     "explain": "¶3 กล่าวถึงการซื้อของโดยไม่มีรายการ การซื้อจำนวนมากเพราะลดราคา (“bought large quantities to take advantage of discounts”) และความสับสนเรื่องฉลากวันที่ แต่ไม่ได้พูดถึงการหุงข้าวเกินความต้องการ คำว่า cooked rice ใน ¶2 เป็นเพียงประเภทอาหารที่ถูกทิ้ง จึงเป็นกับดักคำซ้ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about 'best before' labels?",
+     "options": [
+      "They show the last date on which food is safe to eat.",
+      "Many shoppers wrongly treat them as safety warnings.",
+      "They are found only on fresh fruit and vegetables.",
+      "They should be removed from all packaged food."
+     ],
+     "answer": 1,
+     "explain": "¶3: “Many participants threw food away on its ‘best before’ date, even though this label refers to quality rather than safety” แสดงว่าคนจำนวนมากเข้าใจผิดว่าฉลากนี้บอกความปลอดภัย ตัวเลือก A คือความเข้าใจผิดนั้นเอง ซึ่งบทความชี้ว่าไม่ถูกต้อง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 4?",
+     "options": [
+      "to explain why food waste is also an environmental problem",
+      "to compare methane with other greenhouse gases",
+      "to show how much money families lose through wasting food each year",
+      "to describe how landfill sites are managed in Thailand"
+     ],
+     "answer": 0,
+     "explain": "¶4 เปิดด้วย “The findings matter for the environment as well as for household budgets.” แล้วอธิบายเรื่องก๊าซมีเทนและทรัพยากรที่สูญเปล่า ตัวเลือก C ผิดเพราะย่อหน้านี้ไม่ได้ให้ตัวเลขเงินที่ครอบครัวสูญเสียเลย และ B แคบเกินไปเพราะมีเทนเป็นเพียงตัวอย่างหนึ่ง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'These families' in paragraph 5 refer to?",
+     "options": [
+      "households that took part in the whole study",
+      "households that did not receive any advice",
+      "households that froze all of their leftovers",
+      "households that received simple advice"
+     ],
+     "answer": 3,
+     "explain": "¶5: “half of the households received simple advice… These families cut their waste by about a quarter” จึงหมายถึงครัวเรือนกลุ่มที่ได้รับคำแนะนำ ตัวเลือก B คือ “the other group” ซึ่งปริมาณขยะแทบไม่เปลี่ยนแปลง"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following is an opinion rather than a fact?",
+     "options": [
+      "Fresh vegetables and fruit made up the largest share of the waste.",
+      "Methane is released when food rots in landfill sites.",
+      "Supermarkets ought to sell vegetables in smaller packs.",
+      "Households given advice cut their waste by about a quarter."
+     ],
+     "answer": 2,
+     "explain": "¶6: “She would like supermarkets to sell vegetables in smaller packs” เป็นข้อเสนอตามความต้องการของ ดร.กนกวรรณ จึงเป็นความคิดเห็น (สังเกตคำว่า ought to) ส่วนตัวเลือกอื่นเป็นผลการวิจัยหรือข้อเท็จจริงทางวิทยาศาสตร์ที่ตรวจสอบได้"
+    }
+   ]
+  },
+  {
+   "id": "T5P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Health for All? Universal Health Coverage and the Thai Experience",
+   "paragraphs": [
+    "Universal health coverage (UHC) is usually defined as a situation in which all people can obtain the health services they need without suffering financial hardship as a result. The concept has two dimensions: the range of services people can actually use, and the degree to which they are protected from the cost of using them. Since 2015, when United Nations member states adopted the Sustainable Development Goals, UHC has been an explicit global target. Progress, however, has been uneven, and many low- and middle-income countries still struggle to extend protection beyond civil servants and formal-sector workers. Thailand is frequently cited as an exception, having achieved near-universal coverage while still a middle-income country.",
+    "Before the reform, Thailand's health financing resembled a patchwork. Government employees and their families enjoyed a generous civil servant scheme, and private-sector employees had been brought into a social security scheme in the early 1990s. A substantial part of the population, however, mostly farmers and informal workers, had only limited protection or none at all. For these households, illness was an economic problem as well as a medical one. A serious diagnosis could mean borrowing money at high interest, selling livestock or land, or simply going without treatment.",
+    "The Universal Coverage Scheme (UCS), piloted in 2001 and extended nationwide in 2002, was designed to fill this gap. It covers every Thai citizen who is not entitled to either of the two employment-based schemes, which makes it by far the largest of the three. Unlike social insurance, it is financed from general taxation rather than members' contributions. In its early years, patients paid a flat fee of 30 baht per visit, which gave the programme its popular name, the “30-baht scheme”. Members register with a primary care unit near their home, and this unit acts as a gatekeeper: except in emergencies, patients need its referral before being treated at a larger hospital.",
+    "A further feature of the Thai model is the separation between those who pay for care and those who provide it. The scheme's budget is managed by an independent purchaser, the National Health Security Office, which contracts with hospitals and health centres, most of them run by the Ministry of Public Health. Outpatient services are paid mainly through capitation, a fixed annual amount for each registered person, while inpatient care is funded from a global budget allocated according to diagnosis-related groups. Because providers receive a fixed sum however many services they deliver, they have an incentive to control costs and invest in prevention, whereas fee-for-service payment tends to reward unnecessary tests.",
+    "By most measures, the reform has been a success. Use of health services rose after 2002, especially among poorer groups, and the share of health spending paid directly by households fell to a level that is low by regional standards. One analysis of national household surveys found that the proportion of families facing catastrophic health expenditure roughly halved within a decade. The benefits package has also been widened to include costly treatments such as antiretroviral therapy for HIV and dialysis for kidney failure. These gains, however, did not appear from nowhere. They rested on decades of earlier investment in district hospitals and rural health centres, and on a rule requiring newly qualified doctors to work in public, often rural, facilities.",
+    "Nevertheless, the scheme faces serious pressures. Thailand's population is ageing faster than those of most of its neighbours, and chronic conditions such as diabetes and hypertension account for a growing share of the disease burden. Such conditions require long-term management rather than one-off treatment, and their cost has risen faster than the scheme's budget. Many public hospitals, particularly in the provinces, complain that capitation rates do not reflect the true cost of care and report recurring deficits. Heavy workloads compound the problem: crowded outpatient departments and long waits have prompted some doctors to leave for private hospitals, where salaries are higher and hours more predictable.",
+    "A second challenge concerns equity between the three schemes. Spending per member under the civil servant scheme has long been considerably higher than under the UCS, partly because it still reimburses outpatient care on a fee-for-service basis. Critics argue that it is hard to justify a system in which the public support a patient receives depends on a family member's employment. Proposals to harmonise benefits have been discussed repeatedly but have met resistance from groups that would lose some of their current advantages. Meanwhile, many migrant workers, who are not eligible for the UCS, rely on separate insurance arrangements that offer narrower protection.",
+    "The Thai experience offers several lessons. It shows that universal coverage need not wait until a country becomes rich; political commitment, a strong primary care network and careful design of payment systems may matter more than national income. It also demonstrates that UHC is not a finish line crossed once and for all. As populations age and medical technology advances, decisions about what a system covers, how it is financed and how fairly its resources are shared must be continually revisited. In that sense, perhaps the scheme's most significant achievement is the expectation it has created among citizens that health care is a right rather than a privilege."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Thailand's scheme has removed every financial barrier to care, so no further reform is needed.",
+      "Thailand's carefully designed scheme widened coverage but now faces cost and equity pressures.",
+      "Thailand achieved universal coverage mainly because it is wealthier than its neighbours.",
+      "Universal coverage can only be funded through contributions from workers and employers."
+     ],
+     "answer": 1,
+     "explain": "บทความเล่าการออกแบบระบบ (¶3–4) ความสำเร็จ (¶5: “By most measures, the reform has been a success.”) และปัญหาด้านค่าใช้จ่ายกับความเป็นธรรม (¶6–7) ตัวเลือก B จึงครอบคลุมที่สุด ตัวเลือก C ขัดกับ ¶8 ที่บอกว่าความมุ่งมั่นทางการเมืองและการออกแบบระบบ “may matter more than national income”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, universal health coverage means that",
+     "options": [
+      "all citizens receive free treatment in private hospitals",
+      "civil servants and formal workers have health insurance",
+      "a single state hospital system serves the whole country",
+      "people can use needed care without financial hardship"
+     ],
+     "answer": 3,
+     "explain": "¶1: “all people can obtain the health services they need without suffering financial hardship as a result” ตัวเลือก B เป็นกับดัก เพราะการคุ้มครองเฉพาะข้าราชการและลูกจ้างในระบบคือจุดที่หลายประเทศยัง “struggle to extend protection beyond” ไม่ใช่ความหมายของ UHC"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'patchwork' in paragraph 2 is closest in meaning to",
+     "options": [
+      "a mixture of separate, uneven parts",
+      "a carefully planned national system",
+      "an arrangement in urgent need of repair",
+      "a cheap but effective solution"
+     ],
+     "answer": 0,
+     "explain": "¶2: “Thailand's health financing resembled a patchwork.” ประโยคถัดมาอธิบายว่ามีหลายระบบแยกกันสำหรับแต่ละกลุ่ม และบางกลุ่มไม่มีความคุ้มครองเลย patchwork จึงหมายถึงสิ่งที่ปะติดปะต่อจากชิ้นส่วนที่ไม่เท่ากัน ตัวเลือก B มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that, before the reform, a farmer who became seriously ill",
+     "options": [
+      "would have been covered by the civil servant scheme",
+      "could receive free treatment at any provincial hospital",
+      "might have had to sell property to pay for treatment",
+      "was required to join the social security scheme"
+     ],
+     "answer": 2,
+     "explain": "¶2: “A serious diagnosis could mean borrowing money at high interest, selling livestock or land, or simply going without treatment.” เกษตรกรอยู่ในกลุ่มที่ “had only limited protection or none at all” จึงอาจต้องขายทรัพย์สิน ตัวเลือก D ผิดเพราะระบบประกันสังคมครอบคลุมลูกจ้างภาคเอกชน (“private-sector employees”) ไม่ใช่เกษตรกร"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention fee-for-service payment in paragraph 4?",
+     "options": [
+      "to describe how the purchasing agency first came to be established",
+      "to contrast it with fixed payments that discourage overtreatment",
+      "to recommend it as a fairer way of paying hospitals",
+      "to show that most Thai hospitals are still paid in this way"
+     ],
+     "answer": 1,
+     "explain": "¶4: “…they have an incentive to control costs and invest in prevention, whereas fee-for-service payment tends to reward unnecessary tests.” คำว่า whereas แสดงการเปรียบต่าง ผู้เขียนยกระบบจ่ายตามรายการขึ้นมาเพื่อให้เห็นข้อดีของการจ่ายแบบเหมาจ่าย ตัวเลือก C ตรงข้าม เพราะผู้เขียนมองว่าระบบนี้ส่งเสริมการตรวจที่ไม่จำเป็น"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'which' in paragraph 4 refer to?",
+     "options": [
+      "the scheme's overall budget",
+      "the network of hospitals and health centres",
+      "the Ministry of Public Health",
+      "the National Health Security Office"
+     ],
+     "answer": 3,
+     "explain": "¶4: “an independent purchaser, the National Health Security Office, which contracts with hospitals and health centres” ผู้ทำสัญญากับโรงพยาบาลคือ สปสช. ในฐานะผู้ซื้อบริการ ตัวเลือก C ผิดเพราะกระทรวงสาธารณสุขถูกกล่าวถึงในฐานะผู้ดำเนินการโรงพยาบาล (“most of them run by the Ministry of Public Health”) ไม่ใช่ผู้ทำสัญญา"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as an achievement of the reform?",
+     "options": [
+      "greater use of services by poorer groups",
+      "fewer families facing catastrophic health costs",
+      "shorter waiting times in public hospitals",
+      "coverage of costly treatments such as HIV therapy"
+     ],
+     "answer": 2,
+     "explain": "¶5 ระบุการใช้บริการที่เพิ่มขึ้นในกลุ่มยากจน ครอบครัวที่เผชิญค่ารักษาพยาบาลระดับหายนะลดลงราวครึ่งหนึ่ง และการเพิ่มยาต้านไวรัสกับการฟอกไต แต่ไม่ได้พูดถึงเวลารอที่สั้นลงเลย ตรงกันข้าม ¶6 กลับกล่าวถึง “long waits” ว่าเป็นปัญหา"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'They' in paragraph 5 refer to?",
+     "options": [
+      "the gains made under the reform",
+      "poorer groups of patients",
+      "costly treatments such as dialysis",
+      "national household surveys"
+     ],
+     "answer": 0,
+     "explain": "¶5: “These gains, however, did not appear from nowhere. They rested on decades of earlier investment…” They ชี้กลับไปที่ These gains ในประโยคก่อนหน้า คือความสำเร็จของการปฏิรูป ตัวเลือก C ไม่เหมาะ เพราะการรักษาราคาแพงเป็นเพียงส่วนหนึ่งของผลสำเร็จ ไม่ใช่สิ่งที่ตั้งอยู่บนการลงทุนในอดีต"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that the UCS would probably have been less successful if",
+     "options": [
+      "the benefits package had included HIV treatment",
+      "household surveys had been carried out more often",
+      "patients had been asked to pay 30 baht per visit",
+      "the rural health network had not already existed"
+     ],
+     "answer": 3,
+     "explain": "¶5: “They rested on decades of earlier investment in district hospitals and rural health centres” หากไม่มีโครงสร้างพื้นฐานนี้มาก่อน ผลสำเร็จก็น่าจะน้อยลง ตัวเลือก C เป็นกับดัก เพราะผู้ป่วยจ่าย 30 บาทจริงในช่วงแรก (¶3) และไม่มีตอนใดบอกว่าค่าธรรมเนียมนี้เป็นอุปสรรค"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'compound' in paragraph 6 is closest in meaning to",
+     "options": [
+      "combine",
+      "worsen",
+      "explain",
+      "reduce"
+     ],
+     "answer": 1,
+     "explain": "¶6: “Heavy workloads compound the problem” ภาระงานหนักทำให้ปัญหาการเงินของโรงพยาบาลแย่ลงไปอีกจนแพทย์ลาออก compound ในที่นี้เป็นกริยาแปลว่าทำให้แย่ลง ตัวเลือก combine มาจากความหมายของคำนาม compound (สารประกอบ/สิ่งที่รวมกัน) จึงเป็นตัวลวง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 7 that proposals to harmonise benefits",
+     "options": [
+      "have been resisted by those who gain from the current system",
+      "have already been put into practice in most provinces of Thailand",
+      "are strongly supported by members of the civil servant scheme",
+      "would mainly reduce the benefits available to migrant workers"
+     ],
+     "answer": 0,
+     "explain": "¶7: “have met resistance from groups that would lose some of their current advantages” กลุ่มที่ได้ประโยชน์มากกว่าในระบบปัจจุบันจึงต่อต้าน ตัวเลือก C ตรงข้ามกับข้อความนี้ และ B ผิดเพราะข้อเสนอยังอยู่แค่ในขั้น “discussed repeatedly” เท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward Thailand's Universal Coverage Scheme can best be described as",
+     "options": [
+      "wholly enthusiastic and uncritical",
+      "deeply critical of its rising costs",
+      "broadly positive but realistic",
+      "neutral and largely uninterested"
+     ],
+     "answer": 2,
+     "explain": "ผู้เขียนยอมรับความสำเร็จ (¶5) แต่ก็ชี้ปัญหาอย่างตรงไปตรงมาใน ¶6–7 และสรุปว่า ¶8: “UHC is not a finish line crossed once and for all” ทัศนคติจึงเป็นบวกแต่สมจริง ตัวเลือก B ผิดเพราะเรื่องค่าใช้จ่ายเป็นเพียงความท้าทายหนึ่ง ไม่ใช่ท่าทีหลักของบทความ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What popular name did the UCS receive because of the fee patients paid in its early years? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "30-baht scheme",
+      "the 30-baht scheme",
+      "30 baht scheme",
+      "the 30 baht scheme"
+     ],
+     "explain": "¶3: “patients paid a flat fee of 30 baht per visit, which gave the programme its popular name, the ‘30-baht scheme’” ชื่อเล่นของโครงการจึงมาจากค่าธรรมเนียมครั้งละ 30 บาทในช่วงแรก"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What method is mainly used to pay providers for outpatient services under the UCS? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "capitation"
+     ],
+     "explain": "¶4: “Outpatient services are paid mainly through capitation, a fixed annual amount for each registered person” คือการจ่ายเหมาต่อหัวประชากรที่ลงทะเบียน ส่วน global budget ตาม DRG ใช้กับผู้ป่วยใน จึงไม่ใช่คำตอบของข้อนี้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which treatment for kidney failure has been added to the benefits package? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "dialysis",
+      "kidney dialysis"
+     ],
+     "explain": "¶5: “costly treatments such as antiretroviral therapy for HIV and dialysis for kidney failure” การฟอกไต (dialysis) คือการรักษาภาวะไตวายที่ถูกเพิ่มเข้าในชุดสิทธิประโยชน์ ส่วน antiretroviral therapy เป็นการรักษา HIV"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Where have some doctors gone in search of higher salaries and more predictable hours? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "private hospitals",
+      "private hospital"
+     ],
+     "explain": "¶6: “prompted some doctors to leave for private hospitals, where salaries are higher and hours more predictable” ภาระงานหนักในโรงพยาบาลรัฐจึงผลักให้แพทย์บางส่วนย้ายไปภาคเอกชน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which group of people is not eligible for the UCS and relies on separate insurance? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "migrant workers",
+      "migrants"
+     ],
+     "explain": "¶7: “many migrant workers, who are not eligible for the UCS, rely on separate insurance arrangements that offer narrower protection” แรงงานข้ามชาติจึงยังอยู่นอกระบบหลักประกันสุขภาพถ้วนหน้า และได้รับความคุ้มครองที่แคบกว่า"
+    }
+   ]
+  },
+  {
+   "id": "T5P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Environment",
+   "title": "The Vanishing Canopy: Deforestation and the Future of Biodiversity",
+   "paragraphs": [
+    "Forests cover roughly a third of the Earth's land surface, but their value for biodiversity is far from evenly distributed. Tropical forests in particular, despite occupying a relatively small share of the planet, are thought to be home to more than half of all known land-dwelling species. It is therefore especially troubling that most of the forest loss of recent decades has been concentrated in the tropics. This article examines the main forces behind deforestation, explains why the loss of forests matters beyond the disappearance of trees, and assesses three widely promoted responses: protected areas, certification schemes and community forestry.",
+    "The single largest driver of deforestation is agricultural expansion. In South America, vast areas have been cleared for cattle pasture and soybean cultivation, while in Southeast Asia oil palm and rubber plantations have replaced large tracts of lowland forest. Smallholder farmers also clear land, often because they have few other ways to earn a living. Logging is less often the direct cause of permanent clearance, but the roads built to extract timber open previously remote areas to settlers and farmers. Behind these immediate causes lie deeper, underlying ones: rising global demand for commodities, weak enforcement of forest laws and insecure land rights.",
+    "The effect of deforestation on biodiversity depends not only on how much forest is lost but also on the pattern of clearing. When a large forest is broken into small, isolated fragments, the newly exposed edges change character: they become hotter, drier and windier, and more vulnerable to fire. Species that need large territories, such as tigers, elephants and hornbills, may be unable to survive in fragments that are too small. Isolated populations also lose genetic diversity over time. As a result, many species disappear only years after their habitat was divided, a delayed effect that ecologists call an extinction debt.",
+    "Forests also provide benefits to people, often referred to as ecosystem services. They store enormous quantities of carbon, so clearing and burning them releases greenhouse gases that contribute to climate change. They also regulate water flows: tree roots and forest soils absorb heavy rainfall and release it slowly, reducing the risk of floods and landslides downstream. Thailand learned this lesson painfully in 1988, when floods and mudslides in the south, made worse by the clearing of hillside forests, killed hundreds of people and prompted a national logging ban the following year. In addition, forests support pollinators, supply medicinal plants and sustain the livelihoods of millions of forest-dependent people.",
+    "The most established response to forest loss is the creation of protected areas such as national parks and wildlife sanctuaries. There is reasonable evidence that they reduce clearing, but their effectiveness varies greatly. Many parks are located in remote, steep or unproductive areas that faced little threat in the first place, which makes their apparent success partly an illusion. Others exist mainly on maps, with too few rangers and too little funding to prevent illegal logging or hunting; conservationists call these “paper parks”. Moreover, strict protection has sometimes displaced communities that had lived in and used the forest for generations, creating lasting resentment.",
+    "Certification schemes take a market-based approach. Timber, paper and palm oil produced according to agreed environmental and social standards can carry a label, allowing buyers to choose products that have not contributed to deforestation. In principle, this rewards responsible producers with access to premium markets. In practice, the results have been modest. Certified products remain a minority of global supply, and much of the demand for commodities such as palm oil comes from markets where consumers are less willing to pay extra for a label. Furthermore, the producers most likely to seek certification are often those whose practices already met the standards, so the additional benefit is limited.",
+    "A third approach transfers some control over forests to the people who live closest to them. In Nepal, where community forest user groups gained legal rights to manage local forests in the 1990s, many degraded hillsides have regained tree cover. Studies in Latin America have similarly found that forests within indigenous territories are often cleared more slowly than comparable land outside them. Thailand's Community Forest Act, passed in 2019 after decades of debate, now allows villages to register and manage forests outside protected areas. Community forestry is not a guaranteed solution, however. It works best when rights are clearly defined, benefits are shared fairly and local institutions are strong enough to stop wealthier members from taking most of the gains, a problem known as elite capture.",
+    "No single measure is sufficient on its own. Protected areas are most effective where they are properly funded and accepted by local people; certification is most useful when large buyers commit to it; and community forestry depends on secure rights and good governance. Above all, as long as global demand for cheap agricultural commodities keeps rising, pressure on the remaining forests will persist. Slowing deforestation therefore requires action not only in forested countries but also in the places where their products are consumed."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Which of the following best expresses the main idea of the passage?",
+     "options": [
+      "Protected areas are the only proven way to stop the loss of tropical forests.",
+      "Forest loss threatens species and vital services, and no single response is enough.",
+      "Deforestation is caused mainly by logging companies working in remote areas.",
+      "Community forestry has now solved the problem of forest loss in Thailand and Nepal."
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายสาเหตุ (¶2) ผลต่อสิ่งมีชีวิตและบริการของระบบนิเวศ (¶3–4) แล้วประเมินสามแนวทาง ก่อนสรุปใน ¶8: “No single measure is sufficient on its own.” ตัวเลือก C ผิดเพราะ ¶2 ระบุว่าสาเหตุใหญ่ที่สุดคือการขยายพื้นที่เกษตร ส่วนการทำไม้ “is less often the direct cause”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, tropical forests are especially important for biodiversity because they",
+     "options": [
+      "cover about a third of the Earth's land surface",
+      "have suffered less clearing than other forests",
+      "produce most of the world's commercial timber",
+      "hold over half of known land-dwelling species"
+     ],
+     "answer": 3,
+     "explain": "¶1: “are thought to be home to more than half of all known land-dwelling species” ตัวเลือก A เป็นกับดักตัวเลข เพราะ “roughly a third” หมายถึงพื้นที่ป่าไม้ทั้งหมดของโลก ไม่ใช่ป่าเขตร้อน และ B ขัดกับข้อความที่ว่าการสูญเสียป่ากระจุกตัวอยู่ในเขตร้อน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'tracts' in paragraph 2 is closest in meaning to",
+     "options": [
+      "areas",
+      "roads",
+      "layers",
+      "species"
+     ],
+     "answer": 0,
+     "explain": "¶2: “oil palm and rubber plantations have replaced large tracts of lowland forest” tracts หมายถึงผืนพื้นที่ขนาดใหญ่ ตัวเลือก roads ดูเข้ากับเรื่องการทำไม้ในประโยคถัดไป แต่สิ่งที่สวนปาล์มและยางเข้าไปแทนที่คือผืนป่า ไม่ใช่ถนน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 2 as a cause of forest loss?",
+     "options": [
+      "clearing land for cattle pasture",
+      "planting oil palm and rubber",
+      "mining for minerals and metals",
+      "building roads to extract timber"
+     ],
+     "answer": 2,
+     "explain": "¶2 กล่าวถึงทุ่งเลี้ยงวัวและไร่ถั่วเหลือง สวนปาล์มและยาง เกษตรกรรายย่อย และถนนสำหรับชักลากไม้ (“the roads built to extract timber”) แต่ไม่ได้พูดถึงการทำเหมืองแร่เลย แม้ในโลกจริงจะเป็นสาเหตุหนึ่งก็ตาม"
+    },
+    {
+     "type": "mc",
+     "skill": "topic",
+     "q": "What is paragraph 3 mainly about?",
+     "options": [
+      "why tigers and elephants need large territories",
+      "how fires spread through tropical forests",
+      "why genetic diversity matters to ecologists",
+      "how the fragmentation of forests harms wildlife"
+     ],
+     "answer": 3,
+     "explain": "¶3 เปิดด้วย “The effect of deforestation on biodiversity depends not only on how much forest is lost but also on the pattern of clearing.” แล้วอธิบายผลของการที่ป่าถูกแบ่งเป็นหย่อมเล็ก ๆ ตัวเลือก A แคบเกินไป เพราะเสือและช้างเป็นเพียงตัวอย่างประกอบ"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "the newly exposed edges",
+      "large, continuous forests",
+      "small, isolated fragments",
+      "species that need large territories"
+     ],
+     "answer": 0,
+     "explain": "¶3: “the newly exposed edges change character: they become hotter, drier and windier” they คือประธานของประโยคก่อนเครื่องหมาย : ได้แก่ขอบป่าที่เพิ่งถูกเปิดออก ตัวเลือก C ดูเข้าเค้าเพราะอยู่ในประโยคเดียวกัน แต่ข้อความกำลังบรรยายการเปลี่ยนแปลงของขอบป่า ไม่ใช่ตัวหย่อมป่า"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that",
+     "options": [
+      "hornbills can survive well in small forest fragments",
+      "isolated populations quickly gain genetic diversity",
+      "species in fragments may vanish even without further clearing",
+      "fragmented forests are less likely to catch fire than intact ones"
+     ],
+     "answer": 2,
+     "explain": "¶3: “many species disappear only years after their habitat was divided” แสดงว่าแม้จะหยุดตัดป่าแล้ว สิ่งมีชีวิตในหย่อมป่าก็ยังอาจสูญพันธุ์ในภายหลังได้ ตัวเลือก D ตรงข้ามกับข้อความที่ว่าขอบป่า “more vulnerable to fire” และ B ขัดกับ “lose genetic diversity”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the events of 1988 in southern Thailand?",
+     "options": [
+      "to show that logging was the main cause of climate change",
+      "to illustrate the role of forests in preventing floods",
+      "to explain why southern Thailand has more rain than the north",
+      "to argue that logging bans are rarely effective in practice"
+     ],
+     "answer": 1,
+     "explain": "¶4: “Thailand learned this lesson painfully in 1988…” คำว่า this lesson หมายถึงบทบาทของป่าในการดูดซับน้ำฝนและลดความเสี่ยงน้ำท่วมดินถล่มในประโยคก่อนหน้า ตัวเลือก D ผิดเพราะบทความไม่ได้ประเมินผลของการห้ามทำไม้เลย"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that a park located in an area under little threat",
+     "options": [
+      "is more likely to be described as a paper park",
+      "usually displaces more local communities",
+      "requires more rangers than other parks",
+      "may appear more successful than it really is"
+     ],
+     "answer": 3,
+     "explain": "¶5: “Many parks are located in remote, steep or unproductive areas that faced little threat in the first place, which makes their apparent success partly an illusion.” ป่าในพื้นที่แบบนี้ไม่ถูกบุกรุกอยู่แล้ว จึงดูได้ผลเกินจริง ตัวเลือก A ผิดเพราะ paper parks หมายถึงอุทยานที่ขาดเจ้าหน้าที่และงบประมาณ ไม่ใช่อุทยานในพื้นที่ห่างไกล"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'displaced' in paragraph 5 is closest in meaning to",
+     "options": [
+      "angered",
+      "trained",
+      "removed",
+      "ignored"
+     ],
+     "answer": 2,
+     "explain": "¶5: “strict protection has sometimes displaced communities that had lived in and used the forest for generations” คือทำให้ชุมชนต้องย้ายออกจากพื้นที่ ตรงกับ removed ตัวเลือก angered ดูเข้ากับคำว่า resentment ท้ายประโยค แต่ความไม่พอใจเป็นผลของการถูกย้าย ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, one reason why certification has achieved limited results is that",
+     "options": [
+      "certified producers often already met the standards",
+      "certified goods are far too expensive to produce at scale",
+      "labels are not permitted on palm oil products",
+      "buyers are unable to tell certified products apart"
+     ],
+     "answer": 0,
+     "explain": "¶6: “the producers most likely to seek certification are often those whose practices already met the standards, so the additional benefit is limited” ตัวเลือก C ขัดกับประโยคที่บอกว่าน้ำมันปาล์มก็ติดฉลากได้ และ B ผิดเพราะปัญหาที่บทความระบุคือผู้บริโภคบางตลาดไม่ยอมจ่ายเพิ่ม ไม่ใช่ต้นทุนการผลิต"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward community forestry can best be described as",
+     "options": [
+      "openly dismissive",
+      "cautiously supportive",
+      "uncritically enthusiastic",
+      "largely indifferent"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนยกหลักฐานความสำเร็จจากเนปาลและละตินอเมริกา แต่ก็เตือนใน ¶7: “Community forestry is not a guaranteed solution, however.” พร้อมระบุเงื่อนไขที่ทำให้ได้ผล ทัศนคติจึงเป็นการสนับสนุนอย่างระมัดระวัง ตัวเลือก C ผิดเพราะผู้เขียนไม่ได้มองข้ามปัญหาอย่าง elite capture"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 2, what is the most important cause of deforestation? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "agricultural expansion"
+     ],
+     "explain": "¶2: “The single largest driver of deforestation is agricultural expansion.” วลี single largest driver ถูกถอดความในโจทย์เป็น most important cause"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term do ecologists use for the delayed disappearance of species after their habitat has been divided? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "extinction debt",
+      "an extinction debt"
+     ],
+     "explain": "¶3: “a delayed effect that ecologists call an extinction debt” หมายถึงการสูญพันธุ์ที่เปรียบเหมือนหนี้ค้างชำระ คือยังไม่เกิดทันทีแต่จะตามมาในภายหลัง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What did the 1988 disaster in southern Thailand lead to in the following year? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "national logging ban",
+      "logging ban",
+      "a logging ban"
+     ],
+     "explain": "¶4: “killed hundreds of people and prompted a national logging ban the following year” ภัยพิบัติครั้งนั้นจึงนำไปสู่การห้ามทำไม้ทั่วประเทศในปีถัดมา"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What do conservationists call protected areas that exist mainly on maps? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "paper parks",
+      "paper park"
+     ],
+     "explain": "¶5: “Others exist mainly on maps, with too few rangers and too little funding… conservationists call these ‘paper parks’” คืออุทยานที่มีอยู่แค่บนกระดาษแต่ไม่มีการคุ้มครองจริง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the problem of wealthier community members taking most of the benefits? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "elite capture"
+     ],
+     "explain": "¶7: “strong enough to stop wealthier members from taking most of the gains, a problem known as elite capture” คือการที่ผู้มีฐานะหรืออำนาจในชุมชนเก็บผลประโยชน์ส่วนใหญ่ไว้เอง"
+    }
+   ]
+  }
+ ]
+}

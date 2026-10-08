@@ -1,0 +1,4 @@
+[
+ {"qid": "W30.6", "issue": "Minor (answer form only): 'animal-assisted' vs 'animal-assisted therapy' - the stem says 'what kind of therapy', so the key should accept both; the hyphenated form counts as 1-2 words under the TWO WORDS limit."},
+ {"qid": "W30.8", "issue": "Minor (answer form only): the stem asks 'what kind of injury', so 'back' alone and 'back injuries' both fit; the key should accept both."}
+]

@@ -1,0 +1,13 @@
+# Source documents are not published: the All that IELTS PDF is a copyrighted book (and > 100 MB),
+# the other PDFs/DOCX are the learner's own files. Keep them next to the HTML locally so the "open PDF" buttons work.
+*.pdf
+*.docx
+
+# earlier builds kept for reference on this computer only
+build/old_v*/
+
+# local redirect from the old 45-day file name
+KKU-AELT_45_Day_Study_Plan.html
+
+__pycache__/
+*.pyc

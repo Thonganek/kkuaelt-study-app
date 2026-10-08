@@ -1,0 +1,977 @@
+{
+ "id": "M3",
+ "day": 43,
+ "title": "Full Mock Exam 3 — Reading",
+ "passages": [
+  {
+   "id": "M3P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Environment",
+   "title": "City Unveils 14-Kilometre Cycle Network on Its Busiest Roads",
+   "paragraphs": [
+    "A mid-sized city in north-eastern Thailand last week opened its first network of protected cycle lanes, physically separating bicycles from motor traffic with a raised concrete kerb along 14 kilometres of its busiest roads. Municipal officials say the 60-million-baht scheme is designed to make cycling feel safe not only for confident commuters but also for schoolchildren, older residents and first-time riders.",
+    "The project was prompted by a two-year review of local accident records, which found that cyclists and pedestrians accounted for nearly a third of road deaths in the city, even though they made up only about one in ten trips. Supporters also highlight the public health benefits of regular cycling, including lower rates of obesity and heart disease, and argue that fewer cars would reduce residents' exposure to exhaust fumes in congested districts.",
+    "Not everyone, however, is convinced. Shop owners along the central market road complain that the new lanes have eliminated around 200 roadside parking spaces, and they fear that customers who usually arrive by car will simply shop elsewhere. “Most of our buyers do not come on bicycles,” said one fabric seller, who asked not to be named.",
+    "City planners acknowledge that such worries are understandable but suggest they may prove unfounded, noting that similar schemes abroad have often increased the number of shoppers passing by. They will monitor sales and traffic flows for twelve months and have promised to create short-stay parking on side streets if trade declines significantly."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Cycling has overtaken driving as the most common way of travelling around the city.",
+      "A city has built separated cycle lanes for safety and health reasons, though some traders object.",
+      "Shop owners have persuaded city officials to remove part of a newly opened network of cycle lanes.",
+      "Road deaths among cyclists have fallen sharply since the city opened its new network of lanes."
+     ],
+     "answer": 1,
+     "explain": "ข่าวนี้มีสองด้าน: ¶1–2 อธิบายเลนจักรยานที่สร้างขึ้นเพื่อความปลอดภัยและสุขภาพ ส่วน ¶3 เปิดด้วย “Not everyone, however, is convinced.” เพื่อนำเสนอเสียงคัดค้านของเจ้าของร้าน ตัวเลือก D ผิดเพราะเลนเพิ่งเปิดเมื่อสัปดาห์ก่อน ยังไม่มีข้อมูลว่าการเสียชีวิตลดลง และ C ผิดเพราะเมืองยังไม่ได้รื้อเลนใดเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what makes the new cycle lanes 'protected'?",
+     "options": [
+      "They are closed to all motor vehicles during school hours.",
+      "They are watched by traffic cameras along their entire length.",
+      "They are painted in a colour that drivers can see easily.",
+      "They are kept apart from cars by a raised concrete kerb."
+     ],
+     "answer": 3,
+     "explain": "¶1: “physically separating bicycles from motor traffic with a raised concrete kerb” — สิ่งที่ทำให้เลนได้ชื่อว่า protected คือขอบคอนกรีตยกสูงที่กั้นจากรถยนต์ ตัวเลือก A เป็นกับดักเพราะย่อหน้าเดียวกันพูดถึง schoolchildren แต่ไม่มีการปิดถนนช่วงเวลาเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that cyclists and pedestrians in the city",
+     "options": [
+      "are killed far more often than their share of trips would suggest",
+      "are to blame for about a third of all serious road accidents in the city",
+      "make up roughly thirty per cent of all the journeys made in the city each day",
+      "are mostly schoolchildren and older residents who are unable to drive"
+     ],
+     "answer": 0,
+     "explain": "¶2: กลุ่มนี้คิดเป็น “nearly a third of road deaths … even though they made up only about one in ten trips” แปลว่าเสี่ยงตายสูงเกินสัดส่วนการเดินทางของตนมาก ตัวเลือก C สลับตัวเลข (หนึ่งในสามคือสัดส่วนผู้เสียชีวิต ไม่ใช่การเดินทาง) ส่วน B ผิดเพราะข่าวไม่ได้ระบุว่าใครเป็นฝ่ายก่ออุบัติเหตุ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'congested' in paragraph 2 is closest in meaning to",
+     "options": [
+      "heavily polluted",
+      "mainly residential",
+      "full of traffic",
+      "poorly designed"
+     ],
+     "answer": 2,
+     "explain": "‘congested’ = แออัด/การจราจรหนาแน่น ¶2: “reduce residents' exposure to exhaust fumes in congested districts” หมายถึงย่านที่มีรถมาก ตัวเลือก A เป็นกับดักเพราะในประโยคมีคำว่า exhaust fumes แต่มลพิษเป็นผลของรถติด ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a benefit of the cycling scheme?",
+     "options": [
+      "safer conditions for less experienced riders",
+      "more tourists visiting the city",
+      "lower rates of obesity and heart disease",
+      "less exposure to fumes from vehicles"
+     ],
+     "answer": 1,
+     "explain": "ประโยชน์ที่ข่าวกล่าวถึงคือความปลอดภัยของ “first-time riders” (¶1) รวมทั้งโรคอ้วน โรคหัวใจ และควันไอเสีย (¶2) แต่ไม่มีตอนใดพูดถึงนักท่องเที่ยวเลย จึงตอบ B"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'they' in paragraph 3 refers to",
+     "options": [
+      "shop owners",
+      "the new lanes",
+      "customers",
+      "parking spaces"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Shop owners … complain … and they fear that customers … will simply shop elsewhere” — ผู้ที่ ‘กลัว’ คือเจ้าของร้าน ตัวเลือก C ผิดเพราะลูกค้าคือสิ่งที่เจ้าของร้านกังวลว่าจะหายไป ไม่ใช่ผู้กังวลเอง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'unfounded' in paragraph 4 is closest in meaning to",
+     "options": [
+      "not yet officially recorded",
+      "not shared by most residents",
+      "not based on real evidence",
+      "not possible to measure accurately"
+     ],
+     "answer": 2,
+     "explain": "‘unfounded’ = ไม่มีมูล/ไม่มีหลักฐานรองรับ ¶4: planners “suggest they may prove unfounded, noting that similar schemes abroad have often increased the number of shoppers” คือยกหลักฐานจากต่างประเทศมาแย้งว่าความกลัวอาจไม่เป็นจริง ตัวเลือก B ผิดเพราะประเด็นไม่ใช่จำนวนคนที่เห็นด้วย"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The city planners' attitude toward the shop owners' worries can best be described as",
+     "options": [
+      "dismissive and openly hostile",
+      "alarmed and deeply apologetic",
+      "completely indifferent",
+      "sympathetic but unconvinced"
+     ],
+     "answer": 3,
+     "explain": "¶4: นักวางผังเมือง “acknowledge that such worries are understandable” (เห็นใจ) แต่มองว่าอาจ “prove unfounded” (ไม่คล้อยตาม) และยังสัญญาว่าจะเพิ่มที่จอดรถหากยอดขายตก ท่าทีที่ยอมรับฟังเช่นนี้จึงไม่ใช่การเพิกเฉย (C) หรือเป็นปฏิปักษ์ (A)"
+    }
+   ]
+  },
+  {
+   "id": "M3P2",
+   "kind": "short",
+   "genre": "announcement/notice",
+   "domain": "Education",
+   "title": "Graduate Research Scholarships 2027",
+   "paragraphs": [
+    "The Graduate School invites applications for its 2027 Graduate Research Scholarships, which support master's and doctoral research addressing health, environmental or social challenges in the Mekong region. Up to fifteen awards will be made this year.",
+    "Eligibility: Applicants must be enrolled full-time in a graduate programme at the university, and their research proposal must have been approved by their programme committee before the closing date. Students in their final semester, as well as those already holding a full scholarship from another source, are not eligible. Applicants need not be Thai nationals.",
+    "Value: Master's students will receive 120,000 baht and doctoral students 250,000 baht, paid in two instalments: 60 per cent upon signing the award agreement and the remainder once a satisfactory progress report has been accepted. Funds may cover fieldwork, laboratory materials and conference travel, but not tuition fees or personal equipment such as laptops.",
+    "Required documents: A complete application comprises (1) the online application form, (2) a research proposal of no more than ten pages, (3) an official transcript and (4) a letter of support from the principal supervisor. Evidence of English proficiency is required only where the project involves an overseas partner institution.",
+    "Deadline and selection: Applications close at 4:30 p.m. on 15 January 2027; late or incomplete submissions will not be considered. A panel of senior academics will shortlist candidates on the basis of academic merit and the potential impact of the proposed research. Shortlisted applicants will be invited to a fifteen-minute interview in late February, and results will be announced by 31 March. Enquiries should be directed to the Graduate School's research office."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this announcement?",
+     "options": [
+      "to report the results of last year's scholarship competition",
+      "to explain how programme committees approve research proposals",
+      "to invite eligible students to apply for research funding",
+      "to announce new rules for students who already hold scholarships"
+     ],
+     "answer": 2,
+     "explain": "¶1: “The Graduate School invites applications for its 2027 Graduate Research Scholarships” — ประกาศนี้มีไว้เชิญชวนให้สมัครทุน ตัวเลือก A ผิดเพราะผลการคัดเลือกยังไม่ออก (จะประกาศภายใน 31 มีนาคม) ส่วน D ผิดเพราะผู้ถือทุนอยู่แล้วถูกกล่าวถึงเพียงในฐานะผู้ที่ไม่มีสิทธิ์สมัคร"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'those' in paragraph 2 refers to",
+     "options": [
+      "students",
+      "proposals",
+      "scholarships",
+      "committees"
+     ],
+     "answer": 0,
+     "explain": "¶2: “Students in their final semester, as well as those already holding a full scholarship from another source, are not eligible” — ‘those’ คือนักศึกษาที่ถือทุนเต็มจำนวนอยู่แล้ว ตัวเลือก C เป็นกับดักเพราะ scholarship คือสิ่งที่คนกลุ่มนี้ถือครอง ไม่ใช่สิ่งที่ ‘those’ ใช้แทน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Based on the eligibility rules, which of the following students could apply?",
+     "options": [
+      "a part-time master's student whose proposal was approved last year",
+      "a doctoral student from Laos studying full-time with an approved proposal",
+      "a full-time master's student who will graduate at the end of this semester",
+      "a full-time doctoral student who is fully funded by a government scholarship"
+     ],
+     "answer": 1,
+     "explain": "¶2 ระบุว่า “Applicants need not be Thai nationals” นักศึกษาลาวที่เรียนเต็มเวลาและโครงร่างผ่านการอนุมัติแล้วจึงสมัครได้ ตัวเลือก A เรียนไม่เต็มเวลา, C กำลังเรียนภาคเรียนสุดท้าย และ D มีทุนเต็มจำนวนจากแหล่งอื่นแล้ว ทั้งสามจึงขาดคุณสมบัติ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "How much will a doctoral student receive when the award agreement is signed?",
+     "options": [
+      "72,000 baht",
+      "100,000 baht",
+      "120,000 baht",
+      "150,000 baht"
+     ],
+     "answer": 3,
+     "explain": "¶3: นักศึกษาปริญญาเอกได้ 250,000 บาท และงวดแรกจ่าย “60 per cent upon signing the award agreement” = 150,000 บาท ตัวเลือก A คือ 60% ของทุนปริญญาโท ส่วน B คือเงินงวดที่สอง (40%) ของปริญญาเอก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'remainder' in paragraph 3 is closest in meaning to",
+     "options": [
+      "the rest of the money",
+      "an extra bonus payment",
+      "a written reminder",
+      "a refund of fees"
+     ],
+     "answer": 0,
+     "explain": "‘remainder’ = ส่วนที่เหลือ ¶3: “60 per cent upon signing … and the remainder once a satisfactory progress report has been accepted” คือเงินอีก 40% ที่ยังไม่ได้จ่าย ตัวเลือก C เป็นกับดักการสะกด เพราะ reminder (สิ่งเตือนความจำ) หน้าตาคล้าย remainder แต่ความหมายต่างกันโดยสิ้นเชิง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following could NOT be paid for with scholarship funds?",
+     "options": [
+      "travel to present a paper at a conference",
+      "chemicals needed for laboratory experiments",
+      "a laptop for writing up the thesis",
+      "transport costs during fieldwork"
+     ],
+     "answer": 2,
+     "explain": "¶3: “… but not tuition fees or personal equipment such as laptops” แล็ปท็อปจึงเบิกไม่ได้ ส่วน A, B และ D ตรงกับ conference travel, laboratory materials และ fieldwork ที่ประกาศอนุญาตไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the announcement, which document must be submitted by only some applicants?",
+     "options": [
+      "an official academic transcript",
+      "proof of English proficiency",
+      "a letter from the principal supervisor",
+      "a research proposal of up to ten pages"
+     ],
+     "answer": 1,
+     "explain": "¶4: “Evidence of English proficiency is required only where the project involves an overseas partner institution.” จึงยื่นเฉพาะโครงการที่มีสถาบันคู่ร่วมมือในต่างประเทศ ส่วนเอกสารในตัวเลือกอื่นอยู่ในรายการ (1)–(4) ที่ผู้สมัครทุกคนต้องยื่น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, how will candidates be shortlisted?",
+     "options": [
+      "by how well they perform in a fifteen-minute interview",
+      "by the date and time at which they submit their applications",
+      "by recommendations from the Graduate School's research office",
+      "by academic merit and the likely impact of their research"
+     ],
+     "answer": 3,
+     "explain": "¶5: “A panel of senior academics will shortlist candidates on the basis of academic merit and the potential impact of the proposed research.” ตัวเลือก A ผิดเพราะการสัมภาษณ์มีขึ้นหลังจากผ่านเข้ารอบแล้ว ส่วน C ผิดเพราะสำนักงานวิจัยมีหน้าที่เพียงตอบข้อสงสัย"
+    }
+   ]
+  },
+  {
+   "id": "M3P3",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Medicine",
+   "title": "Pharmacists Welcome Plan as Survey Finds Metals in Supplements",
+   "paragraphs": [
+    "Herbal medicines and dietary supplements will face considerably stricter controls under draft rules published this week by a national medicines regulator in Southeast Asia. If adopted, the rules would oblige manufacturers to demonstrate that their products meet basic quality standards before they reach pharmacy shelves, rather than after problems have been reported.",
+    "At present, most such products are registered on the basis of documents supplied by the manufacturers themselves, and only a small fraction are ever tested independently. Officials admit that this system has allowed substandard products to circulate for months before being withdrawn. In a recent market survey of 300 supplements carried out by a university laboratory, roughly one sample in eight contained heavy metals such as lead or arsenic above permitted limits, while several “natural” slimming capsules were found to contain prescription drugs that were not declared on the label.",
+    "Labelling is a second target. Under the proposals, packaging would have to list every active ingredient together with its quantity, and claims that a product can “cure” or “prevent” a disease would be prohibited unless backed by clinical evidence. Products would also have to carry warnings about possible interactions with conventional medicines; St John's wort, for instance, can reduce the effectiveness of some blood thinners and contraceptive pills.",
+    "Pharmacists have broadly welcomed the plan. “Patients often assume that anything herbal is harmless, so many never mention to their doctor what they are taking,” said Dr. Nattaya Sombat, a hospital pharmacist. “Clearer labels would make those conversations much easier and, frankly, safer.”",
+    "Some producers of traditional remedies, however, warn that the cost of laboratory testing could drive small family businesses out of the market. “Our recipes have been trusted for generations, and they deserve different treatment from factory-made chemicals,” said the owner of one such business. In response to these concerns, regulators have proposed a three-year transition period and subsidised testing for small manufacturers."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Herbal medicines are generally more dangerous than conventional prescription drugs.",
+      "Draft rules would require tighter quality checks and fuller labels for herbal products.",
+      "Small producers of traditional remedies are being forced out of business by testing costs.",
+      "Pharmacists have found that many slimming supplements contain hidden prescription drugs."
+     ],
+     "answer": 1,
+     "explain": "¶1 ให้ใจความหลักว่าผลิตภัณฑ์สมุนไพรและอาหารเสริม “will face considerably stricter controls under draft rules” แล้ว ¶2–3 ขยายเรื่องการตรวจคุณภาพและฉลาก ตัวเลือก D เป็นกับดักจากชื่อข่าว เพราะผลสำรวจใน ¶2 มาจากห้องปฏิบัติการของมหาวิทยาลัย ไม่ใช่เภสัชกร และเป็นเพียงรายละเอียดสนับสนุน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, how are most herbal products currently registered?",
+     "options": [
+      "after independent testing in a university laboratory",
+      "after a review of complaints received from patients",
+      "on the basis of clinical trials approved by pharmacists",
+      "on the basis of documents supplied by the manufacturers"
+     ],
+     "answer": 3,
+     "explain": "¶2: “most such products are registered on the basis of documents supplied by the manufacturers themselves” ตัวเลือก A เป็นกับดักคำ เพราะห้องแล็บของมหาวิทยาลัยทำเพียงการสำรวจตลาด และข่าวระบุว่ามีเพียง “a small fraction” เท่านั้นที่ถูกตรวจโดยอิสระ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'circulate' in paragraph 2 is closest in meaning to",
+     "options": [
+      "be withdrawn from shops",
+      "be passed around and sold",
+      "be checked again and again",
+      "be manufactured cheaply"
+     ],
+     "answer": 1,
+     "explain": "‘circulate’ = แพร่กระจาย/หมุนเวียนวางขายในตลาด ¶2: “this system has allowed substandard products to circulate for months before being withdrawn” — ถ้าแปลว่า withdrawn (A) จะขัดกับวลี before being withdrawn ในประโยคเดียวกันทันที"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the survey described in paragraph 2, some slimming capsules",
+     "options": [
+      "contained higher levels of lead than any other product tested",
+      "had been wrongly registered as prescription medicines",
+      "contained medicines that were not listed on the label",
+      "had been withdrawn from sale before the survey began"
+     ],
+     "answer": 2,
+     "explain": "¶2: slimming capsules “were found to contain prescription drugs that were not declared on the label” ตัวเลือก A ผิดเพราะข่าวไม่ได้เปรียบเทียบปริมาณตะกั่วระหว่างผลิตภัณฑ์ และโลหะหนักพบในตัวอย่างราวหนึ่งในแปดโดยรวม ไม่ได้เจาะจงที่แคปซูลลดน้ำหนัก"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that, at present, some product labels",
+     "options": [
+      "claim to cure diseases without clinical evidence",
+      "already warn about interactions with other medicines",
+      "list too many ingredients for patients to understand",
+      "are checked by pharmacists before the products are sold"
+     ],
+     "answer": 0,
+     "explain": "¶3: claims to “cure” or “prevent” a disease “would be prohibited unless backed by clinical evidence” — การต้องออกกฎห้ามแสดงว่าปัจจุบันยังมีฉลากที่อ้างเช่นนั้นโดยไม่มีหลักฐาน ตัวเลือก B ผิดเพราะคำว่า “would also have to carry warnings” บ่งว่าคำเตือนเรื่องปฏิกิริยาระหว่างยายังไม่ใช่ข้อบังคับในตอนนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT a labelling requirement under the proposals?",
+     "options": [
+      "stating the amount of each active ingredient",
+      "warning about interactions with other medicines",
+      "having clinical evidence for any claim to cure a disease",
+      "naming the country where the product was made"
+     ],
+     "answer": 3,
+     "explain": "¶3 ระบุข้อกำหนดสามข้อ ได้แก่ “list every active ingredient together with its quantity”, ห้ามอ้างรักษาโรคหากไม่มี clinical evidence และต้องมีคำเตือนเรื่อง interactions แต่ไม่มีการกล่าวถึงประเทศผู้ผลิต จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'those conversations' in paragraph 4 refers to discussions between",
+     "options": [
+      "regulators and manufacturers about the cost of testing",
+      "patients and doctors about the products patients take",
+      "pharmacists and regulators about the design of labels",
+      "small producers and their customers about safety"
+     ],
+     "answer": 1,
+     "explain": "ก่อนหน้านั้นใน ¶4 Dr. Nattaya กล่าวว่า “many never mention to their doctor what they are taking” ดังนั้น ‘those conversations’ คือการพูดคุยระหว่างผู้ป่วยกับแพทย์เรื่องผลิตภัณฑ์ที่ใช้อยู่ ตัวเลือก C เป็นกับดักเพราะผู้พูดเป็นเภสัชกรและพูดถึงฉลาก แต่ไม่ได้หมายถึงการหารือกับหน่วยงานกำกับ"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "A university laboratory tested 300 supplements in a recent survey.",
+      "Regulators have proposed a three-year transition period for small firms.",
+      "Traditional recipes deserve different treatment from factory chemicals.",
+      "The draft rules were published this week by a national medicines regulator."
+     ],
+     "answer": 2,
+     "explain": "¶5: เจ้าของกิจการกล่าวว่าสูตรยาของตน “deserve different treatment from factory-made chemicals” ซึ่งเป็นการตัดสินเชิงคุณค่าที่พิสูจน์ไม่ได้ ขณะที่ A, B และ D เป็นเหตุการณ์ที่ตรวจสอบได้ (การสำรวจ 300 ตัวอย่าง ระยะเปลี่ยนผ่านสามปี และการเผยแพร่ร่างกฎ)"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of paragraph 5?",
+     "options": [
+      "to present an objection to the plan and the regulators' response",
+      "to show that traditional remedies are safer than imported supplements",
+      "to explain why the draft rules are unlikely to be adopted",
+      "to argue that small manufacturers should be exempt from testing"
+     ],
+     "answer": 0,
+     "explain": "¶5 เริ่มด้วยข้อคัดค้านว่าค่าตรวจ “could drive small family businesses out of the market” แล้วปิดด้วยมาตรการตอบสนองของหน่วยงาน คือระยะเปลี่ยนผ่านสามปีและเงินอุดหนุนค่าตรวจ ตัวเลือก D ผิดเพราะหน่วยงานไม่ได้ยกเว้นการตรวจ เพียงช่วยแบ่งเบาภาระ"
+    }
+   ]
+  },
+  {
+   "id": "M3P4",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Society",
+   "title": "Home, Office or Somewhere in Between?",
+   "paragraphs": [
+    "When offices emptied during the COVID-19 pandemic, many managers predicted that productivity would collapse. Several years on, the evidence paints a far more complicated picture — one in which the answer depends on the type of work involved, the way remote arrangements are designed and how productivity is measured in the first place.",
+    "Some of the most encouraging findings come from studies of routine tasks whose output is easy to count. In one experiment at an insurance company, staff who processed claims from home completed about 8 per cent more cases per week than colleagues who remained in the office. The researchers attributed much of the gain to fewer interruptions and to the time saved on commuting, which some employees reinvested in their work.",
+    "Research on collaborative and creative work, by contrast, has produced less flattering results. An analysis of messaging data from several thousand employees at a software firm found that, once the company went fully remote, staff communicated mainly with their immediate teammates and far less with colleagues in other departments. Because new ideas often emerge from such informal contact across groups, the researchers warned that the damage might take years to become visible — long after short-term output figures had been reported.",
+    "Hybrid models, in which employees spend two or three days a week in the office, are increasingly presented as a compromise. A 2024 survey of 2,000 employees at mid-sized firms in Thailand and Malaysia found that hybrid workers reported higher job satisfaction than either fully remote or fully office-based staff, and that they were noticeably less likely to plan to leave their jobs. Managers' ratings of their performance, meanwhile, showed no significant difference.",
+    "Measurement itself remains a major obstacle. In many professional jobs, output cannot be reduced to a single number, so managers tend to rely on what they can observe — who arrives early and who stays late. Remote employees may therefore be judged less favourably even when they accomplish just as much. Conversely, employees' own estimates of their productivity are often more generous than those of their supervisors, and longer working hours at home can mean that total output rises while output per hour falls.",
+    "“Asking whether remote work is good or bad for productivity is like asking whether meetings are good or bad,” says Dr. Kanokwan Prasert, a labour economist. “The real question is which tasks, which people and which kind of arrangement.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Remote Work Has Failed, Managers Conclude",
+      "Why Hybrid Work Has Become the Global Standard",
+      "Remote Work and Productivity: No Simple Answer",
+      "How Long Commutes Are Damaging Employee Health"
+     ],
+     "answer": 2,
+     "explain": "¶1 สรุปว่า “the evidence paints a far more complicated picture” และทั้งบทเสนอหลักฐานที่ขัดกัน จึงเหมาะกับชื่อ No Simple Answer ตัวเลือก B เกินจริงเพราะ ¶4 บอกเพียงว่าแบบผสม “increasingly presented as a compromise” ส่วน A ขัดกับ ¶1 ที่ชี้ว่าคำทำนายของผู้จัดการไม่ได้เป็นจริงแบบง่าย ๆ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, the most encouraging findings come from studies of",
+     "options": [
+      "creative projects carried out by large teams",
+      "routine tasks whose output can be counted",
+      "managers who supervise staff working remotely",
+      "employees who work across several departments"
+     ],
+     "answer": 1,
+     "explain": "¶2: “Some of the most encouraging findings come from studies of routine tasks whose output is easy to count.” ตัวเลือก A ผิดเพราะงานสร้างสรรค์แบบทีมให้ผล “less flattering” ตาม ¶3 และ D คือกลุ่มที่การติดต่อข้ามแผนกลดลงเมื่อทำงานระยะไกล"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'which' in paragraph 2 refers to",
+     "options": [
+      "the extra cases completed",
+      "the insurance company",
+      "the lack of interruptions",
+      "time saved on commuting"
+     ],
+     "answer": 3,
+     "explain": "¶2: “the time saved on commuting, which some employees reinvested in their work” — สิ่งที่พนักงานนำกลับไป ‘ลงทุน’ ในงานได้คือเวลาที่ไม่ต้องเดินทาง ตัวเลือก C อยู่ในประโยคเดียวกันจึงดูน่าเลือก แต่การถูกขัดจังหวะน้อยลงไม่ใช่สิ่งที่จะนำไป reinvest ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'flattering' in paragraph 3 is closest in meaning to",
+     "options": [
+      "favourable",
+      "reliable",
+      "surprising",
+      "detailed"
+     ],
+     "answer": 0,
+     "explain": "‘flattering’ ในบริบทนี้ = ทำให้ดูดี/เป็นผลบวก ¶3: “Research on collaborative and creative work, by contrast, has produced less flattering results.” คำว่า by contrast บอกว่าผลตรงข้ามกับ encouraging findings ใน ¶2 ไม่ได้หมายความว่างานวิจัยน่าเชื่อถือน้อยกว่า (B)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that short-term output figures",
+     "options": [
+      "are deliberately exaggerated by employees working from home",
+      "may not reveal some of the long-term costs of remote work",
+      "show that creative staff produce more when working at home",
+      "are more accurate for software firms than for other employers"
+     ],
+     "answer": 1,
+     "explain": "¶3: นักวิจัยเตือนว่าความเสียหาย “might take years to become visible — long after short-term output figures had been reported” แสดงว่าตัวเลขระยะสั้นอาจมองไม่เห็นต้นทุนระยะยาว ตัวเลือก A ผิดเพราะไม่มีการกล่าวหาว่าพนักงานตกแต่งตัวเลข"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2024 survey, employees on hybrid schedules",
+     "options": [
+      "received higher performance ratings from their managers than office staff",
+      "were more likely than other groups to be looking for a new job",
+      "were more satisfied with their jobs than the other two groups",
+      "worked longer hours each week than employees who were fully remote"
+     ],
+     "answer": 2,
+     "explain": "¶4: hybrid workers “reported higher job satisfaction than either fully remote or fully office-based staff” ตัวเลือก A ผิดเพราะคะแนนจากผู้จัดการ “showed no significant difference” และ B ตรงข้ามกับข้อมูลที่ว่าพวกเขามีแนวโน้มลาออกน้อยกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'accomplish' in paragraph 5 is closest in meaning to",
+     "options": [
+      "achieve",
+      "attempt",
+      "report",
+      "require"
+     ],
+     "answer": 0,
+     "explain": "‘accomplish’ = ทำได้สำเร็จ ¶5: “Remote employees may therefore be judged less favourably even when they accomplish just as much.” คือแม้ได้ผลงานเท่ากันก็อาจถูกประเมินต่ำกว่า ตัวเลือก B (attempt) หมายถึงแค่ ‘พยายาม’ ซึ่งไม่ได้บอกว่าทำสำเร็จ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 5 about employees who work longer hours at home?",
+     "options": [
+      "Their managers are likely to rate them more highly than office staff.",
+      "They usually underestimate how much work they have completed.",
+      "Their output is impossible to measure in any meaningful way.",
+      "They may produce more in total while becoming less efficient."
+     ],
+     "answer": 3,
+     "explain": "¶5: “longer working hours at home can mean that total output rises while output per hour falls” — ผลงานรวมเพิ่มขึ้นแต่ประสิทธิภาพต่อชั่วโมงลดลง ตัวเลือก B ผิดเพราะย่อหน้าเดียวกันบอกว่าพนักงานประเมินตัวเอง “more generous” กว่าหัวหน้า คือประเมินสูง ไม่ใช่ต่ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "A question is raised, mixed evidence is reviewed, and measurement problems are noted.",
+      "A problem is described, and one solution is recommended over several others.",
+      "Events are described in the order in which they took place during the pandemic.",
+      "Two companies are compared in detail in order to decide which policy produces better results."
+     ],
+     "answer": 0,
+     "explain": "¶1 ตั้งประเด็นว่าการทำงานระยะไกลกระทบผลิตภาพอย่างไร ¶2–4 เสนอหลักฐานที่ขัดกัน (งานประจำ งานสร้างสรรค์ แบบผสม) แล้ว ¶5 เปิดด้วย “Measurement itself remains a major obstacle.” ตัวเลือก B ผิดเพราะแบบผสมถูกนำเสนอเป็นเพียงทางประนีประนอม ไม่ใช่คำตอบที่ผู้เขียนแนะนำ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The writer's attitude toward claims that remote work clearly raises or lowers productivity is best described as",
+     "options": [
+      "enthusiastic",
+      "sceptical",
+      "hostile",
+      "indifferent"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนเลือกปิดท้ายด้วยคำพูดใน ¶6 ว่า “The real question is which tasks, which people and which kind of arrangement.” แสดงว่าไม่เชื่อข้อสรุปแบบขาวดำ แต่ก็ไม่ได้ต่อต้านการทำงานระยะไกล (hostile) เพราะยกผลดีใน ¶2 และ ¶4 อย่างเป็นธรรม"
+    }
+   ]
+  },
+  {
+   "id": "M3P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Beyond the Clinic: Noncommunicable Diseases and National Development",
+   "paragraphs": [
+    "For much of the twentieth century, heart disease, cancer, diabetes and chronic lung disease were regarded as the price of prosperity — conditions that afflicted the elderly populations of wealthy nations once infectious diseases had been brought under control. That view is now badly outdated. Noncommunicable diseases (NCDs) have become the leading cause of death worldwide, and their burden is growing fastest in low- and middle-income countries, many of which are still struggling with tuberculosis, malaria and other infections. This article argues that NCDs should be understood not only as a medical problem but as an economic one, and that money spent on preventing them is better described as an investment than as a cost.",
+    "The scale of the problem is difficult to overstate. NCDs account for roughly seven in every ten deaths globally, and a substantial proportion of these are classified as premature, meaning that they occur before the age of 70. Contrary to the old stereotype, most premature NCD deaths now occur in low- and middle-income countries, where populations are ageing rapidly and where diets, working patterns and levels of physical activity have changed dramatically within a single generation. Epidemiologists describe the long-term shift from a pattern of illness dominated by infections to one dominated by chronic conditions as the epidemiological transition. In many countries, however, this transition remains incomplete, so health systems must cope with both burdens at once.",
+    "The most direct economic consequence is lost productivity. When a factory supervisor dies of a stroke at 52, or a teacher retires early because of kidney failure, the economy loses not only their current output but also skills and experience accumulated over decades. Illness also reduces the productivity of those who remain in work. Absenteeism — days taken off because of sickness or medical appointments — is relatively easy to record. Harder to detect, but often more costly, is presenteeism: the loss of output that occurs when employees come to work but perform below their normal capacity because of pain, fatigue or the side effects of treatment. A study of manufacturing workers in Southeast Asia, for example, estimated that presenteeism linked to poorly controlled diabetes cost employers almost twice as much as the sick days associated with the same condition.",
+    "For households, the burden is felt more immediately. Unlike an acute infection, which is typically treated within days or weeks, a chronic condition may require medication, monitoring and specialist care for the rest of a patient's life. Where health insurance is limited, these recurring expenses are paid largely out of pocket. Health economists use the term catastrophic health expenditure to describe spending that exceeds a set share of a household's capacity to pay, commonly 40 per cent of the income remaining after basic needs such as food have been met. Families facing such costs often resort to borrowing at high interest, selling land or livestock, or withdrawing children from school — choices that can trap them in poverty long after the patient has recovered or died. Moreover, the unpaid work of caring for a chronically ill relative falls disproportionately on women, many of whom reduce their working hours or leave paid employment altogether.",
+    "When these individual and household losses are added together, the macroeconomic picture becomes alarming. Chronic illness shrinks the labour force, reduces the savings that households would otherwise invest, and diverts public money from education and infrastructure towards long-term treatment. Modelling studies suggest that, over two decades, the cumulative output lost to the major NCDs in a typical middle-income economy could amount to a substantial fraction of a full year's gross domestic product. Countries with rapidly ageing populations, such as Thailand, are particularly exposed, because they will have proportionally fewer workers to support a growing number of people who need long-term care.",
+    "Against this background, prevention appears remarkably inexpensive. Many of the most effective measures operate at the level of the whole population rather than the individual patient: raising taxes on tobacco, alcohol and sugar-sweetened beverages; reducing the salt content of processed foods; restricting the marketing of unhealthy products to children; and designing cities in which walking and cycling are safe and convenient. Such policies cost governments relatively little to implement, and taxes actually generate revenue. One modelling exercise covering several Asian countries estimated that every dollar invested in a package of such measures could yield between five and ten dollars in economic benefits over fifteen years, largely through longer and healthier working lives.",
+    "Why, then, do governments continue to underinvest in prevention? Part of the explanation lies in the nature of the benefits themselves. A heart attack that never happens does not appear in any hospital record, and the savings it represents are spread across many years and many budgets. Political leaders, by contrast, are judged on visible achievements within short electoral cycles, and a new hospital wing is far easier to celebrate than a gradual decline in average blood pressure. Industries whose profits depend on tobacco, alcohol or processed food also lobby vigorously against regulation. Finally, ministries of finance have traditionally classified health spending as consumption rather than investment, so prevention competes for funds with every other form of current expenditure.",
+    "Overcoming these obstacles will require a change in the way NCDs are framed and measured. If governments routinely calculated the long-term returns of prevention — in productivity, tax revenue and avoided household poverty — the case for action would become far harder to ignore. Health ministries cannot achieve this alone; agriculture, trade, transport and education policies all shape the conditions in which chronic diseases develop. Treating NCD prevention as a shared, cross-government investment rather than as a narrow health expense may therefore be the most important step that countries can take to protect both the well-being of their citizens and the prosperity of their economies."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "NCDs now cause fewer deaths in poorer countries than infectious diseases such as malaria do.",
+      "NCDs are a major economic burden, so spending on their prevention is best seen as an investment.",
+      "Governments should build more hospitals to cope with rising numbers of patients with chronic diseases.",
+      "Rising sales of processed food are the main reason why NCDs are spreading across Asia."
+     ],
+     "answer": 1,
+     "explain": "¶1 ระบุจุดยืนของบทความว่า “money spent on preventing them is better described as an investment than as a cost” และ ¶3–5 แสดงต้นทุนต่อแรงงาน ครัวเรือน และเศรษฐกิจตามลำดับ ตัวเลือก D ผิดเพราะอาหารแปรรูปถูกกล่าวถึงเพียงในฐานะเป้าหมายของมาตรการป้องกันใน ¶6 ไม่ใช่สาเหตุหลัก ส่วน C ขัดกับ ¶7 ที่ชี้ว่าการสร้างตึกโรงพยาบาลใหม่เป็นเพียงผลงานที่นักการเมืองชอบโชว์"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'afflicted' in paragraph 1 is closest in meaning to",
+     "options": [
+      "benefited",
+      "attracted",
+      "avoided",
+      "affected"
+     ],
+     "answer": 3,
+     "explain": "‘afflicted’ = ทำให้เจ็บป่วย/สร้างความทุกข์ ¶1: “conditions that afflicted the elderly populations of wealthy nations” คือโรคที่เกิดกับผู้สูงอายุในประเทศร่ำรวย ตัวเลือก C (avoided) ให้ความหมายตรงข้าม เพราะโรคไม่ได้ ‘หลีกเลี่ยง’ กลุ่มนี้ แต่เกิดกับกลุ่มนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "In paragraph 2, the 'old stereotype' most likely refers to the belief that NCDs",
+     "options": [
+      "mainly affect older people in rich countries",
+      "can be prevented by changes in diet and exercise",
+      "are less deadly than infectious diseases are",
+      "are most common among young workers in poor countries"
+     ],
+     "answer": 0,
+     "explain": "ภาพจำเดิมถูกอธิบายไว้ใน ¶1 ว่าโรคเหล่านี้เป็น “the price of prosperity” ที่เกิดกับผู้สูงอายุในประเทศร่ำรวย และ ¶2 แย้งว่าปัจจุบันการเสียชีวิตก่อนวัยอันควรส่วนใหญ่เกิดในประเทศรายได้ต่ำและปานกลาง ตัวเลือก D ผิดเพราะไม่ใช่ความเชื่อแบบเก่า และบทความไม่ได้บอกว่าโรคพบมากในคนหนุ่มสาว"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 3 as a way in which NCDs reduce productivity?",
+     "options": [
+      "workers dying or retiring before the usual age",
+      "employees missing work for illness or appointments",
+      "firms relocating to areas with healthier workers",
+      "staff working below capacity because of pain or fatigue"
+     ],
+     "answer": 2,
+     "explain": "¶3 กล่าวถึงการเสียชีวิตหรือเกษียณก่อนกำหนด (“dies of a stroke at 52, or a teacher retires early”), การขาดงาน และการมาทำงานแต่ทำได้ต่ำกว่าปกติ แต่ไม่มีตอนใดพูดถึงบริษัทย้ายฐานการผลิต จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from the study of manufacturing workers mentioned in paragraph 3?",
+     "options": [
+      "Sick days are the most expensive effect of diabetes for employers.",
+      "Counting only sick days would understate what diabetes costs employers.",
+      "Most factory workers in Southeast Asia have poorly controlled diabetes.",
+      "Workers with diabetes take twice as many sick days as other workers."
+     ],
+     "answer": 1,
+     "explain": "¶3: ผลผลิตที่สูญเสียจากเบาหวาน “cost employers almost twice as much as the sick days associated with the same condition” ดังนั้นหากนับแค่วันลาป่วยจะประเมินต้นทุนต่ำเกินจริง ตัวเลือก D เป็นกับดักตัวเลข เพราะคำว่า twice ใช้เทียบต้นทุนสองประเภท ไม่ใช่จำนวนวันลาเทียบกับคนอื่น"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'them' in paragraph 4 refers to",
+     "options": [
+      "families with high medical bills",
+      "children withdrawn from school",
+      "the land and livestock that are sold",
+      "the choices that families make"
+     ],
+     "answer": 0,
+     "explain": "¶4: “Families facing such costs often resort to borrowing … — choices that can trap them in poverty” — ผู้ที่ติดกับดักความยากจนคือครอบครัว ตัวเลือก D เป็นกับดักเพราะ choices เป็นประธานของกริยา trap ไม่ใช่กรรมที่ ‘them’ ใช้แทน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'cumulative' in paragraph 5 is closest in meaning to",
+     "options": [
+      "yearly average",
+      "estimated",
+      "unexpected",
+      "accumulated"
+     ],
+     "answer": 3,
+     "explain": "‘cumulative’ = สะสมรวมกัน ¶5: “over two decades, the cumulative output lost to the major NCDs … could amount to a substantial fraction of a full year's gross domestic product” คือผลผลิตที่สูญเสียรวมตลอด 20 ปี ไม่ใช่ค่าเฉลี่ยรายปีแบบตัวเลือก A"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention Thailand in paragraph 5?",
+     "options": [
+      "to show that it has already succeeded in reducing NCD deaths",
+      "to compare its rate of economic growth with that of its neighbours",
+      "to illustrate how population ageing increases a country's exposure",
+      "to criticise the way its government currently funds long-term care"
+     ],
+     "answer": 2,
+     "explain": "¶5: “Countries with rapidly ageing populations, such as Thailand, are particularly exposed” — ไทยถูกยกเป็นตัวอย่างประเทศที่สังคมสูงวัยทำให้ต้องแบกภาระ NCD หนักขึ้น ตัวเลือก D ผิดเพราะผู้เขียนไม่ได้วิจารณ์นโยบายการดูแลระยะยาวของไทยเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which of the following best describes how paragraphs 3, 4 and 5 are organised?",
+     "options": [
+      "They move from costs to employers, to households, to whole economies.",
+      "They present three competing theories about the causes of NCDs.",
+      "They trace the history of NCDs from the last century to the present.",
+      "They compare the cost of NCDs in three different regions of the world."
+     ],
+     "answer": 0,
+     "explain": "¶3 พูดถึงผลิตภาพที่หายไปในที่ทำงาน ¶4 เปิดด้วย “For households, the burden is felt more immediately.” และ ¶5 รวมเป็นภาพระดับ macroeconomic จึงไล่จากระดับแรงงาน/นายจ้าง → ครัวเรือน → เศรษฐกิจทั้งประเทศ ตัวเลือก D ผิดเพราะไม่มีการเปรียบเทียบตามภูมิภาค"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, which of the following is true of population-wide prevention measures?",
+     "options": [
+      "They cost more to introduce than hospital treatment does.",
+      "Some of them bring in money for governments.",
+      "They are aimed mainly at patients already diagnosed with NCDs.",
+      "They repay five to ten times their cost within a single year."
+     ],
+     "answer": 1,
+     "explain": "¶6: “Such policies cost governments relatively little to implement, and taxes actually generate revenue.” ภาษีบุหรี่ แอลกอฮอล์ และเครื่องดื่มหวานจึงเป็นรายได้ของรัฐ ตัวเลือก D เป็นกับดักตัวเลข เพราะผลตอบแทน 5–10 เท่าคิด “over fifteen years” ไม่ใช่ภายในปีเดียว"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'it' in paragraph 7 refers to",
+     "options": [
+      "an individual hospital record",
+      "the explanation",
+      "a new hospital wing",
+      "a prevented heart attack"
+     ],
+     "answer": 3,
+     "explain": "¶7: “A heart attack that never happens does not appear in any hospital record, and the savings it represents are spread across many years” — เงินที่ประหยัดได้มาจากโรคหัวใจวายที่ถูกป้องกันไว้ ตัวเลือก A ผิดเพราะประโยคบอกชัดว่าไม่มีบันทึกในโรงพยาบาลให้ ‘it’ อ้างถึงด้วยซ้ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 8, why must NCD prevention involve more than the health ministry?",
+     "options": [
+      "Health ministries usually have smaller budgets than ministries of finance.",
+      "Hospitals are no longer able to provide treatment for chronic diseases.",
+      "Policies on farming, trade and transport shape how NCDs develop.",
+      "International bodies are responsible for regulating tobacco and alcohol."
+     ],
+     "answer": 2,
+     "explain": "¶8: “agriculture, trade, transport and education policies all shape the conditions in which chronic diseases develop” จึงต้องเป็นการลงทุนร่วมกันข้ามกระทรวง ตัวเลือก A ฟังดูสมเหตุสมผล แต่บทความไม่ได้เปรียบเทียบงบประมาณของกระทรวงทั้งสองเลย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Deaths from NCDs that occur before what age are classified as premature? (Write a NUMBER.)",
+     "answers": [
+      "70",
+      "seventy",
+      "age 70",
+      "the age of 70"
+     ],
+     "explain": "¶2: “classified as premature, meaning that they occur before the age of 70” — การเสียชีวิตก่อนอายุ 70 ปีจึงนับเป็นการเสียชีวิตก่อนวัยอันควร (อย่าสับสนกับอายุ 52 ใน ¶3 ซึ่งเป็นเพียงตัวอย่างหัวหน้างานที่เสียชีวิต)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term do epidemiologists use for the long-term shift from mainly infectious illness to mainly chronic illness? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "epidemiological transition",
+      "the epidemiological transition"
+     ],
+     "explain": "¶2: “Epidemiologists describe the long-term shift … to one dominated by chronic conditions as the epidemiological transition.” คำตอบคือชื่อเรียกการเปลี่ยนผ่านของรูปแบบโรค"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the loss of output when employees come to work but perform below their normal capacity? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "presenteeism"
+     ],
+     "explain": "¶3: “Harder to detect, but often more costly, is presenteeism” — ต่างจาก absenteeism ซึ่งหมายถึงการขาดงาน ส่วน presenteeism คือมาทำงานแต่ทำได้ต่ำกว่าปกติ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term do health economists use for household health spending that exceeds a set share of the household's capacity to pay? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "catastrophic health expenditure"
+     ],
+     "explain": "¶4: “Health economists use the term catastrophic health expenditure to describe spending that exceeds a set share of a household's capacity to pay” ซึ่งมักกำหนดไว้ที่ร้อยละ 40 ของรายได้หลังหักค่าใช้จ่ายจำเป็น"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 7, how have ministries of finance traditionally classified health spending? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "consumption",
+      "as consumption"
+     ],
+     "explain": "¶7: ministries of finance “have traditionally classified health spending as consumption rather than investment” — นี่คือเหตุผลที่การป้องกันโรคต้องแย่งงบกับรายจ่ายประจำอื่น ๆ"
+    }
+   ]
+  },
+  {
+   "id": "M3P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Environment",
+   "title": "Southeast Asia at an Energy Crossroads: Renewables in a Fast-Growing Region",
+   "paragraphs": [
+    "Few regions illustrate the dilemmas of the global energy transition as clearly as Southeast Asia. Rising incomes, urbanisation and industrial growth have made it one of the fastest-growing sources of electricity demand in the world, and most of that demand is still met by burning coal and natural gas. At the same time, the region is exceptionally vulnerable to climate change, from rising seas in its crowded river deltas to stronger tropical storms. It also possesses abundant renewable resources: strong sunshine throughout the year, promising offshore wind sites and, in some countries, considerable geothermal and hydropower potential. This article argues that the main barriers to a faster transition are no longer technological but institutional — they lie in grids, finance and the fair distribution of costs and benefits.",
+    "Solar power offers the clearest evidence of what is possible. The cost of solar panels has fallen dramatically over the past decade, making new solar farms competitive with new fossil-fuel plants in many locations. Vietnam provides a striking example. After the government introduced generous feed-in tariffs — guaranteed prices paid for every unit of electricity fed into the grid — investors installed well over ten gigawatts of solar capacity within roughly two years, transforming a country with almost no solar power into a regional leader. Yet the boom also exposed a serious weakness. Transmission lines in the sunniest provinces could not carry all the electricity being produced, and grid operators were forced to order curtailment, instructing plants to reduce output even when the sun was shining. For investors who had expected to sell every kilowatt-hour, the losses were considerable.",
+    "Wind power presents a more mixed picture. Average wind speeds over much of the region's land are low, limiting onshore turbines to a few favourable areas. Offshore, however, conditions are considerably better, particularly along the coasts of Vietnam and the Philippines, where steady monsoon winds blow across wide, shallow continental shelves. Developing these sites is nonetheless far from straightforward. Turbines must be engineered to survive typhoons, specialised ports and vessels are needed for installation, and projects often take close to a decade to move from initial surveys to operation.",
+    "Whatever the mix of technologies, a power system that relies heavily on sun and wind must be able to cope with variability. Solar output disappears every evening, just as household demand peaks, and wind output can fall for days at a time. Most of the region's grids, however, were designed to distribute electricity from a small number of large, centralised power stations, not to balance thousands of small and intermittent generators. Three responses are commonly proposed. The first is to strengthen and digitise national grids so that electricity can be moved quickly from where it is generated to where it is needed. The second is cross-border interconnection: regional planners have long promoted an integrated ASEAN Power Grid, and some trade already takes place, with hydropower from Laos, for instance, exported to neighbouring countries. The third is storage, whether in large battery installations, which have become much cheaper recently, or in pumped hydro schemes that use surplus electricity to pump water uphill for release when demand rises.",
+    "Even where the technical solutions are clear, paying for them is not. Renewable projects are capital-intensive: almost all of their costs are incurred at the start, during construction, whereas the sunlight and wind they use are free. This makes them unusually sensitive to the cost of capital — the interest rates and returns that lenders and investors demand. In many developing economies, perceived risks such as currency fluctuations, uncertain regulation and the weak finances of state-owned utilities push this cost to two or three times the level in wealthy countries. As a result, an identical solar farm may produce considerably more expensive electricity in Manila or Jakarta than in Madrid. International initiatives such as the Just Energy Transition Partnerships agreed with Indonesia and Vietnam in 2022 aim to lower these costs by blending public and private money, although critics note that much of the promised funding consists of loans rather than grants.",
+    "A further complication is the region's existing fleet of coal-fired power stations. Unlike those in Europe or North America, many of these plants are less than fifteen years old and were financed on the assumption that they would operate for thirty or forty years. Many also operate under long-term contracts that oblige utilities to pay for their electricity whether or not it is needed. Retiring the plants early would turn them into stranded assets — investments that lose their value before the end of their expected lifetimes — and someone, whether owners, governments or consumers, would have to absorb the losses. Several proposed schemes would use low-cost international finance to buy out such plants and close them early, but the sums involved are large and the negotiations politically sensitive.",
+    "Finally, the transition must be fair if it is to be politically sustainable — the principle commonly described as a just transition. Coal-mining districts in Indonesia, for example, depend heavily on the industry for jobs and local government revenue, and closing mines without credible alternatives would provoke strong resistance. Renewable projects can create injustices of their own: large solar farms and hydropower dams require land, and communities that are displaced or lose access to rivers and forests rarely share in the benefits. Meaningful consultation, retraining for workers and protection for poorer households against sharp rises in electricity prices are therefore not optional extras but conditions for success.",
+    "Southeast Asia's energy future is not yet fixed. The falling cost of clean technologies gives the region a genuine opportunity to meet its growing demand without locking itself into decades of fossil-fuel dependence. Whether it seizes that opportunity will depend less on engineering breakthroughs than on decisions about grid investment, financial risk and the sharing of burdens — decisions that are, in the end, political."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Vietnam's rapid solar expansion offers a model that other countries should simply copy.",
+      "Coal will remain the region's main source of power because renewables are too unreliable.",
+      "The main barriers to the region's clean-energy shift are now institutional, not technical.",
+      "Offshore wind is the most promising energy source in the region despite its long lead times."
+     ],
+     "answer": 2,
+     "explain": "¶1 ประกาศจุดยืนว่า “the main barriers to a faster transition are no longer technological but institutional” และ ¶8 ย้ำว่าผลลัพธ์ขึ้นกับการตัดสินใจเรื่องระบบสายส่ง ความเสี่ยงทางการเงิน และการแบ่งภาระ ตัวเลือก A ผิดเพราะ ¶2 ชี้ว่าการขยายตัวของเวียดนามเผยจุดอ่อนของระบบสายส่ง ส่วน D เป็นเพียงรายละเอียดใน ¶3"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as a renewable resource found in Southeast Asia?",
+     "options": [
+      "year-round sunshine",
+      "offshore wind",
+      "geothermal heat",
+      "tidal power"
+     ],
+     "answer": 3,
+     "explain": "¶1 ระบุทรัพยากรไว้ว่า “strong sunshine throughout the year, promising offshore wind sites and, in some countries, considerable geothermal and hydropower potential” ไม่มีพลังงานจากน้ำขึ้นน้ำลง (tidal) จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'exposed' in paragraph 2 is closest in meaning to",
+     "options": [
+      "caused",
+      "revealed",
+      "repaired",
+      "concealed"
+     ],
+     "answer": 1,
+     "explain": "‘exposed’ = เผยให้เห็น ¶2: “Yet the boom also exposed a serious weakness.” ประโยคถัดมาอธิบายว่าสายส่งรับไฟฟ้าไม่ไหว ตัวเลือก A (caused) เป็นกับดัก เพราะข้อจำกัดของสายส่งมีอยู่ก่อนแล้ว การเติบโตของโซลาร์เพียงทำให้ปัญหาปรากฏออกมา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that in Vietnam",
+     "options": [
+      "solar capacity grew faster than the transmission network was expanded",
+      "the government stopped guaranteeing prices because panels became too costly",
+      "solar investors earned larger profits than they had originally expected",
+      "plants were told to cut output mainly because electricity demand fell"
+     ],
+     "answer": 0,
+     "explain": "¶2: กำลังผลิตเพิ่มขึ้นมหาศาลใน “roughly two years” แต่ “Transmission lines in the sunniest provinces could not carry all the electricity being produced” แสดงว่าสายส่งขยายตามไม่ทัน ตัวเลือก D ผิดเพราะต้นเหตุคือความจุของสายส่ง ไม่ใช่ความต้องการไฟฟ้าลดลง และ C ขัดกับ “the losses were considerable”"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'these sites' in paragraph 3 refers to",
+     "options": [
+      "inland areas with low average wind speeds",
+      "specialised ports used to install turbines",
+      "waters off Vietnam and the Philippines",
+      "the few favourable onshore locations"
+     ],
+     "answer": 2,
+     "explain": "ประโยคก่อนหน้าใน ¶3 คือ “Offshore, however, conditions are considerably better, particularly along the coasts of Vietnam and the Philippines” ดังนั้น ‘these sites’ คือพื้นที่นอกชายฝั่งของสองประเทศนี้ ตัวเลือก D ผิดเพราะทำเลบนบกถูกกล่าวถึงในฐานะที่มีศักยภาพจำกัด ไม่ใช่สิ่งที่กำลังพัฒนาอย่างยากลำบาก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'intermittent' in paragraph 4 is closest in meaning to",
+     "options": [
+      "independent",
+      "irregular",
+      "costly",
+      "remote"
+     ],
+     "answer": 1,
+     "explain": "‘intermittent’ = ไม่ต่อเนื่อง/เกิดเป็นช่วง ๆ ¶4: grids were not designed “to balance thousands of small and intermittent generators” ซึ่งสอดคล้องกับประโยคก่อนหน้าว่าไฟฟ้าจากแสงอาทิตย์หายไปทุกเย็นและลมอาจหยุดได้หลายวัน ตัวเลือก A เป็นกับดักเพราะผู้ผลิตรายเล็กอาจเป็นอิสระก็จริง แต่ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, how do pumped hydro schemes help to balance supply and demand?",
+     "options": [
+      "by sending surplus hydropower from Laos to neighbouring countries",
+      "by replacing large battery installations that have become too costly",
+      "by moving electricity quickly from one part of the grid to another",
+      "by using spare power to pump water uphill for later release"
+     ],
+     "answer": 3,
+     "explain": "¶4: pumped hydro schemes “use surplus electricity to pump water uphill for release when demand rises” ตัวเลือก A คือการค้าข้ามพรมแดน (แนวทางที่สอง) และ C คือการเสริมระบบสายส่ง (แนวทางแรก) ไม่ใช่การกักเก็บพลังงาน ส่วน B ขัดกับข้อความว่าแบตเตอรี่ “have become much cheaper”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of this sentence from paragraph 5: 'As a result, an identical solar farm may produce considerably more expensive electricity in Manila or Jakarta than in Madrid'?",
+     "options": [
+      "Higher financing costs make the same solar project's power dearer in poorer economies.",
+      "Solar farms in Manila and Jakarta produce less power because they receive less sunshine overall.",
+      "Electricity prices in Europe are rising more slowly than those in Southeast Asian cities.",
+      "Investors prefer Madrid because the solar technology available there is more advanced."
+     ],
+     "answer": 0,
+     "explain": "¶5: ประโยคนี้เป็นผลต่อเนื่องจากประโยคก่อนหน้าที่ว่าความเสี่ยง “push this cost to two or three times the level in wealthy countries” คือต้นทุนทางการเงินสูงกว่า โครงการเดียวกันจึงให้ไฟฟ้าราคาแพงกว่า ตัวเลือก B ผิดเพราะบทความไม่ได้พูดถึงปริมาณแสงแดดของเมืองเหล่านี้ และเทคโนโลยีใน D ก็เหมือนกันทุกประการ (identical)"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'those' in paragraph 6 refers to",
+     "options": [
+      "long-term contracts",
+      "coal-fired plants",
+      "electricity utilities",
+      "international lenders"
+     ],
+     "answer": 1,
+     "explain": "¶6: “Unlike those in Europe or North America, many of these plants are less than fifteen years old” — ‘those’ คือโรงไฟฟ้าถ่านหินในยุโรปและอเมริกาเหนือ ซึ่งผู้เขียนนำมาเทียบอายุกับโรงไฟฟ้าในภูมิภาคที่ยังใหม่กว่ามาก ตัวเลือก A ผิดเพราะสัญญาระยะยาวถูกกล่าวถึงในประโยคถัดไป"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention coal-mining districts in Indonesia in paragraph 7?",
+     "options": [
+      "to show that coal mining is no longer profitable anywhere in the region",
+      "to suggest that new solar farms should be built on former mining land",
+      "to contrast Indonesia's energy policy with the approach taken by Vietnam",
+      "to illustrate how communities may suffer if fossil-fuel jobs disappear"
+     ],
+     "answer": 3,
+     "explain": "¶7: เขตเหมืองถ่านหิน “depend heavily on the industry for jobs and local government revenue” การปิดเหมืองโดยไม่มีทางเลือกจึงจะกระทบชุมชนและถูกต่อต้าน เป็นตัวอย่างประกอบหลัก just transition ตัวเลือก A ผิดเพราะบทความไม่ได้พูดถึงผลกำไรของเหมืองเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Indonesia and Vietnam agreed energy transition partnerships in 2022.",
+      "Many of the region's coal plants are less than fifteen years old.",
+      "Consultation and retraining are essential conditions for success.",
+      "Laos already exports some of its hydropower to neighbouring countries."
+     ],
+     "answer": 2,
+     "explain": "¶7: สิ่งเหล่านี้ “are therefore not optional extras but conditions for success” เป็นการประเมินของผู้เขียนว่าอะไร ‘จำเป็น’ จึงเป็นความคิดเห็น ส่วน A, B และ D เป็นข้อมูลที่ตรวจสอบได้ (ปีที่ทำข้อตกลง อายุโรงไฟฟ้า และการส่งออกไฟฟ้าของลาว)"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's overall attitude toward the future of renewable energy in Southeast Asia is best described as",
+     "options": [
+      "cautiously hopeful",
+      "deeply pessimistic",
+      "uncritically enthusiastic",
+      "entirely indifferent"
+     ],
+     "answer": 0,
+     "explain": "¶8: ผู้เขียนเห็นว่าภูมิภาคมี “a genuine opportunity” (มีความหวัง) แต่ย้ำว่าจะสำเร็จหรือไม่ขึ้นกับการตัดสินใจทางการเมือง (มีเงื่อนไข) จึงเป็นการมองบวกอย่างระมัดระวัง ไม่ใช่ uncritically enthusiastic (C) เพราะบทความใช้พื้นที่ส่วนใหญ่อธิบายอุปสรรค"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to guaranteed prices paid for every unit of electricity fed into the grid? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "feed-in tariffs",
+      "feed-in tariff",
+      "feed in tariffs",
+      "feed in tariff"
+     ],
+     "explain": "¶2: “generous feed-in tariffs — guaranteed prices paid for every unit of electricity fed into the grid” — ข้อความหลังขีดยาวคือคำนิยามของคำตอบ ซึ่งเป็นแรงจูงใจที่ทำให้โซลาร์ในเวียดนามเติบโตอย่างรวดเร็ว"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which word in paragraph 2 refers to an instruction telling power plants to reduce their output? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "curtailment"
+     ],
+     "explain": "¶2: “grid operators were forced to order curtailment, instructing plants to reduce output even when the sun was shining” — คือการสั่งให้โรงไฟฟ้าลดกำลังผลิตแม้จะผลิตได้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What extreme weather events must offshore turbines in the region be engineered to survive? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "typhoons",
+      "typhoon"
+     ],
+     "explain": "¶3: “Turbines must be engineered to survive typhoons” — เป็นหนึ่งในสามความท้าทายของพลังงานลมนอกชายฝั่ง ร่วมกับท่าเรือ/เรือเฉพาะทางและระยะเวลาพัฒนาโครงการที่ยาวนาน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term refers to the interest rates and returns that lenders and investors demand? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "cost of capital",
+      "the cost of capital"
+     ],
+     "explain": "¶5: “the cost of capital — the interest rates and returns that lenders and investors demand” — โครงการพลังงานหมุนเวียนอ่อนไหวต่อค่านี้มากเพราะต้นทุนเกือบทั้งหมดเกิดตอนก่อสร้าง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What are investments that lose their value before the end of their expected lifetimes called? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "stranded assets",
+      "stranded asset"
+     ],
+     "explain": "¶6: “Retiring the plants early would turn them into stranded assets — investments that lose their value before the end of their expected lifetimes” — นี่คือเหตุผลที่การปลดระวางโรงไฟฟ้าถ่านหินอายุน้อยมีต้นทุนสูง"
+    }
+   ]
+  }
+ ]
+}

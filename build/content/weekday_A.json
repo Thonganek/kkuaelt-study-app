@@ -1,0 +1,1329 @@
+{
+ "passages": [
+  {
+   "id": "W01",
+   "day": 1,
+   "focus": "Diagnostic: one question of every type",
+   "skill_tip_en": "Before choosing an answer, name the question type (main idea, detail, NOT, reference, vocabulary, inference, purpose or tone) and note which types slow you down most.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Public Health",
+   "title": "Talking Back: Why Screens Cannot Replace Conversation in the Early Years",
+   "paragraphs": [
+    "On a weekday evening in a small apartment in Khon Kaen, a two-year-old sits in front of a tablet while her parents prepare dinner. The cartoon is bright, the songs are catchy, and the child is quiet, which for tired parents can feel like a small victory. Yet a growing body of research suggests that this quiet may come at a cost to the very skill that toddlers are working hardest to acquire: language.",
+    "In the first three years of life, language develops largely through what researchers call \"conversational turns\", the back-and-forth exchanges in which an adult responds to a child's sounds, gestures and first words. A screen, however engaging, cannot respond in this way. A 2022 study of 900 families in northeastern Thailand found that children who spent more than two hours a day with screens produced, on average, 30 percent fewer words at age two than peers whose daily use was under 30 minutes.",
+    "The problem lies not only in what children watch but also in what they miss. When a television is left on in the background, parents tend to speak less, and their conversations with children become shorter and simpler. Some researchers have labelled a related pattern \"technoference\": adults' own phones interrupting moments that would otherwise be filled with talking, singing or reading together.",
+    "None of this means that every screen is harmful. Video calls with grandparents, for example, involve genuine turn-taking, and educational programmes watched alongside an adult who names objects and asks questions can support vocabulary growth. What appears to matter most is whether a screen replaces human interaction or becomes a starting point for it.",
+    "For parents, the practical message is modest rather than alarming. Paediatricians generally advise avoiding screens, apart from video chatting, before about 18 months, and keeping later use brief and shared. Switching off background television, putting phones away at mealtimes and describing everyday routines aloud are simple, low-cost steps. As Dr. Waraporn Sirisuk, a child development specialist, puts it, \"Children do not need perfect parents. They need parents who talk to them.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Children under the age of three should never be allowed to use screens at home.",
+      "Heavy screen use can crowd out language-building talk, though shared use may help.",
+      "Thai toddlers now spend far more time on tablets than children in other countries.",
+      "Educational programmes teach toddlers more new words than their own parents can."
+     ],
+     "answer": 1,
+     "explain": "บทความเสนอสองด้าน: ¶1 บอกว่าความเงียบหน้าจอ \"may come at a cost to ... language\" และ ¶4 เสริมว่า \"None of this means that every screen is harmful\" จึงตรงกับ B ตัวเลือก A ผิดเพราะสุดโต่งเกินไป บทความไม่ได้ห้ามจอทุกชนิด (ยังยกเว้น video call)"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'acquire' in paragraph 1 is closest in meaning to",
+     "options": [
+      "gain",
+      "purchase",
+      "avoid",
+      "teach"
+     ],
+     "answer": 0,
+     "explain": "¶1: \"the very skill that toddlers are working hardest to acquire: language\" ภาษาเป็นทักษะที่เด็ก 'ได้มา/เรียนรู้' จึงตรงกับ gain ส่วน purchase เป็นกับดักเพราะ acquire แปลว่า 'ซื้อ/ได้ครอบครอง' ได้ในบริบทธุรกิจ แต่ทักษะภาษาซื้อไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, what did the 2022 study find about children who used screens for more than two hours a day?",
+     "options": [
+      "They said 30 percent fewer words by age three.",
+      "They mostly watched cartoons and children's music videos.",
+      "Their parents talked 30 percent less at home.",
+      "They spoke fewer words at two than low-use peers."
+     ],
+     "answer": 3,
+     "explain": "¶2: \"children who spent more than two hours a day with screens produced, on average, 30 percent fewer words at age two\" จึงเป็น D ตัวเลือก A อ่านตัวเลขอายุผิด (three แทน two) ส่วน C เอาตัวเลข 30 percent ไปผูกกับพ่อแม่ซึ่งไม่ใช่สิ่งที่การศึกษาวัด"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "parents",
+      "researchers",
+      "children",
+      "programmes"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"The problem lies not only in what children watch but also in what they miss.\" ประธานของทั้งสองส่วนคือคนเดียวกัน คือเด็กที่ 'ดู' และ 'พลาด' การสนทนา ไม่ใช่ parents ซึ่งปรากฏในประโยคถัดไป"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that a television can affect a child's language even when",
+     "options": [
+      "the child is not actually watching it",
+      "the programme is made for adult viewers",
+      "the parents have put their phones away",
+      "the child is older than three years"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"When a television is left on in the background, parents tend to speak less\" ทีวีที่เปิดทิ้งไว้เป็นฉากหลังคือทีวีที่เด็กไม่ได้ดูจริง แต่ยังทำให้พ่อแม่พูดน้อยลง จึงอนุมานได้ว่าเป็น A ตัวเลือก B ฟังดูเป็นไปได้แต่บทความไม่ได้พูดถึงประเภทรายการเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention video calls with grandparents in paragraph 4?",
+     "options": [
+      "To suggest that grandparents should help more with childcare",
+      "To warn that video calls also reduce face-to-face contact",
+      "To show that older adults use technology more than parents",
+      "To give an example of screen use with real interaction"
+     ],
+     "answer": 3,
+     "explain": "¶4: \"Video calls with grandparents, for example, involve genuine turn-taking\" คำว่า for example บอกว่านี่คือ 'ตัวอย่าง' ของการใช้จอที่มีการโต้ตอบจริง สนับสนุนประโยคแรกว่าไม่ใช่จอทุกชนิดเป็นอันตราย ตัวเลือก B กลับความหมาย เพราะผู้เขียนมอง video call ในแง่บวก"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a step parents can take?",
+     "options": [
+      "Turning off television that is only on in the background",
+      "Choosing apps that are designed to teach new words",
+      "Keeping phones away from the table during meals",
+      "Describing ordinary daily activities out loud"
+     ],
+     "answer": 1,
+     "explain": "¶5 ระบุขั้นตอนไว้ว่า \"Switching off background television, putting phones away at mealtimes and describing everyday routines aloud\" ซึ่งตรงกับ A, C, D ส่วนการเลือกแอปสอนคำศัพท์ (B) ไม่มีในบทความเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward screen use by young children can best be described as",
+     "options": [
+      "enthusiastic and approving",
+      "alarmed and hostile",
+      "cautious but balanced",
+      "neutral and uninterested"
+     ],
+     "answer": 2,
+     "explain": "ผู้เขียนเตือนถึงผลเสีย แต่ก็ยอมรับประโยชน์บางอย่าง และสรุปใน ¶5 ว่า \"the practical message is modest rather than alarming\" จึงเป็นท่าทีระมัดระวังแต่สมดุล ตัวเลือก B ขัดกับคำว่า rather than alarming โดยตรง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What do researchers call the back-and-forth exchanges in which an adult responds to a child's sounds and gestures? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "conversational turns",
+      "conversational turn"
+     ],
+     "explain": "¶2: \"language develops largely through what researchers call 'conversational turns'\" คำตอบคือชื่อเรียกที่อยู่ในเครื่องหมายคำพูด ตามด้วยคำนิยามว่า the back-and-forth exchanges"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 5, before about what age do paediatricians advise avoiding screens other than video chatting? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "18 months",
+      "about 18 months",
+      "eighteen months"
+     ],
+     "explain": "¶5: \"Paediatricians generally advise avoiding screens, apart from video chatting, before about 18 months\" ระวังอย่าตอบ two (อายุในการศึกษา ¶2) หรือ three years (ช่วงพัฒนาภาษาใน ¶2)"
+    }
+   ]
+  },
+  {
+   "id": "W02",
+   "day": 2,
+   "focus": "Previewing and predicting",
+   "skill_tip_en": "Spend one minute previewing the title and the first sentence of every paragraph, then predict what each paragraph will contain before you read in full.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Education",
+   "title": "Microlearning: Small Lessons, Big Gains?",
+   "paragraphs": [
+    "Every morning before her shift, a nurse at a district hospital in Udon Thani spends four minutes on her phone answering a single question about hand hygiene. This is microlearning: instruction delivered in brief, focused units, each designed to teach one idea in roughly three to ten minutes. Once linked mainly to corporate training, the approach is now spreading through universities and hospitals, raising an obvious question: can lessons this small produce meaningful learning?",
+    "Supporters argue that microlearning suits the way memory works. Because working memory can hold only a little new information at once, short units reduce the risk of overload. More importantly, small lessons are easy to repeat. Research on the spacing effect shows that material reviewed at intervals is remembered far longer than material studied in one long session, and brief quizzes add the benefit of retrieval practice, in which recalling an answer strengthens the memory itself.",
+    "Early evidence is encouraging. In a 2023 study at a provincial hospital in northeastern Thailand, 120 nurses learned updated infection-control procedures in one of two ways. Half attended a one-day workshop; the rest completed a five-minute module each working day for six weeks. Three months later, the microlearning group averaged 81 percent on a knowledge test, compared with 67 percent for the workshop group, and followed the procedures more accurately on the ward.",
+    "Critics, however, warn against treating microlearning as a cure-all. Complex abilities, such as diagnosing an unusual illness or writing a research proposal, depend on seeing how many pieces of knowledge connect, and such connections are hard to build from isolated fragments. Learners may also mistake familiarity for understanding: finishing dozens of quick quizzes can feel productive even when little deep thinking has occurred.",
+    "Many instructional designers therefore describe microlearning as a supplement rather than a substitute. \"Short modules are excellent for reinforcing what has already been taught,\" says Dr. Anucha Phromma, an educational technologist, \"but they are weak at introducing ideas that need extended discussion.\" In practice, this usually means a longer first session followed by short review activities spread over several weeks.",
+    "So, can small lessons bring big gains? The evidence suggests a qualified yes: they work best when they are regularly repeated and connected to a larger plan. Used alone, they may produce learners who know many facts but struggle to apply them."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Based on the title, the passage will most likely discuss",
+     "options": [
+      "whether very short lessons actually improve learning",
+      "how universities can design long online degree courses",
+      "why students prefer large lectures to small classes",
+      "the cost of buying learning apps for hospital staff"
+     ],
+     "answer": 0,
+     "explain": "ชื่อเรื่อง \"Microlearning: Small Lessons, Big Gains?\" ลงท้ายด้วยเครื่องหมายคำถาม แสดงว่าบทความจะชั่งน้ำหนักว่าบทเรียนสั้นได้ผลจริงหรือไม่ ซึ่งยืนยันใน ¶1: \"can lessons this small produce meaningful learning?\" ตัวเลือก B พูดถึงหลักสูตรยาว ซึ่งตรงข้ามกับคำว่า small lessons"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which paragraph would you read to find the results of a comparison between two training methods?",
+     "options": [
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4",
+      "Paragraph 5"
+     ],
+     "answer": 1,
+     "explain": "ประโยคแรกของ ¶3 \"Early evidence is encouraging.\" บอกล่วงหน้าว่าจะมีผลการศึกษา และในย่อหน้ามีการเทียบ \"81 percent ... compared with 67 percent for the workshop group\" ส่วน ¶2 อธิบายเหตุผลทางทฤษฎี ไม่มีผลการเปรียบเทียบ"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 2 mainly about?",
+     "options": [
+      "The limited capacity of adult working memory",
+      "The history of research on the spacing effect",
+      "Why short lessons may suit human memory",
+      "Ways of writing effective quiz questions for adults"
+     ],
+     "answer": 2,
+     "explain": "ประโยคใจความ ¶2: \"Supporters argue that microlearning suits the way memory works.\" ประโยคที่เหลือให้เหตุผลสนับสนุน (working memory, spacing effect, retrieval practice) ตัวเลือก A แคบเกินไปเพราะเป็นเพียงเหตุผลข้อแรกข้อเดียว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, what did the nurses in the microlearning group do?",
+     "options": [
+      "They attended a training workshop lasting one full day.",
+      "They studied a five-minute module daily for three months.",
+      "They scored an average of 67 percent on the test.",
+      "They completed short daily modules over six weeks."
+     ],
+     "answer": 3,
+     "explain": "¶3: \"the rest completed a five-minute module each working day for six weeks\" ตัวเลือก B ผิดเพราะ three months คือระยะเวลาก่อนการทดสอบ (\"Three months later\") ไม่ใช่ระยะเวลาเรียน ส่วน 67 percent เป็นคะแนนของกลุ่ม workshop"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which paragraph would you read to find examples of abilities that are hard to develop through microlearning?",
+     "options": [
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4",
+      "Paragraph 5"
+     ],
+     "answer": 2,
+     "explain": "¶4 ขึ้นต้นด้วย \"Critics, however, warn...\" ซึ่งบอกว่าจะเป็นข้อโต้แย้ง และยกตัวอย่าง \"such as diagnosing an unusual illness or writing a research proposal\" ตัวเลือก D (¶5) พูดถึงจุดอ่อนแบบกว้าง ๆ แต่ไม่ได้ยกตัวอย่างทักษะ"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 5 mainly about?",
+     "options": [
+      "The view that short modules should add to longer teaching",
+      "The training that educational technologists receive",
+      "The finding that short modules suit brand-new ideas best",
+      "The reasons why learners dislike long introductory sessions"
+     ],
+     "answer": 0,
+     "explain": "ประโยคแรก ¶5: \"Many instructional designers therefore describe microlearning as a supplement rather than a substitute.\" คือใช้เสริม ไม่ใช่ใช้แทน ตัวเลือก C กลับความหมาย เพราะ Dr. Anucha บอกว่าโมดูลสั้น \"weak at introducing ideas\""
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from the passage that a learner who completes many quick quizzes",
+     "options": [
+      "will soon be able to diagnose unusual illnesses",
+      "may overestimate how much he or she understands",
+      "has probably spent too many hours studying",
+      "will remember less than learners in workshops"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Learners may also mistake familiarity for understanding\" และการทำแบบทดสอบสั้นจำนวนมาก \"can feel productive even when little deep thinking has occurred\" จึงอนุมานได้ว่าผู้เรียนอาจคิดว่าตนเข้าใจมากกว่าความเป็นจริง ตัวเลือก D ขัดกับผลใน ¶3 ที่กลุ่ม microlearning ทำคะแนนได้สูงกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Microlearning has now replaced one-day workshops in most Thai hospitals.",
+      "Short lessons fail because human memory cannot connect isolated pieces of knowledge.",
+      "Nurses learn infection-control procedures faster than other hospital staff.",
+      "Short lessons can work well, mainly when repeated and linked to fuller teaching."
+     ],
+     "answer": 3,
+     "explain": "ย่อหน้าสรุป ¶6: \"The evidence suggests a qualified yes: they work best when they are regularly repeated and connected to a larger plan.\" ตรงกับ D ตัวเลือก B สรุปเฉพาะมุมมองฝ่ายวิจารณ์ใน ¶4 และใช้คำว่า fail ซึ่งแรงเกินกว่าที่บทความกล่าว"
+    }
+   ]
+  },
+  {
+   "id": "W03",
+   "day": 3,
+   "focus": "Scanning for numbers, dates and names",
+   "skill_tip_en": "Decide what form the answer will take (a number, a date or a place name), let your eyes run quickly over the text looking only for that form, and read slowly just around the match.",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Environment",
+   "title": "Haze Returns to the North as PM2.5 Levels Soar Past Safety Limit",
+   "paragraphs": [
+    "CHIANG MAI — Thick haze blanketed northern Thailand this week as levels of fine particulate matter, known as PM2.5, stayed above the national safety limit for the twelfth consecutive day. On Tuesday, 11 March, monitoring stations in Mae Hong Son recorded a 24-hour average of 186 micrograms per cubic metre, almost five times the national standard of 37.5 micrograms, which was tightened from 50 micrograms in 2023.",
+    "Chiang Mai and Chiang Rai reported averages of 142 and 128 micrograms respectively, while Lampang, usually among the less affected provinces, reached 97. Doctors at a hospital in Chiang Mai said the number of patients treated for asthma and other breathing problems had risen by about 40 percent since the beginning of February.",
+    "The smoky season, which typically runs from late January to April, has several causes. Farmers burn crop residue, especially maize stubble, to clear fields before planting, and forest fires spread quickly in the dry heat. Smoke also drifts across the border from neighbouring countries. Geography makes matters worse: Chiang Mai lies in a basin surrounded by mountains, and cool night air can trap pollutants close to the ground until midday.",
+    "Satellite data analysed by a research team at a university in northern Thailand detected 2,340 hotspots across the region's nine provinces between 1 and 10 March, compared with 1,860 in the same period last year. More than half were located in forest reserves rather than on farmland, the researchers said.",
+    "Provincial authorities have introduced several measures. Open burning is banned until 30 April, with fines of up to 10,000 baht for violators. Government offices have been asked to let staff work from home on days when readings exceed 75 micrograms, and more than 300 schools and health centres have set up \"clean rooms\" fitted with air purifiers. Free N95 masks are being distributed to pregnant women, young children and older people.",
+    "Environmental groups welcomed the steps but said they treated symptoms rather than causes. \"Every year we hand out masks, and every year the smoke comes back,\" said Kittipong Saengthong, coordinator of a local clean-air network. He called for stronger support to help farmers sell crop waste instead of burning it, and for closer cooperation with neighbouring countries."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Farmers across the north will now be fined for burning their maize stubble.",
+      "Harmful haze has returned to the north, and the official response is debated.",
+      "Chiang Mai currently has the worst air quality of any province in Thailand.",
+      "Satellite images show that forest fires have doubled since the previous year."
+     ],
+     "answer": 1,
+     "explain": "ข่าวรายงานว่าหมอกควันกลับมาเกินมาตรฐาน (¶1: \"stayed above the national safety limit for the twelfth consecutive day\") แล้วจบด้วยมาตรการและเสียงวิจารณ์ใน ¶5–¶6 จึงเป็น B ตัวเลือก C ผิดเพราะค่าของแม่ฮ่องสอน (186) สูงกว่าเชียงใหม่ (142)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "What 24-hour PM2.5 average was recorded in Mae Hong Son on 11 March?",
+     "options": [
+      "37.5 micrograms per cubic metre",
+      "128 micrograms per cubic metre",
+      "142 micrograms per cubic metre",
+      "186 micrograms per cubic metre"
+     ],
+     "answer": 3,
+     "explain": "สแกนหาชื่อ Mae Hong Son และวันที่ 11 March ใน ¶1: \"monitoring stations in Mae Hong Son recorded a 24-hour average of 186 micrograms\" ส่วน 142 และ 128 เป็นค่าของเชียงใหม่และเชียงรายใน ¶2"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, what was Thailand's national PM2.5 standard before 2023?",
+     "options": [
+      "37.5 micrograms",
+      "50 micrograms",
+      "75 micrograms",
+      "97 micrograms"
+     ],
+     "answer": 1,
+     "explain": "¶1: \"the national standard of 37.5 micrograms, which was tightened from 50 micrograms in 2023\" คำว่า tightened from บอกค่าเดิมคือ 50 ส่วน 37.5 คือค่าใหม่ และ 75 เป็นเกณฑ์ให้ทำงานจากบ้านใน ¶5"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which of the provinces named in the passage reported the lowest PM2.5 average?",
+     "options": [
+      "Chiang Rai",
+      "Chiang Mai",
+      "Mae Hong Son",
+      "Lampang"
+     ],
+     "answer": 3,
+     "explain": "เทียบตัวเลขใน ¶1–¶2: Mae Hong Son 186, Chiang Mai 142, Chiang Rai 128 และ ¶2: \"Lampang, usually among the less affected provinces, reached 97\" ซึ่งต่ำที่สุด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to doctors in Chiang Mai, by how much has the number of patients with breathing problems increased since early February?",
+     "options": [
+      "by about 40 percent",
+      "by almost five times",
+      "by more than half",
+      "by about 14 percent"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"had risen by about 40 percent since the beginning of February\" ตัวเลือก B (almost five times) คือการเทียบค่าฝุ่นกับมาตรฐานใน ¶1 และ C (more than half) คือสัดส่วนจุดความร้อนใน ¶4"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a cause of the haze?",
+     "options": [
+      "Burning of crop residue by farmers",
+      "Forest fires during the dry season",
+      "Exhaust fumes from city traffic",
+      "Smoke from neighbouring countries"
+     ],
+     "answer": 2,
+     "explain": "¶3 ระบุสาเหตุ: \"Farmers burn crop residue... forest fires spread quickly... Smoke also drifts across the border\" ไม่มีการพูดถึงควันจากรถยนต์ แม้ในความเป็นจริงจะเป็นแหล่ง PM2.5 ในเมืองใหญ่ก็ตาม จึงเป็นกับดักแบบ 'จริงแต่ไม่ได้กล่าวถึง'"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, how did the number of hotspots detected from 1 to 10 March compare with the same period last year?",
+     "options": [
+      "It was 480 higher.",
+      "It was 480 lower.",
+      "It was roughly the same.",
+      "It was more than twice as high."
+     ],
+     "answer": 0,
+     "explain": "¶4: \"detected 2,340 hotspots ... compared with 1,860 in the same period last year\" ผลต่างคือ 2,340 − 1,860 = 480 และเพิ่มขึ้น ไม่ใช่ลดลง ส่วน D ผิดเพราะยังไม่ถึงสองเท่า"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT one of the measures introduced by provincial authorities?",
+     "options": [
+      "A ban on open burning until the end of April",
+      "Clean rooms in schools and health centres",
+      "Payments to farmers who sell their crop waste",
+      "Free N95 masks for groups of vulnerable people"
+     ],
+     "answer": 2,
+     "explain": "มาตรการใน ¶5 คือห้ามเผา ห้องปลอดฝุ่น และแจกหน้ากาก ส่วนการช่วยเกษตรกรขายเศษพืชเป็นเพียงข้อเรียกร้องของกลุ่มสิ่งแวดล้อมใน ¶6: \"He called for stronger support to help farmers sell crop waste\" ยังไม่ได้เป็นมาตรการจริง"
+    }
+   ]
+  },
+  {
+   "id": "W04",
+   "day": 6,
+   "focus": "Mixed review of all question types",
+   "skill_tip_en": "For every question, first locate the relevant paragraph, then decide whether the answer is stated in one sentence (detail, reference, vocabulary) or must be built from the whole text (main idea, inference, purpose, tone).",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Medicine",
+   "title": "After the Rush: Telemedicine Finds Its Place in Everyday Care",
+   "paragraphs": [
+    "When clinics closed during the COVID-19 pandemic, video consultations went from a niche service to a lifeline almost overnight. Doctors who had never examined a patient through a screen suddenly did so dozens of times a day. Now that waiting rooms are full again, health systems face a quieter but harder question: which parts of this emergency experiment are worth keeping?",
+    "The answer, studies suggest, depends heavily on the type of care involved. A 2024 analysis of nearly two million outpatient visits in Southeast Asia found that virtual consultations fell sharply once lockdowns ended, from a peak of 38 percent of all visits to about 9 percent. Even so, that figure was roughly six times higher than before the pandemic, which suggests that telemedicine has settled into a lasting, if limited, role.",
+    "That role is clearest in the follow-up of chronic conditions. For a patient with stable diabetes or high blood pressure, a monthly hospital visit can mean a long bus journey, a lost day's wages and hours in a crowded corridor, all for a five-minute conversation and a repeat prescription. Several provincial hospitals in Thailand now offer such patients video appointments instead, with medicines sent by post. Mental health care has moved even further online, since many consultations rely on conversation rather than physical examination.",
+    "Yet the technology has clear limitations. A doctor cannot listen to a patient's lungs or feel an abdomen through a phone, and some conditions that look minor on screen prove serious. Dr. Pornthip Chaiyasit, an internal medicine specialist in Khon Kaen, estimates that about one in ten of her virtual patients must still be asked to come in person. \"Telemedicine is a useful filter,\" she says, \"but it is not a replacement for the examination room.\"",
+    "Access is another concern. The patients who could benefit most, such as older people in remote villages, are often the least comfortable with smartphones or lack reliable internet. In some districts, village health volunteers now help elderly residents join video calls, an arrangement that bridges the gap but adds to the volunteers' already heavy workload. Questions about data privacy and payment for virtual visits also remain unresolved.",
+    "None of these problems is likely to reverse the trend. Most experts instead expect a hybrid model, in which patients see their doctor in person when necessary and online when convenient. The pandemic forced medicine to try something new; the task now is to use it wisely."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Telemedicine has kept a lasting but limited role that suits some kinds of care.",
+      "Video consultations have now replaced most hospital visits in Southeast Asia.",
+      "Telemedicine has failed since the pandemic because older patients cannot use it.",
+      "Mental health care is now the only field in which telemedicine is still used."
+     ],
+     "answer": 0,
+     "explain": "¶2 สรุปว่า telemedicine \"has settled into a lasting, if limited, role\" แล้ว ¶3–¶5 อธิบายว่าเหมาะกับการดูแลแบบใดและมีข้อจำกัดอะไร ตัวเลือก B ขัดกับตัวเลข 9 percent ใน ¶2 ซึ่งยังเป็นส่วนน้อยของการตรวจทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'niche' in paragraph 1 is closest in meaning to",
+     "options": [
+      "widespread",
+      "costly",
+      "specialised",
+      "short-lived"
+     ],
+     "answer": 2,
+     "explain": "¶1: \"video consultations went from a niche service to a lifeline almost overnight\" โครงสร้าง from ... to ... แสดงการเปลี่ยนจากบริการเฉพาะกลุ่มเล็ก ๆ ไปเป็นสิ่งจำเป็นสำหรับทุกคน ตัวเลือก A (widespread) มีความหมายตรงข้าม ส่วน D (short-lived) ฟังเข้ากับช่วงโรคระบาดแต่ไม่ใช่ความหมายของ niche"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'that figure' in paragraph 2 refer to?",
+     "options": [
+      "38 percent of all visits",
+      "about 9 percent of visits",
+      "two million outpatient visits",
+      "the level before the pandemic"
+     ],
+     "answer": 1,
+     "explain": "¶2: \"...from a peak of 38 percent of all visits to about 9 percent. Even so, that figure was roughly six times higher than before the pandemic\" ตัวเลขที่ถูกเทียบกับก่อนโรคระบาดคือค่าหลังล็อกดาวน์ (9 percent) ซึ่งอยู่ใกล้ที่สุด ไม่ใช่ค่าสูงสุด 38 percent"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, how do some provincial hospitals in Thailand help patients with stable chronic conditions?",
+     "options": [
+      "They send doctors to patients' homes once a month.",
+      "They provide free bus travel to the hospital.",
+      "They let volunteers write repeat prescriptions.",
+      "They offer video appointments and post medicines."
+     ],
+     "answer": 3,
+     "explain": "¶3: \"Several provincial hospitals in Thailand now offer such patients video appointments instead, with medicines sent by post.\" ตัวเลือก B ใช้คำว่า bus จากประโยคก่อนหน้า ซึ่งพูดถึงภาระของผู้ป่วย ไม่ใช่บริการของโรงพยาบาล"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention 'a long bus journey' in paragraph 3?",
+     "options": [
+      "To compare transport services in different provinces",
+      "To argue that hospitals should be built near villages",
+      "To explain why chronic diseases are becoming common",
+      "To show how costly routine visits can be for patients"
+     ],
+     "answer": 3,
+     "explain": "¶3: \"a monthly hospital visit can mean a long bus journey, a lost day's wages and hours in a crowded corridor, all for a five-minute conversation\" ผู้เขียนยกรายละเอียดเหล่านี้เพื่อให้เห็นภาระของการมาโรงพยาบาลตามนัด จึงสมเหตุผลที่จะใช้วิดีโอแทน ไม่ได้เสนอให้สร้างโรงพยาบาลใหม่ (B)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that Dr. Pornthip mainly uses video consultations to",
+     "options": [
+      "replace physical examinations for most patients",
+      "decide which patients need to be seen in person",
+      "identify the one in ten who have serious illnesses",
+      "save time by shortening her clinic hours"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Telemedicine is a useful filter\" คำว่า filter หมายถึงใช้คัดกรองว่าใครต้องมาพบแพทย์จริง สอดคล้องกับที่ประมาณ 1 ใน 10 \"must still be asked to come in person\" ตัวเลือก C ผิดเพราะผู้ป่วยกลุ่มนี้ถูกเรียกมาตรวจ ไม่ได้แปลว่าป่วยหนักทุกคน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a problem with telemedicine?",
+     "options": [
+      "Some older patients are uneasy about using smartphones.",
+      "Internet access in some areas is unreliable.",
+      "Doctors find online visits more tiring than others.",
+      "Payment for virtual visits has not been settled."
+     ],
+     "answer": 2,
+     "explain": "¶5 กล่าวถึงผู้สูงอายุที่ไม่ถนัดสมาร์ตโฟน อินเทอร์เน็ตไม่เสถียร และ \"Questions about data privacy and payment for virtual visits also remain unresolved\" แต่ไม่ได้พูดถึงความเหนื่อยล้าของแพทย์เลย"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "\"the task now is to use it wisely\"",
+      "\"virtual consultations fell sharply once lockdowns ended\"",
+      "\"medicines sent by post\"",
+      "\"village health volunteers now help elderly residents join video calls\""
+     ],
+     "answer": 0,
+     "explain": "¶6: \"the task now is to use it wisely\" เป็นการแสดงความเห็นว่าควรทำอะไร (wisely เป็นการประเมินค่า) ตรวจสอบไม่ได้ ส่วน B, C, D เป็นข้อมูลที่สังเกตหรือวัดได้ เช่นผลการวิเคราะห์ใน ¶2"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward telemedicine can best be described as",
+     "options": [
+      "balanced and pragmatic",
+      "enthusiastic and uncritical",
+      "sceptical and dismissive",
+      "anxious and pessimistic"
+     ],
+     "answer": 0,
+     "explain": "ผู้เขียนเสนอทั้งประโยชน์ (¶3) และข้อจำกัด (¶4–¶5) แล้วสรุปเชิงปฏิบัติใน ¶6 ว่า \"Most experts instead expect a hybrid model\" จึงเป็นท่าทีสมดุลและเน้นการใช้งานจริง ตัวเลือก B ผิดเพราะผู้เขียนพูดถึงข้อจำกัดอย่างชัดเจน"
+    }
+   ]
+  },
+  {
+   "id": "W05",
+   "day": 7,
+   "focus": "Topic vs main idea",
+   "skill_tip_en": "First name the topic in two to five words (what the text is about), then expand it into one sentence stating what the writer says about that topic: that sentence is the main idea.",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Public Health",
+   "title": "Teen Sleep Study Points to the Cost of Early Classes",
+   "paragraphs": [
+    "Teachers in many Thai secondary schools know the scene well: a classroom at 8 a.m. in which half the students are struggling to stay awake. A new study suggests that this drowsiness is more than a discipline problem. Researchers at a university in northeastern Thailand surveyed 2,400 students aged 13 to 18 and found that they slept an average of only 6.4 hours on school nights, well below the eight to ten hours generally recommended for this age group. Those who slept less than six hours had grade averages about 0.3 points lower than classmates who slept at least eight.",
+    "Part of the explanation lies in biology. During puberty, the body clock shifts later: melatonin, the hormone that signals it is time to sleep, is released one to two hours later than in childhood. Consequently, many teenagers do not feel tired until close to midnight. This is not laziness but a normal stage of development, and it means that a teenager who must wake at 5.30 a.m. is effectively being asked to rise in the middle of his or her biological night.",
+    "Lost sleep matters for learning because sleep is when the brain consolidates new information. During deep sleep, memories formed during the day are replayed and transferred to longer-term storage, which is why a night of rest after studying often improves recall the next morning. Sleep-deprived students, by contrast, find it harder to concentrate, remember less of what they are taught and are more likely to report low mood.",
+    "In Thailand, social schedules often make the problem worse. Many schools begin with a morning assembly before eight o'clock, and city students may travel an hour or more to get there. In the evenings, many attend private tutoring classes before finishing homework and turning to their phones. In the survey, 58 percent of students said they used a screen in bed after 11 p.m. on most school nights.",
+    "Some education systems have responded by starting the school day later. After several school districts in the United States moved high school start times to 8.30 a.m. or later, studies reported longer sleep, better attendance and fewer car accidents among teenage drivers. The Thai researchers argue that even a 30-minute delay, combined with limits on late-evening tutoring, could make a measurable difference. \"We cannot change adolescent biology,\" said the study's lead author, Dr. Nattaya Boonmee, \"but we can stop designing school days that work against it.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "topic",
+     "q": "What is the topic of the passage?",
+     "options": [
+      "teenage sleep and its effect on learning",
+      "the health effects of smartphone use at night",
+      "morning assemblies in Thai schools",
+      "how human memory changes at different ages"
+     ],
+     "answer": 0,
+     "explain": "หัวข้อ (topic) คือสิ่งที่ทุกย่อหน้าพูดถึง ตั้งแต่ ¶1 ที่นักเรียน \"slept an average of only 6.4 hours\" จนถึงผลต่อการเรียนใน ¶3 คือการนอนของวัยรุ่นกับการเรียน ตัวเลือก B และ C แคบเกินไป ส่วน D กว้างเกินไปเพราะบทความเน้นเฉพาะวัยรุ่น"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Teenagers sleep too little mainly because they use their phones late at night.",
+      "Thai secondary students now get lower grades than students in the United States.",
+      "Teenagers' later body clocks clash with early school days, and learning suffers.",
+      "Melatonin is released later in teenagers than it is in younger children."
+     ],
+     "answer": 2,
+     "explain": "ใจความหลักต้องครอบคลุมทั้งสาเหตุทางชีววิทยา (¶2) ตารางชีวิต (¶4) และผลต่อการเรียน (¶1, ¶3) ซึ่งคำพูดปิดท้ายใน ¶5 สรุปไว้ว่า \"we can stop designing school days that work against it\" ตัวเลือก A เป็นเพียงสาเหตุหนึ่งใน ¶4 และ D เป็นรายละเอียดของ ¶2 เท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, how long did the students in the survey sleep on school nights, on average?",
+     "options": [
+      "6.4 hours",
+      "less than six hours",
+      "eight to ten hours",
+      "at least eight hours"
+     ],
+     "answer": 0,
+     "explain": "¶1: \"they slept an average of only 6.4 hours on school nights\" ส่วน eight to ten hours เป็นจำนวนที่ \"generally recommended\" ไม่ใช่ที่นอนจริง และ less than six hours เป็นเพียงกลุ่มย่อยที่มีเกรดต่ำกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 2 mainly about?",
+     "options": [
+      "Why many teenagers are too lazy to go to bed early",
+      "A natural shift in teenagers' body clocks",
+      "The best time of day for teenagers to wake up",
+      "How the human body produces the hormone melatonin"
+     ],
+     "answer": 1,
+     "explain": "ประโยคใจความ ¶2: \"Part of the explanation lies in biology. During puberty, the body clock shifts later\" ส่วนที่เหลือขยายความว่าเป็นพัฒนาการปกติ ตัวเลือก A ขัดกับข้อความ \"This is not laziness\" ส่วน D เป็นเพียงรายละเอียดเรื่องเมลาโทนิน"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of paragraph 3?",
+     "options": [
+      "Deep sleep is the only time when new memories are formed.",
+      "Students who study late at night remember more the next day.",
+      "A lack of sleep is the main cause of low mood in students.",
+      "Sleep helps the brain store what students have learned."
+     ],
+     "answer": 3,
+     "explain": "ประโยคแรกของ ¶3 คือประโยคใจความ: \"sleep is when the brain consolidates new information\" (consolidate = ทำให้ความจำมั่นคง/จัดเก็บ) ตัวเลือก B บิดความหมาย เพราะสิ่งที่ช่วยคือ \"a night of rest after studying\" ไม่ใช่การอ่านดึก ส่วน C เป็นรายละเอียดรองที่ถูกขยายเกินจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 4 mainly about?",
+     "options": [
+      "The cost of private tutoring classes for Thai families",
+      "The long distances that city students travel to school",
+      "Daily routines in Thailand that cut teenagers' sleep",
+      "The rules on phone use in Thai school dormitories"
+     ],
+     "answer": 2,
+     "explain": "ประโยคใจความ ¶4: \"In Thailand, social schedules often make the problem worse.\" แล้วยกตัวอย่างการเข้าแถวเช้า การเดินทาง การเรียนพิเศษ และการใช้มือถือ ตัวเลือก B เป็นเพียงตัวอย่างหนึ่ง จึงแคบเกินไป"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, which result was reported after some school districts in the United States started classes later?",
+     "options": [
+      "Students earned higher marks in mathematics.",
+      "Teenage drivers had fewer car accidents.",
+      "Students spent less time on their phones.",
+      "Schools shortened the length of the school day."
+     ],
+     "answer": 1,
+     "explain": "¶5: \"studies reported longer sleep, better attendance and fewer car accidents among teenage drivers\" ไม่มีการพูดถึงคะแนนคณิตศาสตร์ (A) หรือการใช้โทรศัพท์ (C) ในผลของเขตการศึกษาสหรัฐฯ"
+    },
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "How Smartphones Keep Thai Teenagers Awake",
+      "The Science of Sleep Across the Lifespan",
+      "Why Thai Schools Should Cancel Morning Assembly",
+      "Out of Sync: Teen Body Clocks and School Hours"
+     ],
+     "answer": 3,
+     "explain": "ชื่อเรื่องที่ดีต้องครอบคลุมทั้งเรื่องนาฬิกาชีวิตของวัยรุ่น (¶2) และตารางเรียนที่เริ่มเช้า (¶4–¶5) ซึ่ง D สื่อด้วยคำว่า Out of Sync ตัวเลือก A แคบเกินไป B กว้างเกินไป และ C เป็นข้อเสนอที่บทความไม่ได้กล่าวถึง"
+    }
+   ]
+  },
+  {
+   "id": "W06",
+   "day": 8,
+   "focus": "Stated vs implied main idea; choosing the best title",
+   "skill_tip_en": "Look for a topic sentence at the start or end of each paragraph; if no sentence covers all the details, ask what the details have in common and put that implied main idea into your own words.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "AI/Technology",
+   "title": "Chatbots in the Classroom: Two Years On",
+   "paragraphs": [
+    "When generative AI chatbots became freely available, many teachers reacted with alarm. Here was a tool that could write a competent essay or solve a page of algebra problems in seconds. Some schools blocked the websites; others hurried to rewrite their assessment rules. Two years on, the debate has shifted: the question is no longer whether students will use these tools, but how they can do so without undermining learning.",
+    "For many teachers, chatbots have become a genuinely useful assistant. A secondary teacher in Nakhon Ratchasima, for example, uses one to rewrite the same science article at three levels of difficulty, so that every student in a mixed-ability class can read it. Others generate practice questions, draft rubrics or produce model answers for students to critique. In a 2024 survey of 650 Thai teachers, 61 percent said AI tools saved them at least two hours of preparation a week.",
+    "Arthit, a first-year engineering student, submitted an essay on flood management that his lecturer described as almost flawless and quite unlike his earlier assignments. When she invited him to discuss its central argument, however, he could not explain it, and two of the six sources in his bibliography turned out not to exist. A later survey of 800 undergraduates at the same university found that 46 percent had handed in chatbot-generated text as their own at least once, and fewer than a third of them had checked whether the references were real.",
+    "Institutions have responded to such cases in very different ways. Some have banned chatbots from assessed work altogether, although enforcement is difficult because detection software is unreliable. Others have redesigned assessment instead, asking students to submit drafts, defend their work orally or complete key tasks in class. A few now require students to declare how they used AI and to evaluate its contribution.",
+    "In one Bangkok secondary school, an English teacher asks students to obtain chatbot feedback on a paragraph, decide which suggestions to accept and justify each decision in writing. Down the corridor, a chemistry teacher gives her class a chatbot's explanation of reaction rates containing three deliberate errors for students to find and correct. Both teachers report that their students now question AI output more readily and discuss the subject in greater depth.",
+    "Taken together, these experiences suggest that the effect of a chatbot depends less on the technology itself than on the task it is given. Used to replace thinking, it produces polished work and shallow learning; used to provoke thinking, it may become a remarkably powerful study aid."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Chatbots should be banned because students use them to cheat on essays.",
+      "Teachers can save several hours a week by planning lessons with chatbots.",
+      "Whether chatbots help or harm learning depends on the way they are used.",
+      "Detection software cannot reliably identify text written by chatbots."
+     ],
+     "answer": 2,
+     "explain": "ใจความหลักของทั้งเรื่องระบุไว้ชัดในย่อหน้าสรุป ¶6: \"the effect of a chatbot depends less on the technology itself than on the task it is given\" ตัวเลือก B และ D เป็นเพียงรายละเอียดใน ¶2 และ ¶4 ส่วน A ขัดกับตัวอย่างการใช้เชิงบวกใน ¶2 และ ¶5"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Which sentence best states the main idea of paragraph 2?",
+     "options": [
+      "\"For many teachers, chatbots have become a genuinely useful assistant.\"",
+      "\"Others generate practice questions, draft rubrics or produce model answers for students to critique.\"",
+      "\"In a 2024 survey of 650 Thai teachers, 61 percent said AI tools saved them at least two hours of preparation a week.\"",
+      "\"A secondary teacher in Nakhon Ratchasima, for example, uses one to rewrite the same science article ...\""
+     ],
+     "answer": 0,
+     "explain": "¶2 มีใจความหลักที่ระบุชัด (stated) อยู่ในประโยคแรก \"chatbots have become a genuinely useful assistant\" ประโยคอื่นเป็นตัวอย่างและตัวเลขสนับสนุน สังเกตคำว่า for example ใน D ซึ่งบอกว่าเป็นรายละเอียด ไม่ใช่ใจความหลัก"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Paragraph 3 has no topic sentence. Which of the following best expresses its implied main idea?",
+     "options": [
+      "Engineering students write better essays than students in other fields.",
+      "Chatbots can lead students to submit work they neither understand nor check.",
+      "Most university students now use chatbots to write all of their course essays.",
+      "Lecturers should meet every student in person to discuss each essay."
+     ],
+     "answer": 1,
+     "explain": "¶3 เล่าเรื่องของ Arthit ที่อธิบายเรียงความตัวเองไม่ได้และมีแหล่งอ้างอิงปลอม และผลสำรวจว่า \"fewer than a third of them had checked whether the references were real\" รายละเอียดทั้งหมดชี้ไปที่ใจความแฝงคือ B ตัวเลือก C ผิดเพราะ 46 percent ไม่ใช่ 'most' และไม่ได้บอกว่าใช้กับทุกเรียงความ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that Arthit's lecturer invited him to discuss his essay because she",
+     "options": [
+      "wanted to congratulate him on his careful research",
+      "planned to use his essay as a model for the class",
+      "needed his help to understand flood management",
+      "doubted that he had produced the essay himself"
+     ],
+     "answer": 3,
+     "explain": "¶3 บอกว่าเรียงความ \"almost flawless and quite unlike his earlier assignments\" งานที่ดีผิดปกติเมื่อเทียบกับงานเดิม ประกอบกับบริบทเรื่องแชตบอต ทำให้อนุมานได้ว่าอาจารย์สงสัยว่าเขาไม่ได้เขียนเอง ตัวเลือก A และ B ฟังเข้ากับคำว่า flawless แต่ไม่อธิบายว่าทำไมอาจารย์ต้องถามถึง central argument"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Where is the main idea of paragraph 4 stated?",
+     "options": [
+      "In the first sentence",
+      "In the second sentence",
+      "In the last sentence",
+      "Nowhere; it is implied"
+     ],
+     "answer": 0,
+     "explain": "ประโยคแรกของ ¶4 \"Institutions have responded to such cases in very different ways.\" เป็นประโยคใจความ ส่วนประโยคถัดมาที่ขึ้นต้นด้วย Some..., Others..., A few... เป็นรายละเอียดของแต่ละแนวทาง ประโยคที่สองจึงเป็นเพียงตัวอย่างแรก"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "The main idea of paragraph 5 is implied rather than stated. Which of the following best expresses it?",
+     "options": [
+      "Chemistry is easier to teach with chatbots than English is.",
+      "Chatbots make so many errors that students should avoid them.",
+      "Asking students to evaluate chatbot output can deepen learning.",
+      "Bangkok schools use more AI tools than schools in the provinces."
+     ],
+     "answer": 2,
+     "explain": "ครูทั้งสองใน ¶5 ให้นักเรียนตัดสินและแก้ไขผลลัพธ์ของแชตบอต และผลคือ \"students now question AI output more readily and discuss the subject in greater depth\" จึงสรุปใจความแฝงได้เป็น C ตัวเลือก B เป็นกับดัก เพราะข้อผิดพลาดสามจุดเป็นสิ่งที่ครู 'ใส่ไว้โดยตั้งใจ' (deliberate errors)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that the author would most likely support assignments that",
+     "options": [
+      "allow chatbot-written essays to be submitted without any comment",
+      "require students to judge or improve AI-generated material",
+      "prevent students from using any digital technology",
+      "can be finished much more quickly with a chatbot's help"
+     ],
+     "answer": 1,
+     "explain": "¶6: \"used to provoke thinking, it may become a remarkably powerful study aid\" งานที่ให้นักเรียนประเมินหรือปรับปรุงผลงานของ AI คือการใช้เพื่อกระตุ้นความคิด ส่วน A และ D คือการ \"replace thinking\" ที่ผู้เขียนเตือนว่าให้ผล \"shallow learning\""
+    },
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Universities Must Now Ban AI Chatbots Completely",
+      "Lesson Planning Made Easy with Artificial Intelligence",
+      "A Short History of Technology in Education",
+      "Shortcut or Thinking Tool? Chatbots and Learning"
+     ],
+     "answer": 3,
+     "explain": "ชื่อเรื่องที่ดีต้องสะท้อนทั้งสองด้านของบทความ คือการใช้เป็นทางลัด (¶3) และการใช้เพื่อคิด (¶5–¶6: \"used to provoke thinking\") ตัวเลือก A ขัดกับข้อสรุป B แคบเกินไปเพราะครอบคลุมแค่ ¶2 และ C กว้างเกินไป"
+    }
+   ]
+  },
+  {
+   "id": "W07",
+   "day": 9,
+   "focus": "Supporting details: major vs minor details and signal words",
+   "skill_tip_en": "Separate major details (the reasons that directly support the main idea) from minor details (the examples and figures that support a major detail), using signal words such as for example, in addition, moreover and as a result as signposts.",
+   "kind": "short",
+   "genre": "academic article",
+   "domain": "Environment",
+   "title": "Why Cities Run Hot: The Causes and Costs of Urban Heat Islands",
+   "paragraphs": [
+    "On a hot afternoon, the centre of a large city can be several degrees warmer than the surrounding farmland. This phenomenon, known as the urban heat island effect, has been recorded in cities on every inhabited continent. The average difference is often 1 to 3°C, but on calm, clear nights it can exceed 7°C. The effect has several causes, all linked to the way cities are built and used, and it carries significant costs.",
+    "The most important cause is the replacement of natural ground cover with artificial surfaces. Asphalt and concrete absorb much of the incoming sunlight and store it as heat. For example, measurements in Bangkok have shown dark roads exceeding 60°C at midday while a nearby grass field stayed below 35°C. Because these materials release stored heat slowly, they keep warming the air after sunset, which is why the temperature gap is often greatest at night.",
+    "A second factor is the loss of vegetation. Trees and other plants cool their surroundings through evapotranspiration, the process by which water evaporates from leaves and soil, using energy that would otherwise heat the air. Trees also provide shade. In dense urban districts, however, green space may cover less than a tenth of the land. As a result, much of the sun's energy goes into heating surfaces rather than evaporating water.",
+    "The shape of the city also matters. Tall buildings lining narrow streets form what scientists call urban canyons. Sunlight that enters these canyons is reflected from wall to wall instead of escaping back into the sky, and the buildings block winds that could carry heat away. In addition, cities produce waste heat of their own: air-conditioning units, vehicles and factories all release energy into the surrounding air.",
+    "These processes have serious consequences. During heatwaves, city residents face a higher risk of heat exhaustion and heatstroke, particularly older people, outdoor workers and those in poorly ventilated housing. Heat also speeds the formation of ground-level ozone, a pollutant that irritates the lungs. Moreover, electricity demand rises as people switch on air conditioners, which release still more waste heat, creating a cycle that is hard to break.",
+    "Fortunately, the effect can be reduced. Roofs coated with reflective materials can stay more than 20°C cooler than dark roofs on sunny days. Street trees, parks and green roofs restore some of the cooling lost to development, and permeable pavements hold rainwater that later evaporates and cools the surface. No single measure will eliminate urban heat, but together they can make cities far more liveable."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Bangkok suffers from the most severe urban heat island effect in Asia.",
+      "Air conditioners are the main reason that cities are hotter than farmland.",
+      "The way cities are built and used makes them hotter, with real costs.",
+      "Planting trees is the only effective way to cool large cities down."
+     ],
+     "answer": 2,
+     "explain": "ประโยคสุดท้ายของ ¶1 บอกโครงเรื่องทั้งหมด: \"The effect has several causes, all linked to the way cities are built and used, and it carries significant costs.\" ตัวเลือก B ผิดเพราะความร้อนจากเครื่องปรับอากาศเป็นเพียงสาเหตุเสริมใน ¶4 ส่วนสาเหตุที่สำคัญที่สุดคือพื้นผิวเทียม (¶2)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which of the following is a MAJOR supporting detail in paragraph 2?",
+     "options": [
+      "Asphalt and concrete absorb sunlight and store it as heat.",
+      "Dark roads in Bangkok exceeded 60°C in the middle of the day.",
+      "A grass field near the roads stayed below 35°C.",
+      "The temperature measurements were taken in Bangkok."
+     ],
+     "answer": 0,
+     "explain": "รายละเอียดหลัก (major) คือเหตุผลที่อธิบายประโยคใจความโดยตรง: \"Asphalt and concrete absorb much of the incoming sunlight and store it as heat.\" (¶2) ส่วน B, C, D เป็นรายละเอียดย่อย (minor) ที่อยู่หลังคำว่า For example ใช้เป็นหลักฐานประกอบเท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the grass field in paragraph 2?",
+     "options": [
+      "To show that grass grows poorly in hot cities",
+      "To suggest that Bangkok should build more parks",
+      "To explain how grass absorbs sunlight at midday",
+      "To show how much hotter the roads become"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"dark roads exceeding 60°C at midday while a nearby grass field stayed below 35°C\" คำว่า while แสดงการเปรียบเทียบ ทุ่งหญ้าจึงเป็นรายละเอียดย่อยที่ทำให้เห็นว่าถนนร้อนกว่ามาก ตัวเลือก B เป็นข้อเสนอที่บทความไม่ได้กล่าวในย่อหน้านี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which detail supports the claim that the temperature gap between city and countryside is often greatest at night?",
+     "options": [
+      "Cities on every inhabited continent show the effect.",
+      "Artificial surfaces release their stored heat slowly.",
+      "Green space covers less than a tenth of some districts.",
+      "Air-conditioning units release waste heat into the air."
+     ],
+     "answer": 1,
+     "explain": "¶2: \"Because these materials release stored heat slowly, they keep warming the air after sunset, which is why the temperature gap is often greatest at night.\" คำว่า which is why เชื่อมเหตุกับผลโดยตรง ตัวเลือก D เป็นสาเหตุของความร้อนในเมืองจริง แต่บทความไม่ได้โยงกับช่วงกลางคืน"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "The phrase 'As a result' in paragraph 3 introduces",
+     "options": [
+      "an example of evapotranspiration",
+      "a contrast with the sentence before it",
+      "a consequence of limited green space",
+      "a second, separate cause of urban heat"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"green space may cover less than a tenth of the land. As a result, much of the sun's energy goes into heating surfaces\" As a result บอก 'ผล' ของการมีพื้นที่สีเขียวน้อย ส่วนคำที่บอกความขัดแย้งในย่อหน้านี้คือ however ไม่ใช่ As a result"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What does the phrase 'In addition' in paragraph 4 signal?",
+     "options": [
+      "An example of how urban canyons form",
+      "A further cause of higher city temperatures",
+      "A result of winds being blocked by buildings",
+      "A contrast with the effect of tall buildings"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"In addition, cities produce waste heat of their own\" In addition เป็นคำเชื่อมบอกการเพิ่มเติม ในที่นี้คือสาเหตุอีกข้อหนึ่ง (ความร้อนทิ้งจากเครื่องปรับอากาศ รถ และโรงงาน) ซึ่งไม่เกี่ยวกับรูปร่างของอาคาร จึงไม่ใช่ผลของลมที่ถูกบัง (C)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which detail supports the claim in paragraph 5 that urban heat creates 'a cycle that is hard to break'?",
+     "options": [
+      "Older people face a higher risk of heatstroke.",
+      "Ground-level ozone irritates the lungs of residents.",
+      "Outdoor workers are exposed to more heat.",
+      "Air conditioners used for cooling add more heat."
+     ],
+     "answer": 3,
+     "explain": "¶5: \"electricity demand rises as people switch on air conditioners, which release still more waste heat\" ความร้อนทำให้เปิดแอร์มากขึ้น และแอร์ก็ปล่อยความร้อนเพิ่ม จึงเป็นวงจร ตัวเลือก A–C เป็นผลกระทบต่อสุขภาพที่ไม่ได้ย้อนกลับมาทำให้ร้อนขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 6 as a way to reduce urban heat?",
+     "options": [
+      "Limiting the number of cars in city centres",
+      "Coating roofs with reflective materials",
+      "Planting more trees along city streets",
+      "Using pavements that are able to hold rainwater"
+     ],
+     "answer": 0,
+     "explain": "¶6 กล่าวถึงหลังคาสะท้อนแสง ต้นไม้ สวนสาธารณะ หลังคาเขียว และ \"permeable pavements hold rainwater\" แต่ไม่มีการจำกัดรถยนต์ ตัวเลือก A เป็นกับดักเพราะ ¶4 พูดถึง vehicles เป็นแหล่งความร้อนทิ้ง แต่ไม่ได้เสนอให้ลดจำนวนรถ"
+    }
+   ]
+  },
+  {
+   "id": "W08",
+   "day": 10,
+   "focus": "Reference words (it, which, such, this, the former / the latter)",
+   "skill_tip_en": "When you meet a reference word (it, they, this, which, such, these, the former, the latter), look back for the nearest noun or idea that matches it in number and meaning, then substitute your answer into the sentence to check that it makes sense.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Medicine",
+   "title": "Antibiotic Resistance: A Slow-Moving Crisis",
+   "paragraphs": [
+    "When Alexander Fleming discovered penicillin in 1928, he opened an era in which infections that had once killed millions became easy to treat. Yet within two decades, Fleming himself was warning that bacteria could learn to survive the drug if it was used carelessly. His warning has proved remarkably accurate. Drug-resistant infections are now estimated to cause more than a million deaths worldwide each year, and the toll is still rising.",
+    "Resistance is, in essence, evolution at work. Whenever an antibiotic is used, it kills the susceptible bacteria but may leave behind a few that carry genetic changes allowing them to survive. These survivors multiply and can pass their resistance genes to other bacteria, occasionally even to different species. The more often antibiotics are used, the more opportunities such selection has to occur.",
+    "Human behaviour has greatly accelerated this process. Antibiotics are frequently prescribed for colds and sore throats, which are usually caused by viruses and therefore do not respond to antibiotics at all. Patients often keep leftover tablets and take them the next time they feel unwell, and in many countries the drugs can still be bought without a prescription. A 2023 survey of 1,500 adults in three Thai provinces found that 42 percent believed antibiotics could cure the common cold, while a quarter had bought them from a pharmacy without seeing a doctor in the previous year.",
+    "Hospitals and farms are two major breeding grounds for resistant bacteria. In the former, seriously ill patients receive powerful antibiotics, and resistant strains can spread between wards on hands and equipment. In the latter, animals have often been given antibiotics not to treat disease but to make them grow faster, a practice that many countries now restrict. Resistant bacteria from livestock can then reach people through food, water and soil.",
+    "Meanwhile, very few new antibiotics are reaching the market. Developing one can take more than a decade and cost hundreds of millions of dollars, yet a successful new drug is likely to be held in reserve and used only when older ones fail. This leaves manufacturers with little prospect of recovering their investment, and many large companies have abandoned antibiotic research altogether.",
+    "Experts stress that the crisis, though slow-moving, is not inevitable. Stricter infection control in hospitals, rapid tests that show within hours whether an infection is bacterial or viral, tighter rules on farm use and new ways of funding drug development could all slow its progress. Individuals can contribute too, by taking antibiotics only when a health professional prescribes them and exactly as directed."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Alexander Fleming's discovery of penicillin changed the practice of medicine forever.",
+      "Misuse and a lack of new drugs are worsening resistance, but it can be slowed.",
+      "Farmers and their livestock are mainly to blame for the spread of resistant bacteria.",
+      "Thai adults understand antibiotics less well than people in most other countries."
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายว่าการดื้อยาเกิดจากวิวัฒนาการ ถูกเร่งโดยการใช้ยาผิด (¶3–¶4) และขาดยาใหม่ (¶5) แล้วสรุปใน ¶6 ว่า \"the crisis, though slow-moving, is not inevitable\" ตัวเลือก A เป็นเพียงบทนำใน ¶1 ส่วน C แคบเกินไปเพราะฟาร์มเป็นแค่หนึ่งในสองแหล่งของ ¶4"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'it' in paragraph 2 refer to?",
+     "options": [
+      "resistance",
+      "a genetic change",
+      "the susceptible bacteria",
+      "an antibiotic"
+     ],
+     "answer": 3,
+     "explain": "¶2: \"Whenever an antibiotic is used, it kills the susceptible bacteria\" สิ่งที่ 'ฆ่า' แบคทีเรียคือยาปฏิชีวนะ ตัวเลือก C เป็นกรรมของกริยา kills และเป็นพหูพจน์ จึงใช้ it แทนไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'such selection' in paragraph 2 refers to the process in which",
+     "options": [
+      "bacteria that survive a drug multiply and spread their resistance",
+      "doctors choose which antibiotic to prescribe for each patient",
+      "scientists select bacteria for testing new drugs in their laboratories",
+      "patients decide whether to finish their full course of tablets"
+     ],
+     "answer": 0,
+     "explain": "such ชี้กลับไปยังกระบวนการที่เพิ่งบรรยาย: ยาฆ่าเชื้อที่อ่อนแอ เหลือตัวที่ทนได้ แล้ว \"These survivors multiply and can pass their resistance genes to other bacteria\" (¶2) ตัวเลือก B เป็นกับดักคำศัพท์ เพราะ selection ในที่นี้คือการคัดเลือกตามธรรมชาติ ไม่ใช่การที่แพทย์เลือกยา"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'which' in paragraph 3 refer to?",
+     "options": [
+      "the antibiotics prescribed",
+      "the viruses causing illness",
+      "colds and sore throats",
+      "the doctors' prescriptions"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"prescribed for colds and sore throats, which are usually caused by viruses\" สิ่งที่ 'เกิดจากไวรัส' คือโรคหวัดและเจ็บคอ ซึ่งอยู่หน้า which ทันที ตัวเลือก B ผิดเพราะไวรัสคือสาเหตุ ไม่ใช่สิ่งที่ถูกอ้างถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2023 survey, what did 42 percent of the adults believe?",
+     "options": [
+      "Antibiotics could cure the common cold.",
+      "Antibiotics should require a prescription.",
+      "Leftover tablets were safe to take later.",
+      "Doctors were unnecessary for treating colds."
+     ],
+     "answer": 0,
+     "explain": "¶3: \"42 percent believed antibiotics could cure the common cold\" ส่วนการซื้อยาจากร้านขายยาโดยไม่พบแพทย์เป็นพฤติกรรมของคน \"a quarter\" ไม่ใช่ 42 percent และไม่ได้บอกว่าพวกเขาเชื่อว่าแพทย์ไม่จำเป็น (D)"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'the latter' in paragraph 4 refer to?",
+     "options": [
+      "hospitals",
+      "farms",
+      "animals",
+      "wards"
+     ],
+     "answer": 1,
+     "explain": "¶4 เปิดด้วย \"Hospitals and farms are two major breeding grounds\" the former = สิ่งแรก (hospitals) และ the latter = สิ่งหลัง (farms) ซึ่งสอดคล้องกับเนื้อหาต่อมาที่พูดถึงการให้ยาสัตว์ ตัวเลือก C ผิดเพราะ animals เป็นสิ่งที่อยู่ในฟาร์ม ไม่ใช่หนึ่งในสองสิ่งที่ถูกแนะนำไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'This' in paragraph 5 refer to?",
+     "options": [
+      "the shrinking market for older and cheaper antibiotics",
+      "the growing number of resistant infections",
+      "the research budgets of large companies",
+      "the fact that a costly new drug would rarely be used"
+     ],
+     "answer": 3,
+     "explain": "This สรุปทั้งประโยคก่อนหน้า ¶5: ยาใหม่ \"cost hundreds of millions of dollars, yet ... is likely to be held in reserve\" สถานการณ์ที่ลงทุนสูงแต่ใช้น้อยนี้เองที่ทำให้บริษัทไม่ได้ทุนคืน ตัวเลือก A ใช้คำว่า older ones จากประโยคเดียวกัน แต่บทความไม่ได้พูดถึงตลาดยาเก่า"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraphs 3 and 6 that rapid diagnostic tests would help mainly by",
+     "options": [
+      "allowing patients to buy antibiotics without a prescription",
+      "reducing the cost of developing new antibiotics",
+      "preventing antibiotic use for viral infections",
+      "stopping resistant bacteria from spreading between wards"
+     ],
+     "answer": 2,
+     "explain": "¶6 ระบุว่าการทดสอบนี้บอก \"whether an infection is bacterial or viral\" และ ¶3 บอกว่ายาปฏิชีวนะมักถูกสั่งให้โรคจากไวรัสซึ่ง \"do not respond to antibiotics at all\" จึงอนุมานได้ว่าการทดสอบช่วยลดการสั่งยาที่ไม่จำเป็น ตัวเลือก D เป็นหน้าที่ของ infection control ไม่ใช่การตรวจวินิจฉัย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'inevitable' in paragraph 6 is closest in meaning to",
+     "options": [
+      "unavoidable",
+      "unexpected",
+      "unimportant",
+      "unprecedented"
+     ],
+     "answer": 0,
+     "explain": "¶6: \"the crisis, though slow-moving, is not inevitable\" แล้วตามด้วยมาตรการต่าง ๆ ที่ \"could all slow its progress\" แปลว่าวิกฤตนี้ 'หลีกเลี่ยงได้' ดังนั้น inevitable = unavoidable ถ้าแปลว่า unexpected ประโยคถัดไปที่เสนอวิธีแก้จะไม่สอดคล้องกัน เพราะ not unexpected หมายถึง 'คาดไว้แล้ว' ไม่ใช่ 'ป้องกันได้'"
+    }
+   ]
+  },
+  {
+   "id": "W09",
+   "day": 13,
+   "focus": "Vocabulary from context clues (definition, synonym, antonym, example)",
+   "skill_tip_en": "When a word is unfamiliar, search the nearby words for a definition (or, that is, a phrase after a comma or colon), a synonym, a contrast (rather than, unlike, but) or examples (such as, including), then test your guess by putting it into the sentence.",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Society",
+   "title": "Hungry for Knowledge: Food Insecurity Among University Students",
+   "paragraphs": [
+    "University students are often imagined as young people with few responsibilities, living on instant noodles by choice rather than necessity. A growing body of research suggests that this image hides a serious problem. Food insecurity, defined by researchers as a lack of reliable access to enough affordable, nutritious food, is far more prevalent on campuses than many people assume; in several countries it has been found to be as common among students as among low-income families.",
+    "In Thailand, a 2024 survey of 3,100 undergraduates at four public universities found that 29 percent had skipped meals or reduced portion sizes at least once a month during the previous semester because they could not afford food. The figure rose to 41 percent among students who were the first in their families to attend university, and to 47 percent among those who received no regular financial support from home.",
+    "Many of these students live in precarious circumstances: their income from part-time work is unstable, and a single unexpected expense, such as a medical bill or a broken phone, can leave them unable to buy food for days. Rising rents near campus and the cost of materials for laboratory and studio courses add further pressure.",
+    "The consequences extend well beyond hunger. Students who reported food insecurity in the survey had lower average grades, were twice as likely to report symptoms of depression, and were more likely to consider leaving their studies. Researchers point out that the brain needs a steady supply of energy for concentration and memory, so a student who arrives at an 8 a.m. lecture without breakfast is at a genuine disadvantage.",
+    "Despite the scale of the problem, few students seek help. Many are deterred by stigma, the sense of shame and social disapproval attached to admitting that one cannot afford to eat. Others simply do not know that support exists. \"Students tell us they would rather go hungry than be seen collecting free food,\" says Dr. Kanokwan Rattanapong, a sociologist who worked on the study.",
+    "Some universities have begun to respond. Campus food banks now distribute staples such as rice, eggs, cooking oil and canned fish, and several faculties offer meal vouchers that can be used discreetly at ordinary canteens. Researchers welcome these efforts but warn that help has so far been sporadic rather than regular and predictable, often depending on donations that arrive in some months and not in others. Lasting solutions, they argue, will require food support to be built into university welfare policies."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "First-generation students are the only group that suffers from hunger on campus.",
+      "University canteens in Thailand now charge far too much for ordinary daily meals.",
+      "Most students eat instant noodles by choice so that they can save money for leisure.",
+      "Many students cannot afford enough food, which harms their studies and wellbeing."
+     ],
+     "answer": 3,
+     "explain": "บทความชี้ว่าภาวะขาดแคลนอาหารพบบ่อยในนักศึกษา (¶1–¶2) และ ¶4 สรุปผลกระทบว่า \"The consequences extend well beyond hunger\" ทั้งเกรด สุขภาพจิต และการลาออก ตัวเลือก C ตรงข้ามกับ ¶1 ที่บอกว่าภาพ 'กินมาม่าเพราะเลือกเอง' เป็นภาพที่ปิดบังปัญหาจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'prevalent' in paragraph 1 is closest in meaning to",
+     "options": [
+      "serious",
+      "widespread",
+      "hidden",
+      "unexpected"
+     ],
+     "answer": 1,
+     "explain": "เบาะแสแบบคำพ้องความหมาย (synonym clue): หลังเครื่องหมาย ; ผู้เขียนขยายว่า \"it has been found to be as common among students as among low-income families\" (¶1) คำว่า common บอกว่า prevalent = แพร่หลาย ตัวเลือก C เป็นกับดักจากคำว่า hides ในประโยคก่อนหน้า ส่วน D (unexpected) อาจดูเข้ากับ \"than many people assume\" แต่ไม่ตรงกับคำใบ้ common"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which group of students reported the highest rate of skipping or reducing meals?",
+     "options": [
+      "all undergraduates at the four universities",
+      "students who were first in their family at university",
+      "students without regular financial support from home",
+      "students taking laboratory and studio courses"
+     ],
+     "answer": 2,
+     "explain": "¶2 ให้ตัวเลขสามระดับ: 29% (ทั้งหมด), 41% (รุ่นแรกในครอบครัว) และ \"47 percent among those who received no regular financial support from home\" ซึ่งสูงที่สุด ตัวเลือก D มาจาก ¶3 และไม่มีตัวเลขกำกับ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'precarious' in paragraph 3 is closest in meaning to",
+     "options": [
+      "uncertain and insecure",
+      "comfortable and stable",
+      "crowded and noisy",
+      "violent and dangerous"
+     ],
+     "answer": 0,
+     "explain": "เบาะแสแบบคำอธิบาย (explanation clue) หลังเครื่องหมาย colon ใน ¶3: \"their income from part-time work is unstable, and a single unexpected expense ... can leave them unable to buy food\" สภาพที่ไม่มั่นคงและเปราะบางเช่นนี้คือ precarious ตัวเลือก B ตรงข้าม ส่วน D เป็นกับดักเพราะ precarious บางครั้งใช้กับสิ่งที่อันตราย แต่บริบทนี้พูดถึงการเงิน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, compared with other students, those who reported food insecurity were",
+     "options": [
+      "twice as likely to miss early morning lectures",
+      "twice as likely to report symptoms of depression",
+      "half as likely to finish their university degrees",
+      "more likely to take part-time jobs at night"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"were twice as likely to report symptoms of depression\" ตัวเลือก A เอาคำว่า 8 a.m. lecture มาบิด เพราะบทความบอกเพียงว่าคนที่ไม่ได้กินข้าวเช้าเสียเปรียบในการเรียน ไม่ได้บอกว่าขาดเรียนมากกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'stigma' in paragraph 5 is closest in meaning to",
+     "options": [
+      "a lack of useful information",
+      "financial pressure",
+      "physical weakness",
+      "shame and disapproval"
+     ],
+     "answer": 3,
+     "explain": "เบาะแสแบบนิยาม (definition clue) ที่ตามหลังเครื่องหมาย comma ทันที ¶5: \"stigma, the sense of shame and social disapproval attached to admitting that one cannot afford to eat\" ตัวเลือก A เป็นอีกเหตุผลหนึ่งในประโยคถัดไป (\"do not know that support exists\") ไม่ใช่ความหมายของ stigma"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Why are the meal vouchers described in paragraph 6 most likely designed to be used at ordinary canteens?",
+     "options": [
+      "To help students avoid embarrassment when receiving help",
+      "To reduce the cost of running separate campus food banks",
+      "To increase the profits of the owners of campus canteens",
+      "To make sure that students choose more nutritious meals"
+     ],
+     "answer": 0,
+     "explain": "¶6 บอกว่าคูปองใช้ได้ \"discreetly at ordinary canteens\" (อย่างไม่เปิดเผย) เมื่อโยงกับ ¶5 ที่นักศึกษา \"would rather go hungry than be seen collecting free food\" จึงอนุมานได้ว่าออกแบบเพื่อไม่ให้อับอาย ตัวเลือก B, C, D ไม่มีหลักฐานในบทความ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'staples' in paragraph 6 is closest in meaning to",
+     "options": [
+      "luxury products",
+      "fresh vegetables",
+      "basic everyday foods",
+      "small metal fasteners"
+     ],
+     "answer": 2,
+     "explain": "เบาะแสแบบตัวอย่าง (example clue) ¶6: \"staples such as rice, eggs, cooking oil and canned fish\" ทั้งหมดเป็นอาหารพื้นฐานที่ใช้ทุกวัน ตัวเลือก D เป็นอีกความหมายของ staples (ลวดเย็บกระดาษ) ซึ่งไม่เข้ากับบริบทธนาคารอาหาร"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'sporadic' in paragraph 6 is closest in meaning to",
+     "options": [
+      "irregular",
+      "generous",
+      "temporary",
+      "official"
+     ],
+     "answer": 0,
+     "explain": "เบาะแสแบบคำตรงข้าม (antonym clue) ¶6: \"sporadic rather than regular and predictable\" และขยายว่าเงินบริจาค \"arrive in some months and not in others\" จึงหมายถึงไม่สม่ำเสมอ ตัวเลือก C (temporary) ใกล้เคียงแต่หมายถึง 'ชั่วคราว' ไม่ใช่ 'มาเป็นช่วง ๆ ไม่แน่นอน'"
+    }
+   ]
+  },
+  {
+   "id": "W10",
+   "day": 14,
+   "focus": "Skimming and paragraph function",
+   "skill_tip_en": "Skim the first and last sentences of each paragraph and write a two- or three-word label for its job (introduces problem, defines term, gives example, proposes solutions, raises criticism, concludes) before you look at the questions.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Environment",
+   "title": "From Waste to Resource: Plastics and the Circular Economy",
+   "paragraphs": [
+    "Plastic is one of the defining materials of modern life: light, durable and cheap, it has become indispensable in packaging, medicine and construction. Global production now exceeds 400 million tonnes a year, yet the model behind this output remains largely linear: resources are extracted, made into products, used, often only once, and discarded. Less than a tenth of all plastic waste ever generated has been recycled; the rest has been burned, buried or allowed to leak into rivers and oceans. This article examines whether a circular economy offers a realistic alternative, and what stands in its way.",
+    "In a circular economy, materials are kept in use for as long as possible, and waste is treated as a design flaw rather than an unavoidable outcome. Advocates usually describe a hierarchy of strategies. The most desirable is to reduce the amount of plastic used in the first place, for instance by eliminating unnecessary packaging. Next comes reuse, such as refillable bottles and containers. Recycling, which turns used plastic into raw material for new products, ranks below both, because it consumes energy and usually degrades the material. Disposal is the last resort.",
+    "Recycling nevertheless remains the most visible element of circular policies, and its performance has been disappointing. Several technical obstacles explain this. Many products combine different polymers, or layers of plastic and aluminium, which cannot easily be separated. Food residue and labels contaminate collected material, lowering its value. Even clean plastic loses quality each time it is melted, so a drinks bottle may become a fibre for clothing but rarely another bottle. Economics compounds these problems: when oil prices are low, new or \"virgin\" plastic is often cheaper than recycled plastic, leaving recyclers with little demand for their output.",
+    "In many developing countries, the gap left by weak formal systems is partly filled by informal workers. In Thailand, people known locally as saleng travel through neighbourhoods on motorcycle carts, buying bottles, cans and cardboard from households and selling them to scrap dealers. Community waste banks have built on this tradition. In one district of Khon Kaen, residents deposit sorted recyclables at a monthly collection point and receive credit that can be used for small loans or funeral funds; organisers report that the amount of waste sent to the local landfill fell by about a quarter in the scheme's first three years.",
+    "Governments have several tools for strengthening such efforts. Under extended producer responsibility (EPR), companies that sell packaged goods must pay for the collection and recycling of their packaging, which gives them a financial reason to design products that are easier to recycle. Deposit-return schemes add a small refundable charge to each bottle or can; some European schemes now recover more than 90 percent of the containers sold. Other measures include minimum recycled-content requirements for new products and bans on items that are hard to recycle, such as certain single-use plastics.",
+    "Critics caution, however, that the circular economy can be invoked to justify business as usual. If recycling is presented as the solution, they argue, companies may feel free to keep increasing production, even though most plastic still escapes collection. Chemical recycling, which breaks plastics down into basic molecules, is promoted as a way to handle mixed waste, but it is energy-intensive and has so far operated only on a relatively small scale. International negotiations on a global plastics agreement, launched in 2022, have exposed deep disagreement over whether production itself should be capped.",
+    "The evidence therefore suggests that a circular economy for plastics is achievable only in part, and only if recycling is treated as one tool among several rather than the centrepiece. Reducing unnecessary use, designing products for reuse and repair, making producers responsible for their waste and supporting the people who already collect it must proceed together. The goal is not simply to manage waste more efficiently, but to stop treating valuable materials as waste in the first place."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Recycling has failed so completely that all plastic products should now be banned.",
+      "A circular plastics economy can work only if recycling is combined with other measures.",
+      "Informal collectors in Thailand recover more plastic than European deposit schemes do.",
+      "Chemical recycling will soon solve the problem of mixed and contaminated plastic waste."
+     ],
+     "answer": 1,
+     "explain": "ย่อหน้าสรุป ¶7: \"a circular economy for plastics is achievable only in part, and only if recycling is treated as one tool among several\" ตัวเลือก A สุดโต่งเกินไป (ผู้เขียนไม่ได้เสนอให้ห้ามพลาสติกทั้งหมด) และ D ขัดกับ ¶6 ที่ว่าการรีไซเคิลเชิงเคมี \"has so far operated only on a relatively small scale\""
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of paragraph 1?",
+     "options": [
+      "To argue that plastic should be replaced by natural materials",
+      "To describe how plastic is manufactured from crude oil",
+      "To introduce the problem and the article's central question",
+      "To compare recycling rates in different regions of the world"
+     ],
+     "answer": 2,
+     "explain": "¶1 ให้ข้อมูลปัญหา (การผลิตมหาศาลและรีไซเคิลไม่ถึงหนึ่งในสิบ) แล้วปิดด้วยประโยคบอกขอบเขตบทความ: \"This article examines whether a circular economy offers a realistic alternative, and what stands in its way.\" ตัวเลือก D ผิดเพราะย่อหน้านี้ให้ตัวเลขระดับโลกเพียงตัวเดียว ไม่ได้เปรียบเทียบภูมิภาค"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which paragraph explains what the term 'circular economy' means?",
+     "options": [
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 6",
+      "Paragraph 7"
+     ],
+     "answer": 0,
+     "explain": "¶2 ขึ้นต้นด้วยการให้นิยาม: \"In a circular economy, materials are kept in use for as long as possible\" แล้วอธิบายลำดับขั้นของกลยุทธ์ ส่วน ¶6 และ ¶7 กล่าวถึงคำนี้ก็จริง แต่เป็นการวิจารณ์และสรุป ไม่ใช่การอธิบายความหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, why is a used drinks bottle rarely made into another bottle?",
+     "options": [
+      "Its label and food residue cannot be removed.",
+      "Plastic loses quality each time it is melted.",
+      "It contains thin layers of aluminium.",
+      "Clothing makers pay more for used bottles."
+     ],
+     "answer": 1,
+     "explain": "¶3: \"Even clean plastic loses quality each time it is melted, so a drinks bottle may become a fibre for clothing but rarely another bottle\" คำว่า so เชื่อมเหตุกับผลโดยตรง ตัวเลือก A และ C เป็นปัญหาของผลิตภัณฑ์อื่นที่กล่าวไว้ในย่อหน้าเดียวกัน ไม่ใช่เหตุผลเรื่องขวด"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which paragraph describes a local scheme in which residents exchange recyclables for credit?",
+     "options": [
+      "Paragraph 1",
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4"
+     ],
+     "answer": 3,
+     "explain": "¶4: \"residents deposit sorted recyclables at a monthly collection point and receive credit\" เป็นตัวอย่างธนาคารขยะในขอนแก่น สังเกตจากชื่อสถานที่ (Thailand, Khon Kaen) ซึ่งช่วยในการกวาดตาหาได้เร็ว ¶3 พูดถึงการรีไซเคิลแต่เป็นปัญหาทางเทคนิค"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which paragraph describes policies that make companies pay for handling their own packaging?",
+     "options": [
+      "Paragraph 3",
+      "Paragraph 4",
+      "Paragraph 5",
+      "Paragraph 6"
+     ],
+     "answer": 2,
+     "explain": "¶5 อธิบาย EPR: \"companies that sell packaged goods must pay for the collection and recycling of their packaging\" ตัวเลือก D (¶6) พูดถึงบริษัทเช่นกัน แต่เป็นข้อกังวลว่าบริษัทจะเพิ่มการผลิต ไม่ใช่นโยบายให้จ่ายเงิน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, what do deposit-return schemes do?",
+     "options": [
+      "They ban single-use plastic items in shops.",
+      "They require new goods to contain recycled plastic.",
+      "They add a refundable charge to each container.",
+      "They make companies pay to collect packaging."
+     ],
+     "answer": 2,
+     "explain": "¶5: \"Deposit-return schemes add a small refundable charge to each bottle or can\" ตัวเลือก D คือนิยามของ EPR ในประโยคก่อนหน้า ส่วน A และ B เป็น \"Other measures\" ที่กล่าวถึงท้ายย่อหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of paragraph 6?",
+     "options": [
+      "To present concerns that recycling may excuse rising production",
+      "To explain the chemistry behind breaking plastics into molecules",
+      "To report the final outcome of the international negotiations",
+      "To show that companies have already cut plastic production"
+     ],
+     "answer": 0,
+     "explain": "ประโยคแรกของ ¶6 \"Critics caution, however, that the circular economy can be invoked to justify business as usual\" บอกหน้าที่ของย่อหน้าว่าเป็นการเสนอข้อวิจารณ์ ตัวเลือก C ผิดเพราะบทความบอกเพียงว่าการเจรจา \"have exposed deep disagreement\" ไม่ได้รายงานผลสุดท้าย"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the passage organised?",
+     "options": [
+      "The history of plastic is told in time order, from its invention to the present day.",
+      "The recycling systems of Thailand and Europe are compared point by point.",
+      "One argument for banning plastic is supported with a series of examples.",
+      "A problem is presented, then a proposed solution is examined from several angles."
+     ],
+     "answer": 3,
+     "explain": "โครงสร้างคือ ปัญหา (¶1) → นิยามแนวทางแก้ (¶2) → อุปสรรค (¶3) → ตัวอย่าง (¶4) → เครื่องมือเชิงนโยบาย (¶5) → ข้อวิจารณ์ (¶6) → สรุป (¶7) ตามที่ ¶1 ประกาศไว้: \"whether a circular economy offers a realistic alternative, and what stands in its way\" ตัวเลือก B ผิดเพราะยุโรปถูกกล่าวถึงเพียงประโยคเดียวใน ¶5"
+    },
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Saleng and Waste Banks: How Thai Communities Collect Recyclables",
+      "Closing the Loop: The Promise and Limits of Circular Plastics",
+      "The Chemistry and Manufacture of Modern Plastic Polymers",
+      "Why Recycling Has Already Solved the Global Plastic Problem"
+     ],
+     "answer": 1,
+     "explain": "บทความกล่าวทั้งศักยภาพ (¶2, ¶5) และข้อจำกัด (¶3, ¶6) ของเศรษฐกิจหมุนเวียน และสรุปว่า \"achievable only in part\" (¶7) จึงตรงกับ B ตัวเลือก A แคบเกินไปเพราะครอบคลุมแค่ ¶4 และ D ขัดกับเนื้อหาที่ว่าการรีไซเคิลยังน่าผิดหวัง"
+    }
+   ]
+  }
+ ]
+}

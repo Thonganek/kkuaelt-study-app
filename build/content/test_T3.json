@@ -1,0 +1,983 @@
+{
+ "id": "T3",
+ "day": 18,
+ "title": "Reading Test 3",
+ "passages": [
+  {
+   "id": "T3P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "Province Targets Holiday Drownings as Schools Close for Summer",
+   "paragraphs": [
+    "Hundreds of children in a province in north-eastern Thailand are spending the school holiday in the water, thanks to a free programme aimed at cutting one of the most common causes of death among the young.",
+    "The programme, run by the provincial health office and local schools, offers ten one-hour lessons to children aged six to twelve. Rather than teaching competitive strokes, instructors focus on “survival swimming”: floating on the back, moving a short distance to safety and staying calm.",
+    "Children also learn a simple rule for helping others: “shout, throw, don't go.” Instead of jumping in to save a friend, which often results in two deaths rather than one, they call an adult and throw something that floats, such as an empty bottle.",
+    "According to the provincial health office, 41 children in the province drowned in 2022. Most died not in swimming pools but in ponds, canals and reservoirs near their homes, and nearly half died during the March-to-May holidays, when many children are left without adult supervision.",
+    "Ms. Wanida Srisuk, a teacher and one of the organisers, said many parents in farming villages cannot swim. “They are afraid of the water, so they keep their children away from it, but that does not make the children safer,” she said.",
+    "Organisers hope to train 3,000 children by the end of next year, but admit that lessons alone are not enough. They are urging village leaders to put up fences and warning signs around the most dangerous ponds."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most children who drown in the province lose their lives in public swimming pools.",
+      "Free lessons are teaching children skills that could save them in the water.",
+      "Parents in farming villages are being trained to rescue children from ponds.",
+      "Village leaders have built fences around the province's most dangerous ponds."
+     ],
+     "answer": 1,
+     "explain": "ทั้งบทความเล่าถึงโครงการสอนว่ายน้ำฟรีที่สอนทักษะเอาตัวรอดเพื่อลดการจมน้ำของเด็ก (¶1: “a free programme aimed at cutting one of the most common causes of death among the young”) จึงตอบ B ตัวเลือก D เป็นกับดัก เพราะ ¶6 บอกเพียงว่าผู้จัด “are urging village leaders” ให้ทำรั้ว ยังไม่ได้สร้างจริง ส่วน A ขัดกับ ¶4 ที่ว่าเด็กส่วนใหญ่ไม่ได้จมน้ำในสระว่ายน้ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what do the instructors mainly focus on?",
+     "options": [
+      "skills for surviving in the water",
+      "strokes used in swimming competitions",
+      "methods for rescuing other swimmers",
+      "ways of swimming long distances fast"
+     ],
+     "answer": 0,
+     "explain": "¶2: “Rather than teaching competitive strokes, instructors focus on “survival swimming”” คือเน้นทักษะเอาตัวรอดในน้ำ เช่น การลอยตัวหงาย ตัวเลือก B เป็นกับดักคำศัพท์ เพราะ competitive strokes (ท่าว่ายเพื่อแข่งขัน) คือสิ่งที่ครู 'ไม่ได้' เน้น ดูจากคำว่า Rather than"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'supervision' in paragraph 4 is closest in meaning to",
+     "options": [
+      "instruction",
+      "permission",
+      "transport",
+      "monitoring"
+     ],
+     "answer": 3,
+     "explain": "¶4: “when many children are left without adult supervision” หมายถึงเด็กถูกปล่อยไว้โดยไม่มีผู้ใหญ่คอยดูแลเฝ้าระวัง จึงตรงกับ monitoring ตัวเลือก A (instruction = การสอน) ผิด เพราะประโยคนี้พูดถึงช่วงปิดเทอมที่ไม่มีคนเฝ้าดู ไม่ใช่การขาดครูสอน"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "the instructors",
+      "the parents",
+      "the children",
+      "the organisers"
+     ],
+     "answer": 2,
+     "explain": "¶3 เริ่มด้วย “Children also learn a simple rule for helping others” แล้วต่อว่า “they call an adult and throw something that floats” ผู้ที่ตะโกนเรียกผู้ใหญ่และโยนของลอยน้ำคือเด็ก ๆ ไม่ใช่ครูผู้สอน (A) ซึ่งเป็นผู้สอนกฎนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, where did most of the children who drowned in 2022 die?",
+     "options": [
+      "in open water close to where they lived",
+      "in public swimming pools during the holidays",
+      "in the sea while on family trips",
+      "in school pools during swimming lessons"
+     ],
+     "answer": 0,
+     "explain": "¶4: “Most died not in swimming pools but in ponds, canals and reservoirs near their homes” บ่อ คลอง และอ่างเก็บน้ำใกล้บ้านคือแหล่งน้ำเปิด จึงตอบ A ตัวเลือก B ใช้คำว่า swimming pools ที่ปรากฏในประโยค แต่ความหมายตรงข้าม (not in swimming pools)"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as something the children learn?",
+     "options": [
+      "how to float on their backs",
+      "how to move a short distance to safety",
+      "how to help a friend without jumping in",
+      "how to give first aid after a rescue"
+     ],
+     "answer": 3,
+     "explain": "สิ่งที่เด็กเรียนปรากฏใน ¶2 (“floating on the back, moving a short distance to safety”) และ ¶3 (ช่วยเพื่อนโดย “Instead of jumping in” ให้เรียกผู้ใหญ่และโยนของลอยน้ำ) แต่ไม่มีตอนใดพูดถึงการปฐมพยาบาลหลังช่วยขึ้นจากน้ำ จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that many children in farming villages",
+     "options": [
+      "are not allowed to join the free lessons",
+      "are unlikely to learn swimming at home",
+      "already swim better than their parents",
+      "live a long way from ponds and canals"
+     ],
+     "answer": 1,
+     "explain": "¶5: “many parents in farming villages cannot swim” และยังพยายามให้ลูกอยู่ห่างจากน้ำ จึงอนุมานได้ว่าเด็กเหล่านี้แทบไม่มีโอกาสได้เรียนว่ายน้ำจากพ่อแม่ที่บ้าน ตัวเลือก C ผิดเพราะบทความไม่ได้บอกว่าเด็กว่ายน้ำเก่งกว่าพ่อแม่ ส่วน D ขัดกับ ¶4 ที่ว่าแหล่งน้ำอยู่ “near their homes”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention fences and warning signs in paragraph 6?",
+     "options": [
+      "to explain how the programme is funded",
+      "to criticise village leaders for ignoring the danger",
+      "to show that lessons alone cannot solve the problem",
+      "to describe a rule that the children are taught"
+     ],
+     "answer": 2,
+     "explain": "¶6: “but admit that lessons alone are not enough. They are urging village leaders to put up fences and warning signs” รั้วและป้ายเตือนจึงถูกกล่าวถึงเพื่อแสดงว่าบทเรียนว่ายน้ำเพียงอย่างเดียวแก้ปัญหาไม่ได้ทั้งหมด ตัวเลือก B ผิดเพราะผู้จัดเพียงขอความร่วมมือ ไม่ได้ตำหนิว่าผู้นำหมู่บ้านเพิกเฉย"
+    }
+   ]
+  },
+  {
+   "id": "T3P2",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "AI/Technology",
+   "title": "Northern City Reviews Six-Month Trial at Busy Junctions",
+   "paragraphs": [
+    "Traffic lights controlled by artificial intelligence have shortened waiting times at some of the busiest junctions in a city in northern Thailand, according to a review of a six-month pilot scheme released this week.",
+    "Under the scheme, cameras mounted above twelve intersections count the cars, motorcycles and pedestrians approaching from each direction. Software then adjusts the length of each green light every few seconds. Previously, the lights followed fixed timings that had been set years earlier and were rarely updated.",
+    "According to the city's transport department, the average time vehicles spent waiting at the twelve junctions fell by 23 percent during the morning rush hour. Emergency services have also benefited: when an ambulance approaches, the system can detect it and switch the lights ahead to green.",
+    "“In the past, police officers often had to stand in the middle of the road and direct traffic by hand,” said Mr. Kittipong Saenkham, an engineer on the project. “Now the lights respond to what is actually happening on the street.”",
+    "Not everyone is convinced. Some residents have asked what happens to the video recorded by the cameras and who is allowed to see it. City officials insist that the software keeps only the number of vehicles and that all footage is deleted automatically within 24 hours. Privacy campaigners argue that such promises should be written into law.",
+    "Others doubt that the improvements will last. Transport researchers warn that when traffic moves more smoothly, more people may choose to drive, which could eventually bring congestion back to its previous level.",
+    "The city will decide early next year whether to extend the system to a further 40 junctions at an estimated cost of 60 million baht."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "AI Traffic Lights Put an End to the City's Rush-Hour Jams",
+      "Privacy Fears Force City to Switch Off Traffic Cameras",
+      "AI Signals Cut Waiting Times, but Doubts Remain",
+      "Why Police Officers Still Direct the City's Traffic"
+     ],
+     "answer": 2,
+     "explain": "บทความรายงานทั้งผลดี (¶3 เวลารอลดลง 23%) และข้อกังวล (¶5 ความเป็นส่วนตัว, ¶6 ผลอาจไม่ยั่งยืน) ชื่อเรื่อง C จึงครอบคลุมที่สุด ตัวเลือก A กล่าวเกินจริงเพราะลดเวลารอเพียงบางส่วน ไม่ได้ทำให้รถติดหมดไป ส่วน B ผิดเพราะไม่มีการปิดกล้อง เมืองยังพิจารณาขยายระบบใน ¶7"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, how did the traffic lights work before the pilot scheme?",
+     "options": [
+      "They were controlled by police officers at all times.",
+      "They followed timings that were seldom changed.",
+      "They changed their timings every few seconds.",
+      "They counted vehicles approaching from each direction."
+     ],
+     "answer": 1,
+     "explain": "¶2: “Previously, the lights followed fixed timings that had been set years earlier and were rarely updated.” rarely updated = seldom changed จึงตอบ B ตัวเลือก C และ D เป็นการทำงานของระบบใหม่ ส่วน A ผิดเพราะ ¶4 บอกว่าตำรวจ “often” ต้องโบกรถ ไม่ใช่ตลอดเวลา"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'mounted' in paragraph 2 is closest in meaning to",
+     "options": [
+      "increased",
+      "hidden",
+      "repaired",
+      "fixed"
+     ],
+     "answer": 3,
+     "explain": "¶2: “cameras mounted above twelve intersections” หมายถึงกล้องที่ถูกติดตั้งไว้เหนือทางแยก จึงตรงกับ fixed (ติดตั้ง/ยึดไว้) ตัวเลือก A เป็นกับดัก เพราะ mount ในบางบริบทแปลว่าเพิ่มขึ้น (costs are mounting) แต่ไม่เข้ากับกล้องที่อยู่เหนือทางแยก"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, the figure of 23 percent refers to a fall in",
+     "options": [
+      "morning waiting times at the twelve junctions",
+      "the number of accidents at the twelve junctions",
+      "the time ambulances need to reach a hospital",
+      "the number of cars on the city's roads"
+     ],
+     "answer": 0,
+     "explain": "¶3: “the average time vehicles spent waiting at the twelve junctions fell by 23 percent during the morning rush hour” ตัวเลข 23% จึงหมายถึงเวลารอช่วงเช้า ตัวเลือก C เป็นกับดักเพราะรถพยาบาลถูกกล่าวถึงในย่อหน้าเดียวกัน แต่ไม่มีตัวเลขเกี่ยวกับเวลาไปถึงโรงพยาบาล"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'it' in paragraph 3 refer to?",
+     "options": [
+      "the system",
+      "the morning rush hour",
+      "an ambulance",
+      "the transport department"
+     ],
+     "answer": 2,
+     "explain": "¶3: “when an ambulance approaches, the system can detect it and switch the lights ahead to green” ระบบเป็นผู้ตรวจจับ ส่วนสิ่งที่ถูกตรวจจับ (it) คือรถพยาบาลที่กำลังเข้าใกล้ ตัวเลือก A ผิดเพราะ the system เป็นประธานของกริยา detect เอง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that the researchers believe",
+     "options": [
+      "the system will cost more than the city expects",
+      "drivers will avoid the twelve junctions in future",
+      "the cameras cannot count vehicles accurately",
+      "the benefits of the system may be temporary"
+     ],
+     "answer": 3,
+     "explain": "¶6: “more people may choose to drive, which could eventually bring congestion back to its previous level” หมายความว่าการจราจรที่ดีขึ้นอาจอยู่ได้ไม่นาน จึงตอบ D ตัวเลือก B ตรงข้ามกับเหตุผลของนักวิจัย ที่คาดว่าคนจะ 'ขับรถมากขึ้น' ไม่ใช่หลีกเลี่ยงทางแยก"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following is an opinion rather than a fact?",
+     "options": [
+      "Rules on deleting video ought to be written into law.",
+      "Cameras have been placed above twelve intersections.",
+      "Waiting times fell by 23 percent in the morning rush hour.",
+      "The city will decide next year whether to extend the system."
+     ],
+     "answer": 0,
+     "explain": "¶5: “Privacy campaigners argue that such promises should be written into law.” เป็นข้อเสนอที่ใช้คำว่า should จึงเป็นความคิดเห็น ส่วน B, C และ D เป็นข้อเท็จจริงที่ตรวจสอบได้ (จำนวนทางแยก ตัวเลขจากฝ่ายจราจร และกำหนดการตัดสินใจ)"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The tone of the passage can best be described as",
+     "options": [
+      "enthusiastic",
+      "objective",
+      "critical",
+      "humorous"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนรายงานทั้งผลดี (¶3) และข้อกังวลของผู้อื่น (¶5: “Not everyone is convinced.”) โดยไม่แสดงความเห็นของตนเอง น้ำเสียงจึงเป็นกลาง (objective) ตัวเลือก A ผิดเพราะคำชมทั้งหมดมาจากเจ้าหน้าที่และวิศวกรที่ถูกอ้างถึง ไม่ใช่จากผู้เขียน"
+    }
+   ]
+  },
+  {
+   "id": "T3P3",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Education",
+   "title": "Who Will Teach the Village Children?",
+   "paragraphs": [
+    "At a small primary school in the hills of northern Thailand, Mr. Somchai Phonsawat teaches mathematics, science and physical education, and on Friday afternoons he also runs the school library. With six grades but only four teachers, the school expects everyone to cover several subjects. His situation is common: across rural Thailand, as in many countries, small schools struggle to attract and keep teachers.",
+    "The causes are well known. Young graduates tend to prefer towns, where housing is better and further study is easier to arrange. Those who do accept rural posts often apply for a transfer as soon as they are allowed to.",
+    "The effects fall hardest on pupils. When a teacher leaves mid-year, classes may be combined or taught by unqualified temporary staff. A 2022 survey of 300 rural schools in the north-east found that nearly one in three had at least one class without a permanent teacher for more than a term. Such disruption has been linked to lower reading scores.",
+    "Governments have tried several incentives. Some offer extra allowances for remote postings; others provide free housing or repay the student loans of teachers who stay five years or more. A newer approach is to recruit young people from rural communities, train them and send them back to their home districts, on the assumption that teachers with local roots are more likely to stay.",
+    "Early results are encouraging. In one programme, about 80 percent of locally recruited teachers were still in their first school after five years, compared with around half of those hired through the usual system. Yet money alone rarely solves the problem. Teachers interviewed for this article said that what they valued most was support: a head teacher who listened, colleagues to share ideas with and the chance to keep learning.",
+    "For Mr. Somchai, who grew up two villages away, leaving has never been an option. “If I go, who will teach these children?” he asks."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Rural pupils' reading scores are lower than those of children in towns.",
+      "Paying teachers more money is the most effective way to keep them in rural schools.",
+      "Rural schools struggle to keep teachers, and incentives have only partly helped.",
+      "Teachers who grew up in villages are unwilling to work in city schools."
+     ],
+     "answer": 2,
+     "explain": "บทความกล่าวถึงปัญหาโรงเรียนชนบทหาครูและรักษาครูไว้ไม่ได้ (¶1: “small schools struggle to attract and keep teachers”) แล้วเล่าถึงสาเหตุ ผลกระทบ และมาตรการจูงใจที่ได้ผลเพียงบางส่วน จึงตอบ C ตัวเลือก B ขัดกับ ¶5 ที่ว่า “money alone rarely solves the problem”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, why does each teacher at Mr. Somchai's school teach several subjects?",
+     "options": [
+      "The school has more grades than teachers.",
+      "The teachers were trained in several subjects.",
+      "Pupils learn better from the same teacher.",
+      "The head teacher wants to reduce costs."
+     ],
+     "answer": 0,
+     "explain": "¶1: “With six grades but only four teachers, the school expects everyone to cover several subjects.” โรงเรียนมี 6 ชั้นแต่มีครูเพียง 4 คน ครูแต่ละคนจึงต้องสอนหลายวิชา ตัวเลือก B, C และ D ไม่มีข้อมูลรองรับในบทความ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that Mr. Somchai runs the school library?",
+     "options": [
+      "to suggest that the school has an unusually good library",
+      "to explain why he decided to become a teacher",
+      "to show that he prefers reading to teaching science",
+      "to show how many different duties he has to take on"
+     ],
+     "answer": 3,
+     "explain": "¶1 ระบุว่าเขาสอนคณิตศาสตร์ วิทยาศาสตร์ พลศึกษา “and on Friday afternoons he also runs the school library” คำว่า also ชี้ว่างานห้องสมุดเป็นภาระเพิ่มเติม ผู้เขียนจึงยกมาเพื่อแสดงว่าครูคนหนึ่งต้องรับหน้าที่หลายอย่าง ไม่ได้ต้องการชมห้องสมุด (A)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the survey mentioned in paragraph 3, nearly one in three schools",
+     "options": [
+      "relied on temporary staff with no teaching qualification",
+      "had a class with no permanent teacher for over a term",
+      "reported a fall in their pupils' reading scores",
+      "had combined two or more classes into one"
+     ],
+     "answer": 1,
+     "explain": "¶3: “nearly one in three had at least one class without a permanent teacher for more than a term” จึงตอบ B ตัวเลือก A และ D เป็นผลกระทบทั่วไปที่ผู้เขียนเล่าในประโยคก่อนหน้า ไม่ใช่ผลของการสำรวจ ส่วน C เป็นงานวิจัยอีกเรื่องหนึ่งที่ไม่มีตัวเลขหนึ่งในสาม"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'disruption' in paragraph 3 is closest in meaning to",
+     "options": [
+      "interruption",
+      "punishment",
+      "improvement",
+      "overcrowding"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Such disruption has been linked to lower reading scores” คำว่า Such disruption หมายถึงการเรียนการสอนที่ถูกขัดจังหวะ เช่น ครูลาออกกลางปีหรือไม่มีครูประจำ จึงตรงกับ interruption ตัวเลือก D (overcrowding) ดูเข้ากับการรวมห้องเรียน แต่ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as an incentive for rural teachers?",
+     "options": [
+      "extra pay for working in remote areas",
+      "accommodation provided at no cost",
+      "quicker promotion to senior posts",
+      "repayment of their student loans"
+     ],
+     "answer": 2,
+     "explain": "¶4: “Some offer extra allowances for remote postings; others provide free housing or repay the student loans…” ครอบคลุมตัวเลือก A, B และ D แต่ไม่มีการกล่าวถึงการเลื่อนตำแหน่งที่เร็วขึ้น จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'they' in paragraph 5 refer to?",
+     "options": [
+      "the head teachers",
+      "the colleagues",
+      "the researchers",
+      "the teachers"
+     ],
+     "answer": 3,
+     "explain": "¶5: “Teachers interviewed for this article said that what they valued most was support” they หมายถึงครูที่ให้สัมภาษณ์ ส่วนครูใหญ่ (A) และเพื่อนร่วมงาน (B) เป็นสิ่งที่ครูเหล่านั้นให้คุณค่า ไม่ใช่ผู้พูด"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that Mr. Somchai",
+     "options": [
+      "is planning to move to a school in town",
+      "feels a strong duty toward his pupils",
+      "teaches in the village where he was born",
+      "was hired through the new local programme"
+     ],
+     "answer": 1,
+     "explain": "¶6: “If I go, who will teach these children?” แสดงว่าเขารู้สึกรับผิดชอบต่อนักเรียนจึงไม่คิดย้ายไปไหน ตัวเลือก C เป็นกับดัก เพราะเขาโตมา “two villages away” ไม่ใช่หมู่บ้านเดียวกับโรงเรียน ส่วน D ไม่มีหลักฐานว่าเขาเข้าโครงการรับครูท้องถิ่น"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "one teacher's story framing causes, effects and possible remedies",
+      "a list of government policies ranked from cheapest to most costly",
+      "a comparison between rural schools in Thailand and other countries",
+      "a sequence of events told in the order in which they took place"
+     ],
+     "answer": 0,
+     "explain": "บทความเปิดด้วยเรื่องของครูสมชาย (¶1) ตามด้วยสาเหตุ (¶2: “The causes are well known.”) ผลกระทบ (¶3) มาตรการแก้ไข (¶4–5) แล้วปิดด้วยเรื่องของเขาอีกครั้ง (¶6) จึงตอบ A ตัวเลือก C ผิดเพราะการกล่าวถึงประเทศอื่นใน ¶1 เป็นเพียงวลีสั้น ๆ ไม่ใช่การเปรียบเทียบ"
+    }
+   ]
+  },
+  {
+   "id": "T3P4",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Environment",
+   "title": "Roots Against the Tide",
+   "paragraphs": [
+    "For decades, Thailand's coastal mangrove forests were treated as wasteland. Large areas were cleared for shrimp farms, charcoal production and tourist resorts. Today attitudes have changed, and villagers, scientists and officials are working together to bring the forests back.",
+    "The most obvious reason is protection. The dense, tangled roots of mangrove trees slow down waves and trap mud, reducing coastal erosion and, in some cases, storm damage. After the 2004 Indian Ocean tsunami, several studies reported that villages behind healthy mangrove belts tended to suffer less than those on exposed shores, although scientists caution that no forest can stop the largest waves.",
+    "Mangroves are also remarkably good at storing carbon. Because the waterlogged soil beneath them contains little oxygen, dead leaves and roots decay very slowly, and carbon can remain locked in the mud for centuries. A hectare of mangrove may hold several times more carbon than a hectare of tropical forest on land. When the trees are cleared, much of this carbon escapes into the atmosphere.",
+    "A third benefit is less visible but matters greatly to coastal families. The shallow, sheltered water among the roots serves as a nursery for young fish, crabs and shrimp. Fishers in restored areas often report larger catches within a few years, although such claims are difficult to verify.",
+    "Restoration, however, is harder than it looks. Many early projects simply planted thousands of seedlings on open mudflats, where most of them were washed away or drowned by the tide. Experts now argue that the first step should be to restore the natural flow of water, for example by breaking down the walls of abandoned shrimp ponds, and then allow seeds from nearby trees to settle naturally.",
+    "Local involvement appears to be just as important. In one village in southern Thailand, residents have formed a committee that sets rules for cutting wood and organises patrols. “We used to think the forest belonged to no one,” said Mr. Preecha Thongdee, the committee's chairman. “Now we understand that it belongs to all of us.”",
+    "In my view, such community-led efforts offer the best hope for Thailand's coasts. Planting seedlings for a photograph is easy; keeping a forest alive for decades requires the commitment of the people who depend on it."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most of Thailand's mangroves were cleared to make room for shrimp farms.",
+      "Mangroves are valuable, but restoring them needs care and local support.",
+      "Mangrove forests can protect coastal villages from even the largest waves.",
+      "Fishers catch more fish after planting mangrove seedlings on mudflats."
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายประโยชน์ของป่าชายเลน (¶2–4) แล้วชี้ว่าการฟื้นฟู “is harder than it looks” (¶5) และต้องอาศัยชุมชน (¶6–7) จึงตอบ B ตัวเลือก C ขัดกับ ¶2 ที่ว่า “no forest can stop the largest waves” ส่วน A เป็นเพียงข้อมูลเบื้องหลังใน ¶1"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the 2004 Indian Ocean tsunami in paragraph 2?",
+     "options": [
+      "to explain why many mangroves were cleared",
+      "to show that mangroves can stop any wave",
+      "to describe how the tsunami destroyed fish nurseries",
+      "to give evidence of the protection mangroves offer"
+     ],
+     "answer": 3,
+     "explain": "¶2 เปิดด้วย “The most obvious reason is protection.” แล้วยกเหตุการณ์สึนามิที่ “villages behind healthy mangrove belts tended to suffer less” เป็นหลักฐานสนับสนุน จึงตอบ D ตัวเลือก B ผิดเพราะย่อหน้าเดียวกันเตือนว่าป่าไม่สามารถหยุดคลื่นยักษ์ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'caution' in paragraph 2 is closest in meaning to",
+     "options": [
+      "warn",
+      "deny",
+      "prove",
+      "hope"
+     ],
+     "answer": 0,
+     "explain": "¶2: “although scientists caution that no forest can stop the largest waves” นักวิทยาศาสตร์ 'เตือน' ไม่ให้คาดหวังเกินจริง จึงตรงกับ warn ตัวเลือก C (prove) ผิดเพราะประโยคนี้เป็นข้อควรระวัง ไม่ใช่การพิสูจน์ผลการศึกษา"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, why can carbon stay in mangrove soil for centuries?",
+     "options": [
+      "The trees grow very slowly in the salty water.",
+      "The tangled roots trap mud that is carried in by the waves.",
+      "There is little oxygen, so plant matter decays slowly.",
+      "Seawater carries the carbon deep under the ground."
+     ],
+     "answer": 2,
+     "explain": "¶3: “Because the waterlogged soil beneath them contains little oxygen, dead leaves and roots decay very slowly” ดินขาดออกซิเจนทำให้ซากพืชย่อยสลายช้า คาร์บอนจึงถูกกักไว้นาน ตัวเลือก B เป็นข้อมูลจริงจาก ¶2 แต่เป็นเรื่องการป้องกันการกัดเซาะ ไม่ใช่เหตุผลของการเก็บคาร์บอน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'verify' in paragraph 4 is closest in meaning to",
+     "options": [
+      "increase",
+      "confirm",
+      "explain",
+      "repeat"
+     ],
+     "answer": 1,
+     "explain": "¶4: “although such claims are difficult to verify” หมายถึงคำกล่าวของชาวประมงว่าจับปลาได้มากขึ้นนั้น 'ยืนยัน/ตรวจสอบ' ได้ยาก จึงตรงกับ confirm ตัวเลือก A (increase) เป็นกับดักเพราะประโยคก่อนหน้าพูดถึง larger catches"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a benefit of mangrove forests?",
+     "options": [
+      "reducing the erosion of coastlines",
+      "storing carbon for long periods",
+      "providing shelter for young sea creatures",
+      "attracting tourists to coastal resorts"
+     ],
+     "answer": 3,
+     "explain": "ประโยชน์ที่กล่าวถึงคือ ลดการกัดเซาะ (¶2), กักเก็บคาร์บอน (¶3) และเป็นแหล่งอนุบาลสัตว์น้ำวัยอ่อน (¶4: “serves as a nursery for young fish, crabs and shrimp”) ส่วนรีสอร์ตท่องเที่ยวใน ¶1 เป็นสาเหตุที่ป่าถูก 'ทำลาย' ไม่ใช่ประโยชน์ของป่า จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 5 refer to?",
+     "options": [
+      "the seedlings",
+      "the early projects",
+      "the mudflats",
+      "the experts"
+     ],
+     "answer": 0,
+     "explain": "¶5: “planted thousands of seedlings on open mudflats, where most of them were washed away or drowned by the tide” สิ่งที่ถูกน้ำพัดไปหรือจมน้ำคือต้นกล้า ตัวเลือก C ผิดเพราะ mudflats คือสถานที่ (where) ที่ต้นกล้าถูกปลูก ไม่ใช่สิ่งที่ถูกพัดหายไป"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that many early restoration projects failed because",
+     "options": [
+      "local people cut the young trees for firewood",
+      "there was not enough money to buy seedlings",
+      "the seedlings were put in unsuitable places",
+      "the shrimp pond walls were too difficult to remove"
+     ],
+     "answer": 2,
+     "explain": "¶5 เล่าว่าต้นกล้าที่ปลูกบน “open mudflats” ถูกน้ำพัดหรือจมน้ำ และผู้เชี่ยวชาญแนะให้ฟื้นการไหลของน้ำก่อน จึงอนุมานได้ว่าโครงการเหล่านั้นปลูกในที่ที่ไม่เหมาะสม ตัวเลือก A ผิดเพราะการตัดไม้ถูกกล่าวถึงใน ¶6 ในฐานะเรื่องที่คณะกรรมการควบคุม ไม่ใช่สาเหตุความล้มเหลว"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements expresses an opinion rather than a fact?",
+     "options": [
+      "Community efforts offer the best hope for the coast.",
+      "Many early projects planted seedlings on open mudflats.",
+      "Residents of one village have formed a forest committee.",
+      "Mangrove roots slow down waves and trap mud."
+     ],
+     "answer": 0,
+     "explain": "¶7: “In my view, such community-led efforts offer the best hope for Thailand's coasts.” วลี In my view และคำว่า best บ่งชี้ว่าเป็นความคิดเห็นของผู้เขียน ส่วน B, C และ D เป็นข้อเท็จจริงที่รายงานไว้ใน ¶5, ¶6 และ ¶2 ตามลำดับ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward community-led restoration can best be described as",
+     "options": [
+      "doubtful",
+      "indifferent",
+      "critical",
+      "supportive"
+     ],
+     "answer": 3,
+     "explain": "¶7: “keeping a forest alive for decades requires the commitment of the people who depend on it” ผู้เขียนเห็นว่าความร่วมมือของชุมชนเป็นหัวใจของความสำเร็จ ทัศนคติจึงเป็นการสนับสนุน (supportive) ตัวเลือก C ผิดเพราะสิ่งที่ผู้เขียนวิจารณ์คือการปลูกต้นกล้า “for a photograph” ไม่ใช่การฟื้นฟูโดยชุมชน"
+    }
+   ]
+  },
+  {
+   "id": "T3P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Health Literacy in Clinical Practice: Evidence and Implications",
+   "paragraphs": [
+    "When a doctor prescribes a new medicine, the consultation is usually regarded as complete once the prescription has been written. Yet the success of treatment depends heavily on what happens afterwards: whether the patient understands the instructions, remembers them and is able to act on them at home. The skills involved in this process are collectively known as health literacy. Broadly defined, the term refers to a person's capacity to find, understand, evaluate and use health information in order to make decisions about his or her own care. It therefore goes well beyond the ability to read. It also includes numeracy, the confidence to ask questions and the ability to navigate complex health systems, from booking appointments to understanding insurance forms.",
+    "Limited health literacy is far more common than most clinicians assume. Surveys in several countries have suggested that between a third and a half of adults have difficulty with everyday health tasks, such as working out the correct dose of a medicine for a child or interpreting the nutrition label on a packet of food. Older adults, people with long-term illnesses and those with fewer years of schooling are at particular risk. Health literacy, however, is not simply a matter of education. A university professor who has just received a frightening diagnosis may be unable to absorb information that he would normally understand with ease, because anxiety, pain and unfamiliar terminology all reduce comprehension.",
+    "The consequences of low health literacy are well documented. Compared with patients who have adequate skills, those with limited health literacy are less likely to take medicines as prescribed and less likely to attend screening programmes. They are admitted to hospital more often, make greater use of emergency services and, among older people, have higher death rates. Some of these associations may partly reflect poverty and the other disadvantages that frequently accompany low literacy. Even after such factors are taken into account, however, a link generally remains.",
+    "One reason the problem persists is that it is largely invisible. Patients who struggle with written information often develop strategies to conceal their difficulty: they may claim to have forgotten their glasses, ask to take forms home, or simply nod when a doctor asks whether everything is clear. Shame plays an important part. In a study at a regional hospital in north-eastern Thailand, researchers interviewed 150 patients with type 2 diabetes and found that more than 40 percent could not correctly explain how to take their main medicine, although nearly all of them had told their doctor that the instructions were easy to follow.",
+    "Because clinicians cannot reliably identify patients with low health literacy, experts increasingly recommend a “universal precautions” approach: communicating with every patient as though he or she might have difficulty understanding. The best-known technique of this kind is teach-back. At the end of an explanation, the clinician asks the patient to describe, in his or her own words, what has been agreed — for example, “I want to be sure I explained this clearly. Can you tell me how you will take this tablet?” If the answer is incomplete, the clinician explains the point again in a different way and checks once more. Crucially, the method is presented as a test of the clinician's explanation rather than of the patient's intelligence, which reduces embarrassment.",
+    "A second strategy is the use of plain language in both speech and writing. This involves replacing medical jargon with everyday words, such as “high blood pressure” instead of “hypertension”, keeping sentences short, and limiting each consultation to a small number of key messages. Written materials can be improved through larger print, generous white space and simple pictures. Such changes may appear minor, yet trials have shown that redesigned medicine labels and leaflets can noticeably improve how accurately patients follow instructions.",
+    "Some clinicians object that these techniques take time that busy clinics simply do not have. The available evidence suggests that the additional time is usually modest, often only a minute or two per consultation, and that it may be recovered later through fewer telephone calls, repeat visits and avoidable admissions. Others worry that simplified language may seem patronising to well-educated patients. In practice, few patients complain about information that is easy to understand; clarity tends to be appreciated by everyone, including doctors themselves when they become patients.",
+    "Health literacy, then, should not be regarded as a deficit that belongs only to patients. It is equally a property of health systems, which can be designed to be more or less understandable. Yet training in clear communication remains a minor part of many medical and nursing curricula. Making it a core clinical skill, alongside diagnosis and treatment, may be one of the least expensive ways of improving patient outcomes."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Many patients misunderstand health information, but better communication can help.",
+      "Patients with little schooling should be given simplified leaflets about their medicines.",
+      "Doctors in Thailand lack the time to explain medicines properly to their patients.",
+      "Health literacy depends mainly on how many years a person has spent in school."
+     ],
+     "answer": 0,
+     "explain": "บทความอธิบายว่าผู้ป่วยจำนวนมากมีความรอบรู้ด้านสุขภาพจำกัดและส่งผลเสีย (¶2–4) จากนั้นเสนอวิธีสื่อสาร เช่น teach-back และภาษาเข้าใจง่าย (¶5–6) จึงตอบ A ตัวเลือก D ขัดกับ ¶2: “Health literacy, however, is not simply a matter of education.” ส่วน B แคบเกินไปเพราะเอกสารที่ปรับปรุงแล้วเป็นเพียงส่วนหนึ่งของ ¶6"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'navigate' in paragraph 1 is closest in meaning to",
+     "options": [
+      "improve",
+      "criticise",
+      "deal with",
+      "avoid"
+     ],
+     "answer": 2,
+     "explain": "¶1: “the ability to navigate complex health systems, from booking appointments to understanding insurance forms” ตัวอย่างการนัดหมายและเข้าใจแบบฟอร์มแสดงว่า navigate หมายถึงการรับมือ/ใช้งานระบบที่ซับซ้อนได้ จึงตรงกับ deal with ตัวเลือก A (improve) ผิดเพราะผู้ป่วยไม่ได้มีหน้าที่ปรับปรุงระบบสุขภาพ"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as part of health literacy?",
+     "options": [
+      "evaluating health information",
+      "the confidence to ask questions",
+      "booking appointments and reading forms",
+      "knowing how medicines are developed"
+     ],
+     "answer": 3,
+     "explain": "¶1 นิยามว่าเป็นความสามารถ “to find, understand, evaluate and use health information” และ “also includes numeracy, the confidence to ask questions and the ability to navigate complex health systems, from booking appointments to understanding insurance forms” ครอบคลุม A, B และ C แต่ไม่มีการพูดถึงความรู้เรื่องการพัฒนายา จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention a university professor in paragraph 2?",
+     "options": [
+      "to show that anxiety is common among university staff",
+      "to show that well-educated patients may also struggle",
+      "to give an example of a patient with a long-term illness",
+      "to argue that education has no effect on health literacy"
+     ],
+     "answer": 1,
+     "explain": "ตัวอย่างศาสตราจารย์ตามหลังประโยค ¶2: “Health literacy, however, is not simply a matter of education.” เพื่อแสดงว่าแม้คนการศึกษาสูงก็อาจไม่เข้าใจข้อมูลสุขภาพเมื่อวิตกกังวล จึงตอบ B ตัวเลือก D กล่าวเกินไป เพราะผู้เขียนยอมรับว่าผู้ที่เรียนน้อยมีความเสี่ยงสูงกว่า ไม่ได้บอกว่าการศึกษาไม่มีผลเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that the author believes",
+     "options": [
+      "poverty is the only cause of poor outcomes among such patients",
+      "screening programmes are of little value to most patients",
+      "low health literacy itself contributes to poorer health",
+      "older patients have higher health literacy than younger ones"
+     ],
+     "answer": 2,
+     "explain": "¶3: “Even after such factors are taken into account, however, a link generally remains.” เมื่อตัดผลของความยากจนออกแล้วความสัมพันธ์ยังคงอยู่ จึงอนุมานได้ว่าความรอบรู้ด้านสุขภาพต่ำเองมีส่วนทำให้สุขภาพแย่ลง ตัวเลือก A ขัดกับประโยคนี้โดยตรง เพราะความยากจนอธิบายได้เพียง “partly”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the study described in paragraph 4, more than 40 percent of the patients",
+     "options": [
+      "could not explain how to take their main medicine",
+      "had forgotten to bring their glasses to the clinic",
+      "told their doctor that the instructions were unclear",
+      "were unable to read the labels on their medicines"
+     ],
+     "answer": 0,
+     "explain": "¶4: “more than 40 percent could not correctly explain how to take their main medicine” จึงตอบ A ตัวเลือก C ตรงข้ามกับข้อความ เพราะเกือบทุกคนบอกแพทย์ว่าคำแนะนำ “easy to follow” ส่วน B เป็นข้ออ้างที่ผู้ป่วยทั่วไปใช้ ไม่ใช่ผลของการศึกษา"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 4 refer to?",
+     "options": [
+      "the researchers",
+      "the doctors",
+      "the instructions",
+      "the patients"
+     ],
+     "answer": 3,
+     "explain": "¶4: “researchers interviewed 150 patients… although nearly all of them had told their doctor that the instructions were easy to follow” ผู้ที่บอกแพทย์ว่าเข้าใจคือผู้ป่วยเบาหวาน 150 คน ไม่ใช่นักวิจัย (A) ซึ่งเป็นผู้สัมภาษณ์"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that asking patients whether they have understood",
+     "options": [
+      "is the most reliable way to identify low health literacy",
+      "often fails to reveal what patients really understand",
+      "makes most patients unwilling to return to the clinic",
+      "should only be done by specially trained nurses"
+     ],
+     "answer": 1,
+     "explain": "¶4 ระบุว่าผู้ป่วยมัก “simply nod when a doctor asks whether everything is clear” และในงานวิจัยเกือบทุกคนบอกว่าเข้าใจ ทั้งที่กว่า 40% อธิบายวิธีกินยาไม่ถูก จึงอนุมานได้ว่าการถามว่า 'เข้าใจไหม' ไม่สะท้อนความเข้าใจจริง ตัวเลือก C ผิดเพราะบทความไม่ได้กล่าวว่าการถามคำถามนี้ทำให้ผู้ป่วยไม่กลับมาที่คลินิก"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'This' in paragraph 6 refer to?",
+     "options": [
+      "the use of plain language",
+      "a method for checking understanding",
+      "medical jargon",
+      "a small number of key messages"
+     ],
+     "answer": 0,
+     "explain": "¶6: “A second strategy is the use of plain language in both speech and writing. This involves replacing medical jargon with everyday words” This ชี้กลับไปที่การใช้ภาษาเข้าใจง่ายในประโยคก่อนหน้า ตัวเลือก C ผิดเพราะศัพท์แพทย์คือสิ่งที่ 'ถูกแทนที่' ไม่ใช่สิ่งที่ This หมายถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'patronising' in paragraph 7 is closest in meaning to",
+     "options": [
+      "confusing",
+      "time-consuming",
+      "condescending",
+      "inaccurate"
+     ],
+     "answer": 2,
+     "explain": "¶7: “Others worry that simplified language may seem patronising to well-educated patients.” ผู้ป่วยที่มีการศึกษาสูงอาจรู้สึกว่าถูกพูดด้วยราวกับเป็นคนไม่ฉลาด patronising จึงตรงกับ condescending (ดูแคลน/พูดจาแบบเหนือกว่า) ตัวเลือก B (time-consuming) เป็นข้อกังวลอีกข้อหนึ่งในประโยคแรกของย่อหน้า ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is paragraph 7 organised?",
+     "options": [
+      "A problem is described and then its causes are listed.",
+      "Two methods are compared and the better one is chosen.",
+      "A study is described and its limitations are explained.",
+      "Two objections are raised and each is then answered."
+     ],
+     "answer": 3,
+     "explain": "¶7 เสนอข้อคัดค้านสองข้อ คือเรื่องเวลา (“Some clinicians object…”) และเรื่องการดูแคลนผู้ป่วย (“Others worry…”) แล้วตอบโต้แต่ละข้อด้วยหลักฐานและประสบการณ์จริง จึงตอบ D ตัวเลือก B ผิดเพราะย่อหน้านี้ไม่ได้เปรียบเทียบวิธีการสองแบบ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward training clinicians in clear communication can best be described as",
+     "options": [
+      "doubtful",
+      "supportive",
+      "indifferent",
+      "critical"
+     ],
+     "answer": 1,
+     "explain": "¶8: “Making it a core clinical skill… may be one of the least expensive ways of improving patient outcomes.” ผู้เขียนเสนอให้การฝึกสื่อสารเป็นทักษะหลัก จึงมีท่าทีสนับสนุน ตัวเลือก D เป็นกับดัก เพราะผู้เขียนวิจารณ์ที่หลักสูตรยังให้ความสำคัญน้อย (“remains a minor part”) ไม่ได้วิจารณ์ตัวการฝึกอบรม"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from reading, which skill involving numbers does the author include in health literacy? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "numeracy"
+     ],
+     "explain": "¶1: “It also includes numeracy, the confidence to ask questions…” numeracy คือทักษะการใช้ตัวเลข เช่น การคำนวณขนาดยาสำหรับเด็กที่ยกตัวอย่างไว้ใน ¶2"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 4, which feeling plays an important part in patients hiding their difficulties? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "shame"
+     ],
+     "explain": "¶4: “Shame plays an important part.” ประโยคนี้ตามหลังตัวอย่างวิธีปกปิด เช่น อ้างว่าลืมแว่นตา จึงบอกว่าความอายเป็นสาเหตุสำคัญที่ผู้ป่วยไม่ยอมรับว่าไม่เข้าใจ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the approach of communicating with every patient as though he or she might have difficulty understanding? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "universal precautions",
+      "universal precaution"
+     ],
+     "explain": "¶5: “experts increasingly recommend a “universal precautions” approach: communicating with every patient as though he or she might have difficulty understanding” คำตอบคือ universal precautions คือการปฏิบัติกับผู้ป่วยทุกคนเหมือนอาจมีปัญหาความเข้าใจ เพราะแยกไม่ออกว่าใครมีปัญหา"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the best-known technique in which patients describe in their own words what has been agreed? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "teach-back",
+      "teach back",
+      "teachback"
+     ],
+     "explain": "¶5: “The best-known technique of this kind is teach-back.” จากนั้นอธิบายว่าแพทย์ให้ผู้ป่วยเล่ากลับ “in his or her own words” สิ่งที่ตกลงกันไว้ คำตอบจึงเป็น teach-back"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which everyday phrase does the author suggest using instead of 'hypertension'? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "high blood pressure"
+     ],
+     "explain": "¶6: “such as “high blood pressure” instead of “hypertension”” เป็นตัวอย่างการแทนที่ศัพท์แพทย์ด้วยคำในชีวิตประจำวันตามหลักภาษาเข้าใจง่าย (plain language)"
+    }
+   ]
+  },
+  {
+   "id": "T3P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Society",
+   "title": "Automation and the Future of Work: Evidence, Uncertainty and Policy",
+   "paragraphs": [
+    "Few economic questions provoke as much anxiety as the effect of automation on employment. Each new wave of technology, from the mechanical loom to the industrial robot, has been accompanied by warnings that machines would leave large numbers of people permanently without work. The recent arrival of artificial intelligence systems that can write text, analyse images and hold conversations has revived these fears, partly because, for the first time, the technology appears to threaten professional and office jobs as well as manual ones.",
+    "Economists generally find it more useful to think about tasks than about whole occupations. Most jobs consist of many different tasks, and only some of these can be performed by machines. Historically, the tasks most easily automated have been routine ones that follow clear and predictable rules, such as assembling identical parts on a production line, sorting mail or entering figures into a spreadsheet. By contrast, tasks that demand physical flexibility in unpredictable settings, social understanding or creativity have proved much harder to automate. A robot can weld a car door with near-perfect accuracy, yet it still struggles to tidy an unfamiliar room or to comfort a frightened patient.",
+    "This distinction helps to explain why forecasts of job losses have varied so widely. One widely discussed early study, which assessed whole occupations, concluded that almost half of all jobs in the United States faced a high risk of automation within one or two decades. Later research that examined the individual tasks within each job produced far lower estimates, typically suggesting that around one job in ten was at high risk, although a much larger share would see some of their tasks change significantly. Generative AI has complicated the picture further, since it can carry out non-routine work such as drafting reports or writing computer code.",
+    "Historical evidence suggests that automation more often transforms jobs than eliminates them. When automated teller machines spread across American banks in the 1980s and 1990s, many observers expected the number of human bank tellers to collapse. Instead, because each branch now needed fewer staff, banks found it cheaper to open new branches, and teller employment remained broadly stable for many years. The nature of the work changed, however: tellers spent less time counting cash and more time advising customers and selling financial products. Technology also creates entirely new occupations. Many of today's common job titles, from software developer to social media manager, would have meant nothing to workers fifty years ago.",
+    "None of this means that the transition is painless. The gains from automation tend to be unevenly distributed. In many advanced economies, employment has grown in well-paid professional jobs and in low-paid service jobs, while middle-skill jobs in factories and offices have declined, a pattern known as job polarisation. Workers who lose such jobs frequently find new employment only at lower wages, and older workers in particular may never fully recover their previous earnings. Moreover, new jobs are often created in different places from those where old ones disappear, leaving some industrial regions in long-term decline.",
+    "For these reasons, most researchers argue that the central policy challenge is not to stop automation but to help workers move between tasks and jobs. Reskilling, which means training workers for substantially different roles, is the most frequently proposed response. Singapore, for example, gives adult citizens credits that can be spent on approved training courses, while Denmark combines relatively easy hiring and firing with generous unemployment benefits and active help in finding new work. Such programmes are not cheap, and their results vary. Training appears to work best when it is closely linked to jobs that employers actually need to fill, and when workers receive income support while they learn.",
+    "Other proposals are more controversial. Some commentators have suggested a tax on robots, both to slow the pace of automation and to fund support for displaced workers. Critics reply that a robot would be hard to define for tax purposes and that such a tax could discourage investment that raises productivity. A universal basic income, a regular payment to every citizen regardless of employment, has also been proposed. Small trials in several countries have produced mixed results, and the cost of a national scheme would be very high.",
+    "The future of work, then, will be shaped less by technology itself than by the choices societies make in response to it. Automation will probably continue to raise productivity and to create new kinds of employment, but whether its benefits are widely shared depends on education systems, labour-market institutions and public policy. In my view, the greater danger is not that machines will take all the jobs, but that governments will act too slowly to support the people whose jobs change."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Artificial intelligence will soon replace most professional and office workers.",
+      "Robots now outperform humans at repetitive work but not at creative work.",
+      "Retraining schemes in Singapore and Denmark have ended unemployment there.",
+      "Automation changes work more than it destroys it, but workers need support."
+     ],
+     "answer": 3,
+     "explain": "บทความชี้ว่า “automation more often transforms jobs than eliminates them” (¶4) แต่การเปลี่ยนผ่านสร้างความเดือดร้อน (¶5) จึงต้องมีนโยบายช่วยแรงงาน (¶6–8) ตัวเลือก D จึงครอบคลุมที่สุด ตัวเลือก B เป็นเพียงเนื้อหาของ ¶2 ส่วน A ขัดกับ ¶8 ที่ว่าอันตรายไม่ใช่การที่เครื่องจักรจะแย่งงานทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, why do many people find recent artificial intelligence especially worrying?",
+     "options": [
+      "It has already caused large numbers of people to lose their jobs.",
+      "It seems to threaten office jobs, not only manual ones.",
+      "It costs less than the industrial robots used in factories.",
+      "It was developed much more quickly than earlier technologies."
+     ],
+     "answer": 1,
+     "explain": "¶1: “for the first time, the technology appears to threaten professional and office jobs as well as manual ones” จึงตอบ B ตัวเลือก A ผิดเพราะบทความพูดถึง 'ความกลัว' ว่าจะตกงาน ไม่ได้บอกว่ามีคนตกงานจำนวนมากแล้ว ส่วน C และ D ไม่มีกล่าวไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'revived' in paragraph 1 is closest in meaning to",
+     "options": [
+      "brought back",
+      "calmed",
+      "caused for the first time",
+      "proved wrong"
+     ],
+     "answer": 0,
+     "explain": "¶1: AI “has revived these fears” โดย these fears คือคำเตือนที่มีมาตั้งแต่ยุคเครื่องทอผ้าและหุ่นยนต์อุตสาหกรรม revived จึงหมายถึงทำให้กลับมาอีกครั้ง (brought back) ตัวเลือก C เป็นกับดัก เพราะความกลัวนี้มีอยู่ก่อนแล้ว ไม่ได้เกิดขึ้นเป็นครั้งแรก"
+    },
+    {
+     "type": "mc",
+     "skill": "topic",
+     "q": "What is paragraph 2 mainly about?",
+     "options": [
+      "the history of robots in car factories",
+      "why office workers are afraid of losing their jobs",
+      "which tasks are easy or hard to automate",
+      "how forecasts of job losses are made"
+     ],
+     "answer": 2,
+     "explain": "¶2 เปรียบเทียบงาน routine ที่ “most easily automated” กับงานที่ต้องใช้ความยืดหยุ่น ความเข้าใจทางสังคม หรือความคิดสร้างสรรค์ซึ่ง “much harder to automate” จึงตอบ C ตัวเลือก A ผิดเพราะการเชื่อมประตูรถเป็นเพียงตัวอย่างประกอบ ส่วน D เป็นหัวข้อของ ¶3"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'it' in paragraph 3 refer to?",
+     "options": [
+      "this distinction",
+      "generative AI",
+      "the picture",
+      "computer code"
+     ],
+     "answer": 1,
+     "explain": "¶3: “Generative AI has complicated the picture further, since it can carry out non-routine work such as drafting reports or writing computer code.” สิ่งที่ร่างรายงานและเขียนโค้ดได้คือ generative AI ตัวเลือก C ผิดเพราะ the picture (ภาพรวมของการคาดการณ์) ไม่สามารถทำงานใด ๆ ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that the early study produced a higher estimate mainly because it",
+     "options": [
+      "focused only on jobs in factories",
+      "was carried out before computers were common",
+      "included the effects of generative AI",
+      "did not examine the tasks within each job"
+     ],
+     "answer": 3,
+     "explain": "¶3 ระบุว่างานศึกษาแรก “assessed whole occupations” ส่วนงานวิจัยภายหลังที่ “examined the individual tasks within each job” ได้ตัวเลขต่ำกว่ามาก จึงอนุมานได้ว่าตัวเลขสูงเพราะไม่ได้แยกพิจารณางานย่อย ตัวเลือก C ผิดเพราะ generative AI ถูกกล่าวถึงว่าเป็นปัจจัยที่เข้ามาภายหลัง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention automated teller machines in paragraph 4?",
+     "options": [
+      "to show that a job can change without disappearing",
+      "to explain why banks closed so many of their branches",
+      "to argue that bank tellers were paid too little",
+      "to give an example of a job created by technology"
+     ],
+     "answer": 0,
+     "explain": "ตัวอย่างตู้ ATM สนับสนุนประโยคแรกของ ¶4 ว่า “automation more often transforms jobs than eliminates them” พนักงานธนาคารไม่ได้หายไป แต่ลักษณะงานเปลี่ยน จึงตอบ A ตัวเลือก B ตรงข้ามกับข้อความที่ว่าธนาคาร “open new branches” ส่วน D หมายถึงอาชีพใหม่ซึ่งเป็นอีกประเด็นในตอนท้ายย่อหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a problem linked to automation?",
+     "options": [
+      "lower wages for workers who find new jobs",
+      "older workers never regaining their past earnings",
+      "longer hours for workers who keep their jobs",
+      "the long-term decline of some industrial regions"
+     ],
+     "answer": 2,
+     "explain": "¶5 กล่าวถึงค่าจ้างที่ต่ำลง (“only at lower wages”), แรงงานสูงวัยที่ “may never fully recover their previous earnings” และภูมิภาคอุตสาหกรรมที่ “in long-term decline” แต่ไม่ได้พูดถึงชั่วโมงทำงานที่ยาวขึ้นเลย จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, training appears to work best when",
+     "options": [
+      "it is paid for entirely by the workers themselves",
+      "it is linked to jobs that employers need to fill",
+      "it replaces unemployment benefits completely",
+      "it is offered only to younger workers"
+     ],
+     "answer": 1,
+     "explain": "¶6: “Training appears to work best when it is closely linked to jobs that employers actually need to fill, and when workers receive income support while they learn.” จึงตอบ B ตัวเลือก C ขัดกับเงื่อนไขข้อที่สองที่ว่าผู้เรียนควรได้รับการสนับสนุนด้านรายได้ ไม่ใช่ตัดสวัสดิการออก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'displaced' in paragraph 7 is closest in meaning to",
+     "options": [
+      "retired",
+      "relocated",
+      "skilled",
+      "jobless"
+     ],
+     "answer": 3,
+     "explain": "¶7: “to fund support for displaced workers” ในบริบทของภาษีหุ่นยนต์ displaced workers คือแรงงานที่ถูกเครื่องจักรแทนที่จนตกงาน จึงตรงกับ jobless ตัวเลือก B (relocated) เป็นกับดัก เพราะ displaced ในบริบทอื่นอาจหมายถึงการถูกย้ายออกจากที่อยู่ แต่ที่นี่ไม่ได้พูดถึงการย้ายถิ่น"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 7 that the author regards the two proposals discussed there as",
+     "options": [
+      "ideas with serious practical problems",
+      "the policies most economists now support",
+      "cheaper alternatives to reskilling",
+      "proven ways of reducing unemployment"
+     ],
+     "answer": 0,
+     "explain": "¶7 เปิดด้วย “Other proposals are more controversial.” แล้วชี้ปัญหาของทั้งสองแนวคิด เช่น นิยามหุ่นยนต์ได้ยาก และ “the cost of a national scheme would be very high” จึงอนุมานได้ว่าผู้เขียนมองว่ามีอุปสรรคในทางปฏิบัติมาก ตัวเลือก D ผิดเพราะการทดลองให้ผล “mixed results”"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following is an opinion rather than a fact?",
+     "options": [
+      "Automated teller machines spread across American banks in the 1980s.",
+      "Singapore gives adult citizens credits for approved training courses.",
+      "The greater danger is that governments will act too slowly.",
+      "Small trials of regular unconditional payments have produced mixed results."
+     ],
+     "answer": 2,
+     "explain": "¶8: “In my view, the greater danger is not that machines will take all the jobs, but that governments will act too slowly…” วลี In my view แสดงว่าเป็นความเห็นของผู้เขียน ส่วน A, B และ D เป็นข้อเท็จจริงที่ตรวจสอบได้จาก ¶4, ¶6 และ ¶7"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In paragraph 2, which word describes tasks such as sorting mail or entering figures into a spreadsheet? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "routine",
+      "routine tasks",
+      "routine ones"
+     ],
+     "explain": "¶2: “the tasks most easily automated have been routine ones that follow clear and predictable rules, such as assembling identical parts on a production line, sorting mail or entering figures into a spreadsheet” คำตอบคือ routine (งานที่ทำซ้ำตามกฎชัดเจน) ซึ่งเป็นงานที่เครื่องจักรทำแทนได้ง่ายที่สุด"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from selling financial products, what did bank tellers spend more time doing after cash machines spread? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "advising customers",
+      "advising the customers"
+     ],
+     "explain": "¶4: “tellers spent less time counting cash and more time advising customers and selling financial products” คำตอบคือ advising customers ส่วน counting cash เป็นงานที่ 'ลดลง' จึงไม่ใช่คำตอบ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the pattern in which middle-skill jobs decline while well-paid and low-paid jobs grow? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "job polarisation",
+      "job polarization",
+      "polarisation",
+      "polarization"
+     ],
+     "explain": "¶5: “while middle-skill jobs in factories and offices have declined, a pattern known as job polarisation” คำตอบคือ job polarisation หมายถึงตลาดแรงงานที่แยกเป็นสองขั้ว คืองานรายได้สูงและงานรายได้ต่ำ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which term does the author use for training workers for substantially different roles? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "reskilling"
+     ],
+     "explain": "¶6: “Reskilling, which means training workers for substantially different roles, is the most frequently proposed response.” คำตอบคือ reskilling ซึ่งต่างจากการฝึกเพิ่มทักษะในงานเดิม"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the name of the proposed regular payment to every citizen regardless of employment? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "universal basic income",
+      "a universal basic income",
+      "basic income"
+     ],
+     "explain": "¶7: “A universal basic income, a regular payment to every citizen regardless of employment, has also been proposed.” คำตอบคือ universal basic income (รายได้พื้นฐานถ้วนหน้า) ไม่ใช่ robot tax ซึ่งเป็นข้อเสนออีกข้อในย่อหน้าเดียวกัน"
+    }
+   ]
+  }
+ ]
+}

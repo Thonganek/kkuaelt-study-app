@@ -1,0 +1,978 @@
+{
+ "id": "T2",
+ "day": 11,
+ "title": "Reading Test 2",
+ "passages": [
+  {
+   "id": "T2P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Medicine",
+   "title": "Provincial Hospital Turns to Robot Pharmacy to Cut Queues and Errors",
+   "paragraphs": [
+    "Patients collecting medicines at a 600-bed provincial hospital in north-eastern Thailand are spending far less time in the queue since an automated dispensing system was switched on last month. The machine, which staff have nicknamed the “robot pharmacy”, picks, counts and labels medicines from a stock of more than 1,000 items.",
+    "According to figures released by the hospital, outpatients previously waited an average of 55 minutes after seeing a doctor before receiving their prescriptions. In the first four weeks of operation, this fell to 18 minutes.",
+    "Speed, however, was not the main goal. Pharmacy director Dr. Anucha Promsiri said the project was driven by safety. “When staff are filling hundreds of prescriptions an hour by hand, small mistakes are almost inevitable,” he explained. The robot scans a barcode on every package and rejects any item that does not match the doctor's order.",
+    "Hospital records show that dispensing errors caught before medicines reached patients fell from about 14 per 10,000 prescriptions to fewer than two.",
+    "Pharmacists have not been replaced. Instead, they now spend more time at a counselling desk, explaining doses and checking for possible drug interactions, particularly among elderly patients taking several medicines at once.",
+    "The system cost around 25 million baht, money that some critics argue would have been better spent on hiring more staff. Hospital managers, however, expect the investment to pay for itself within seven years through reduced waste and fewer errors."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "A provincial hospital has replaced all of its pharmacists with a dispensing robot.",
+      "An automated system has made a hospital's dispensing faster and more accurate.",
+      "Critics argue that a hospital has spent too much money on new equipment.",
+      "Elderly patients need more advice about the different medicines they take."
+     ],
+     "answer": 1,
+     "explain": "บทความเล่าว่าระบบจ่ายยาอัตโนมัติทำให้ทั้งเร็วขึ้น (¶2 เวลารอลดเหลือ 18 นาที) และปลอดภัยขึ้น (¶4 ความคลาดเคลื่อนลดจาก 14 เหลือไม่ถึง 2 ต่อ 10,000 ใบสั่งยา) จึงตอบ B ตัวเลือก A ขัดกับ ¶5 ที่ว่า “Pharmacists have not been replaced.” ส่วน C และ D เป็นเพียงรายละเอียดย่อยใน ¶5–6"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, by about how many minutes did the average waiting time fall?",
+     "options": [
+      "18 minutes",
+      "25 minutes",
+      "37 minutes",
+      "55 minutes"
+     ],
+     "answer": 2,
+     "explain": "¶2 บอกว่าเดิมรอเฉลี่ย 55 นาที และ “this fell to 18 minutes” ดังนั้นเวลารอ 'ลดลง' 55 − 18 = 37 นาที ตัวเลือก A และ D เป็นกับดักเพราะเป็นตัวเลขที่ปรากฏในย่อหน้าแต่ไม่ใช่ปริมาณที่ลดลง ส่วน 25 มาจากราคา 25 ล้านบาทใน ¶6"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'inevitable' in paragraph 3 is closest in meaning to",
+     "options": [
+      "impossible to avoid",
+      "easy to correct",
+      "unlikely to be noticed",
+      "rarely serious"
+     ],
+     "answer": 0,
+     "explain": "¶3: “small mistakes are almost inevitable” — เมื่อต้องจ่ายยาด้วยมือหลายร้อยใบต่อชั่วโมง ความผิดพลาดเล็ก ๆ ย่อม 'เลี่ยงไม่ได้' ซึ่งเป็นเหตุผลที่โรงพยาบาลนำหุ่นยนต์มาใช้ ตัวเลือก C ฟังดูเข้ากับคำว่า small mistakes แต่ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the passage, what happens when an item does not match the doctor's order?",
+     "options": [
+      "A pharmacist corrects the label by hand.",
+      "The doctor is asked to write a new prescription.",
+      "The machine refuses to dispense the item.",
+      "The item is sent back to the supplier."
+     ],
+     "answer": 2,
+     "explain": "¶3: “The robot scans a barcode on every package and rejects any item that does not match the doctor's order.” คำว่า rejects หมายถึงเครื่องไม่ยอมจ่ายรายการนั้น ตัวเลือก A, B และ D ไม่มีกล่าวไว้ในบทความเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT described as a task performed by the robot pharmacy?",
+     "options": [
+      "picking the right medicines from its stock",
+      "labelling the medicines it dispenses",
+      "scanning a barcode on each package",
+      "checking for possible drug interactions"
+     ],
+     "answer": 3,
+     "explain": "งานของเครื่องอยู่ใน ¶1 “picks, counts and labels medicines” และ ¶3 “scans a barcode on every package” ส่วนการตรวจปฏิกิริยาระหว่างยาเป็นงานของเภสัชกรที่โต๊ะให้คำปรึกษาใน ¶5 จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'they' in paragraph 5 refer to?",
+     "options": [
+      "elderly patients",
+      "hospital managers",
+      "doctors",
+      "pharmacists"
+     ],
+     "answer": 3,
+     "explain": "¶5: “Pharmacists have not been replaced. Instead, they now spend more time at a counselling desk” — they อ้างถึง pharmacists ในประโยคก่อนหน้า ตัวเลือก A ผิดเพราะผู้ป่วยสูงอายุเป็นผู้ 'รับ' คำปรึกษา ไม่ใช่ผู้ประจำโต๊ะให้คำปรึกษา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that before the robot was introduced, pharmacists",
+     "options": [
+      "had less time to give patients advice",
+      "made more mistakes than doctors and nurses did",
+      "were unwilling to work with new technology",
+      "served very few elderly patients on a typical day"
+     ],
+     "answer": 0,
+     "explain": "¶5: “they now spend more time at a counselling desk” — คำว่า now ... more time บอกเป็นนัยว่าก่อนมีหุ่นยนต์ เภสัชกรมีเวลาให้คำปรึกษาผู้ป่วยน้อยกว่านี้ ตัวเลือก B และ C ไม่มีหลักฐานในบทความ เพราะไม่ได้เปรียบเทียบกับแพทย์หรือพูดถึงทัศนคติต่อเทคโนโลยี"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the cost of 25 million baht in paragraph 6?",
+     "options": [
+      "To show that the system has already paid for itself",
+      "To present a criticism and the hospital's reply to it",
+      "To compare the robot with systems at other hospitals",
+      "To explain why several pharmacists have lost their jobs"
+     ],
+     "answer": 1,
+     "explain": "¶6 ระบุว่ามีผู้วิจารณ์ว่า “would have been better spent on hiring more staff” แล้วตามด้วยมุมมองของผู้บริหารว่าจะคืนทุนใน 7 ปี จึงเป็นการเสนอข้อวิจารณ์และคำตอบของโรงพยาบาล ตัวเลือก A ผิดเพราะผู้บริหารเพียง 'expect' ว่าจะคืนทุนในอนาคต ยังไม่ได้คืนทุนแล้ว"
+    }
+   ]
+  },
+  {
+   "id": "T2P2",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Environment",
+   "title": "Banking on Bottles in Rural Thailand",
+   "paragraphs": [
+    "Every second Saturday, an open hall beside a village temple in Khon Kaen province begins to resemble a bank branch. Residents arrive with sacks of plastic bottles, aluminium cans, cardboard and newspapers. Volunteers weigh each load and record its value in a small passbook, and each depositor leaves with a slightly larger balance.",
+    "Such garbage banks have spread across rural Thailand over the past two decades. The idea is simple: rather than burning waste or dumping it by the roadside, households separate recyclable items and “deposit” them. The bank then sells the materials in bulk to dealers, who pay more for large, sorted quantities than any single family could obtain.",
+    "For many members, the main appeal is financial. Bua Sriwong, a 58-year-old rice farmer, says she saved nearly 3,000 baht last year and spent the money on her grandson's school fees. Some banks go further, offering members low-interest loans or a small funeral fund financed by profits.",
+    "The environmental gains are harder to measure but are visible nonetheless. Village leaders report cleaner streets and fewer blocked drains during the rainy season, and open burning, a major source of local air pollution, has become less common.",
+    "Yet the model has limits. Prices for recyclables rise and fall with global demand, and when they collapse, enthusiasm can quickly fade. Moreover, garbage banks accept only materials that someone is willing to buy; food waste and thin plastic bags, which make up a large share of household rubbish, are usually left out.",
+    "Even so, it would be a mistake to judge these banks only by the kilograms they collect. Perhaps their greatest achievement is changing how people see waste: not as something to throw away, but as a resource worth keeping."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Global Recycling Prices Collapse in Rural Thailand",
+      "How Village Temples Are Fighting Air Pollution",
+      "Cheap Loans Help Thai Farmers Pay School Fees",
+      "Village Banks Turn Household Rubbish into Savings"
+     ],
+     "answer": 3,
+     "explain": "ทั้งบทความพูดถึงธนาคารขยะในหมู่บ้านที่เปลี่ยนขยะรีไซเคิลเป็นเงินออม (¶2: households separate recyclable items and “deposit” them) จึงตอบ D ตัวเลือก A, B, C หยิบรายละเอียดเล็ก ๆ จาก ¶3–5 มาตั้งเป็นหัวเรื่อง ซึ่งแคบเกินไป และ A ยังบิดข้อความ เพราะบทความแค่บอกว่าราคา 'อาจ' ตก"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, why can garbage banks obtain better prices than individual households?",
+     "options": [
+      "They sell large amounts of materials that are already sorted.",
+      "They receive regular financial support from the local temples.",
+      "They collect only aluminium, the most valuable material.",
+      "They deliver their materials directly to overseas factories."
+     ],
+     "answer": 0,
+     "explain": "¶2: dealers “pay more for large, sorted quantities than any single family could obtain” คือได้ราคาดีกว่าเพราะขายจำนวนมากและคัดแยกแล้ว ตัวเลือก B เป็นกับดักเพราะ ¶1 พูดถึงศาลาข้างวัด แต่ไม่ได้บอกว่าวัดให้เงินสนับสนุน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'appeal' in paragraph 3 is closest in meaning to",
+     "options": [
+      "a formal request for help",
+      "a quality that attracts people",
+      "a legal challenge to a decision",
+      "a reason to make a complaint"
+     ],
+     "answer": 1,
+     "explain": "¶3: “For many members, the main appeal is financial.” แล้วยกตัวอย่างเงินออมของคุณบัว แสดงว่า appeal ในที่นี้คือ 'สิ่งที่ดึงดูดใจ' ให้คนมาเป็นสมาชิก ตัวเลือก A และ C เป็นความหมายอื่นของ appeal (การร้องขอ / การอุทธรณ์) ที่ไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a benefit of garbage banks?",
+     "options": [
+      "cleaner village streets",
+      "fewer blocked drains",
+      "new jobs for young villagers",
+      "less open burning of household waste"
+     ],
+     "answer": 2,
+     "explain": "¶4 กล่าวถึง “cleaner streets and fewer blocked drains” และบอกว่า open burning “has become less common” แต่ไม่มีตรงไหนพูดถึงการสร้างงานให้คนหนุ่มสาว จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'they' in paragraph 5 refer to?",
+     "options": [
+      "global demand",
+      "prices for recyclables",
+      "garbage banks",
+      "members of each household"
+     ],
+     "answer": 1,
+     "explain": "¶5: “Prices for recyclables rise and fall with global demand, and when they collapse, enthusiasm can quickly fade.” สิ่งที่ “ร่วงลง” แล้วทำให้ความกระตือรือร้นหายไปคือราคาของวัสดุรีไซเคิล (they เป็นพหูพจน์ ตรงกับ prices) ตัวเลือก A (global demand) อยู่ใกล้ที่สุดจึงล่อใจ แต่เป็นเอกพจน์และประโยคกำลังพูดถึงราคา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that garbage banks",
+     "options": [
+      "earn most of their profit from food waste",
+      "pay members the same price whatever the market does",
+      "are now closing in most parts of Thailand",
+      "cannot deal with all household waste on their own"
+     ],
+     "answer": 3,
+     "explain": "¶5: food waste and thin plastic bags “which make up a large share of household rubbish, are usually left out” — เมื่อขยะส่วนใหญ่ไม่ถูกรับ จึงอนุมานได้ว่าธนาคารขยะแก้ปัญหาขยะทั้งหมดเองไม่ได้ ตัวเลือก A ขัดกับข้อความ และ B ขัดกับที่ว่าราคาขึ้นลงตามตลาดโลก"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward garbage banks can best be described as",
+     "options": [
+      "enthusiastic, with no concern about their weaknesses",
+      "doubtful that they have any real long-term value",
+      "favourable, while recognising that they have limits",
+      "indifferent, simply listing facts without comment"
+     ],
+     "answer": 2,
+     "explain": "ผู้เขียนยอมรับข้อจำกัดใน ¶5 (“Yet the model has limits.”) แต่สรุปในเชิงบวกใน ¶6 ว่า “it would be a mistake to judge these banks only by the kilograms they collect” จึงตอบ C ตัวเลือก A ผิดเพราะผู้เขียนพูดถึงจุดอ่อน และ D ผิดเพราะ ¶6 มีการแสดงความเห็นชัดเจน"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "Perhaps their greatest achievement is changing how people see waste.",
+      "The bank then sells the materials in bulk to dealers.",
+      "Volunteers weigh each load and record its value in a small passbook.",
+      "Some banks go further, offering members low-interest loans."
+     ],
+     "answer": 0,
+     "explain": "ประโยคใน ¶6 มีคำว่า Perhaps และ greatest achievement ซึ่งเป็นการประเมินของผู้เขียนที่พิสูจน์ไม่ได้ จึงเป็นความคิดเห็น ส่วน B, C, D เป็นการบรรยายสิ่งที่เกิดขึ้นจริงซึ่งตรวจสอบได้"
+    }
+   ]
+  },
+  {
+   "id": "T2P3",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Education",
+   "title": "Why Most Online Learners Never Reach the Finish Line",
+   "paragraphs": [
+    "When massive open online courses, or MOOCs, attracted global attention around 2012, enthusiasts predicted that they would bring high-quality university teaching to anyone with an internet connection. More than a decade later, the courses have indeed reached millions of people. Very few of them, however, ever finish.",
+    "Studies across several platforms have consistently found that only between 5 and 15 per cent of those who enrol complete a course. A new analysis of records from more than 200,000 learners, carried out by education researchers in Singapore, offers several explanations for this pattern.",
+    "The first is that many enrolments are not serious commitments. Because joining a course is free and takes a single click, a large proportion of people sign up simply to look around, with no firm plan to complete the assignments. Around a third of the learners in the study never opened a single lesson.",
+    "Among those who did begin, the most frequently cited obstacle was lack of time. Most were working adults who studied in the evenings, and when their workload increased, the course was usually the first activity to be dropped. Others mentioned the absence of fixed deadlines and a sense of isolation from studying alone.",
+    "The researchers also identified factors that made completion more likely. Learners who paid even a small fee for a certificate were about four times as likely to finish as those who studied for free. Courses that set weekly deadlines, sent regular reminders and organised online discussion groups also kept more of their students.",
+    "The lead researcher, Dr. Tan Mei Ling, argues that low completion rates should not automatically be treated as failure. “Someone who watches three videos to learn one specific skill may have achieved exactly what they wanted,” she said. “The real question is whether learners meet their own goals, not ours.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "MOOCs have failed to reach large numbers of people in most parts of the world.",
+      "Paying for a certificate is the only way to finish an online course.",
+      "Few learners complete MOOCs, and research suggests why and what helps.",
+      "Working adults no longer have enough time for any further study."
+     ],
+     "answer": 2,
+     "explain": "บทความเริ่มด้วยปัญหาว่า “Very few of them, however, ever finish.” (¶1) แล้วอธิบายสาเหตุ (¶3–4) และปัจจัยที่ช่วยให้เรียนจบ (¶5) จึงตอบ C ตัวเลือก A ขัดกับ ¶1 ที่ว่า “the courses have indeed reached millions of people” ส่วน B ใช้คำว่า only ซึ่งเกินกว่าที่บทความกล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'them' in paragraph 1 refer to?",
+     "options": [
+      "massive open online courses",
+      "universities",
+      "enthusiasts",
+      "millions of people"
+     ],
+     "answer": 3,
+     "explain": "¶1: “the courses have indeed reached millions of people. Very few of them, however, ever finish.” ผู้ที่ 'เรียนไม่จบ' ต้องเป็นคน คือ millions of people ที่คอร์สเข้าถึง ตัวเลือก A ล่อใจเพราะ MOOCs เป็นหัวข้อหลัก แต่คอร์สไม่ใช่สิ่งที่ 'finish' การเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, what proportion of the learners in the study never opened a lesson?",
+     "options": [
+      "about one third",
+      "about one quarter",
+      "between 5 and 15 per cent",
+      "about half"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Around a third of the learners in the study never opened a single lesson.” จึงตอบ A ตัวเลือก C เป็นกับดักตัวเลขจาก ¶2 ซึ่งเป็นสัดส่วนของผู้ที่ 'เรียนจบ' ไม่ใช่ผู้ที่ไม่เคยเปิดบทเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about many of the people who enrol in MOOCs?",
+     "options": [
+      "They cannot afford to pay for the courses they want.",
+      "They enrol to explore rather than to study seriously.",
+      "They have already completed similar courses elsewhere.",
+      "They are unable to access the internet reliably."
+     ],
+     "answer": 1,
+     "explain": "¶3: many people “sign up simply to look around, with no firm plan to complete the assignments” แสดงว่าหลายคนสมัครเพราะอยากลองดู ไม่ได้ตั้งใจเรียนจริง ตัวเลือก A ขัดกับบทความเพราะการสมัคร “is free” ส่วน C และ D ไม่มีหลักฐาน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'cited' in paragraph 4 is closest in meaning to",
+     "options": [
+      "mentioned as a reason",
+      "complained to teachers about",
+      "copied from another source",
+      "managed to overcome"
+     ],
+     "answer": 0,
+     "explain": "¶4: “the most frequently cited obstacle was lack of time” หมายถึงอุปสรรคที่ผู้เรียน 'ยกขึ้นมาอ้าง' บ่อยที่สุด ประโยคถัดมาที่ใช้ “Others mentioned...” ยืนยันความหมายนี้ ตัวเลือก C เป็นความหมายของ cite ในบริบทการอ้างอิงแหล่งข้อมูล ซึ่งไม่เข้ากับที่นี่"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a reason why learners fail to complete MOOCs?",
+     "options": [
+      "a lack of free time",
+      "the absence of fixed deadlines",
+      "course content that is too difficult",
+      "a sense of isolation when studying alone"
+     ],
+     "answer": 2,
+     "explain": "¶4 กล่าวถึง “lack of time”, “the absence of fixed deadlines” และ “a sense of isolation from studying alone” แต่ไม่ได้พูดถึงความยากของเนื้อหาเลย จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, which of the following helped more learners complete a course?",
+     "options": [
+      "offering longer video lectures",
+      "removing weekly deadlines",
+      "making all certificates free",
+      "sending regular reminders"
+     ],
+     "answer": 3,
+     "explain": "¶5: courses that “set weekly deadlines, sent regular reminders and organised online discussion groups also kept more of their students” จึงตอบ D ตัวเลือก B และ C กลับด้านกับบทความ เพราะการมีกำหนดส่งและการจ่ายค่าใบประกาศต่างหากที่ช่วยให้เรียนจบ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of paragraph 6?",
+     "options": [
+      "To argue that all MOOCs should charge learners a fee",
+      "To suggest that completion rates may not fully measure success",
+      "To explain how the researchers collected and analysed their data",
+      "To criticise learners who watch only a few videos"
+     ],
+     "answer": 1,
+     "explain": "¶6: “low completion rates should not automatically be treated as failure” และ “The real question is whether learners meet their own goals” ย่อหน้านี้จึงเสนอมุมมองว่าอัตราการเรียนจบไม่ได้วัดความสำเร็จทั้งหมด ตัวเลือก D ตรงข้ามกับที่ Dr. Tan กล่าว เพราะเธอมองว่าคนที่ดูแค่สามคลิปอาจได้สิ่งที่ต้องการแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "A problem is presented, then its causes, some remedies and another view.",
+      "The history of online learning is presented in time order from 2012 onwards.",
+      "Free courses and paid courses are compared with each other point by point.",
+      "An opinion is stated first and then supported by learners' personal stories."
+     ],
+     "answer": 0,
+     "explain": "¶1–2 เสนอปัญหา (อัตราเรียนจบต่ำ) ¶3–4 อธิบายสาเหตุ ¶5 เสนอปัจจัยที่ช่วย และ ¶6 ให้มุมมองที่ต่างออกไป จึงตอบ A ตัวเลือก B ล่อใจเพราะ ¶1 เอ่ยถึงปี 2012 แต่บทความไม่ได้เล่าเหตุการณ์ตามลำดับเวลา"
+    }
+   ]
+  },
+  {
+   "id": "T2P4",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Public Health",
+   "title": "Late-Night Caffeine and Screens Linked to Poor Sleep Among Students",
+   "paragraphs": [
+    "University students who drink caffeinated beverages in the evening and use their phones in bed sleep significantly worse than their classmates, according to a survey of 1,450 undergraduates at three universities in Thailand. The findings add to growing concern that poor sleep is undermining both the health and the academic performance of young adults.",
+    "Participants completed a standard questionnaire measuring sleep quality and recorded their daily habits over two weeks. Nearly 60 per cent were classified as poor sleepers. Those who consumed caffeine after 6 p.m. took, on average, 25 minutes longer to fall asleep than those who did not, and they were more likely to wake during the night.",
+    "Caffeine works by blocking adenosine, a chemical that builds up in the brain during waking hours and creates the pressure to sleep. Because its effects can last for five hours or more, a coffee taken at dinner may still be active at midnight. Energy drinks, which are cheap and widely sold near campuses, were the most common evening source among the students surveyed.",
+    "Screen use proved equally important. Students who used a phone or laptop for more than an hour after getting into bed reported shorter and lighter sleep. Researchers point to two mechanisms. Light from screens suppresses melatonin, the hormone that signals night-time to the body, while social media, games and messaging keep the mind alert at the very moment it should be winding down.",
+    "The combination was particularly harmful. Students who reported both habits slept, on average, 70 minutes less per night than those who reported neither, and they were twice as likely to say they had fallen asleep in class during the previous month.",
+    "Dr. Kanokwan Thongdee, the sleep researcher who led the study, cautions that the survey shows an association rather than proof of cause. “It is possible that students who already sleep badly turn to coffee and their phones,” she noted. Nevertheless, she believes the results are clear enough to justify action. Her team recommends that universities limit the sale of energy drinks in the evening and that students keep their phones out of reach once the lights are off."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Energy drinks are sold too cheaply near Thai university campuses.",
+      "Two common evening habits appear to be damaging students' sleep.",
+      "Most university students in Thailand fall asleep in class every month.",
+      "Melatonin is the most important hormone that controls human sleep."
+     ],
+     "answer": 1,
+     "explain": "¶1 สรุปผลการสำรวจไว้ว่านักศึกษาที่ดื่มคาเฟอีนตอนเย็นและเล่นโทรศัพท์บนเตียง “sleep significantly worse than their classmates” และย่อหน้าที่เหลือขยายความเรื่องนี้ จึงตอบ B ตัวเลือก A และ D เป็นรายละเอียดย่อยจาก ¶3–4 ส่วน C บิดข้อมูลใน ¶5 ซึ่งพูดถึงเฉพาะกลุ่มที่มีทั้งสองพฤติกรรม"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'undermining' in paragraph 1 is closest in meaning to",
+     "options": [
+      "gradually weakening",
+      "clearly revealing",
+      "accurately measuring",
+      "strongly supporting"
+     ],
+     "answer": 0,
+     "explain": "¶1: “growing concern that poor sleep is undermining both the health and the academic performance” — คำว่า concern บอกว่าการนอนไม่ดีส่งผลเสีย คือ 'บั่นทอน' สุขภาพและผลการเรียน ตัวเลือก D มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, students who consumed caffeine after 6 p.m.",
+     "options": [
+      "slept about 70 minutes less each night",
+      "were twice as likely to fall asleep in class",
+      "made up nearly 60 per cent of all participants",
+      "took about 25 minutes longer to fall asleep"
+     ],
+     "answer": 3,
+     "explain": "¶2: those who consumed caffeine after 6 p.m. “took, on average, 25 minutes longer to fall asleep” จึงตอบ D ตัวเลือก A และ B เป็นผลของกลุ่มที่มี 'ทั้งสองพฤติกรรม' ใน ¶5 ส่วน 60 เปอร์เซ็นต์คือสัดส่วนของผู้ที่นอนหลับไม่ดี ไม่ใช่ผู้ดื่มคาเฟอีน"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'its' in paragraph 3 refer to?",
+     "options": [
+      "adenosine",
+      "the brain",
+      "caffeine",
+      "the pressure to sleep"
+     ],
+     "answer": 2,
+     "explain": "¶3: “Because its effects can last for five hours or more, a coffee taken at dinner may still be active at midnight.” สิ่งที่ฤทธิ์อยู่ได้นานจนกาแฟมื้อเย็นยังออกฤทธิ์ตอนเที่ยงคืนคือคาเฟอีน ตัวเลือก A ล่อใจเพราะเป็นคำนามที่อยู่ใกล้ แต่ adenosine เป็นสารที่ถูกคาเฟอีนยับยั้ง ไม่ใช่สารในกาแฟ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author explain how caffeine affects adenosine in paragraph 3?",
+     "options": [
+      "To show why an evening drink can still disturb sleep hours later",
+      "To argue that energy drinks should be banned from all campuses",
+      "To compare the effects of caffeine with the effects of melatonin",
+      "To question the accuracy of the students' own reports"
+     ],
+     "answer": 0,
+     "explain": "การอธิบายกลไกที่คาเฟอีนยับยั้ง adenosine ตามด้วย “a coffee taken at dinner may still be active at midnight” (¶3) มีจุดประสงค์เพื่ออธิบายว่าทำไมเครื่องดื่มตอนเย็นจึงรบกวนการนอนได้หลายชั่วโมง ตัวเลือก B ผิดเพราะ ¶6 เสนอเพียงให้ 'limit' การขายตอนเย็น ไม่ใช่ห้ามขายทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'suppresses' in paragraph 4 is closest in meaning to",
+     "options": [
+      "increases the effect of",
+      "reduces the production of",
+      "takes the place of",
+      "measures the level of"
+     ],
+     "answer": 1,
+     "explain": "¶4: “Light from screens suppresses melatonin, the hormone that signals night-time to the body” — แสงจากจอ 'กด/ลด' การหลั่งเมลาโทนิน ร่างกายจึงไม่ได้รับสัญญาณว่าถึงเวลานอน ซึ่งเป็นเหตุผลที่การนอนสั้นลง ตัวเลือก A มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT reported in the passage as an effect of the habits studied?",
+     "options": [
+      "taking longer than others to fall asleep",
+      "waking up during the night",
+      "falling asleep in class",
+      "having headaches the next morning"
+     ],
+     "answer": 3,
+     "explain": "¶2 กล่าวถึงการหลับช้าลงและ “more likely to wake during the night” และ ¶5 กล่าวถึง “fallen asleep in class” แต่ไม่มีตรงไหนพูดถึงอาการปวดศีรษะ จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, compared with students who had neither habit, those who had both were",
+     "options": [
+      "twice as likely to wake up during the night",
+      "25 minutes slower to fall asleep each night",
+      "twice as likely to report falling asleep in class",
+      "more likely to choose energy drinks with their dinner"
+     ],
+     "answer": 2,
+     "explain": "¶5: they were “twice as likely to say they had fallen asleep in class during the previous month” จึงตอบ C ตัวเลือก A นำคำว่า twice ไปผูกกับการตื่นกลางดึกซึ่งไม่ได้กล่าวไว้ในย่อหน้านี้ และ B เป็นตัวเลขของกลุ่มดื่มคาเฟอีนใน ¶2"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from Dr. Thongdee's comment in paragraph 6 that",
+     "options": [
+      "poor sleep may be a cause, not only a result, of these habits",
+      "the questionnaire used in the survey was not reliable",
+      "students should give up drinking coffee completely",
+      "universities have already banned the sale of evening energy drinks"
+     ],
+     "answer": 0,
+     "explain": "¶6: “It is possible that students who already sleep badly turn to coffee and their phones” หมายความว่าการนอนไม่ดีอาจเกิดขึ้นก่อนและเป็นเหตุให้หันไปดื่มกาแฟหรือเล่นโทรศัพท์ จึงตอบ A ตัวเลือก D ผิดเพราะทีมวิจัยเพียง 'recommends' ให้จำกัดการขาย ยังไม่มีการห้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Thongdee's attitude toward the results of the survey can best be described as",
+     "options": [
+      "completely certain that they prove a direct cause",
+      "cautious, yet confident enough to recommend action",
+      "disappointed because they contradict her expectations",
+      "uninterested, since the sample was too small"
+     ],
+     "answer": 1,
+     "explain": "¶6 บอกว่าเธอ “cautions that the survey shows an association rather than proof of cause” แต่ก็ “believes the results are clear enough to justify action” จึงเป็นท่าทีระมัดระวังแต่มั่นใจพอจะเสนอแนะ ตัวเลือก A ผิดเพราะเธอย้ำเองว่ายังไม่ใช่หลักฐานของสาเหตุ"
+    }
+   ]
+  },
+  {
+   "id": "T2P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Water, Sanitation and Hygiene as Foundations of Child Health",
+   "paragraphs": [
+    "Few public health measures have saved as many lives as the provision of clean water and safe sanitation. In the nineteenth century, the decline of cholera and typhoid in the cities of Europe and North America owed more to sewers and filtered water supplies than to any medicine. Yet in the twenty-first century, access to these basic services remains far from universal. Hundreds of millions of people still rely on drinking water that may be contaminated, and many more lack a toilet that safely separates human waste from human contact. The burden of this shortfall falls most heavily on young children, whose developing bodies are especially vulnerable to infection.",
+    "The link between water, sanitation and hygiene, commonly abbreviated as WASH, and child health is rooted in the way many intestinal infections spread. Bacteria, viruses and parasites leave the body of an infected person in faeces and reach a new host through the mouth. Public health specialists often summarise the main routes of transmission as the “five Fs”: fluids, fields, flies, fingers and food. Crucially, each route can be blocked at a different point. Toilets keep faeces out of the environment, safe water prevents pathogens from being swallowed, and handwashing with soap removes germs from the hands that prepare meals and feed infants.",
+    "The most visible consequence of poor WASH conditions is diarrhoeal disease, which remains one of the leading causes of death among children under five worldwide. The great majority of these deaths occur in low- and middle-income countries, and most are preventable. Repeated episodes of diarrhoea drain a child's body of fluids and nutrients, and in severe cases can cause fatal dehydration within hours. Oral rehydration therapy, a simple solution of salts and sugar, has dramatically reduced mortality since its introduction, but it treats the illness only after it has begun. For this reason, many researchers argue that investment in prevention must accompany improvements in treatment.",
+    "Less visible, but arguably just as serious, is the relationship between WASH and stunting, a condition in which a child is significantly shorter than expected for his or her age. Stunting reflects chronic undernutrition and is associated with weaker cognitive development and lower earnings in adulthood. Scientists have proposed that constant exposure to faecal bacteria can damage the lining of the small intestine, even in children who never show symptoms of diarrhoea. This condition, known as environmental enteric dysfunction, reduces the gut's ability to absorb nutrients, so that a child may remain undernourished despite eating an adequate diet.",
+    "WASH also influences education. Children who are frequently ill miss lessons, and those infected with intestinal worms may find it harder to concentrate in class. Girls are affected in a particular way. Where schools lack private, single-sex toilets and water for washing, many adolescent girls stay at home during menstruation. A study of rural secondary schools in one Southeast Asian country found that after separate latrines and handwashing stations were built, absence among female students fell by almost a fifth over two years, while the attendance of boys hardly changed.",
+    "Given these connections, it might be expected that WASH interventions would consistently produce dramatic improvements in child health. The evidence, however, is more mixed. Handwashing promotion and household water treatment have repeatedly been shown to reduce diarrhoea, but several large randomised trials conducted in Africa and South Asia during the 2010s found that basic household-level improvements, such as simple latrines and chlorine tablets, had little or no measurable effect on children's growth. Some commentators interpreted these results as a sign that WASH matters less than had previously been believed.",
+    "Most specialists, however, have drawn a different conclusion. They point out that a single household with a latrine gains little protection if its neighbours continue to defecate in the open, since the shared environment remains contaminated. Moreover, the interventions tested were often modest and, in some cases, poorly maintained. What is needed, these researchers argue, is “transformative” WASH: community-wide coverage, piped water on the premises and lasting changes in behaviour. Thailand, which expanded rural sanitation from a small minority of households in the 1960s to near-universal coverage by the end of the century, is frequently cited as an example of what sustained national effort can achieve.",
+    "Water, sanitation and hygiene, then, should be regarded not merely as infrastructure but as a foundation of child health. Their benefits extend from survival through growth to learning, yet they are fully realised only when improvements reach entire communities and are maintained over time. For policymakers, the lesson is that small, isolated projects are unlikely to be enough; it is the scale and durability of change that ultimately determine whether children are protected."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Oral rehydration therapy is the most effective way to protect young children from diarrhoea.",
+      "Recent trials prove that latrines and water treatment do little for children's health.",
+      "Safe water, sanitation and hygiene protect child health, especially at community scale.",
+      "Girls in Southeast Asia miss school mainly because their schools lack private toilets."
+     ],
+     "answer": 2,
+     "explain": "บทความแสดงว่า WASH ส่งผลต่อการรอดชีวิต การเจริญเติบโต และการเรียนของเด็ก และสรุปใน ¶8 ว่าประโยชน์จะเกิดเต็มที่ “only when improvements reach entire communities” จึงตอบ C ตัวเลือก B ล่อใจเพราะมาจาก ¶6 แต่ ¶7 โต้แย้งการตีความนั้น ส่วน A และ D เป็นเพียงรายละเอียดย่อย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'vulnerable' in paragraph 1 is closest in meaning to",
+     "options": [
+      "easily harmed by",
+      "slowly adapted to",
+      "naturally resistant to",
+      "rarely exposed to"
+     ],
+     "answer": 0,
+     "explain": "¶1: “The burden of this shortfall falls most heavily on young children, whose developing bodies are especially vulnerable to infection.” เด็กได้รับผลกระทบมากที่สุดเพราะร่างกาย 'ถูกทำร้ายได้ง่าย' จากการติดเชื้อ ตัวเลือก C (ต้านทานได้ตามธรรมชาติ) มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the decline of cholera and typhoid in paragraph 1?",
+     "options": [
+      "To argue that wealthy countries no longer face health risks from water",
+      "To show that infrastructure did more than medicine to reduce disease",
+      "To compare the death rates of two infectious diseases in the past",
+      "To explain how the first vaccines against these diseases were developed"
+     ],
+     "answer": 1,
+     "explain": "¶1: the decline “owed more to sewers and filtered water supplies than to any medicine” ผู้เขียนยกตัวอย่างประวัติศาสตร์นี้เพื่อชี้ว่าระบบน้ำและสุขาภิบาลลดโรคได้มากกว่ายา ซึ่งสนับสนุนประโยคแรกของย่อหน้า ตัวเลือก D ผิดเพราะบทความไม่ได้พูดถึงวัคซีนเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, why do many researchers argue for investment in prevention?",
+     "options": [
+      "Oral rehydration therapy is too expensive for most poor families.",
+      "Most deaths from diarrhoea happen in high-income countries.",
+      "Dehydration caused by diarrhoea can no longer be treated.",
+      "Oral rehydration therapy works only once the illness has begun."
+     ],
+     "answer": 3,
+     "explain": "¶3: oral rehydration therapy “treats the illness only after it has begun. For this reason, many researchers argue that investment in prevention must accompany improvements in treatment.” วลี For this reason เชื่อมเหตุผลนี้โดยตรง ตัวเลือก B ขัดกับ ¶3 ที่ว่าการเสียชีวิตส่วนใหญ่เกิดใน low- and middle-income countries"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage expresses an opinion rather than a fact?",
+     "options": [
+      "Less visible, but arguably just as serious, is the relationship between WASH and stunting.",
+      "Bacteria, viruses and parasites leave the body of an infected person in faeces and reach a new host through the mouth.",
+      "The great majority of these deaths occur in low- and middle-income countries.",
+      "Absence among female students fell by almost a fifth over two years."
+     ],
+     "answer": 0,
+     "explain": "ประโยคใน ¶4 ใช้คำว่า arguably just as serious ซึ่งเป็นการประเมินความรุนแรงตามมุมมองของผู้เขียน จึงเป็นความคิดเห็น ส่วน B เป็นข้อเท็จจริงทางชีววิทยา C และ D เป็นข้อมูลเชิงสถิติที่ตรวจสอบได้"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'This condition' in paragraph 4 refer to?",
+     "options": [
+      "stunting in young children",
+      "chronic undernutrition in childhood",
+      "damage to the intestinal lining",
+      "repeated symptoms of diarrhoea"
+     ],
+     "answer": 2,
+     "explain": "ประโยคก่อนหน้าใน ¶4 คือ “constant exposure to faecal bacteria can damage the lining of the small intestine” แล้วตามด้วย “This condition, known as environmental enteric dysfunction” จึงหมายถึงความเสียหายของผนังลำไส้เล็ก ตัวเลือก A ล่อใจเพราะต้นย่อหน้าเรียก stunting ว่า “a condition” แต่ stunting คือภาวะเตี้ย ไม่ใช่ภาวะที่ลดการดูดซึมสารอาหาร"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'adequate' in paragraph 4 is closest in meaning to",
+     "options": [
+      "costly",
+      "sufficient",
+      "varied",
+      "traditional"
+     ],
+     "answer": 1,
+     "explain": "¶4: “a child may remain undernourished despite eating an adequate diet” — คำว่า despite บอกความขัดแย้ง คือแม้จะกินอาหาร 'เพียงพอ' แล้วก็ยังขาดสารอาหาร เพราะลำไส้ดูดซึมไม่ได้ ตัวเลือก C (หลากหลาย) ฟังดูเข้ากับเรื่องอาหารแต่ไม่ใช่ความหมายของ adequate"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that, for children living in poor WASH conditions, extra food",
+     "options": [
+      "will usually cause further episodes of diarrhoea",
+      "is the main cause of damage to the intestine",
+      "is unnecessary if they show no signs of illness",
+      "may not be enough on its own to prevent stunting"
+     ],
+     "answer": 3,
+     "explain": "¶4 อธิบายว่าลำไส้ที่เสียหายดูดซึมสารอาหารได้น้อยลง “so that a child may remain undernourished despite eating an adequate diet” จึงอนุมานได้ว่าการให้อาหารเพิ่มอย่างเดียวอาจไม่พอป้องกันภาวะเตี้ย ตัวเลือก C ผิดเพราะย่อหน้าบอกว่าความเสียหายเกิดได้แม้ในเด็กที่ “never show symptoms of diarrhoea”"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a way in which poor WASH affects education?",
+     "options": [
+      "Children who are often ill miss lessons.",
+      "Worm infections make it harder for children to concentrate.",
+      "Teachers are frequently absent because of illness.",
+      "Girls stay at home during menstruation."
+     ],
+     "answer": 2,
+     "explain": "¶5 กล่าวถึงเด็กป่วยที่ “miss lessons”, เด็กที่ติดพยาธิซึ่ง “find it harder to concentrate” และเด็กหญิงที่ “stay at home during menstruation” แต่ไม่ได้พูดถึงครูขาดสอนเลย จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the study described in paragraph 5 suggest?",
+     "options": [
+      "The facilities mainly met a need specific to girls.",
+      "Boys refused to use the newly built separate latrines.",
+      "Girls' attendance fell after the facilities were built.",
+      "Handwashing stations were more useful than latrines."
+     ],
+     "answer": 0,
+     "explain": "¶5: absence among female students “fell by almost a fifth over two years, while the attendance of boys hardly changed” การที่เฉพาะเด็กหญิงมาเรียนมากขึ้นชี้ว่าสิ่งอำนวยความสะดวกใหม่แก้ปัญหาที่เกิดกับเด็กหญิงเป็นหลัก ตัวเลือก C เป็นกับดักการอ่านกลับด้าน เพราะสิ่งที่ลดลงคือ 'การขาดเรียน' ไม่ใช่การมาเรียน"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is paragraph 7 related to paragraph 6?",
+     "options": [
+      "It gives historical background to the theory described in paragraph 6.",
+      "It repeats the findings of paragraph 6 in greater detail.",
+      "It provides further evidence for the critics' view in paragraph 6.",
+      "It offers a different interpretation of the results in paragraph 6."
+     ],
+     "answer": 3,
+     "explain": "¶6 รายงานผลการทดลองที่น่าผิดหวังและการตีความว่า WASH สำคัญน้อยลง ส่วน ¶7 เริ่มด้วย “Most specialists, however, have drawn a different conclusion.” แล้วอธิบายสาเหตุของผลนั้น จึงตอบ D ตัวเลือก C ผิดเพราะ ¶7 โต้แย้งมุมมองนั้น ไม่ได้สนับสนุน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 7 that the author regards Thailand's experience as",
+     "options": [
+      "an exception that other countries cannot follow",
+      "a sign that large, long-term efforts can work",
+      "proof that household latrines alone are sufficient",
+      "a recent project whose results are still unknown"
+     ],
+     "answer": 1,
+     "explain": "¶7 ยกไทยเป็นตัวอย่างของ “what sustained national effort can achieve” หลังจากเสนอว่าต้องใช้ WASH แบบครอบคลุมทั้งชุมชน แสดงว่าผู้เขียนมองว่าความพยายามระยะยาวในระดับประเทศได้ผลจริง ตัวเลือก D ผิดเพราะความครอบคลุมเกิดขึ้นตั้งแต่ “by the end of the century” แล้ว"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name do public health specialists give to the main routes by which intestinal infections spread? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "five fs",
+      "the five fs"
+     ],
+     "explain": "¶2: “Public health specialists often summarise the main routes of transmission as the “five Fs”: fluids, fields, flies, fingers and food.” คำตอบคือ five Fs ซึ่งหมายถึงเส้นทางแพร่เชื้อห้าทางที่ขึ้นต้นด้วยตัว F"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What simple treatment made from salts and sugar has greatly reduced deaths from diarrhoea? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "oral rehydration therapy",
+      "rehydration therapy",
+      "ort"
+     ],
+     "explain": "¶3: “Oral rehydration therapy, a simple solution of salts and sugar, has dramatically reduced mortality” คำตอบคือ oral rehydration therapy (การให้สารละลายเกลือแร่ทางปาก)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which condition, linked to chronic undernutrition, describes a child who is much shorter than expected for his or her age? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "stunting"
+     ],
+     "explain": "¶4: “stunting, a condition in which a child is significantly shorter than expected for his or her age” และ “Stunting reflects chronic undernutrition” คำตอบจึงเป็น stunting ไม่ใช่ environmental enteric dysfunction ซึ่งเป็นภาวะของลำไส้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from separate latrines, what was built in the rural secondary schools described in paragraph 5? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "handwashing stations",
+      "handwashing station"
+     ],
+     "explain": "¶5: “after separate latrines and handwashing stations were built, absence among female students fell” คำตอบคือ handwashing stations (จุดล้างมือ)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 7, what type of WASH do most specialists say is needed? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "transformative"
+     ],
+     "explain": "¶7: “What is needed, these researchers argue, is “transformative” WASH: community-wide coverage, piped water on the premises and lasting changes in behaviour.” คำตอบคือ transformative ซึ่งหมายถึงการเปลี่ยนแปลงอย่างครอบคลุมทั้งชุมชน ไม่ใช่การปรับปรุงทีละครัวเรือน"
+    }
+   ]
+  },
+  {
+   "id": "T2P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Education",
+   "title": "Digital Inequality in Education: Evidence and Policy Responses",
+   "paragraphs": [
+    "For much of the past three decades, the term “digital divide” referred to a simple distinction between those who had access to computers and the internet and those who did not. In education, this framing led governments to focus on hardware: equipping classrooms with computers, distributing tablets to pupils and extending broadband to rural schools. Such efforts have been enormously important, and in many countries they have brought computers to schools that previously had none. Yet researchers increasingly argue that access is only the first layer of a more complex problem, and that closing the gap in devices does not automatically close the gap in learning.",
+    "Scholars now commonly distinguish between three levels of the divide. The first concerns physical access to devices and connectivity. The second concerns skills and patterns of use: whether learners know how to search for reliable information, evaluate sources and create content, rather than simply consume entertainment. The third concerns outcomes, that is, whether people are actually able to turn their use of technology into tangible benefits such as better grades, qualifications or employment. Inequalities at each level tend to reinforce one another, so that the advantages of already privileged groups accumulate over time.",
+    "Access itself remains a serious issue in many parts of the world, including much of rural Southeast Asia. Even where almost every household owns a mobile phone, a smartphone shared among several family members is a poor substitute for a personal laptop when a student needs to write an essay or join a two-hour online lesson. Students in such homes may have to wait until late at night, when others have finished with the phone, before they can begin their work. The quality and cost of connections also matter. In remote areas, mobile data may be slow and unreliable, and for low-income families, a monthly data package can represent a significant share of household spending.",
+    "Skills, however, do not follow automatically from access. A popular assumption holds that young people are “digital natives” who learn to use technology effortlessly. Studies have repeatedly challenged this view. Many teenagers are confident users of social media and games but struggle with the tasks that school requires, such as organising files, using spreadsheets or judging whether a website is trustworthy. A survey of 3,000 secondary students in a middle-income Asian country, for example, found that fewer than four in ten could correctly identify a sponsored advertisement disguised as a news article. Such findings suggest that familiarity with technology should not be confused with the ability to use it critically.",
+    "The home environment adds a further layer of inequality. Children whose parents are university-educated tend to receive more guidance on how to use technology for learning, and are more likely to have a quiet space in which to study. By contrast, children in crowded households may have to complete assignments amid noise and constant interruptions, and parents who work long hours, or who themselves lack digital skills, are less able to help. In this sense, the digital divide often mirrors existing social and economic divides rather than creating entirely new ones.",
+    "The school closures that followed the outbreak of COVID-19 in 2020 exposed these inequalities with unusual clarity. Almost overnight, schools in many countries moved teaching online, and learning came to depend on what students had at home. Pupils with their own devices, stable connections and supportive parents were often able to continue with relatively little disruption. Others fell behind or disappeared from lessons altogether. Teachers, too, varied widely in their readiness to teach through a screen. Some countries responded by turning to older technologies; Thailand, for instance, made wide use of educational television broadcasts, which reached households that lacked reliable internet access.",
+    "Policy responses since then have become more varied. Alongside programmes that lend laptops or subsidise internet connections, some governments have begun to invest in teacher training, recognising that teachers who are unsure how to use digital tools cannot be expected to teach others to use them well. Others have incorporated digital literacy into the national curriculum, treating the ability to evaluate online information as a core skill comparable to reading and arithmetic. Community-based initiatives, such as libraries offering free connections and weekend help sessions for parents, have also shown promise.",
+    "The central lesson of recent experience is that technology tends to amplify existing conditions: it can help strong schools and well-supported students move further ahead, but it rarely lifts disadvantaged learners on its own. Closing the digital divide in education therefore requires more than distributing devices. It demands sustained attention to skills, to the conditions in which children learn at home and to the teachers who guide them. Without such attention, the long-standing promise that technology would make education more equal may continue to go unfulfilled."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Every Student Now Needs a Personal Laptop",
+      "More Than Access: The Digital Divide in Education",
+      "How the Pandemic Finally Closed the Digital Divide",
+      "Teaching Teenagers to Recognise Online Advertising"
+     ],
+     "answer": 1,
+     "explain": "แนวคิดหลักอยู่ใน ¶1: “access is only the first layer of a more complex problem” และบทความอธิบายต่อถึงทักษะ สภาพแวดล้อมที่บ้าน และนโยบาย จึงตอบ B ตัวเลือก C ขัดกับ ¶6 ที่บอกว่าการปิดโรงเรียน 'เปิดโปง' ความเหลื่อมล้ำ ไม่ใช่ปิดช่องว่าง ส่วน D แคบเกินไปเพราะมาจากตัวอย่างใน ¶4 เท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'tangible' in paragraph 2 is closest in meaning to",
+     "options": [
+      "hidden and indirect",
+      "immediate but brief",
+      "personal and emotional",
+      "real and measurable"
+     ],
+     "answer": 3,
+     "explain": "¶2: “turn their use of technology into tangible benefits such as better grades, qualifications or employment” — ตัวอย่างที่ตามมา (เกรด วุฒิการศึกษา งาน) ล้วนเป็นประโยชน์ที่ 'จับต้องและวัดได้' ตัวเลือก A มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, the second level of the digital divide is concerned with",
+     "options": [
+      "learners' skills and the ways they use technology",
+      "whether people own devices and can get connected",
+      "the benefits people gain, such as better jobs",
+      "the cost of internet connections for families"
+     ],
+     "answer": 0,
+     "explain": "¶2: “The second concerns skills and patterns of use” จึงตอบ A ตัวเลือก B คือระดับที่หนึ่ง (physical access) และ C คือระดับที่สาม (outcomes) ซึ่งเป็นกับดักสำหรับผู้ที่อ่านลำดับสลับกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that a household's ownership of a mobile phone",
+     "options": [
+      "is now universal in every part of rural Asia",
+      "is the main reason some students get poor grades",
+      "does not guarantee adequate access for schoolwork",
+      "makes a personal laptop unnecessary for students"
+     ],
+     "answer": 2,
+     "explain": "¶3: “a smartphone shared among several family members is a poor substitute for a personal laptop” และนักเรียนอาจต้องรอจนดึกจึงจะได้ใช้ แสดงว่าการมีโทรศัพท์ในบ้านไม่ได้แปลว่าเข้าถึงเพียงพอสำหรับการเรียน ตัวเลือก D ตรงข้ามกับข้อความ และ A ใช้คำว่า universal / every ซึ่งเกินกว่าที่บทความกล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 3 as a problem of access?",
+     "options": [
+      "sharing one device with other family members",
+      "slow and unreliable mobile data",
+      "the cost of monthly data packages",
+      "frequent power cuts in remote villages"
+     ],
+     "answer": 3,
+     "explain": "¶3 กล่าวถึงการใช้โทรศัพท์ร่วมกันในครอบครัว ข้อมูลมือถือที่ “slow and unreliable” และค่าแพ็กเกจที่เป็น “a significant share of household spending” แต่ไม่ได้พูดถึงไฟฟ้าดับเลย จึงตอบ D"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the survey of 3,000 secondary students in paragraph 4?",
+     "options": [
+      "To support the claim that young people lack some key digital skills",
+      "To show that online advertising is a growing problem in Asia",
+      "To prove that teenagers spend too much time on social media",
+      "To compare the digital skills of students in several different countries"
+     ],
+     "answer": 0,
+     "explain": "ผลสำรวจที่ว่า “fewer than four in ten could correctly identify a sponsored advertisement” (¶4) ถูกยกมาเป็นหลักฐานสนับสนุนข้อความ “Studies have repeatedly challenged this view” ว่าวัยรุ่นไม่ได้ใช้เทคโนโลยีเป็นโดยอัตโนมัติ ตัวเลือก B ล่อใจเพราะมีคำว่า advertisement แต่โฆษณาเป็นเพียงเครื่องมือทดสอบทักษะ ไม่ใช่ประเด็นของย่อหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the last sentence of paragraph 5?",
+     "options": [
+      "Technology is now the main cause of social and economic inequality.",
+      "Digital inequality largely reflects inequalities that already exist.",
+      "Social and economic divides are shrinking because of technology.",
+      "New kinds of inequality are appearing that have no link to income."
+     ],
+     "answer": 1,
+     "explain": "¶5: “the digital divide often mirrors existing social and economic divides rather than creating entirely new ones” — mirrors คือ 'สะท้อน' ความเหลื่อมล้ำที่มีอยู่เดิม จึงตอบ B ตัวเลือก A และ D ขัดกับวลี rather than creating entirely new ones ส่วน C ไม่มีหลักฐานในบทความ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 6 about the school closures?",
+     "options": [
+      "They affected all pupils in much the same way.",
+      "They led most countries to give up online teaching.",
+      "They increased existing gaps between groups of pupils.",
+      "They were caused mainly by a shortage of digital devices."
+     ],
+     "answer": 2,
+     "explain": "¶6 บอกว่านักเรียนที่มีอุปกรณ์และผู้ปกครองสนับสนุน “were often able to continue with relatively little disruption” ขณะที่คนอื่น “fell behind or disappeared from lessons altogether” จึงอนุมานได้ว่าช่องว่างระหว่างกลุ่มได้เปรียบและเสียเปรียบกว้างขึ้น ตัวเลือก A ขัดกับข้อความนี้ และ D ผิดเพราะการปิดโรงเรียนเกิดจากการระบาดของ COVID-19"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does the word 'them' in paragraph 7 refer to?",
+     "options": [
+      "digital tools",
+      "teachers",
+      "governments",
+      "internet connections"
+     ],
+     "answer": 0,
+     "explain": "¶7: “teachers who are unsure how to use digital tools cannot be expected to teach others to use them well” — สิ่งที่ต้องสอนผู้อื่นให้ 'ใช้' ได้ดีคือเครื่องมือดิจิทัล ตัวเลือก B ล่อใจเพราะ teachers อยู่ในประโยคเดียวกัน แต่ครูเป็นผู้สอน ไม่ใช่สิ่งที่ถูกใช้"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How does the author develop the discussion in paragraphs 3 to 5?",
+     "options": [
+      "by describing events in the order in which they happened",
+      "by comparing the education systems of two countries",
+      "by presenting arguments for and against classroom technology",
+      "by examining access, skills and the home environment in turn"
+     ],
+     "answer": 3,
+     "explain": "¶3 เริ่มด้วย “Access itself remains a serious issue” ¶4 “Skills, however, do not follow automatically from access” และ ¶5 “The home environment adds a further layer of inequality” แต่ละย่อหน้าจึงพิจารณาปัจจัยทีละด้าน ตัวเลือก A ผิดเพราะการเล่าเหตุการณ์ตามเวลา (COVID-19) อยู่ใน ¶6 ไม่ใช่ ¶3–5"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward simply distributing devices to students can best be described as",
+     "options": [
+      "strongly opposed, since devices bring no real benefit",
+      "enthusiastic, since devices solve the main problem",
+      "sceptical that it is sufficient by itself",
+      "uncertain, since no evidence is yet available"
+     ],
+     "answer": 2,
+     "explain": "¶8: “Closing the digital divide in education therefore requires more than distributing devices.” ผู้เขียนจึงสงสัยว่าการแจกอุปกรณ์อย่างเดียวจะพอ แต่ไม่ได้ต่อต้าน เพราะ ¶1 ยอมรับว่า “Such efforts have been enormously important” ตัวเลือก A จึงรุนแรงเกินไป"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which of the following statements would the author most likely agree with?",
+     "options": [
+      "Disadvantaged students gain the most from new technology.",
+      "Without other support, technology may widen gaps in learning.",
+      "Teachers will matter less as technology continues to improve.",
+      "Governments should stop spending money on digital devices."
+     ],
+     "answer": 1,
+     "explain": "¶8: technology “can help strong schools and well-supported students move further ahead, but it rarely lifts disadvantaged learners on its own” แสดงว่าหากไม่มีการสนับสนุนด้านอื่น เทคโนโลยีอาจทำให้ช่องว่างกว้างขึ้น ตัวเลือก A ตรงข้ามกับข้อความนี้ และ C ขัดกับที่ผู้เขียนเน้นความสำคัญของ “the teachers who guide them”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 1, what did governments focus on when they first tried to close the digital divide in education? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "hardware"
+     ],
+     "explain": "¶1: “this framing led governments to focus on hardware: equipping classrooms with computers, distributing tablets to pupils and extending broadband” คำตอบคือ hardware (อุปกรณ์ฮาร์ดแวร์)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What does the third level of the digital divide concern? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "outcomes"
+     ],
+     "explain": "¶2: “The third concerns outcomes, that is, whether people are actually able to turn their use of technology into tangible benefits” คำตอบคือ outcomes ไม่ใช่ skills ซึ่งเป็นระดับที่สอง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term is used for young people who are popularly believed to learn technology effortlessly? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "digital natives",
+      "digital native"
+     ],
+     "explain": "¶4: “A popular assumption holds that young people are “digital natives” who learn to use technology effortlessly.” คำตอบคือ digital natives ซึ่งผู้เขียนชี้ว่าเป็นความเชื่อที่งานวิจัยโต้แย้ง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What older technology did Thailand make wide use of during the school closures? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "educational television broadcasts",
+      "educational television",
+      "television broadcasts",
+      "television"
+     ],
+     "explain": "¶6: “Thailand, for instance, made wide use of educational television broadcasts, which reached households that lacked reliable internet access.” คำตอบคือ educational television broadcasts"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Besides lending laptops and subsidising connections, what have some governments begun to invest in? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "teacher training"
+     ],
+     "explain": "¶7: “some governments have begun to invest in teacher training, recognising that teachers who are unsure how to use digital tools cannot be expected to teach others” คำตอบคือ teacher training"
+    }
+   ]
+  }
+ ]
+}

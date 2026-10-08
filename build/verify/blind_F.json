@@ -1,0 +1,1573 @@
+{
+ "passages": [
+  {
+   "id": "M1P1",
+   "title": "A Simple Routine at the Classroom Sink",
+   "paragraphs": [
+    "Primary schools in three northeastern provinces have recorded a marked fall in pupil absences after introducing a structured handwashing routine, according to an evaluation released this week by researchers at a regional university.",
+    "Under the programme, which ran for one academic year in 48 schools, children washed their hands with soap at fixed times: on arrival, before lunch and after using the toilet. Each school received low-cost washing stations, and teachers were trained to supervise the sessions rather than simply remind pupils to wash.",
+    "Compared with 46 similar schools that did not take part, participating schools reported 21 per cent fewer school days lost to illness. The largest reductions were in absences caused by diarrhoea and other stomach complaints, while the effect on colds and influenza was smaller but still noticeable.",
+    "“Telling children that handwashing matters is not enough,” said Dr. Pornthip Sangthong, who led the evaluation. “What made the difference was building the habit into the timetable, so that it became as automatic as lining up for lunch.”",
+    "The researchers caution, however, that such gains may be difficult to sustain. In several schools, soap supplies ran out during the second term, and attendance in those schools slipped back towards its earlier level. The team therefore recommends that local authorities set aside a dedicated budget for soap rather than relying on donations from parents and local businesses.",
+    "Provincial education officers are now considering whether to extend the scheme to a further 200 schools from next year, although no decision on funding has yet been made."
+   ],
+   "questions": [
+    {
+     "qid": "M1P1.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Teachers in three provinces were trained to supervise pupils at lunchtime.",
+      "Local authorities should fund soap rather than depend on donations.",
+      "A timetabled handwashing routine was linked to fewer absences in schools.",
+      "Children wash their hands less often at school than they do at home."
+     ]
+    },
+    {
+     "qid": "M1P1.2",
+     "type": "mc",
+     "q": "The word 'marked' in paragraph 1 is closest in meaning to",
+     "options": [
+      "sudden",
+      "slight",
+      "recorded",
+      "clear"
+     ]
+    },
+    {
+     "qid": "M1P1.3",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as part of the programme?",
+     "options": [
+      "posters reminding pupils to wash",
+      "handwashing at fixed times of day",
+      "low-cost washing stations in schools",
+      "training for teachers to supervise washing"
+     ]
+    },
+    {
+     "qid": "M1P1.4",
+     "type": "mc",
+     "q": "According to paragraph 3, which statement about colds and influenza is true?",
+     "options": [
+      "Absences caused by them did not change at all.",
+      "Absences caused by them fell, though less sharply.",
+      "They caused more absences than stomach complaints.",
+      "They were the main target of the programme."
+     ]
+    },
+    {
+     "qid": "M1P1.5",
+     "type": "mc",
+     "q": "Dr. Pornthip mentions 'lining up for lunch' in paragraph 4 in order to",
+     "options": [
+      "describe how pupils queued at the washing stations",
+      "illustrate how habitual handwashing should become",
+      "explain why pupils washed their hands before eating",
+      "compare the cost of two different school activities"
+     ]
+    },
+    {
+     "qid": "M1P1.6",
+     "type": "mc",
+     "q": "What does the word 'those' in paragraph 5 refer to?",
+     "options": [
+      "schools where soap ran out",
+      "the 46 comparison schools",
+      "schools that received donations",
+      "all schools in the programme"
+     ]
+    },
+    {
+     "qid": "M1P1.7",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that",
+     "options": [
+      "parents were unwilling to donate soap to schools",
+      "attendance fell below its level before the programme",
+      "local authorities have already agreed to fund soap",
+      "soap had so far come mainly from donations"
+     ]
+    },
+    {
+     "qid": "M1P1.8",
+     "type": "mc",
+     "q": "According to the passage, provincial education officers are currently",
+     "options": [
+      "training teachers in 200 more schools",
+      "collecting soap from local businesses",
+      "deciding whether to expand the scheme",
+      "setting aside a budget for soap"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M1P2",
+   "title": "Public Notice: Changes to Traffic Arrangements in the City Centre",
+   "paragraphs": [
+    "From March, the City Council will close part of the city centre to private motor vehicles on the first Sunday of every month, between 7 a.m. and 6 p.m. The scheme, which builds on a one-day trial held last November, is intended to reduce air pollution and noise and to give residents more space to walk, cycle and take part in community activities.",
+    "On each car-free day, the following roads will be closed to private cars and motorcycles: Riverside Road (between the Old Bridge and the Night Market), the whole of Market Street, and Temple Avenue as far as its junction with Station Road. Station Road itself will remain open, as will all routes to the main railway station.",
+    "To help people travel without a car, the council will run free shuttle buses every ten minutes from three park-and-ride sites on the edge of the city. Bus routes 4 and 11, which normally pass along Market Street, will be diverted via the ring road. Bicycle-sharing stations inside the closed area will remain in operation, and the council has arranged for them to offer the first hour free of charge.",
+    "Certain vehicles are exempt from the restrictions. These include ambulances, fire engines, police vehicles and vehicles displaying a valid disabled parking permit. Residents whose homes are inside the closed zone may drive to and from their property, but only at walking speed and only if they have registered their vehicle online at least five working days in advance. Deliveries to shops and restaurants will be permitted before 7 a.m. only.",
+    "Drivers who enter the zone without permission during the closure may be fined up to 1,000 baht. A map of the closed roads, together with the online registration form, is available on the council website. Enquiries about the scheme should be directed to the City Transport Office."
+   ],
+   "questions": [
+    {
+     "qid": "M1P2.1",
+     "type": "mc",
+     "q": "What is the main purpose of the notice?",
+     "options": [
+      "To report the results of a road-closure trial held last November",
+      "To encourage residents to register for a bicycle-sharing scheme",
+      "To explain a new road-closure scheme and how it will operate",
+      "To warn drivers about higher fines for speeding in the centre"
+     ]
+    },
+    {
+     "qid": "M1P2.2",
+     "type": "mc",
+     "q": "According to the notice, which of the following roads will remain open to private cars on car-free days?",
+     "options": [
+      "Riverside Road",
+      "Market Street",
+      "Temple Avenue",
+      "Station Road"
+     ]
+    },
+    {
+     "qid": "M1P2.3",
+     "type": "mc",
+     "q": "According to paragraph 3, what will happen to bus routes 4 and 11 on car-free days?",
+     "options": [
+      "They will be cancelled for the day.",
+      "They will follow another route.",
+      "They will run every ten minutes.",
+      "They will carry passengers free."
+     ]
+    },
+    {
+     "qid": "M1P2.4",
+     "type": "mc",
+     "q": "What does the word 'them' in paragraph 3 refer to?",
+     "options": [
+      "the bicycle-sharing stations",
+      "the three park-and-ride sites",
+      "the free shuttle buses",
+      "bus routes 4 and 11"
+     ]
+    },
+    {
+     "qid": "M1P2.5",
+     "type": "mc",
+     "q": "The word 'exempt' in paragraph 4 is closest in meaning to",
+     "options": [
+      "removed",
+      "excused",
+      "prevented",
+      "separated"
+     ]
+    },
+    {
+     "qid": "M1P2.6",
+     "type": "mc",
+     "q": "Which of the following would NOT be allowed to enter the closed area during a car-free day?",
+     "options": [
+      "an ambulance responding to an emergency call",
+      "a car displaying a valid disabled parking permit",
+      "a registered resident driving home at walking speed",
+      "a van delivering goods to a restaurant at 9 a.m."
+     ]
+    },
+    {
+     "qid": "M1P2.7",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 4 that a resident of the closed zone who registers their car only two days before a car-free day",
+     "options": [
+      "may not drive to their home on that day",
+      "will automatically be fined 1,000 baht",
+      "will be given a temporary permit on arrival",
+      "must leave the car at a park-and-ride site"
+     ]
+    },
+    {
+     "qid": "M1P2.8",
+     "type": "mc",
+     "q": "According to the notice, where can people find a map of the closed roads?",
+     "options": [
+      "at the park-and-ride sites",
+      "at the City Transport Office",
+      "on the council website",
+      "at the main railway station"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M1P3",
+   "title": "Keeping the Streak Alive: Games and the Language Learner",
+   "paragraphs": [
+    "Millions of people now begin their day not with coffee but with a five-minute language lesson on their phones. Many of the most popular learning apps borrow heavily from video games: learners earn points for correct answers, collect badges for completing units and compete with strangers on weekly leaderboards. Above all, they are urged to protect their “streak”, the number of consecutive days on which they have practised.",
+    "Supporters argue that these features address one of the oldest problems in language learning: persistence. Acquiring a new language takes hundreds of hours, and most adult learners abandon the effort long before they reach a useful level. A streak turns a distant, abstract goal into a concrete daily target, and the fear of losing a long streak appears to be a powerful motivator. In a recent survey of 900 adult app users in Bangkok and Chiang Mai, two-thirds said that protecting their streak was the main reason they opened the app on days when they felt tired.",
+    "Critics, however, question what exactly is being learned. Because points are usually awarded for speed and accuracy on short, predictable exercises, learners may be tempted to choose the easiest tasks and to repeat lessons they have already mastered. The outcome, warns Ajarn Nattaya Phromma, who teaches English at a university language centre, can be “a long streak and a short memory”. Learners may recognise hundreds of words on a screen yet struggle to produce a single spontaneous sentence in conversation.",
+    "Psychologists raise a further concern. Research on motivation suggests that external rewards can sometimes undermine the inner satisfaction people gain from an activity. If learners study mainly to collect points, their interest may fade once the rewards lose their novelty.",
+    "None of this means that game elements are worthless. Used thoughtfully, they can bring learners back day after day; what matters is what happens once they arrive. The wisest approach is to treat apps as a supplement to, rather than a substitute for, genuine communication with other people."
+   ],
+   "questions": [
+    {
+     "qid": "M1P3.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Language-learning apps have become more popular than traditional classes.",
+      "Game-like features in learning apps bring real benefits as well as risks.",
+      "Learners who keep long streaks usually become fluent speakers more quickly.",
+      "Psychologists recommend points and badges as the best way to motivate learners."
+     ]
+    },
+    {
+     "qid": "M1P3.2",
+     "type": "mc",
+     "q": "The word 'consecutive' in paragraph 1 is closest in meaning to",
+     "options": [
+      "individual",
+      "scheduled",
+      "recent",
+      "successive"
+     ]
+    },
+    {
+     "qid": "M1P3.3",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as a game feature used by learning apps?",
+     "options": [
+      "coins to spend on new lessons",
+      "badges for finishing units",
+      "rankings on weekly leaderboards",
+      "points for correct answers"
+     ]
+    },
+    {
+     "qid": "M1P3.4",
+     "type": "mc",
+     "q": "According to the survey mentioned in paragraph 2, two-thirds of the users",
+     "options": [
+      "had kept a streak for more than a year",
+      "preferred leaderboards to earning badges",
+      "opened the app when tired to save their streak",
+      "felt tired after their daily practice sessions"
+     ]
+    },
+    {
+     "qid": "M1P3.5",
+     "type": "mc",
+     "q": "What does the word 'they' in paragraph 3 refer to?",
+     "options": [
+      "the points",
+      "the learners",
+      "the exercises",
+      "the lessons"
+     ]
+    },
+    {
+     "qid": "M1P3.6",
+     "type": "mc",
+     "q": "What does Ajarn Nattaya most likely mean by 'a long streak and a short memory' in paragraph 3?",
+     "options": [
+      "Learners forget their streak once they stop using the app.",
+      "Long streaks help learners remember more vocabulary.",
+      "Short daily lessons are easier to remember than long ones.",
+      "Daily practice may not lead to lasting, usable knowledge."
+     ]
+    },
+    {
+     "qid": "M1P3.7",
+     "type": "mc",
+     "q": "What is the purpose of paragraph 4?",
+     "options": [
+      "to add another criticism of game-based features",
+      "to explain how psychologists design learning apps",
+      "to show that rewards strengthen inner satisfaction",
+      "to describe a learner who lost interest in an app"
+     ]
+    },
+    {
+     "qid": "M1P3.8",
+     "type": "mc",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "Many popular learning apps borrow heavily from video games.",
+      "Points are usually awarded for speed and accuracy.",
+      "The wisest approach is to treat apps as a supplement.",
+      "Acquiring a new language takes hundreds of hours."
+     ]
+    },
+    {
+     "qid": "M1P3.9",
+     "type": "mc",
+     "q": "The author's attitude toward game elements in language apps can best be described as",
+     "options": [
+      "wholly enthusiastic",
+      "cautiously positive",
+      "strongly disapproving",
+      "largely indifferent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M1P4",
+   "title": "Out of Step with the Sun",
+   "paragraphs": [
+    "Nurses, factory workers, security guards and long-distance drivers keep modern societies running around the clock. A growing body of research suggests, however, that the price of working while others sleep may be paid not only in tiredness but also in long-term health.",
+    "At the centre of the problem is the circadian rhythm, the internal clock of roughly 24 hours that regulates sleep, body temperature, hormone release and digestion. This clock is set mainly by exposure to light. When people work through the night and sleep during the day, their behaviour falls out of step with the signals that the clock evolved to follow, and different systems in the body can become poorly coordinated with one another.",
+    "The consequences appear to be most pronounced for metabolism. In a study that followed 3,100 hospital nurses in central Thailand for eight years, those who had worked rotating night shifts for more than five years were about 30 per cent more likely to develop type 2 diabetes than colleagues who worked days only, even after differences in diet, exercise and body weight had been taken into account. Laboratory experiments offer a possible explanation: when healthy volunteers eat at night, their bodies process sugar less efficiently than when they eat an identical meal during the day.",
+    "Night work has also been associated with higher rates of high blood pressure, heart disease and digestive disorders, although researchers acknowledge that such studies cannot always separate the effects of the shift itself from those of the stress, poor sleep and irregular meals that frequently accompany it.",
+    "Since giving up night work is not an option for most of the people affected, attention has turned to reducing the harm. Sleep specialists recommend that employers rotate shifts in a “forward” direction, from mornings to evenings to nights, because the body adjusts more easily to a later schedule than to an earlier one. Workers are advised to avoid heavy meals between midnight and 6 a.m., to keep their bedrooms completely dark when sleeping during the day, and to wear sunglasses on the journey home to limit their exposure to morning light.",
+    "“We are never going to abolish the night shift,” says Dr. Wichai Thammasiri, an occupational health physician who was not involved in the nurses study. “But we can certainly design it so that it does far less damage.”"
+   ],
+   "questions": [
+    {
+     "qid": "M1P4.1",
+     "type": "mc",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Hospital Nurses Are Leaving Night Work",
+      "Night Work and Health: Risks and Remedies",
+      "How Light Sets the Human Body Clock",
+      "Diabetes Rates Soar Among Thai Factory Workers"
+     ]
+    },
+    {
+     "qid": "M1P4.2",
+     "type": "mc",
+     "q": "According to paragraph 2, what can happen when people work at night and sleep during the day?",
+     "options": [
+      "Bodily systems may stop working in harmony.",
+      "Their bodies stop releasing hormones at night.",
+      "Their internal clock switches to a 12-hour cycle.",
+      "They become more sensitive to bright light."
+     ]
+    },
+    {
+     "qid": "M1P4.3",
+     "type": "mc",
+     "q": "The word 'pronounced' in paragraph 3 is closest in meaning to",
+     "options": [
+      "spoken",
+      "announced",
+      "predictable",
+      "noticeable"
+     ]
+    },
+    {
+     "qid": "M1P4.4",
+     "type": "mc",
+     "q": "The phrase 'even after differences in diet, exercise and body weight had been taken into account' in paragraph 3 suggests that",
+     "options": [
+      "the night-shift nurses ate less healthily than the day-shift nurses",
+      "body weight was the main cause of diabetes among the nurses",
+      "lifestyle differences alone could not explain the higher risk",
+      "the researchers did not collect data on the nurses' diets"
+     ]
+    },
+    {
+     "qid": "M1P4.5",
+     "type": "mc",
+     "q": "Why does the writer mention laboratory experiments in paragraph 3?",
+     "options": [
+      "to suggest why the study produced its result",
+      "to show that the nurses study was poorly designed",
+      "to advise healthy volunteers not to eat at night",
+      "to compare Thai nurses with nurses in other countries"
+     ]
+    },
+    {
+     "qid": "M1P4.6",
+     "type": "mc",
+     "q": "What does the word 'those' in paragraph 4 refer to?",
+     "options": [
+      "the studies",
+      "the effects",
+      "the researchers",
+      "the rates"
+     ]
+    },
+    {
+     "qid": "M1P4.7",
+     "type": "mc",
+     "q": "According to paragraph 5, why do sleep specialists recommend a 'forward' rotation of shifts?",
+     "options": [
+      "It reduces the total number of night shifts.",
+      "It allows workers to sleep in darker rooms.",
+      "It gives workers more days off between shifts.",
+      "The body adjusts better to later hours."
+     ]
+    },
+    {
+     "qid": "M1P4.8",
+     "type": "mc",
+     "q": "Which of the following is NOT recommended in paragraph 5?",
+     "options": [
+      "avoiding heavy meals in the early hours of the morning",
+      "keeping the bedroom dark when sleeping during the day",
+      "taking a short nap in the middle of a night shift",
+      "wearing sunglasses while travelling home after work"
+     ]
+    },
+    {
+     "qid": "M1P4.9",
+     "type": "mc",
+     "q": "The word 'abolish' in paragraph 6 is closest in meaning to",
+     "options": [
+      "eliminate",
+      "shorten",
+      "reorganise",
+      "criticise"
+     ]
+    },
+    {
+     "qid": "M1P4.10",
+     "type": "mc",
+     "q": "Dr. Wichai's attitude toward night work can best be described as",
+     "options": [
+      "alarmed",
+      "dismissive",
+      "enthusiastic",
+      "pragmatic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M1P5",
+   "title": "Environmental Change and Human Mobility: Patterns, Concepts and Policy Challenges",
+   "paragraphs": [
+    "Few images of climate change have proved as powerful as that of the “climate refugee”: a person driven from a sinking island or a parched farm to seek safety in a distant country. Forecasts of hundreds of millions of people crossing international borders by the middle of the century are frequently repeated in campaigns and news reports. Yet researchers who study the links between environment and migration paint a far more complicated picture. Environmental change rarely acts alone; it interacts with poverty, land ownership, conflict and government policy, which is why many analysts describe it as a “threat multiplier” rather than a direct cause of movement.",
+    "A useful starting point is the distinction between sudden-onset and slow-onset events. Sudden-onset hazards, such as floods, cyclones and landslides, can displace very large numbers of people within hours. Most of this displacement, however, is short in both distance and duration: people typically shelter with relatives or in temporary camps nearby and return once the water recedes. A household survey conducted after a severe cyclone on the Bay of Bengal coast, for instance, found that more than four in five displaced families were back in their villages within six months. The picture changes when disasters strike the same area repeatedly. Each event erodes savings and assets, and a family that recovered from the first flood may lack the means to rebuild after the third.",
+    "Slow-onset processes, by contrast, include rising sea levels, the intrusion of salt water into farmland, prolonged drought and the gradual degradation of soil. Their effects accumulate over years or decades, and the migration they produce is correspondingly gradual. Rather than abandoning their homes all at once, households often diversify: one or two younger members move to a city or abroad, while the rest of the family remains on the land, supported by the remittances that migrants send home. In the Mekong Delta, where rising salinity has reduced rice yields in many coastal districts, this pattern has become common. Yet when such migrants are interviewed, most cite jobs and wages rather than the environment as their reason for leaving, which makes the role of climate notoriously difficult to measure.",
+    "A second point that popular accounts tend to overlook is that the great majority of environmentally related migration takes place within national borders. Rural people who leave drought-stricken or flood-prone areas usually move to nearby towns or to the capital, where they can draw on existing social networks and where no passport or visa is required. This internal movement has consequences of its own. Newcomers often settle in informal neighbourhoods on low-lying or unstable land that other residents have avoided, and these areas are frequently more exposed to flooding and extreme heat than the villages that migrants left behind. In this sense, poorly managed urban growth can simply relocate risk rather than reduce it.",
+    "Equally important, migration requires resources. Moving to a city means paying for transport, finding accommodation and surviving without income until work is found, and these costs are beyond the reach of the poorest households. As a result, the people most exposed to environmental hazards are not necessarily the ones most likely to move. Researchers have used the term “trapped populations” to describe groups who wish to leave a dangerous area but cannot, as well as those so tied to the land that they choose not to. Viewed from this angle, the ability to migrate is itself a form of adaptation, and its absence may signal greater, not lesser, vulnerability.",
+    "The language used to describe these movements remains contested. Under the 1951 Refugee Convention, a refugee is someone who has crossed an international border owing to a well-founded fear of persecution; environmental hazards fall outside this definition, so in legal terms there is no such thing as a climate refugee. Some advocates nonetheless favour the term precisely because it conveys urgency and implies a duty of protection. Others reject it. Leaders in several Pacific island nations, for example, have objected that it portrays their citizens as helpless victims, calling instead for “migration with dignity”, planned well in advance. Most researchers now prefer more neutral expressions, such as “climate-related mobility”, which cover displacement, voluntary migration and planned relocation alike.",
+    "Policy responses have struggled to keep pace. No binding international agreement protects people who cross borders because of environmental change, and only a handful of governments offer humanitarian visas on these grounds. At the national level, several countries have begun to incorporate mobility into their adaptation plans. Fiji, for instance, has moved a number of coastal villages to higher ground and has drawn up guidelines for future relocations. Such schemes, however, are expensive and socially delicate. Communities may lose access to fishing grounds, farmland and burial sites, and resettlement that is imposed rather than negotiated has a long history of leaving people poorer than before.",
+    "What emerges from this body of research is that migration should be understood neither simply as a failure of adaptation nor as a looming security threat. Policies that aim only to keep people in place are likely to fail, and those that treat migrants mainly as a burden risk making their situation worse. A more promising approach would pursue three goals at once: reducing the pressures that force people to leave, enabling those who do move to do so safely and legally, and supporting those who remain. In my view, the central question for the coming decades is not whether people will move in response to a changing climate, but whether they will be able to do so in safety."
+   ],
+   "questions": [
+    {
+     "qid": "M1P5.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most people displaced by sudden disasters return home within a few months.",
+      "Climate-related migration is more complex than the popular image suggests.",
+      "The 1951 Refugee Convention should be revised to protect climate refugees.",
+      "Governments should move vulnerable coastal villages away from the sea."
+     ]
+    },
+    {
+     "qid": "M1P5.2",
+     "type": "mc",
+     "q": "The word 'parched' in paragraph 1 is closest in meaning to",
+     "options": [
+      "flooded",
+      "abandoned",
+      "dried-out",
+      "overcrowded"
+     ]
+    },
+    {
+     "qid": "M1P5.3",
+     "type": "mc",
+     "q": "According to paragraph 2, most displacement caused by sudden-onset hazards is",
+     "options": [
+      "permanent and long-distance",
+      "directed toward other countries",
+      "organised by national governments",
+      "brief and close to home"
+     ]
+    },
+    {
+     "qid": "M1P5.4",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 2 that repeated disasters in the same area",
+     "options": [
+      "may eventually force families to leave for good",
+      "cause less damage as families learn to prepare",
+      "are less common than single, isolated disasters",
+      "make relatives more willing to offer shelter"
+     ]
+    },
+    {
+     "qid": "M1P5.5",
+     "type": "mc",
+     "q": "What does the word 'they' in paragraph 3 refer to?",
+     "options": [
+      "years or decades",
+      "slow-onset processes",
+      "younger household members",
+      "coastal farmland"
+     ]
+    },
+    {
+     "qid": "M1P5.6",
+     "type": "mc",
+     "q": "According to paragraph 3, why is the role of climate in slow-onset migration difficult to measure?",
+     "options": [
+      "Few households allow researchers to interview them.",
+      "Salinity levels in the delta change every year.",
+      "Most migrants return to their villages quickly.",
+      "Migrants usually give economic reasons for moving."
+     ]
+    },
+    {
+     "qid": "M1P5.7",
+     "type": "mc",
+     "q": "The word 'overlook' in paragraph 4 is closest in meaning to",
+     "options": [
+      "ignore",
+      "supervise",
+      "exaggerate",
+      "look down on"
+     ]
+    },
+    {
+     "qid": "M1P5.8",
+     "type": "mc",
+     "q": "Why does the author mention informal neighbourhoods on low-lying or unstable land in paragraph 4?",
+     "options": [
+      "to explain why most migrants prefer to move abroad",
+      "to argue that cities should stop accepting rural migrants",
+      "to show that moving to a city may not make migrants safer",
+      "to describe the villages that migrants have left behind"
+     ]
+    },
+    {
+     "qid": "M1P5.9",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that a rise in household incomes in a hazard-prone area could",
+     "options": [
+      "reduce the number of people who wish to leave",
+      "lower the area's exposure to environmental hazards",
+      "make it harder for researchers to study migration",
+      "make it more likely that some residents will leave"
+     ]
+    },
+    {
+     "qid": "M1P5.10",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 7 as a drawback of relocating communities?",
+     "options": [
+      "the high cost of moving whole villages",
+      "tension with existing host communities",
+      "loss of access to burial sites",
+      "loss of access to fishing grounds"
+     ]
+    },
+    {
+     "qid": "M1P5.11",
+     "type": "mc",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Policies that aim only to keep people in place are likely to fail.",
+      "Most environmentally related migration takes place within national borders.",
+      "Environmental hazards fall outside the 1951 legal definition of a refugee.",
+      "Rising salinity has reduced rice yields in parts of the Mekong Delta."
+     ]
+    },
+    {
+     "qid": "M1P5.12",
+     "type": "mc",
+     "q": "How is paragraph 3 related to paragraph 2?",
+     "options": [
+      "It provides further examples of the hazards described in paragraph 2.",
+      "It challenges the survey findings reported in paragraph 2.",
+      "It turns to a contrasting type of change and its effects.",
+      "It explains the causes of the disasters mentioned in paragraph 2."
+     ]
+    },
+    {
+     "qid": "M1P5.13",
+     "type": "short",
+     "q": "Rather than a direct cause of movement, what do many analysts call environmental change? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P5.14",
+     "type": "short",
+     "q": "According to paragraph 3, what do migrants send home that helps the rest of the family remain on the land? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P5.15",
+     "type": "short",
+     "q": "What term have researchers used for groups who wish to leave a dangerous area but are unable to do so? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P5.16",
+     "type": "short",
+     "q": "What did leaders in several Pacific island nations call for instead of having their citizens described as climate refugees? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P5.17",
+     "type": "short",
+     "q": "According to paragraph 7, where has Fiji moved a number of coastal villages? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "M1P6",
+   "title": "The Road Ahead: Autonomous Vehicles in Transport Policy",
+   "paragraphs": [
+    "Each year more than a million people die on the world's roads, and tens of millions more are injured. Thailand has long had one of the highest rates of road deaths in Asia, with motorcyclists accounting for the majority of victims. Against this background, the appeal of the autonomous vehicle is easy to understand. A car that never drinks, never falls asleep and never checks a message while driving could, its supporters argue, prevent most of these deaths, while also offering independent mobility to elderly and disabled people. Whether that promise can be fulfilled, however, depends on technical, legal and social questions that remain largely unresolved.",
+    "It is first necessary to clarify what is meant by “autonomous”. Engineers commonly distinguish six levels of automation, ranging from level 0, in which the human performs every driving task, to level 5, in which the vehicle can drive anywhere, in any conditions, without human involvement. Most new cars marketed as self-driving in fact operate at level 2: they can steer, brake and accelerate on their own, but the driver must supervise continuously and be ready to intervene at any moment. Fully driverless taxis do exist, but only in a few cities and only within carefully mapped zones, often described as “geofenced” areas, where conditions are relatively predictable.",
+    "The central safety argument rests on a frequently quoted statistic: human error is a contributing factor in more than nine out of ten crashes. If machines replace humans, the reasoning goes, most crashes will disappear. Critics point out that this conclusion does not follow. The statistic shows only that a human mistake usually appears somewhere in the chain of events leading to a crash; it does not show that a computer would have avoided that mistake, and automated systems introduce errors of their own, such as misidentifying an unusual object. Moreover, fatal crashes are rare relative to the distance driven, so a driverless fleet would need to cover hundreds of millions of kilometres before its safety record could be compared with that of human drivers with any confidence.",
+    "A further difficulty concerns the transfer of control between machine and human. At levels 2 and 3, the system handles routine driving but may hand control back to the driver when it meets a situation it cannot manage. Decades of research in aviation and industrial automation show that people are poor at monitoring a process that rarely requires their input: attention drifts, reaction times lengthen, and skills that are seldom practised gradually decline. A driver who has been passively watching the road for forty minutes may need several seconds to grasp an emergency, and at motorway speed a car covers more than thirty metres every second. Ironically, therefore, partial automation may in some circumstances be more hazardous than either full automation or none at all.",
+    "Questions of liability are equally pressing. When a human driver causes a crash, legal responsibility is usually clear. When a vehicle is driving itself, however, responsibility might plausibly rest with the manufacturer, the developer of the software, the supplier of the digital maps, or an owner who failed to install an update. Several countries have begun to revise their laws so that the company that built and authorised the system, rather than the person in the driver's seat, is held responsible while the automated mode is engaged. Insurers, meanwhile, will need access to the vehicle's data to establish what happened, which raises further questions about who owns that data and who may examine it.",
+    "In the public mind, the ethical debate has been dominated by variations on the so-called trolley problem: should a car that cannot avoid a collision swerve to save five pedestrians at the cost of its own passenger? A large online survey that gathered millions of responses from around the world found that people's preferences in such dilemmas differed noticeably between cultures. Many engineers, however, regard these scenarios as a distraction, since situations in which a vehicle must choose between victims are extremely rare. More important, they argue, are everyday ethical questions: how much risk society should accept from a new technology, how that risk is distributed between passengers, pedestrians and cyclists, and how the vast quantities of data collected by vehicles are used.",
+    "Infrastructure presents a different kind of challenge. Automated vehicles rely on clearly painted lane markings, consistent road signs and detailed digital maps that must be constantly updated. Many roads in Southeast Asia, where faded markings, temporary roadworks, street vendors and dense motorcycle traffic are part of everyday driving, fall far short of this ideal. Upgrading them, or installing the roadside sensors that allow vehicles to communicate with traffic signals, would require heavy public investment. There is a risk, therefore, that the benefits of automation will flow first to wealthy cities and well-maintained highways, widening the gap between those places and the rural areas where road deaths are often highest.",
+    "Finally, automation would have significant consequences for employment. Driving is one of the largest sources of work for people without university degrees, from long-distance lorry drivers to taxi and motorcycle-taxi riders. Optimists note that the transition will be gradual and that new jobs will emerge in fleet maintenance, remote supervision and data management; yet there is little reason to assume that these jobs will go to the same workers, in the same places. Taken together, the evidence suggests that autonomous vehicles are neither the cure for road deaths that their promoters claim nor the menace that their opponents fear. Their eventual impact will depend less on the technology itself than on the regulations, investments and honest evaluation that accompany it."
+   ],
+   "questions": [
+    {
+     "qid": "M1P6.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Autonomous vehicles will soon eliminate most deaths on the world's roads.",
+      "Driverless cars have already proved safer than human drivers in most cities.",
+      "The benefits of driverless cars depend on many unresolved questions.",
+      "Governments should invest heavily in roads to prepare for driverless cars."
+     ]
+    },
+    {
+     "qid": "M1P6.2",
+     "type": "mc",
+     "q": "The word 'fulfilled' in paragraph 1 is closest in meaning to",
+     "options": [
+      "realised",
+      "explained",
+      "measured",
+      "promoted"
+     ]
+    },
+    {
+     "qid": "M1P6.3",
+     "type": "mc",
+     "q": "According to paragraph 2, cars that operate at level 2",
+     "options": [
+      "can drive anywhere without any human involvement",
+      "require constant supervision by the driver",
+      "are mainly used as taxis in a few large cities",
+      "cannot steer or brake without the driver's help"
+     ]
+    },
+    {
+     "qid": "M1P6.4",
+     "type": "mc",
+     "q": "How is paragraph 3 organised?",
+     "options": [
+      "A problem is described and several solutions are then proposed.",
+      "Two sets of statistics are compared to show which is more reliable.",
+      "Events in the development of automated cars are given in time order.",
+      "A common argument is presented and its reasoning is then questioned."
+     ]
+    },
+    {
+     "qid": "M1P6.5",
+     "type": "mc",
+     "q": "What does the word 'its' in paragraph 3 refer to?",
+     "options": [
+      "the chain of events",
+      "the statistic",
+      "a driverless fleet",
+      "an automated system"
+     ]
+    },
+    {
+     "qid": "M1P6.6",
+     "type": "mc",
+     "q": "The word 'seldom' in paragraph 4 is closest in meaning to",
+     "options": [
+      "rarely",
+      "carefully",
+      "regularly",
+      "recently"
+     ]
+    },
+    {
+     "qid": "M1P6.7",
+     "type": "mc",
+     "q": "Why does the author mention that a car covers more than thirty metres every second at motorway speed?",
+     "options": [
+      "to argue that speed limits on motorways should be lowered",
+      "to compare the speed of automated and human-driven cars",
+      "to explain why automated systems need detailed digital maps",
+      "to stress how costly a slow human response can be"
+     ]
+    },
+    {
+     "qid": "M1P6.8",
+     "type": "mc",
+     "q": "The word 'pressing' in paragraph 5 is closest in meaning to",
+     "options": [
+      "forceful",
+      "urgent",
+      "confusing",
+      "expensive"
+     ]
+    },
+    {
+     "qid": "M1P6.9",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a party that might be held responsible when a self-driving vehicle crashes?",
+     "options": [
+      "the company that supplied the digital maps",
+      "an owner who did not install an update",
+      "the government that approved the vehicle",
+      "the developer of the vehicle's software"
+     ]
+    },
+    {
+     "qid": "M1P6.10",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that many engineers believe",
+     "options": [
+      "rare dilemmas have received more attention than they deserve",
+      "cultural differences should decide how each car is programmed",
+      "cars should always be programmed to protect their own passengers",
+      "online surveys are the most reliable guide to ethical decisions"
+     ]
+    },
+    {
+     "qid": "M1P6.11",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 7 that, without heavy public investment, automated vehicles",
+     "options": [
+      "will be banned from most roads in Southeast Asia",
+      "will mainly be used by street vendors and motorcyclists",
+      "will make digital maps unnecessary in rural areas",
+      "may help least where road deaths are highest"
+     ]
+    },
+    {
+     "qid": "M1P6.12",
+     "type": "mc",
+     "q": "The author's attitude toward autonomous vehicles can best be described as",
+     "options": [
+      "openly enthusiastic",
+      "even-handed",
+      "deeply hostile",
+      "largely indifferent"
+     ]
+    },
+    {
+     "qid": "M1P6.13",
+     "type": "short",
+     "q": "What word is often used to describe the carefully mapped zones in which fully driverless taxis operate? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P6.14",
+     "type": "short",
+     "q": "According to paragraph 4, what may in some circumstances be more hazardous than either full automation or none at all? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P6.15",
+     "type": "short",
+     "q": "What is the name of the well-known dilemma, mentioned in paragraph 6, about whether a car should swerve to save five pedestrians? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P6.16",
+     "type": "short",
+     "q": "What could be installed to allow vehicles to communicate with traffic signals? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M1P6.17",
+     "type": "short",
+     "q": "Apart from fleet maintenance and data management, in which area do optimists expect new jobs to emerge? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "M2P1",
+   "title": "Finger-Prick Tests Come to Neighbourhood Clinics",
+   "paragraphs": [
+    "Adults aged 35 and over in one of Thailand's largest north-eastern provinces can now have their blood sugar checked free of charge at their local community health centre. The six-month campaign, which began on Monday, aims to find people who have type 2 diabetes but are unaware of it.",
+    "The test itself takes less than five minutes. A nurse pricks the patient's finger and measures the glucose level in a single drop of blood. Anyone with a high reading is asked to return on another morning, having eaten nothing since the previous evening, for a second test that either confirms or rules out the condition.",
+    "According to the provincial health office, roughly one in three adults with diabetes in the region has never been diagnosed. Many feel perfectly well for years while raised blood sugar quietly damages their eyes, kidneys and nerves. “By the time some patients come to us, they already have complications that could have been prevented,” said Dr. Anucha Phromsri, who is coordinating the campaign.",
+    "Village health volunteers will visit homes to encourage residents to take part, paying particular attention to those who are overweight or have a family history of the disease. People whose diagnosis is confirmed will be referred to a clinic for treatment and advice on diet and exercise. Officials concede that turnout may be low during the rice-planting season, when many villagers work long hours in the fields, and some centres will therefore open on Saturday mornings as well."
+   ],
+   "questions": [
+    {
+     "qid": "M2P1.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Village health volunteers are being trained to diagnose and treat diabetes in people's homes.",
+      "Many adults in the north-east already suffer from preventable diabetes complications.",
+      "A province is offering free blood-sugar tests to detect diabetes that has gone unnoticed.",
+      "Diabetes patients in the province will receive free treatment at local clinics."
+     ]
+    },
+    {
+     "qid": "M2P1.2",
+     "type": "mc",
+     "q": "According to paragraph 2, what happens to people whose first test gives a high reading?",
+     "options": [
+      "They come back after fasting overnight for a second test.",
+      "They are sent straight to hospital to begin treatment.",
+      "They receive advice on diet and exercise from a nurse.",
+      "They have blood taken from the arm instead of the finger."
+     ]
+    },
+    {
+     "qid": "M2P1.3",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned about the first screening test?",
+     "options": [
+      "It takes less than five minutes to complete.",
+      "It is performed by a nurse at the centre.",
+      "It requires a referral letter from a doctor.",
+      "It measures glucose in a drop of blood."
+     ]
+    },
+    {
+     "qid": "M2P1.4",
+     "type": "mc",
+     "q": "What does 'Many' in paragraph 3 refer to?",
+     "options": [
+      "officials working at the provincial health office",
+      "patients who already suffer from complications",
+      "adults who have recently had a blood test",
+      "adults with diabetes who have not been diagnosed"
+     ]
+    },
+    {
+     "qid": "M2P1.5",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 3 that",
+     "options": [
+      "most diabetes complications cannot be treated once they appear",
+      "people cannot rely on how they feel to know if they have diabetes",
+      "the provincial health office has underestimated the number of cases",
+      "diabetes damages the kidneys more often than it damages the eyes"
+     ]
+    },
+    {
+     "qid": "M2P1.6",
+     "type": "mc",
+     "q": "According to paragraph 4, village health volunteers will pay particular attention to residents who",
+     "options": [
+      "are younger than 35 years of age",
+      "have already started diabetes treatment",
+      "work long hours in the rice fields",
+      "have relatives with the disease"
+     ]
+    },
+    {
+     "qid": "M2P1.7",
+     "type": "mc",
+     "q": "The word 'concede' in paragraph 4 is closest in meaning to",
+     "options": [
+      "insist",
+      "admit",
+      "regret",
+      "doubt"
+     ]
+    },
+    {
+     "qid": "M2P1.8",
+     "type": "mc",
+     "q": "Why does the writer mention the rice-planting season in paragraph 4?",
+     "options": [
+      "to explain why some centres will open on Saturdays",
+      "to explain why the campaign will last for six months",
+      "to show that diabetes is more common among farmers",
+      "to suggest that villagers have little time to eat well"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M2P2",
+   "title": "Counting the Days Until the Rains Return",
+   "paragraphs": [
+    "For the third year in a row, farming communities across Thailand's lower north-east are facing severe water shortages as the dry season peaks. In several districts, the reservoirs that supply both households and fields now hold less than a fifth of their capacity, and officials warn that some could run dry before the monsoon arrives in late May.",
+    "To stretch the remaining supply, local authorities have introduced rationing. Piped water now reaches homes for only four hours each morning, and farmers have been asked not to plant a second rice crop. Tanker trucks deliver drinking water twice a week to villages at the far end of the supply network, where taps often run dry.",
+    "Rice growers have been hit particularly hard. Without irrigation, a dry-season crop is impossible, and many families depend on it to repay loans for seed and fertiliser. “We can survive one bad year,” said Somchai Inthawong, who farms near one of the worst-affected reservoirs. “Three in a row is something else.” Several of his neighbours' children have already left for construction jobs in Bangkok.",
+    "Yet there are also signs of adaptation. Some farmers have switched to maize, mung beans or melons, which need far less water than rice. Others have dug ponds on their land to store rain during the wet season, an approach long promoted by agricultural extension officers. In one sub-district, a cooperative of 60 households now shares a solar-powered pump that draws groundwater for drip irrigation.",
+    "Experts caution that such measures can only go so far. Rainfall in the region has become increasingly erratic, and groundwater, if pumped too heavily, may itself run short. Hydrologist Dr. Pranee Saengthong believes the long-term answer lies in basin-wide water management rather than village-by-village solutions. “Farm ponds help,” she said, “but they are no substitute for planning.”"
+   ],
+   "questions": [
+    {
+     "qid": "M2P2.1",
+     "type": "mc",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "New Reservoirs Promise a Quick End to Rural Drought",
+      "Villages Ration Water and Adapt as Reservoirs Shrink",
+      "Rice Prices Climb as Farmers Give Up Their Second Crop",
+      "Young Villagers Leave Their Farms for Jobs in the Capital"
+     ]
+    },
+    {
+     "qid": "M2P2.2",
+     "type": "mc",
+     "q": "According to paragraph 1, the reservoirs in several districts",
+     "options": [
+      "hold under 20 percent of their full capacity",
+      "have lost one-fifth of their water since last year",
+      "have run completely dry for the third year running",
+      "will be refilled by the end of May at the latest"
+     ]
+    },
+    {
+     "qid": "M2P2.3",
+     "type": "mc",
+     "q": "The word 'stretch' in paragraph 2 is closest in meaning to",
+     "options": [
+      "share out fairly",
+      "measure accurately",
+      "make last longer",
+      "move further"
+     ]
+    },
+    {
+     "qid": "M2P2.4",
+     "type": "mc",
+     "q": "What does 'it' in paragraph 3 refer to?",
+     "options": [
+      "irrigation",
+      "the rationing scheme",
+      "a farm loan",
+      "a dry-season crop"
+     ]
+    },
+    {
+     "qid": "M2P2.5",
+     "type": "mc",
+     "q": "What can be inferred from Somchai Inthawong's comments in paragraph 3?",
+     "options": [
+      "Repeated dry years have exhausted families' ability to cope.",
+      "He intends to look for construction work in Bangkok.",
+      "This year's shortage is less serious than in previous years.",
+      "He holds local officials responsible for the water shortage."
+     ]
+    },
+    {
+     "qid": "M2P2.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a way farmers have adapted to the shortage?",
+     "options": [
+      "growing crops that need less water than rice",
+      "buying drinking water from tanker trucks",
+      "digging ponds to collect rain in the wet season",
+      "sharing a pump to irrigate crops with groundwater"
+     ]
+    },
+    {
+     "qid": "M2P2.7",
+     "type": "mc",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Piped water now reaches homes for only four hours each morning.",
+      "Without irrigation, a dry-season crop is impossible.",
+      "Rainfall in the region has become increasingly erratic.",
+      "The long-term answer lies in basin-wide water management."
+     ]
+    },
+    {
+     "qid": "M2P2.8",
+     "type": "mc",
+     "q": "What is the main purpose of paragraph 5?",
+     "options": [
+      "to describe a new technology for irrigating the rice fields",
+      "to explain why rainfall has become less predictable",
+      "to point out the limits of the local measures described",
+      "to criticise farmers for using too much groundwater"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M2P3",
+   "title": "Waiting to Be Heard",
+   "paragraphs": [
+    "When Napat, a second-year engineering student, finally sought help for the anxiety that had kept him awake for most of a semester, he was told that the counselling centre's next free appointment was five weeks away. His experience is far from unusual. Universities in Thailand and elsewhere report that demand for counselling has outgrown their capacity to provide it, and month-long waiting lists are now common at examination time.",
+    "Part of this increase is welcome. Today's students are more willing than earlier generations to talk openly about depression and anxiety. Yet stigma has not disappeared. In a 2023 survey of 1,500 undergraduates at four Thai universities, almost half of those who reported significant distress had not sought help, most often because they feared being seen as weak or worried that their families would find out.",
+    "To bridge the gap, many institutions have turned to peer support. Trained student volunteers staff drop-in rooms and messaging lines, offering a sympathetic ear and referring classmates to professionals when necessary. Supporters argue that students often find it easier to confide in someone of their own age. Critics warn, however, that volunteers can be overwhelmed by the problems they encounter and must be closely supervised.",
+    "Online counselling has expanded even faster. Since the pandemic, many centres have offered video sessions and text-based chat, allowing students to seek help from their own rooms without being seen entering a counselling office. For some, this privacy is precisely what makes the first step possible. For others, a screen is a poor substitute for sitting in the same room as a counsellor.",
+    "None of these approaches, on its own, will shorten the queue. Specialists increasingly argue that mental health should be a responsibility shared across the university, with lecturers trained to recognise warning signs and assessments scheduled so that pressure is not concentrated into a few weeks. Napat did eventually receive help, and he now volunteers as a peer supporter himself. He would rather, he says, that no one else had to wait as long as he did."
+   ],
+   "questions": [
+    {
+     "qid": "M2P3.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Online counselling has replaced face-to-face sessions at most universities.",
+      "Stigma is the main reason why university counselling services are overloaded.",
+      "Student volunteers are more effective than professional counsellors.",
+      "Universities are trying several ways to meet rising demand for support."
+     ]
+    },
+    {
+     "qid": "M2P3.2",
+     "type": "mc",
+     "q": "Why does the writer begin the passage with Napat's experience?",
+     "options": [
+      "to illustrate a widespread problem with a single case",
+      "to show that engineering students are especially anxious",
+      "to criticise one university for its poor management",
+      "to explain how peer support schemes first began"
+     ]
+    },
+    {
+     "qid": "M2P3.3",
+     "type": "mc",
+     "q": "According to the 2023 survey, distressed students who did not seek help most often",
+     "options": [
+      "could not obtain an appointment quickly enough",
+      "feared looking weak or their families finding out",
+      "preferred to talk about their problems with friends",
+      "were unaware that counselling services existed"
+     ]
+    },
+    {
+     "qid": "M2P3.4",
+     "type": "mc",
+     "q": "The word 'confide' in paragraph 3 is closest in meaning to",
+     "options": [
+      "take advice",
+      "compete",
+      "open up",
+      "spend time"
+     ]
+    },
+    {
+     "qid": "M2P3.5",
+     "type": "mc",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "student volunteers",
+      "critics of peer support",
+      "classmates seeking help",
+      "professional counsellors"
+     ]
+    },
+    {
+     "qid": "M2P3.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a feature of online counselling?",
+     "options": [
+      "sessions conducted by video",
+      "text-based chat with a counsellor",
+      "access from students' own rooms",
+      "help available around the clock"
+     ]
+    },
+    {
+     "qid": "M2P3.7",
+     "type": "mc",
+     "q": "The word 'concentrated' in paragraph 5 is closest in meaning to",
+     "options": [
+      "lessened",
+      "compressed",
+      "ignored",
+      "spread out"
+     ]
+    },
+    {
+     "qid": "M2P3.8",
+     "type": "mc",
+     "q": "What can be inferred about Napat from paragraph 5?",
+     "options": [
+      "He still has difficulty getting counselling appointments.",
+      "He regrets having sought help from the university.",
+      "His own experience influenced his decision to volunteer.",
+      "He believes volunteers should replace counsellors."
+     ]
+    },
+    {
+     "qid": "M2P3.9",
+     "type": "mc",
+     "q": "Which of the following best describes the writer's tone in the passage?",
+     "options": [
+      "alarmed and accusing",
+      "balanced and informative",
+      "light-hearted and humorous",
+      "bitter and sarcastic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M2P4",
+   "title": "Study Puts Ride-Hailing Under the Microscope",
+   "paragraphs": [
+    "Ride-hailing apps were once promoted as a cure for urban traffic. By making it easy to summon a car whenever one was needed, the argument went, they would persuade city dwellers to give up their own vehicles and leave roads less crowded. A new study of five large Southeast Asian cities suggests that the reality has been rather different.",
+    "Researchers at a regional transport institute combined anonymised trip records from two ride-hailing companies with GPS data from taxis, buses and private cars collected between 2017 and 2023. In the central business districts of all five cities, they found, average speeds during the evening rush hour fell by between 6 and 11 percent over the period, and ride-hailing vehicles accounted for roughly a third of the additional distance driven.",
+    "A major reason, the authors argue, is the time drivers spend on the road with no one in the back seat. After a drop-off, a driver typically cruises or waits nearby until the app assigns another trip, then heads to the next pick-up point. In the study, these empty journeys made up nearly 40 percent of all distance covered by ride-hailing vehicles.",
+    "Equally important is what passengers would otherwise have done. When the researchers surveyed 4,000 app users, only about one in five said they would have driven their own car if ride-hailing had not been available. Far more said they would have taken a bus or train, walked, or not made the trip at all. Many app journeys, in other words, do not replace car trips; they are added on top of them.",
+    "None of this means that the services offer no benefits. They have improved mobility for older people and people with disabilities, and they fill gaps late at night when public transport stops running. Shared rides, in which strangers heading the same way travel together, also reduce the number of vehicles per passenger, although they remain a small fraction of bookings.",
+    "The authors recommend congestion charges for all vehicles entering central areas at peak times, along with incentives to encourage shared trips. Dr. Kittipong Wongsa, the study's lead author, believes such measures are overdue. “Cities have spent decades trying to get people out of private cars,” he said. “It would be a pity if a new technology quietly undid that progress.”"
+   ],
+   "questions": [
+    {
+     "qid": "M2P4.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Ride-hailing companies have refused to share their trip data with researchers.",
+      "Research suggests ride-hailing has added to, rather than eased, city-centre traffic.",
+      "Congestion charges have cut traffic in five large Southeast Asian cities.",
+      "Most ride-hailing passengers have given up their private cars since the apps appeared."
+     ]
+    },
+    {
+     "qid": "M2P4.2",
+     "type": "mc",
+     "q": "The word 'summon' in paragraph 1 is closest in meaning to",
+     "options": [
+      "purchase",
+      "repair",
+      "request",
+      "share"
+     ]
+    },
+    {
+     "qid": "M2P4.3",
+     "type": "mc",
+     "q": "According to paragraph 2, average traffic speeds in the central business districts during the evening rush hour",
+     "options": [
+      "dropped by 6 to 11 percent over the study period",
+      "fell by roughly one-third between 2017 and 2023",
+      "declined by almost 40 percent in each of the five cities",
+      "rose slightly in two of the five cities studied"
+     ]
+    },
+    {
+     "qid": "M2P4.4",
+     "type": "mc",
+     "q": "The phrase 'these empty journeys' in paragraph 3 refers to",
+     "options": [
+      "rides in which strangers share a car",
+      "bus and train trips replaced by apps",
+      "bookings cancelled before a pick-up",
+      "driving done without any passenger"
+     ]
+    },
+    {
+     "qid": "M2P4.5",
+     "type": "mc",
+     "q": "It can be inferred from paragraphs 1 and 4 that early supporters of ride-hailing",
+     "options": [
+      "wrongly assumed that app trips would mostly replace car trips",
+      "expected most passengers to share rides with strangers",
+      "intended the apps to take passengers away from buses",
+      "underestimated how popular the apps would become among city dwellers"
+     ]
+    },
+    {
+     "qid": "M2P4.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a source of information used in the study?",
+     "options": [
+      "trip records provided by ride-hailing firms",
+      "GPS data from buses and private vehicles",
+      "a survey of people who use the apps",
+      "video from roadside traffic cameras"
+     ]
+    },
+    {
+     "qid": "M2P4.7",
+     "type": "mc",
+     "q": "What is the main purpose of paragraph 5?",
+     "options": [
+      "to explain why shared rides remain unpopular with users",
+      "to acknowledge some advantages of ride-hailing services",
+      "to describe the people who took part in the survey",
+      "to argue that buses and trains should run all night"
+     ]
+    },
+    {
+     "qid": "M2P4.8",
+     "type": "mc",
+     "q": "What do the authors of the study recommend?",
+     "options": [
+      "banning ride-hailing cars from city centres at rush hour",
+      "charging only ride-hailing vehicles for entering central areas",
+      "charging every vehicle that enters central areas at busy times",
+      "building new roads to carry the additional traffic"
+     ]
+    },
+    {
+     "qid": "M2P4.9",
+     "type": "mc",
+     "q": "The word 'overdue' in paragraph 6 is closest in meaning to",
+     "options": [
+      "too expensive",
+      "long needed",
+      "unlikely to work",
+      "too harsh"
+     ]
+    },
+    {
+     "qid": "M2P4.10",
+     "type": "mc",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "It would be a pity if a new technology quietly undid that progress.",
+      "The researchers used data that had been collected between 2017 and 2023.",
+      "Ride-hailing apps were once promoted as a cure for urban traffic.",
+      "The study looked at five large cities in Southeast Asia."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M2P5",
+   "title": "Early Childhood Education and Lifelong Outcomes: Reviewing the Evidence",
+   "paragraphs": [
+    "Over the past three decades, early childhood education has moved from the margins of education policy to its centre. Governments around the world have expanded publicly funded pre-primary places, and Thailand, among others, now includes the pre-school years in its policy of free basic education. The case for this investment rests on three broad claims: that the early years are a period of exceptional brain development, that good early education produces benefits lasting well into adulthood, and that these benefits outweigh the costs. This article examines each claim in turn before turning to a question that has grown more pressing as programmes have expanded: whether quality matters as much as access.",
+    "The first claim draws on developmental neuroscience. In early childhood the brain grows faster than at any later time: by around the age of five it has reached roughly nine-tenths of its adult size, and connections between nerve cells form at an extraordinary rate. Connections that are used repeatedly are strengthened, while those that are rarely used are gradually pruned, making the brain more efficient. Because this process is shaped by experience, a child's surroundings matter greatly. Responsive adults, rich spoken language and play all support healthy development, whereas chronic stress caused by neglect can disrupt it. Neuroscientists add, however, that the brain remains adaptable throughout life; the early years are better described as a sensitive period than as a window that closes for ever.",
+    "The second claim rests largely on a handful of long-running studies begun in the United States in the 1960s and 1970s. In the best known of these, children from low-income families were randomly assigned either to an intensive pre-school programme or to a control group. Classes were small, teachers were highly qualified, and some programmes included regular home visits to support parents. Crucially, researchers went on following the participants for decades, in some cases into their fifties. Compared with the control groups, those who had attended were more likely to finish secondary school and hold steady jobs, earned more, and were less likely to have been arrested or to rely on welfare.",
+    "One result initially puzzled researchers. The programmes raised children's IQ scores, but the advantage had largely vanished within a few years of starting primary school, a pattern known as fade-out. Why, then, were adult outcomes so different? The most widely accepted explanation is that the programmes also strengthened non-cognitive skills such as persistence, self-control and the ability to cooperate. Intelligence tests capture these qualities poorly, yet they shape how people fare at school, at work and in their relationships. The insight has encouraged evaluators to look beyond test scores and led designers to give greater weight to social and emotional development.",
+    "Economists have advanced the third claim most forcefully. Drawing on the long-term data, they have placed a monetary value on the programmes' effects, adding the extra taxes paid by participants who earned more to the public savings from reduced spending on the justice system, special education and welfare. Some analyses have put the annual rate of return at between 7 and 10 percent, higher than the long-run return on shares. Such figures have proved persuasive in finance ministries as well as education departments. Sceptics accept the logic but question the arithmetic. The original studies involved only a few hundred children in unusually well-funded programmes, and extrapolating their returns to entire national systems is, in the sceptics' view, a considerable leap.",
+    "As provision has grown from small experiments to national systems, the question of quality has come to dominate debate, and the record is mixed. A randomised evaluation of one state-funded pre-kindergarten programme in the United States, for instance, found that by the end of primary school, children who had attended were doing slightly worse on academic and behavioural measures than those who had not. Such findings do not show that early education is ineffective; rather, they suggest that its benefits depend on what actually happens in classrooms. Reviews of the evidence point to a consistent set of features linked to good outcomes: well-trained, adequately paid teachers who stay in their posts, small groups, warm interaction between adults and children, and learning through play rather than formal drilling in letters and numbers.",
+    "These findings are especially relevant in Southeast Asia, where pre-primary enrolment has risen rapidly but quality has not always kept pace. Many parents in the region see pre-school chiefly as preparation for primary school and expect children to read and write as early as possible, and schools competing for pupils often oblige. A 2021 observational study of 120 pre-school classrooms in north-eastern Thailand found that children spent more than half of their time in whole-class instruction, such as copying letters from the board, and less than a tenth in free play. Classes frequently exceeded 30 children, and teachers in small rural schools were less likely than those in towns to hold an early childhood qualification.",
+    "Taken together, the evidence strongly supports investment in the early years, but not the assumption that any pre-school place will deliver lifelong benefits. The gains recorded in the classic studies came from carefully designed, well-resourced programmes and are unlikely to be reproduced by provision that is crowded, poorly staffed or narrowly academic. For policymakers, this means that enrolment figures alone are a poor measure of success. Improving the training, pay and retention of teachers and monitoring what happens in classrooms may produce less visible results than opening new schools, but such measures are more likely to secure the benefits that justified expansion in the first place."
+   ],
+   "questions": [
+    {
+     "qid": "M2P5.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "The brain develops so quickly before five that later education matters little.",
+      "Expanding pre-school places is the cheapest way to reduce crime and welfare costs.",
+      "Early education brings lasting gains, but only when programmes are of high quality.",
+      "Long-term studies of pre-school programmes have been shown to be largely unreliable."
+     ]
+    },
+    {
+     "qid": "M2P5.2",
+     "type": "mc",
+     "q": "What is paragraph 2 mainly about?",
+     "options": [
+      "why the early years matter for the developing brain",
+      "how neuroscientists measure the size of children's brains",
+      "the harm that neglect causes to children's later careers",
+      "the reasons why the brain stops changing after childhood"
+     ]
+    },
+    {
+     "qid": "M2P5.3",
+     "type": "mc",
+     "q": "The word 'pruned' in paragraph 2 is closest in meaning to",
+     "options": [
+      "strengthened",
+      "cut back",
+      "copied",
+      "delayed"
+     ]
+    },
+    {
+     "qid": "M2P5.4",
+     "type": "mc",
+     "q": "According to paragraph 3, which of the following is true of the long-running studies?",
+     "options": [
+      "Most of the children came from middle-income families.",
+      "Participants were followed only until they left school.",
+      "The programmes had large classes in order to cut costs.",
+      "Children were assigned to each group at random."
+     ]
+    },
+    {
+     "qid": "M2P5.5",
+     "type": "mc",
+     "q": "The word 'fare' in paragraph 4 is closest in meaning to",
+     "options": [
+      "perform",
+      "pay",
+      "travel",
+      "compete"
+     ]
+    },
+    {
+     "qid": "M2P5.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a financial gain to the public from the early programmes?",
+     "options": [
+      "extra tax paid by participants who earned more",
+      "lower spending on the justice system",
+      "reduced costs for special education",
+      "smaller public spending on health care"
+     ]
+    },
+    {
+     "qid": "M2P5.7",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that the economic analyses",
+     "options": [
+      "convinced sceptics that the original estimates were accurate",
+      "won backing from beyond the education sector",
+      "were mainly carried out by finance ministries themselves",
+      "showed that shares are a poor long-term investment"
+     ]
+    },
+    {
+     "qid": "M2P5.8",
+     "type": "mc",
+     "q": "The phrase 'the arithmetic' in paragraph 5 refers to",
+     "options": [
+      "the number of children in the original studies",
+      "the cost of running national pre-school systems",
+      "the calculated returns on early education",
+      "the taxes paid by former participants"
+     ]
+    },
+    {
+     "qid": "M2P5.9",
+     "type": "mc",
+     "q": "Why does the author mention the state-funded pre-kindergarten programme in paragraph 6?",
+     "options": [
+      "to show that scaling up does not guarantee the same gains",
+      "to prove that early education harms children's later performance",
+      "to compare American programmes with those in Thailand",
+      "to illustrate the benefits of learning through play"
+     ]
+    },
+    {
+     "qid": "M2P5.10",
+     "type": "mc",
+     "q": "It can be inferred from paragraphs 6 and 7 that the classrooms in the 2021 study",
+     "options": [
+      "had better-qualified teachers in rural areas than in towns",
+      "produced stronger reading results than play-based classrooms",
+      "were chosen because they were known to be of poor quality",
+      "lacked several features associated with good outcomes"
+     ]
+    },
+    {
+     "qid": "M2P5.11",
+     "type": "mc",
+     "q": "Which of the following best describes how the passage is organised?",
+     "options": [
+      "A single study is described in detail and then its methods are criticised.",
+      "Two opposing theories are compared and the author rejects both of them.",
+      "Three claims are examined in turn, followed by a discussion of quality.",
+      "Historical developments are presented in chronological order from the 1960s."
+     ]
+    },
+    {
+     "qid": "M2P5.12",
+     "type": "mc",
+     "q": "The author's attitude toward early childhood education can best be described as",
+     "options": [
+      "enthusiastic and uncritical",
+      "supportive but cautious",
+      "sceptical and dismissive",
+      "neutral and uninterested"
+     ]
+    },
+    {
+     "qid": "M2P5.13",
+     "type": "short",
+     "q": "According to paragraph 2, the early years are better described as what? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P5.14",
+     "type": "short",
+     "q": "According to paragraph 3, what did some of the programmes include in order to support parents? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P5.15",
+     "type": "short",
+     "q": "What name is given to the pattern in which children's early IQ gains largely disappear? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P5.16",
+     "type": "short",
+     "q": "What kind of evaluation was carried out of the state-funded pre-kindergarten programme mentioned in paragraph 6? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P5.17",
+     "type": "short",
+     "q": "In the 2021 study, what kind of activity took up more than half of the children's time? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "M2P6",
+   "title": "Digital Traces and Disease Surveillance: An Assessment of Big Data in Epidemiology",
+   "paragraphs": [
+    "Traditional disease surveillance depends on a chain of reports. A patient visits a clinic, a doctor records a diagnosis, a laboratory confirms it, and the information passes upward through district, provincial and national authorities. The system is reasonably accurate, but it is slow: by the time an outbreak appears in official statistics, it may have been spreading for one or two weeks. The explosion of digital data over the past two decades, from internet searches and social media posts to mobile phone records and online pharmacy sales, has raised hopes of “nowcasting”, that is, estimating disease activity as it happens rather than after the fact. This article assesses the main sources and the problems that accompany them.",
+    "Efforts to obtain earlier warning signals predate big data. Since the late 1990s, many health departments have practised syndromic surveillance, monitoring indicators that appear before a formal diagnosis is made: the symptoms patients report on arrival at emergency departments, school absenteeism, or sales of over-the-counter remedies such as cough syrup and anti-diarrhoeal tablets. Such data arrive quickly and in large volumes. Their weakness is a lack of specificity. A sudden rise in sales of cough medicine might reflect an influenza outbreak, but it might equally reflect a spell of air pollution or a discount offered by a pharmacy chain. Syndromic signals are therefore best treated as prompts for investigation rather than as evidence in themselves.",
+    "A second source is mobility data. Mobile phone networks record which transmission tower each handset connects to, and many smartphone applications log location more precisely still. When aggregated across millions of users, these records reveal how populations move between neighbourhoods, cities and regions. Researchers have combined them with case reports to trace the routes by which malaria is carried from high-transmission rural areas into towns, and during the COVID-19 pandemic such data were widely used to judge whether lockdowns were actually reducing movement. Their value lies less in detecting disease directly than in showing where an infection is likely to travel next.",
+    "Internet searches have attracted the most attention. In the late 2000s, a large internet company launched a flu tracker built on a simple idea: people who fall ill often search online for their symptoms before they see a doctor. By identifying search terms whose frequency had closely followed official influenza figures in previous years, the company claimed it could estimate flu activity up to two weeks ahead of government reports. Early results were impressive, and the project was hailed as proof of what big data could achieve. Yet the tracker largely missed the first wave of a new influenza pandemic that arrived outside the usual winter season, and in one later winter its estimates were roughly double the flu-related doctor visits later recorded by official surveillance. The service was quietly withdrawn a few years later.",
+    "The most fundamental of the tracker's weaknesses was over-fitting. The model had chosen a few dozen terms from tens of millions of candidates for how well they matched a few past seasons. With so many candidates, some were bound to match by chance, and a number of the chosen terms appear to have been related to winter rather than to influenza itself; in effect, the model had partly learned the calendar. Search behaviour also shifted in ways the model could not anticipate. Alarming news coverage prompted many healthy people to search for flu symptoms, and changes to the search engine, such as automatic suggestions, altered what users typed. Critics described the episode as a case of “big data hubris”: the belief that sheer volume of data can substitute for careful measurement.",
+    "A second set of problems concerns who is represented in digital data. Internet and smartphone use remain uneven, both between and within countries. Older people, the rural poor and those with limited literacy are less likely to search online or to carry a smartphone, yet they are often at greatest risk from infectious disease. Signals drawn from digital sources may therefore be weakest precisely where they are most needed. Much of this information is, moreover, “digital exhaust”: a by-product of commercial activity rather than data collected for research. Companies can change how they gather, store or share it at any time, for reasons unrelated to public health, which makes comparisons over time hazardous.",
+    "Privacy is the third major concern. Location records are far more revealing than they appear: studies have shown that a handful of time-stamped points is often enough to single out most individuals in a supposedly anonymous dataset. Researchers and agencies have responded with several safeguards, including reporting only aggregated counts, adding carefully calibrated statistical noise, a technique known as differential privacy, and limiting how long data may be kept. Technical measures, though, cannot by themselves secure public trust. Where people suspect that health surveillance is a cover for other forms of monitoring, they may switch off location services or avoid health apps altogether, and the data on which the whole enterprise depends will deteriorate.",
+    "None of this means that big data have no place in epidemiology. Used carefully, digital signals can serve as an early alarm that prompts health workers to investigate, and mobility data can help authorities decide where to send vaccines or testing teams. The lesson of the past two decades is that such sources work best when they complement, rather than replace, traditional surveillance: models that combine search data with official case reports have generally outperformed those relying on either alone. Achieving this will require epidemiologists and data scientists to work together and to be open about their methods, their uncertainties and the limits of what their data can show."
+   ],
+   "questions": [
+    {
+     "qid": "M2P6.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Search data have proved more reliable than official disease reports.",
+      "Digital data can support, but not replace, traditional disease surveillance.",
+      "Privacy laws have prevented researchers from using mobile phone data.",
+      "Syndromic surveillance has largely been abandoned in favour of internet searches."
+     ]
+    },
+    {
+     "qid": "M2P6.2",
+     "type": "mc",
+     "q": "Why does the author mention 'a discount offered by a pharmacy chain' in paragraph 2?",
+     "options": [
+      "to show that syndromic data are expensive to collect",
+      "to suggest that pharmacies should report sales more often",
+      "to explain why flu outbreaks often begin in winter",
+      "to show a rise in sales may not reflect illness"
+     ]
+    },
+    {
+     "qid": "M2P6.3",
+     "type": "mc",
+     "q": "The word 'aggregated' in paragraph 3 is closest in meaning to",
+     "options": [
+      "combined",
+      "encrypted",
+      "verified",
+      "sold"
+     ]
+    },
+    {
+     "qid": "M2P6.4",
+     "type": "mc",
+     "q": "What does 'them' in paragraph 3 refer to?",
+     "options": [
+      "smartphone applications",
+      "transmission towers",
+      "the location records",
+      "official case reports"
+     ]
+    },
+    {
+     "qid": "M2P6.5",
+     "type": "mc",
+     "q": "According to paragraph 4, the flu tracker was based on the idea that",
+     "options": [
+      "doctors record flu diagnoses on the internet",
+      "sick people often look up symptoms before seeing a doctor",
+      "official flu figures tend to exaggerate the number of cases",
+      "flu spreads most rapidly during the winter months"
+     ]
+    },
+    {
+     "qid": "M2P6.6",
+     "type": "mc",
+     "q": "The phrase 'bound to' in paragraph 5 is closest in meaning to",
+     "options": [
+      "certain to",
+      "unlikely to",
+      "designed to",
+      "forced to"
+     ]
+    },
+    {
+     "qid": "M2P6.7",
+     "type": "mc",
+     "q": "What does the author imply by saying that the model 'had partly learned the calendar'?",
+     "options": [
+      "It could forecast the exact start of each flu season.",
+      "It relied on official reports published on fixed dates.",
+      "It was updated with new search terms once a year.",
+      "It was partly tracking the season rather than illness."
+     ]
+    },
+    {
+     "qid": "M2P6.8",
+     "type": "mc",
+     "q": "Which of the following is NOT given in paragraph 5 as a reason for the tracker's errors?",
+     "options": [
+      "terms that matched past data purely by chance",
+      "searches by healthy people alarmed by the news",
+      "a drop in the search engine's number of users",
+      "changes made to the search engine itself"
+     ]
+    },
+    {
+     "qid": "M2P6.9",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that an outbreak among elderly villagers in a poor rural area",
+     "options": [
+      "might be picked up late by digital surveillance",
+      "would be easier to detect using search data",
+      "would be unlikely to involve an infectious disease",
+      "would be reported first on social media"
+     ]
+    },
+    {
+     "qid": "M2P6.10",
+     "type": "mc",
+     "q": "According to paragraph 7, studies have shown that",
+     "options": [
+      "most location datasets can be made fully anonymous",
+      "a few time-stamped locations can often identify a person",
+      "people rarely switch off location services on their phones",
+      "location data are rarely shared with researchers"
+     ]
+    },
+    {
+     "qid": "M2P6.11",
+     "type": "mc",
+     "q": "The word 'deteriorate' in paragraph 7 is closest in meaning to",
+     "options": [
+      "become outdated",
+      "be deleted",
+      "grow more costly",
+      "get worse"
+     ]
+    },
+    {
+     "qid": "M2P6.12",
+     "type": "mc",
+     "q": "The author's attitude toward the use of big data in epidemiology is best described as",
+     "options": [
+      "wholly enthusiastic and uncritical",
+      "openly hostile",
+      "measured and constructive",
+      "indifferent and detached"
+     ]
+    },
+    {
+     "qid": "M2P6.13",
+     "type": "short",
+     "q": "What term is used in paragraph 1 for estimating disease activity as it happens? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P6.14",
+     "type": "short",
+     "q": "Apart from patients' symptoms at emergency departments and sales of over-the-counter remedies, which indicator does syndromic surveillance monitor? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P6.15",
+     "type": "short",
+     "q": "According to the company, up to how far ahead of government reports could its tracker estimate flu activity? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P6.16",
+     "type": "short",
+     "q": "What term does the author use for data that are a by-product of commercial activity? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    },
+    {
+     "qid": "M2P6.17",
+     "type": "short",
+     "q": "What name is given to the technique of adding carefully calibrated statistical noise to data? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  }
+ ],
+ "grammar": []
+}

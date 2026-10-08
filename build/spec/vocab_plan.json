@@ -1,0 +1,3036 @@
+{
+"1": [
+{
+"w": "significant",
+"src": "research"
+},
+{
+"w": "evidence",
+"src": "research"
+},
+{
+"w": "indicate",
+"src": "research"
+},
+{
+"w": "contribute",
+"src": "research"
+},
+{
+"w": "consequence",
+"src": "research"
+},
+{
+"w": "factor",
+"src": "research"
+},
+{
+"w": "approach",
+"src": "research"
+},
+{
+"w": "determine",
+"src": "research"
+},
+{
+"w": "assess",
+"src": "research"
+},
+{
+"w": "evaluate",
+"src": "research"
+},
+{
+"w": "demonstrate",
+"src": "research"
+},
+{
+"w": "prevalence",
+"src": "research"
+},
+{
+"w": "intervention",
+"src": "research"
+},
+{
+"w": "outcome",
+"src": "research"
+},
+{
+"w": "association",
+"src": "research"
+},
+{
+"w": "approximately",
+"src": "research"
+},
+{
+"w": "whereas",
+"src": "research"
+},
+{
+"w": "nevertheless",
+"src": "research"
+},
+{
+"w": "therefore",
+"src": "research"
+},
+{
+"w": "estimate",
+"src": "research"
+}
+],
+"2": [
+{
+"w": "analyse",
+"src": "AWL1"
+},
+{
+"w": "area",
+"src": "AWL1"
+},
+{
+"w": "assume",
+"src": "AWL1"
+},
+{
+"w": "authority",
+"src": "AWL1"
+},
+{
+"w": "available",
+"src": "AWL1"
+},
+{
+"w": "benefit",
+"src": "AWL1"
+},
+{
+"w": "concept",
+"src": "AWL1"
+},
+{
+"w": "consist",
+"src": "AWL1"
+},
+{
+"w": "constitute",
+"src": "AWL1"
+},
+{
+"w": "context",
+"src": "AWL1"
+},
+{
+"w": "contract",
+"src": "AWL1"
+},
+{
+"w": "create",
+"src": "AWL1"
+},
+{
+"w": "data",
+"src": "AWL1"
+},
+{
+"w": "define",
+"src": "AWL1"
+},
+{
+"w": "derive",
+"src": "AWL1"
+},
+{
+"w": "curriculum",
+"src": "theme"
+},
+{
+"w": "pedagogy",
+"src": "theme"
+},
+{
+"w": "proficiency",
+"src": "theme"
+},
+{
+"w": "literacy",
+"src": "theme"
+},
+{
+"w": "higher education",
+"src": "theme"
+}
+],
+"3": [
+{
+"w": "distribute",
+"src": "AWL1"
+},
+{
+"w": "economy",
+"src": "AWL1"
+},
+{
+"w": "environment",
+"src": "AWL1"
+},
+{
+"w": "establish",
+"src": "AWL1"
+},
+{
+"w": "export",
+"src": "AWL1"
+},
+{
+"w": "finance",
+"src": "AWL1"
+},
+{
+"w": "formula",
+"src": "AWL1"
+},
+{
+"w": "function",
+"src": "AWL1"
+},
+{
+"w": "identify",
+"src": "AWL1"
+},
+{
+"w": "income",
+"src": "AWL1"
+},
+{
+"w": "individual",
+"src": "AWL1"
+},
+{
+"w": "interpret",
+"src": "AWL1"
+},
+{
+"w": "involve",
+"src": "AWL1"
+},
+{
+"w": "issue",
+"src": "AWL1"
+},
+{
+"w": "labour",
+"src": "AWL1"
+},
+{
+"w": "emission",
+"src": "theme"
+},
+{
+"w": "pollutant",
+"src": "theme"
+},
+{
+"w": "particulate matter",
+"src": "theme"
+},
+{
+"w": "respiratory",
+"src": "theme"
+},
+{
+"w": "haze",
+"src": "theme"
+}
+],
+"4": [
+{
+"w": "legal",
+"src": "AWL1"
+},
+{
+"w": "legislate",
+"src": "AWL1"
+},
+{
+"w": "major",
+"src": "AWL1"
+},
+{
+"w": "method",
+"src": "AWL1"
+},
+{
+"w": "occur",
+"src": "AWL1"
+},
+{
+"w": "percent",
+"src": "AWL1"
+},
+{
+"w": "period",
+"src": "AWL1"
+},
+{
+"w": "policy",
+"src": "AWL1"
+},
+{
+"w": "principle",
+"src": "AWL1"
+},
+{
+"w": "proceed",
+"src": "AWL1"
+},
+{
+"w": "process",
+"src": "AWL1"
+},
+{
+"w": "require",
+"src": "AWL1"
+},
+{
+"w": "research",
+"src": "AWL1"
+},
+{
+"w": "respond",
+"src": "AWL1"
+},
+{
+"w": "role",
+"src": "AWL1"
+},
+{
+"w": "obesity",
+"src": "theme"
+},
+{
+"w": "sedentary",
+"src": "theme"
+},
+{
+"w": "diagnose",
+"src": "theme"
+},
+{
+"w": "algorithm",
+"src": "theme"
+},
+{
+"w": "chronic",
+"src": "theme"
+}
+],
+"6": [
+{
+"w": "section",
+"src": "AWL1"
+},
+{
+"w": "sector",
+"src": "AWL1"
+},
+{
+"w": "similar",
+"src": "AWL1"
+},
+{
+"w": "source",
+"src": "AWL1"
+},
+{
+"w": "specific",
+"src": "AWL1"
+},
+{
+"w": "structure",
+"src": "AWL1"
+},
+{
+"w": "theory",
+"src": "AWL1"
+},
+{
+"w": "vary",
+"src": "AWL1"
+},
+{
+"w": "achieve",
+"src": "AWL2"
+},
+{
+"w": "acquire",
+"src": "AWL2"
+},
+{
+"w": "administrate",
+"src": "AWL2"
+},
+{
+"w": "affect",
+"src": "AWL2"
+},
+{
+"w": "appropriate",
+"src": "AWL2"
+},
+{
+"w": "aspect",
+"src": "AWL2"
+},
+{
+"w": "assist",
+"src": "AWL2"
+},
+{
+"w": "telemedicine",
+"src": "theme"
+},
+{
+"w": "consultation",
+"src": "theme"
+},
+{
+"w": "accessibility",
+"src": "theme"
+},
+{
+"w": "underserved",
+"src": "theme"
+},
+{
+"w": "caregiver",
+"src": "theme"
+}
+],
+"7": [
+{
+"w": "category",
+"src": "AWL2"
+},
+{
+"w": "commission",
+"src": "AWL2"
+},
+{
+"w": "community",
+"src": "AWL2"
+},
+{
+"w": "complex",
+"src": "AWL2"
+},
+{
+"w": "compute",
+"src": "AWL2"
+},
+{
+"w": "conclude",
+"src": "AWL2"
+},
+{
+"w": "conduct",
+"src": "AWL2"
+},
+{
+"w": "construct",
+"src": "AWL2"
+},
+{
+"w": "consume",
+"src": "AWL2"
+},
+{
+"w": "credit",
+"src": "AWL2"
+},
+{
+"w": "culture",
+"src": "AWL2"
+},
+{
+"w": "design",
+"src": "AWL2"
+},
+{
+"w": "distinct",
+"src": "AWL2"
+},
+{
+"w": "element",
+"src": "AWL2"
+},
+{
+"w": "equate",
+"src": "AWL2"
+},
+{
+"w": "adolescent",
+"src": "theme"
+},
+{
+"w": "deprivation",
+"src": "theme"
+},
+{
+"w": "cognitive",
+"src": "theme"
+},
+{
+"w": "circadian rhythm",
+"src": "theme"
+},
+{
+"w": "impair",
+"src": "theme"
+}
+],
+"8": [
+{
+"w": "feature",
+"src": "AWL2"
+},
+{
+"w": "final",
+"src": "AWL2"
+},
+{
+"w": "focus",
+"src": "AWL2"
+},
+{
+"w": "impact",
+"src": "AWL2"
+},
+{
+"w": "injure",
+"src": "AWL2"
+},
+{
+"w": "institute",
+"src": "AWL2"
+},
+{
+"w": "invest",
+"src": "AWL2"
+},
+{
+"w": "journal",
+"src": "AWL2"
+},
+{
+"w": "maintain",
+"src": "AWL2"
+},
+{
+"w": "normal",
+"src": "AWL2"
+},
+{
+"w": "obtain",
+"src": "AWL2"
+},
+{
+"w": "participate",
+"src": "AWL2"
+},
+{
+"w": "perceive",
+"src": "AWL2"
+},
+{
+"w": "positive",
+"src": "AWL2"
+},
+{
+"w": "potential",
+"src": "AWL2"
+},
+{
+"w": "generative AI",
+"src": "theme"
+},
+{
+"w": "chatbot",
+"src": "theme"
+},
+{
+"w": "plagiarism",
+"src": "theme"
+},
+{
+"w": "personalised learning",
+"src": "theme"
+},
+{
+"w": "misconduct",
+"src": "theme"
+}
+],
+"9": [
+{
+"w": "previous",
+"src": "AWL2"
+},
+{
+"w": "primary",
+"src": "AWL2"
+},
+{
+"w": "purchase",
+"src": "AWL2"
+},
+{
+"w": "range",
+"src": "AWL2"
+},
+{
+"w": "region",
+"src": "AWL2"
+},
+{
+"w": "regulate",
+"src": "AWL2"
+},
+{
+"w": "relevant",
+"src": "AWL2"
+},
+{
+"w": "reside",
+"src": "AWL2"
+},
+{
+"w": "resource",
+"src": "AWL2"
+},
+{
+"w": "restrict",
+"src": "AWL2"
+},
+{
+"w": "secure",
+"src": "AWL2"
+},
+{
+"w": "seek",
+"src": "AWL2"
+},
+{
+"w": "select",
+"src": "AWL2"
+},
+{
+"w": "site",
+"src": "AWL2"
+},
+{
+"w": "strategy",
+"src": "AWL2"
+},
+{
+"w": "urbanisation",
+"src": "theme"
+},
+{
+"w": "vegetation",
+"src": "theme"
+},
+{
+"w": "mitigate",
+"src": "theme"
+},
+{
+"w": "absorb",
+"src": "theme"
+},
+{
+"w": "heatwave",
+"src": "theme"
+}
+],
+"10": [
+{
+"w": "survey",
+"src": "AWL2"
+},
+{
+"w": "tradition",
+"src": "AWL2"
+},
+{
+"w": "transfer",
+"src": "AWL2"
+},
+{
+"w": "alternative",
+"src": "AWL3"
+},
+{
+"w": "circumstance",
+"src": "AWL3"
+},
+{
+"w": "comment",
+"src": "AWL3"
+},
+{
+"w": "compensate",
+"src": "AWL3"
+},
+{
+"w": "component",
+"src": "AWL3"
+},
+{
+"w": "consent",
+"src": "AWL3"
+},
+{
+"w": "considerable",
+"src": "AWL3"
+},
+{
+"w": "constant",
+"src": "AWL3"
+},
+{
+"w": "constrain",
+"src": "AWL3"
+},
+{
+"w": "convene",
+"src": "AWL3"
+},
+{
+"w": "coordinate",
+"src": "AWL3"
+},
+{
+"w": "core",
+"src": "AWL3"
+},
+{
+"w": "antibiotic",
+"src": "theme"
+},
+{
+"w": "resistance",
+"src": "theme"
+},
+{
+"w": "bacteria",
+"src": "theme"
+},
+{
+"w": "prescription",
+"src": "theme"
+},
+{
+"w": "infection",
+"src": "theme"
+}
+],
+"11": [
+{
+"w": "corporate",
+"src": "AWL3"
+},
+{
+"w": "correspond",
+"src": "AWL3"
+},
+{
+"w": "criteria",
+"src": "AWL3"
+},
+{
+"w": "deduce",
+"src": "AWL3"
+},
+{
+"w": "document",
+"src": "AWL3"
+},
+{
+"w": "dominate",
+"src": "AWL3"
+},
+{
+"w": "emphasis",
+"src": "AWL3"
+},
+{
+"w": "ensure",
+"src": "AWL3"
+},
+{
+"w": "exclude",
+"src": "AWL3"
+},
+{
+"w": "framework",
+"src": "AWL3"
+},
+{
+"w": "fund",
+"src": "AWL3"
+},
+{
+"w": "illustrate",
+"src": "AWL3"
+},
+{
+"w": "immigrate",
+"src": "AWL3"
+},
+{
+"w": "imply",
+"src": "AWL3"
+},
+{
+"w": "initial",
+"src": "AWL3"
+},
+{
+"w": "sanitation",
+"src": "theme"
+},
+{
+"w": "hygiene",
+"src": "theme"
+},
+{
+"w": "recycle",
+"src": "theme"
+},
+{
+"w": "completion rate",
+"src": "theme"
+},
+{
+"w": "digital divide",
+"src": "theme"
+}
+],
+"13": [
+{
+"w": "instance",
+"src": "AWL3"
+},
+{
+"w": "interact",
+"src": "AWL3"
+},
+{
+"w": "justify",
+"src": "AWL3"
+},
+{
+"w": "layer",
+"src": "AWL3"
+},
+{
+"w": "link",
+"src": "AWL3"
+},
+{
+"w": "locate",
+"src": "AWL3"
+},
+{
+"w": "maximise",
+"src": "AWL3"
+},
+{
+"w": "minor",
+"src": "AWL3"
+},
+{
+"w": "negate",
+"src": "AWL3"
+},
+{
+"w": "partner",
+"src": "AWL3"
+},
+{
+"w": "philosophy",
+"src": "AWL3"
+},
+{
+"w": "physical",
+"src": "AWL3"
+},
+{
+"w": "proportion",
+"src": "AWL3"
+},
+{
+"w": "publish",
+"src": "AWL3"
+},
+{
+"w": "react",
+"src": "AWL3"
+},
+{
+"w": "food insecurity",
+"src": "theme"
+},
+{
+"w": "malnutrition",
+"src": "theme"
+},
+{
+"w": "affordable",
+"src": "theme"
+},
+{
+"w": "nutritious",
+"src": "theme"
+},
+{
+"w": "vulnerable",
+"src": "theme"
+}
+],
+"14": [
+{
+"w": "register",
+"src": "AWL3"
+},
+{
+"w": "rely",
+"src": "AWL3"
+},
+{
+"w": "remove",
+"src": "AWL3"
+},
+{
+"w": "scheme",
+"src": "AWL3"
+},
+{
+"w": "sequence",
+"src": "AWL3"
+},
+{
+"w": "shift",
+"src": "AWL3"
+},
+{
+"w": "specify",
+"src": "AWL3"
+},
+{
+"w": "sufficient",
+"src": "AWL3"
+},
+{
+"w": "task",
+"src": "AWL3"
+},
+{
+"w": "technical",
+"src": "AWL3"
+},
+{
+"w": "technique",
+"src": "AWL3"
+},
+{
+"w": "technology",
+"src": "AWL3"
+},
+{
+"w": "valid",
+"src": "AWL3"
+},
+{
+"w": "volume",
+"src": "AWL3"
+},
+{
+"w": "access",
+"src": "AWL4"
+},
+{
+"w": "circular economy",
+"src": "theme"
+},
+{
+"w": "single-use",
+"src": "theme"
+},
+{
+"w": "landfill",
+"src": "theme"
+},
+{
+"w": "biodegradable",
+"src": "theme"
+},
+{
+"w": "contamination",
+"src": "theme"
+}
+],
+"15": [
+{
+"w": "adequate",
+"src": "AWL4"
+},
+{
+"w": "annual",
+"src": "AWL4"
+},
+{
+"w": "apparent",
+"src": "AWL4"
+},
+{
+"w": "attitude",
+"src": "AWL4"
+},
+{
+"w": "attribute",
+"src": "AWL4"
+},
+{
+"w": "civil",
+"src": "AWL4"
+},
+{
+"w": "code",
+"src": "AWL4"
+},
+{
+"w": "commit",
+"src": "AWL4"
+},
+{
+"w": "communicate",
+"src": "AWL4"
+},
+{
+"w": "concentrate",
+"src": "AWL4"
+},
+{
+"w": "confer",
+"src": "AWL4"
+},
+{
+"w": "contrast",
+"src": "AWL4"
+},
+{
+"w": "cycle",
+"src": "AWL4"
+},
+{
+"w": "debate",
+"src": "AWL4"
+},
+{
+"w": "despite",
+"src": "AWL4"
+},
+{
+"w": "outbreak",
+"src": "theme"
+},
+{
+"w": "vector-borne",
+"src": "theme"
+},
+{
+"w": "epidemic",
+"src": "theme"
+},
+{
+"w": "surveillance",
+"src": "theme"
+},
+{
+"w": "seasonal",
+"src": "theme"
+}
+],
+"16": [
+{
+"w": "dimension",
+"src": "AWL4"
+},
+{
+"w": "domestic",
+"src": "AWL4"
+},
+{
+"w": "emerge",
+"src": "AWL4"
+},
+{
+"w": "error",
+"src": "AWL4"
+},
+{
+"w": "ethnic",
+"src": "AWL4"
+},
+{
+"w": "goal",
+"src": "AWL4"
+},
+{
+"w": "grant",
+"src": "AWL4"
+},
+{
+"w": "hence",
+"src": "AWL4"
+},
+{
+"w": "hypothesis",
+"src": "AWL4"
+},
+{
+"w": "implement",
+"src": "AWL4"
+},
+{
+"w": "implicate",
+"src": "AWL4"
+},
+{
+"w": "impose",
+"src": "AWL4"
+},
+{
+"w": "integrate",
+"src": "AWL4"
+},
+{
+"w": "internal",
+"src": "AWL4"
+},
+{
+"w": "investigate",
+"src": "AWL4"
+},
+{
+"w": "transparency",
+"src": "theme"
+},
+{
+"w": "accountability",
+"src": "theme"
+},
+{
+"w": "dataset",
+"src": "theme"
+},
+{
+"w": "ethical",
+"src": "theme"
+},
+{
+"w": "disparity",
+"src": "theme"
+}
+],
+"17": [
+{
+"w": "label",
+"src": "AWL4"
+},
+{
+"w": "mechanism",
+"src": "AWL4"
+},
+{
+"w": "obvious",
+"src": "AWL4"
+},
+{
+"w": "occupy",
+"src": "AWL4"
+},
+{
+"w": "option",
+"src": "AWL4"
+},
+{
+"w": "output",
+"src": "AWL4"
+},
+{
+"w": "overall",
+"src": "AWL4"
+},
+{
+"w": "parallel",
+"src": "AWL4"
+},
+{
+"w": "parameter",
+"src": "AWL4"
+},
+{
+"w": "phase",
+"src": "AWL4"
+},
+{
+"w": "predict",
+"src": "AWL4"
+},
+{
+"w": "principal",
+"src": "AWL4"
+},
+{
+"w": "prior",
+"src": "AWL4"
+},
+{
+"w": "professional",
+"src": "AWL4"
+},
+{
+"w": "project",
+"src": "AWL4"
+},
+{
+"w": "claim",
+"src": "theme"
+},
+{
+"w": "contend",
+"src": "theme"
+},
+{
+"w": "assert",
+"src": "theme"
+},
+{
+"w": "argue",
+"src": "theme"
+},
+{
+"w": "allege",
+"src": "theme"
+}
+],
+"18": [
+{
+"w": "promote",
+"src": "AWL4"
+},
+{
+"w": "regime",
+"src": "AWL4"
+},
+{
+"w": "resolve",
+"src": "AWL4"
+},
+{
+"w": "retain",
+"src": "AWL4"
+},
+{
+"w": "series",
+"src": "AWL4"
+},
+{
+"w": "statistic",
+"src": "AWL4"
+},
+{
+"w": "status",
+"src": "AWL4"
+},
+{
+"w": "stress",
+"src": "AWL4"
+},
+{
+"w": "subsequent",
+"src": "AWL4"
+},
+{
+"w": "sum",
+"src": "AWL4"
+},
+{
+"w": "summary",
+"src": "AWL4"
+},
+{
+"w": "undertake",
+"src": "AWL4"
+},
+{
+"w": "academy",
+"src": "AWL5"
+},
+{
+"w": "adjust",
+"src": "AWL5"
+},
+{
+"w": "alter",
+"src": "AWL5"
+},
+{
+"w": "mortality",
+"src": "theme"
+},
+{
+"w": "shortage",
+"src": "theme"
+},
+{
+"w": "ecosystem",
+"src": "theme"
+},
+{
+"w": "health literacy",
+"src": "theme"
+},
+{
+"w": "workforce",
+"src": "theme"
+}
+],
+"20": [
+{
+"w": "amend",
+"src": "AWL5"
+},
+{
+"w": "aware",
+"src": "AWL5"
+},
+{
+"w": "capacity",
+"src": "AWL5"
+},
+{
+"w": "challenge",
+"src": "AWL5"
+},
+{
+"w": "clause",
+"src": "AWL5"
+},
+{
+"w": "compound",
+"src": "AWL5"
+},
+{
+"w": "conflict",
+"src": "AWL5"
+},
+{
+"w": "consult",
+"src": "AWL5"
+},
+{
+"w": "contact",
+"src": "AWL5"
+},
+{
+"w": "decline",
+"src": "AWL5"
+},
+{
+"w": "discrete",
+"src": "AWL5"
+},
+{
+"w": "draft",
+"src": "AWL5"
+},
+{
+"w": "enable",
+"src": "AWL5"
+},
+{
+"w": "energy",
+"src": "AWL5"
+},
+{
+"w": "enforce",
+"src": "AWL5"
+},
+{
+"w": "hypertension",
+"src": "theme"
+},
+{
+"w": "randomised controlled trial",
+"src": "theme"
+},
+{
+"w": "cohort",
+"src": "theme"
+},
+{
+"w": "baseline",
+"src": "theme"
+},
+{
+"w": "adherence",
+"src": "theme"
+}
+],
+"21": [
+{
+"w": "entity",
+"src": "AWL5"
+},
+{
+"w": "equivalent",
+"src": "AWL5"
+},
+{
+"w": "evolve",
+"src": "AWL5"
+},
+{
+"w": "expand",
+"src": "AWL5"
+},
+{
+"w": "expose",
+"src": "AWL5"
+},
+{
+"w": "external",
+"src": "AWL5"
+},
+{
+"w": "facilitate",
+"src": "AWL5"
+},
+{
+"w": "fundamental",
+"src": "AWL5"
+},
+{
+"w": "generate",
+"src": "AWL5"
+},
+{
+"w": "generation",
+"src": "AWL5"
+},
+{
+"w": "image",
+"src": "AWL5"
+},
+{
+"w": "liberal",
+"src": "AWL5"
+},
+{
+"w": "licence",
+"src": "AWL5"
+},
+{
+"w": "logic",
+"src": "AWL5"
+},
+{
+"w": "margin",
+"src": "AWL5"
+},
+{
+"w": "productivity",
+"src": "theme"
+},
+{
+"w": "well-being",
+"src": "theme"
+},
+{
+"w": "burnout",
+"src": "theme"
+},
+{
+"w": "work-life balance",
+"src": "theme"
+},
+{
+"w": "trial",
+"src": "theme"
+}
+],
+"22": [
+{
+"w": "medical",
+"src": "AWL5"
+},
+{
+"w": "mental",
+"src": "AWL5"
+},
+{
+"w": "modify",
+"src": "AWL5"
+},
+{
+"w": "monitor",
+"src": "AWL5"
+},
+{
+"w": "network",
+"src": "AWL5"
+},
+{
+"w": "notion",
+"src": "AWL5"
+},
+{
+"w": "objective",
+"src": "AWL5"
+},
+{
+"w": "orient",
+"src": "AWL5"
+},
+{
+"w": "perspective",
+"src": "AWL5"
+},
+{
+"w": "precise",
+"src": "AWL5"
+},
+{
+"w": "prime",
+"src": "AWL5"
+},
+{
+"w": "psychology",
+"src": "AWL5"
+},
+{
+"w": "pursue",
+"src": "AWL5"
+},
+{
+"w": "ratio",
+"src": "AWL5"
+},
+{
+"w": "reject",
+"src": "AWL5"
+},
+{
+"w": "firmly believe",
+"src": "theme"
+},
+{
+"w": "in my view",
+"src": "theme"
+},
+{
+"w": "oppose",
+"src": "theme"
+},
+{
+"w": "it is often argued that",
+"src": "theme"
+},
+{
+"w": "it is widely believed that",
+"src": "theme"
+}
+],
+"23": [
+{
+"w": "revenue",
+"src": "AWL5"
+},
+{
+"w": "stable",
+"src": "AWL5"
+},
+{
+"w": "style",
+"src": "AWL5"
+},
+{
+"w": "substitute",
+"src": "AWL5"
+},
+{
+"w": "sustain",
+"src": "AWL5"
+},
+{
+"w": "symbol",
+"src": "AWL5"
+},
+{
+"w": "target",
+"src": "AWL5"
+},
+{
+"w": "transit",
+"src": "AWL5"
+},
+{
+"w": "trend",
+"src": "AWL5"
+},
+{
+"w": "version",
+"src": "AWL5"
+},
+{
+"w": "welfare",
+"src": "AWL5"
+},
+{
+"w": "abstract",
+"src": "AWL6"
+},
+{
+"w": "accurate",
+"src": "AWL6"
+},
+{
+"w": "acknowledge",
+"src": "AWL6"
+},
+{
+"w": "aggregate",
+"src": "AWL6"
+},
+{
+"w": "moreover",
+"src": "theme"
+},
+{
+"w": "in addition",
+"src": "theme"
+},
+{
+"w": "for instance",
+"src": "theme"
+},
+{
+"w": "as a result",
+"src": "theme"
+},
+{
+"w": "thus",
+"src": "theme"
+}
+],
+"24": [
+{
+"w": "allocate",
+"src": "AWL6"
+},
+{
+"w": "assign",
+"src": "AWL6"
+},
+{
+"w": "attach",
+"src": "AWL6"
+},
+{
+"w": "author",
+"src": "AWL6"
+},
+{
+"w": "bond",
+"src": "AWL6"
+},
+{
+"w": "brief",
+"src": "AWL6"
+},
+{
+"w": "capable",
+"src": "AWL6"
+},
+{
+"w": "cite",
+"src": "AWL6"
+},
+{
+"w": "cooperate",
+"src": "AWL6"
+},
+{
+"w": "discriminate",
+"src": "AWL6"
+},
+{
+"w": "display",
+"src": "AWL6"
+},
+{
+"w": "diverse",
+"src": "AWL6"
+},
+{
+"w": "domain",
+"src": "AWL6"
+},
+{
+"w": "edit",
+"src": "AWL6"
+},
+{
+"w": "enhance",
+"src": "AWL6"
+},
+{
+"w": "ageing population",
+"src": "theme"
+},
+{
+"w": "life expectancy",
+"src": "theme"
+},
+{
+"w": "pension",
+"src": "theme"
+},
+{
+"w": "dependency",
+"src": "theme"
+},
+{
+"w": "retirement",
+"src": "theme"
+}
+],
+"25": [
+{
+"w": "estate",
+"src": "AWL6"
+},
+{
+"w": "exceed",
+"src": "AWL6"
+},
+{
+"w": "expert",
+"src": "AWL6"
+},
+{
+"w": "explicit",
+"src": "AWL6"
+},
+{
+"w": "federal",
+"src": "AWL6"
+},
+{
+"w": "fee",
+"src": "AWL6"
+},
+{
+"w": "flexible",
+"src": "AWL6"
+},
+{
+"w": "furthermore",
+"src": "AWL6"
+},
+{
+"w": "gender",
+"src": "AWL6"
+},
+{
+"w": "ignorance",
+"src": "AWL6"
+},
+{
+"w": "incentive",
+"src": "AWL6"
+},
+{
+"w": "incidence",
+"src": "AWL6"
+},
+{
+"w": "incorporate",
+"src": "AWL6"
+},
+{
+"w": "index",
+"src": "AWL6"
+},
+{
+"w": "inhibit",
+"src": "AWL6"
+},
+{
+"w": "sodium",
+"src": "theme"
+},
+{
+"w": "renewable",
+"src": "theme"
+},
+{
+"w": "privacy",
+"src": "theme"
+},
+{
+"w": "depression",
+"src": "theme"
+},
+{
+"w": "surveillance camera",
+"src": "theme"
+}
+],
+"27": [
+{
+"w": "initiate",
+"src": "AWL6"
+},
+{
+"w": "input",
+"src": "AWL6"
+},
+{
+"w": "instruct",
+"src": "AWL6"
+},
+{
+"w": "intelligence",
+"src": "AWL6"
+},
+{
+"w": "interval",
+"src": "AWL6"
+},
+{
+"w": "lecture",
+"src": "AWL6"
+},
+{
+"w": "migrate",
+"src": "AWL6"
+},
+{
+"w": "minimum",
+"src": "AWL6"
+},
+{
+"w": "ministry",
+"src": "AWL6"
+},
+{
+"w": "motive",
+"src": "AWL6"
+},
+{
+"w": "neutral",
+"src": "AWL6"
+},
+{
+"w": "overseas",
+"src": "AWL6"
+},
+{
+"w": "precede",
+"src": "AWL6"
+},
+{
+"w": "presume",
+"src": "AWL6"
+},
+{
+"w": "rational",
+"src": "AWL6"
+},
+{
+"w": "in conclusion",
+"src": "theme"
+},
+{
+"w": "to sum up",
+"src": "theme"
+},
+{
+"w": "undoubtedly",
+"src": "theme"
+},
+{
+"w": "outweigh",
+"src": "theme"
+},
+{
+"w": "on balance",
+"src": "theme"
+}
+],
+"28": [
+{
+"w": "recover",
+"src": "AWL6"
+},
+{
+"w": "reveal",
+"src": "AWL6"
+},
+{
+"w": "scope",
+"src": "AWL6"
+},
+{
+"w": "subsidy",
+"src": "AWL6"
+},
+{
+"w": "trace",
+"src": "AWL6"
+},
+{
+"w": "transform",
+"src": "AWL6"
+},
+{
+"w": "transport",
+"src": "AWL6"
+},
+{
+"w": "underlie",
+"src": "AWL6"
+},
+{
+"w": "utilise",
+"src": "AWL6"
+},
+{
+"w": "adapt",
+"src": "AWL7"
+},
+{
+"w": "advocate",
+"src": "AWL7"
+},
+{
+"w": "aid",
+"src": "AWL7"
+},
+{
+"w": "channel",
+"src": "AWL7"
+},
+{
+"w": "chemical",
+"src": "AWL7"
+},
+{
+"w": "classic",
+"src": "AWL7"
+},
+{
+"w": "substantial",
+"src": "theme"
+},
+{
+"w": "compelling",
+"src": "theme"
+},
+{
+"w": "undeniable",
+"src": "theme"
+},
+{
+"w": "paramount",
+"src": "theme"
+},
+{
+"w": "detrimental",
+"src": "theme"
+}
+],
+"29": [
+{
+"w": "comprehensive",
+"src": "AWL7"
+},
+{
+"w": "comprise",
+"src": "AWL7"
+},
+{
+"w": "confirm",
+"src": "AWL7"
+},
+{
+"w": "contrary",
+"src": "AWL7"
+},
+{
+"w": "convert",
+"src": "AWL7"
+},
+{
+"w": "decade",
+"src": "AWL7"
+},
+{
+"w": "definite",
+"src": "AWL7"
+},
+{
+"w": "deny",
+"src": "AWL7"
+},
+{
+"w": "differentiate",
+"src": "AWL7"
+},
+{
+"w": "dispose",
+"src": "AWL7"
+},
+{
+"w": "dynamic",
+"src": "AWL7"
+},
+{
+"w": "eliminate",
+"src": "AWL7"
+},
+{
+"w": "empirical",
+"src": "AWL7"
+},
+{
+"w": "equip",
+"src": "AWL7"
+},
+{
+"w": "extract",
+"src": "AWL7"
+},
+{
+"w": "exhaustion",
+"src": "theme"
+},
+{
+"w": "resilience",
+"src": "theme"
+},
+{
+"w": "morale",
+"src": "theme"
+},
+{
+"w": "turnover",
+"src": "theme"
+},
+{
+"w": "stigma",
+"src": "theme"
+}
+],
+"30": [
+{
+"w": "finite",
+"src": "AWL7"
+},
+{
+"w": "foundation",
+"src": "AWL7"
+},
+{
+"w": "globe",
+"src": "AWL7"
+},
+{
+"w": "grade",
+"src": "AWL7"
+},
+{
+"w": "guarantee",
+"src": "AWL7"
+},
+{
+"w": "hierarchy",
+"src": "AWL7"
+},
+{
+"w": "identical",
+"src": "AWL7"
+},
+{
+"w": "ideology",
+"src": "AWL7"
+},
+{
+"w": "infer",
+"src": "AWL7"
+},
+{
+"w": "innovate",
+"src": "AWL7"
+},
+{
+"w": "insert",
+"src": "AWL7"
+},
+{
+"w": "intervene",
+"src": "AWL7"
+},
+{
+"w": "isolate",
+"src": "AWL7"
+},
+{
+"w": "media",
+"src": "AWL7"
+},
+{
+"w": "mode",
+"src": "AWL7"
+},
+{
+"w": "admittedly",
+"src": "theme"
+},
+{
+"w": "granted that",
+"src": "theme"
+},
+{
+"w": "critics argue",
+"src": "theme"
+},
+{
+"w": "it is true that",
+"src": "theme"
+},
+{
+"w": "on the contrary",
+"src": "theme"
+}
+],
+"31": [
+{
+"w": "paradigm",
+"src": "AWL7"
+},
+{
+"w": "phenomenon",
+"src": "AWL7"
+},
+{
+"w": "priority",
+"src": "AWL7"
+},
+{
+"w": "prohibit",
+"src": "AWL7"
+},
+{
+"w": "publication",
+"src": "AWL7"
+},
+{
+"w": "quote",
+"src": "AWL7"
+},
+{
+"w": "release",
+"src": "AWL7"
+},
+{
+"w": "reverse",
+"src": "AWL7"
+},
+{
+"w": "simulate",
+"src": "AWL7"
+},
+{
+"w": "sole",
+"src": "AWL7"
+},
+{
+"w": "somewhat",
+"src": "AWL7"
+},
+{
+"w": "submit",
+"src": "AWL7"
+},
+{
+"w": "successor",
+"src": "AWL7"
+},
+{
+"w": "survive",
+"src": "AWL7"
+},
+{
+"w": "thesis",
+"src": "AWL7"
+},
+{
+"w": "play a crucial role in",
+"src": "theme"
+},
+{
+"w": "have a profound impact on",
+"src": "theme"
+},
+{
+"w": "raise awareness of",
+"src": "theme"
+},
+{
+"w": "take measures to",
+"src": "theme"
+},
+{
+"w": "address the issue of",
+"src": "theme"
+}
+],
+"32": [
+{
+"w": "transmit",
+"src": "AWL7"
+},
+{
+"w": "ultimate",
+"src": "AWL7"
+},
+{
+"w": "unique",
+"src": "AWL7"
+},
+{
+"w": "visible",
+"src": "AWL7"
+},
+{
+"w": "voluntary",
+"src": "AWL7"
+},
+{
+"w": "abandon",
+"src": "AWL8"
+},
+{
+"w": "accompany",
+"src": "AWL8"
+},
+{
+"w": "accumulate",
+"src": "AWL8"
+},
+{
+"w": "ambiguous",
+"src": "AWL8"
+},
+{
+"w": "append",
+"src": "AWL8"
+},
+{
+"w": "appreciate",
+"src": "AWL8"
+},
+{
+"w": "arbitrary",
+"src": "AWL8"
+},
+{
+"w": "automate",
+"src": "AWL8"
+},
+{
+"w": "bias",
+"src": "AWL8"
+},
+{
+"w": "chart",
+"src": "AWL8"
+},
+{
+"w": "biodiversity",
+"src": "theme"
+},
+{
+"w": "deforestation",
+"src": "theme"
+},
+{
+"w": "universal coverage",
+"src": "theme"
+},
+{
+"w": "donor",
+"src": "theme"
+},
+{
+"w": "food waste",
+"src": "theme"
+}
+],
+"34": [
+{
+"w": "clarify",
+"src": "AWL8"
+},
+{
+"w": "commodity",
+"src": "AWL8"
+},
+{
+"w": "complement",
+"src": "AWL8"
+},
+{
+"w": "conform",
+"src": "AWL8"
+},
+{
+"w": "contemporary",
+"src": "AWL8"
+},
+{
+"w": "contradict",
+"src": "AWL8"
+},
+{
+"w": "crucial",
+"src": "AWL8"
+},
+{
+"w": "currency",
+"src": "AWL8"
+},
+{
+"w": "denote",
+"src": "AWL8"
+},
+{
+"w": "detect",
+"src": "AWL8"
+},
+{
+"w": "deviate",
+"src": "AWL8"
+},
+{
+"w": "displace",
+"src": "AWL8"
+},
+{
+"w": "eventual",
+"src": "AWL8"
+},
+{
+"w": "exhibit",
+"src": "AWL8"
+},
+{
+"w": "exploit",
+"src": "AWL8"
+},
+{
+"w": "vaccine hesitancy",
+"src": "theme"
+},
+{
+"w": "immunisation",
+"src": "theme"
+},
+{
+"w": "misinformation",
+"src": "theme"
+},
+{
+"w": "herd immunity",
+"src": "theme"
+},
+{
+"w": "side effect",
+"src": "theme"
+}
+],
+"35": [
+{
+"w": "fluctuate",
+"src": "AWL8"
+},
+{
+"w": "guideline",
+"src": "AWL8"
+},
+{
+"w": "highlight",
+"src": "AWL8"
+},
+{
+"w": "implicit",
+"src": "AWL8"
+},
+{
+"w": "induce",
+"src": "AWL8"
+},
+{
+"w": "inevitable",
+"src": "AWL8"
+},
+{
+"w": "infrastructure",
+"src": "AWL8"
+},
+{
+"w": "inspect",
+"src": "AWL8"
+},
+{
+"w": "intense",
+"src": "AWL8"
+},
+{
+"w": "manipulate",
+"src": "AWL8"
+},
+{
+"w": "minimise",
+"src": "AWL8"
+},
+{
+"w": "nuclear",
+"src": "AWL8"
+},
+{
+"w": "offset",
+"src": "AWL8"
+},
+{
+"w": "practitioner",
+"src": "AWL8"
+},
+{
+"w": "predominant",
+"src": "AWL8"
+},
+{
+"w": "indispensable",
+"src": "theme"
+},
+{
+"w": "rigorous",
+"src": "theme"
+},
+{
+"w": "meritocracy",
+"src": "theme"
+},
+{
+"w": "standardised test",
+"src": "theme"
+},
+{
+"w": "holistic",
+"src": "theme"
+}
+],
+"36": [
+{
+"w": "prospect",
+"src": "AWL8"
+},
+{
+"w": "radical",
+"src": "AWL8"
+},
+{
+"w": "random",
+"src": "AWL8"
+},
+{
+"w": "reinforce",
+"src": "AWL8"
+},
+{
+"w": "restore",
+"src": "AWL8"
+},
+{
+"w": "revise",
+"src": "AWL8"
+},
+{
+"w": "schedule",
+"src": "AWL8"
+},
+{
+"w": "tension",
+"src": "AWL8"
+},
+{
+"w": "terminate",
+"src": "AWL8"
+},
+{
+"w": "theme",
+"src": "AWL8"
+},
+{
+"w": "thereby",
+"src": "AWL8"
+},
+{
+"w": "uniform",
+"src": "AWL8"
+},
+{
+"w": "vehicle",
+"src": "AWL8"
+},
+{
+"w": "via",
+"src": "AWL8"
+},
+{
+"w": "virtual",
+"src": "AWL8"
+},
+{
+"w": "lifelong learning",
+"src": "theme"
+},
+{
+"w": "credential",
+"src": "theme"
+},
+{
+"w": "self-paced",
+"src": "theme"
+},
+{
+"w": "isolation",
+"src": "theme"
+},
+{
+"w": "engagement",
+"src": "theme"
+}
+],
+"37": [
+{
+"w": "visual",
+"src": "AWL8"
+},
+{
+"w": "widespread",
+"src": "AWL8"
+},
+{
+"w": "accommodate",
+"src": "AWL9"
+},
+{
+"w": "analogy",
+"src": "AWL9"
+},
+{
+"w": "anticipate",
+"src": "AWL9"
+},
+{
+"w": "assure",
+"src": "AWL9"
+},
+{
+"w": "attain",
+"src": "AWL9"
+},
+{
+"w": "behalf",
+"src": "AWL9"
+},
+{
+"w": "bulk",
+"src": "AWL9"
+},
+{
+"w": "cease",
+"src": "AWL9"
+},
+{
+"w": "coherent",
+"src": "AWL9"
+},
+{
+"w": "coincide",
+"src": "AWL9"
+},
+{
+"w": "commence",
+"src": "AWL9"
+},
+{
+"w": "compatible",
+"src": "AWL9"
+},
+{
+"w": "concurrent",
+"src": "AWL9"
+},
+{
+"w": "collaboration",
+"src": "theme"
+},
+{
+"w": "synergy",
+"src": "theme"
+},
+{
+"w": "autonomy",
+"src": "theme"
+},
+{
+"w": "interpersonal",
+"src": "theme"
+},
+{
+"w": "delegate",
+"src": "theme"
+}
+],
+"38": [
+{
+"w": "confine",
+"src": "AWL9"
+},
+{
+"w": "controversy",
+"src": "AWL9"
+},
+{
+"w": "converse",
+"src": "AWL9"
+},
+{
+"w": "device",
+"src": "AWL9"
+},
+{
+"w": "devote",
+"src": "AWL9"
+},
+{
+"w": "diminish",
+"src": "AWL9"
+},
+{
+"w": "distort",
+"src": "AWL9"
+},
+{
+"w": "duration",
+"src": "AWL9"
+},
+{
+"w": "erode",
+"src": "AWL9"
+},
+{
+"w": "ethic",
+"src": "AWL9"
+},
+{
+"w": "format",
+"src": "AWL9"
+},
+{
+"w": "found",
+"src": "AWL9"
+},
+{
+"w": "inherent",
+"src": "AWL9"
+},
+{
+"w": "insight",
+"src": "AWL9"
+},
+{
+"w": "integral",
+"src": "AWL9"
+},
+{
+"w": "fulfilment",
+"src": "theme"
+},
+{
+"w": "job satisfaction",
+"src": "theme"
+},
+{
+"w": "remuneration",
+"src": "theme"
+},
+{
+"w": "motivation",
+"src": "theme"
+},
+{
+"w": "career advancement",
+"src": "theme"
+}
+],
+"39": [
+{
+"w": "intermediate",
+"src": "AWL9"
+},
+{
+"w": "manual",
+"src": "AWL9"
+},
+{
+"w": "mature",
+"src": "AWL9"
+},
+{
+"w": "mediate",
+"src": "AWL9"
+},
+{
+"w": "medium",
+"src": "AWL9"
+},
+{
+"w": "military",
+"src": "AWL9"
+},
+{
+"w": "minimal",
+"src": "AWL9"
+},
+{
+"w": "mutual",
+"src": "AWL9"
+},
+{
+"w": "norm",
+"src": "AWL9"
+},
+{
+"w": "overlap",
+"src": "AWL9"
+},
+{
+"w": "passive",
+"src": "AWL9"
+},
+{
+"w": "portion",
+"src": "AWL9"
+},
+{
+"w": "preliminary",
+"src": "AWL9"
+},
+{
+"w": "protocol",
+"src": "AWL9"
+},
+{
+"w": "qualitative",
+"src": "AWL9"
+},
+{
+"w": "genomics",
+"src": "theme"
+},
+{
+"w": "tailor",
+"src": "theme"
+},
+{
+"w": "citizen science",
+"src": "theme"
+},
+{
+"w": "volunteering",
+"src": "theme"
+},
+{
+"w": "fatality",
+"src": "theme"
+}
+],
+"41": [
+{
+"w": "refine",
+"src": "AWL9"
+},
+{
+"w": "relax",
+"src": "AWL9"
+},
+{
+"w": "restrain",
+"src": "AWL9"
+},
+{
+"w": "revolution",
+"src": "AWL9"
+},
+{
+"w": "rigid",
+"src": "AWL9"
+},
+{
+"w": "route",
+"src": "AWL9"
+},
+{
+"w": "scenario",
+"src": "AWL9"
+},
+{
+"w": "sphere",
+"src": "AWL9"
+},
+{
+"w": "subordinate",
+"src": "AWL9"
+},
+{
+"w": "supplement",
+"src": "AWL9"
+},
+{
+"w": "suspend",
+"src": "AWL9"
+},
+{
+"w": "temporary",
+"src": "AWL9"
+},
+{
+"w": "trigger",
+"src": "AWL9"
+},
+{
+"w": "unify",
+"src": "AWL9"
+},
+{
+"w": "violate",
+"src": "AWL9"
+},
+{
+"w": "face-to-face",
+"src": "theme"
+},
+{
+"w": "flexibility",
+"src": "theme"
+},
+{
+"w": "interaction",
+"src": "theme"
+},
+{
+"w": "convenience",
+"src": "theme"
+},
+{
+"w": "distraction",
+"src": "theme"
+}
+],
+"42": [
+{
+"w": "vision",
+"src": "AWL9"
+},
+{
+"w": "adjacent",
+"src": "AWL10"
+},
+{
+"w": "albeit",
+"src": "AWL10"
+},
+{
+"w": "assemble",
+"src": "AWL10"
+},
+{
+"w": "collapse",
+"src": "AWL10"
+},
+{
+"w": "colleague",
+"src": "AWL10"
+},
+{
+"w": "compile",
+"src": "AWL10"
+},
+{
+"w": "conceive",
+"src": "AWL10"
+},
+{
+"w": "convince",
+"src": "AWL10"
+},
+{
+"w": "depress",
+"src": "AWL10"
+},
+{
+"w": "encounter",
+"src": "AWL10"
+},
+{
+"w": "enormous",
+"src": "AWL10"
+},
+{
+"w": "forthcoming",
+"src": "AWL10"
+},
+{
+"w": "incline",
+"src": "AWL10"
+},
+{
+"w": "integrity",
+"src": "AWL10"
+},
+{
+"w": "language acquisition",
+"src": "theme"
+},
+{
+"w": "immersion",
+"src": "theme"
+},
+{
+"w": "interdisciplinary",
+"src": "theme"
+},
+{
+"w": "content-based",
+"src": "theme"
+},
+{
+"w": "bilingual",
+"src": "theme"
+}
+],
+"43": [
+{
+"w": "intrinsic",
+"src": "AWL10"
+},
+{
+"w": "invoke",
+"src": "AWL10"
+},
+{
+"w": "levy",
+"src": "AWL10"
+},
+{
+"w": "likewise",
+"src": "AWL10"
+},
+{
+"w": "nonetheless",
+"src": "AWL10"
+},
+{
+"w": "notwithstanding",
+"src": "AWL10"
+},
+{
+"w": "ongoing",
+"src": "AWL10"
+},
+{
+"w": "panel",
+"src": "AWL10"
+},
+{
+"w": "persist",
+"src": "AWL10"
+},
+{
+"w": "pose",
+"src": "AWL10"
+},
+{
+"w": "reluctance",
+"src": "AWL10"
+},
+{
+"w": "so-called",
+"src": "AWL10"
+},
+{
+"w": "straightforward",
+"src": "AWL10"
+},
+{
+"w": "undergo",
+"src": "AWL10"
+},
+{
+"w": "whereby",
+"src": "AWL10"
+},
+{
+"w": "automation",
+"src": "theme"
+},
+{
+"w": "critical thinking",
+"src": "theme"
+},
+{
+"w": "academic integrity",
+"src": "theme"
+},
+{
+"w": "digital literacy",
+"src": "theme"
+},
+{
+"w": "over-reliance",
+"src": "theme"
+}
+]
+}

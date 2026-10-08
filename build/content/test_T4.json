@@ -1,0 +1,978 @@
+{
+  "id": "T4",
+  "day": 25,
+  "title": "Reading Test 4",
+  "passages": [
+    {
+      "id": "T4P1",
+      "kind": "short",
+      "genre": "news report",
+      "domain": "Public Health",
+      "title": "Health Officials Turn Their Attention to the Kitchen Table",
+      "paragraphs": [
+        "Health authorities have launched a year-long national campaign urging Thais to cut their salt intake, warning that most adults consume roughly twice the recommended limit without realising it.",
+        "International guidelines advise adults to keep their intake below five grams of salt a day, about one teaspoon. A national dietary survey last year, however, estimated that the average Thai adult consumes close to ten grams. Excess sodium raises blood pressure, which in turn increases the risk of stroke, heart attack and kidney disease.",
+        "Unlike earlier efforts, which concentrated mainly on the salt shaker, the new campaign targets what officials describe as “hidden” sources. Fish sauce, soy sauce, seasoning powder and instant noodles supply much of the sodium in the national diet, yet many consumers do not regard them as salty at all.",
+        "The campaign has three strands. Television and social media advertisements will show how quickly sodium accumulates over a typical day. Street food vendors in twelve pilot provinces will be offered free training in reducing seasoning without sacrificing flavour. Meanwhile, manufacturers are being encouraged, though not yet required, to display sodium content on the front of their packaging.",
+        "Dr. Kanokwan Srisuk, a nutrition researcher who advised the campaign, believes tastes can be retrained. “When salt is reduced gradually, most people stop noticing the difference within a few weeks,” she said.",
+        "Not everyone is convinced. “My customers expect a certain taste,” said one noodle seller in Bangkok. “If they don't get it, they'll simply go elsewhere.”"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Most Thai adults eat about twice as much salt as international guidelines advise.",
+            "A national campaign is targeting less obvious sources of salt in the Thai diet.",
+            "Street vendors in twelve provinces are learning to cook with less seasoning.",
+            "Food companies will soon have to print sodium levels on the front of packets."
+          ],
+          "answer": 1,
+          "explain": "ทั้งเรื่องเล่าถึงแคมเปญระดับชาติที่เน้นแหล่งเกลือที่คนมองไม่เห็น ¶3: “the new campaign targets what officials describe as “hidden” sources” จึงตอบ B ตัวเลือก A เป็นเพียงตัวเลขพื้นหลังใน ¶1–¶2 ส่วน D ขัดกับ ¶4 ที่ว่าผู้ผลิต “not yet required”"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, excess sodium increases the risk of stroke mainly by",
+          "options": [
+            "raising blood pressure",
+            "damaging the kidneys",
+            "weakening the heart muscle",
+            "thickening the blood"
+          ],
+          "answer": 0,
+          "explain": "¶2: “Excess sodium raises blood pressure, which in turn increases the risk of stroke” — วลี which in turn บอกว่าความดันสูงเป็นกลไกที่นำไปสู่โรคหลอดเลือดสมอง ตัวเลือก B และ C เป็นกับดัก เพราะไตและหัวใจเป็น 'โรคที่เป็นผลลัพธ์' ซึ่งอยู่ในประโยคเดียวกัน ไม่ใช่ 'วิธี' ที่ทำให้เกิด stroke"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 3, why do many people consume more salt than they realise?",
+          "options": [
+            "They rarely add salt from a shaker to their food.",
+            "They are unaware of the international guidelines.",
+            "Packaged foods do not list the amount of sodium.",
+            "They do not think of common sauces as salty."
+          ],
+          "answer": 3,
+          "explain": "¶3: “yet many consumers do not regard them as salty at all” — ผู้บริโภคไม่คิดว่าน้ำปลา ซีอิ๊ว หรือผงปรุงรสเป็นของเค็ม จึงได้รับโซเดียมโดยไม่รู้ตัว ตัวเลือก A ยืมคำว่า salt shaker มาหลอก แต่ ¶3 พูดถึงแคมเปญเก่าที่เน้นขวดเกลือ ไม่ได้บอกว่าคนไม่ใช้"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'them' in paragraph 3 refer to?",
+          "options": [
+            "earlier national campaigns",
+            "health officials",
+            "the listed products",
+            "many consumers"
+          ],
+          "answer": 2,
+          "explain": "¶3: “Fish sauce, soy sauce, seasoning powder and instant noodles ... yet many consumers do not regard them as salty” — them คือสินค้าที่ไล่รายชื่อไว้ต้นประโยค ส่วน many consumers (D) เป็นประธานผู้ 'มอง' จึงไม่ใช่สิ่งที่ถูกมองว่าเค็ม"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'strands' in paragraph 4 is closest in meaning to",
+          "options": [
+            "stages that follow one another",
+            "groups of people involved",
+            "separate components",
+            "possible weaknesses"
+          ],
+          "answer": 2,
+          "explain": "¶4: “The campaign has three strands.” แล้วแจกแจงสามส่วนคือโฆษณา การอบรมผู้ค้า และฉลาก strands จึงหมายถึง 'ส่วนประกอบย่อย' ตัวเลือก A ผิดเพราะทั้งสามส่วนดำเนินไปพร้อมกัน (สังเกตคำว่า Meanwhile) ไม่ได้เรียงเป็นขั้นตอนตามเวลา"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as part of the campaign?",
+          "options": [
+            "advertisements showing how quickly sodium adds up",
+            "a legal cap on salt in instant noodles",
+            "free training for some street food vendors",
+            "encouraging sodium labels on the front of packs"
+          ],
+          "answer": 1,
+          "explain": "¶4 ระบุโฆษณา (A) การอบรมฟรีใน 12 จังหวัดนำร่อง (C) และการ 'ส่งเสริม' ให้ติดฉลากโซเดียมด้านหน้า (D) แต่ไม่มีการจำกัดปริมาณเกลือในบะหมี่ตามกฎหมาย บะหมี่กึ่งสำเร็จรูปปรากฏใน ¶3 เพียงในฐานะแหล่งโซเดียม จึงตอบ B"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 4 that, at present, front-of-pack sodium labels are",
+          "options": [
+            "voluntary for food manufacturers",
+            "compulsory for imported products only",
+            "already found on most packets",
+            "unpopular with most consumers"
+          ],
+          "answer": 0,
+          "explain": "¶4: “manufacturers are being encouraged, though not yet required” — เมื่อยังไม่บังคับ ฉลากจึงเป็นเรื่องที่ผู้ผลิตทำโดยสมัครใจ ตัวเลือก C ไม่สมเหตุผล เพราะถ้าสินค้าส่วนใหญ่มีฉลากอยู่แล้วก็ไม่ต้องรณรงค์ ส่วน B ไม่มีข้อมูลเรื่องสินค้านำเข้าเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author include the noodle seller's comments in paragraph 6?",
+          "options": [
+            "to prove that customers now prefer less salty food",
+            "to explain how vendors were chosen for training",
+            "to support Dr. Kanokwan's claim about changing tastes",
+            "to show that the campaign may face resistance"
+          ],
+          "answer": 3,
+          "explain": "¶6 เปิดด้วย “Not everyone is convinced.” แล้วยกคำพูดคนขายก๋วยเตี๋ยวที่กลัวลูกค้าหนี แสดงว่าแคมเปญอาจถูกต่อต้านจากผู้ค้าบางราย ตัวเลือก C ผิดเพราะความเห็นนี้ 'แย้ง' กับ Dr. Kanokwan ใน ¶5 ที่เชื่อว่าลิ้นปรับได้ ไม่ได้สนับสนุน"
+        }
+      ]
+    },
+    {
+      "id": "T4P2",
+      "kind": "short",
+      "genre": "announcement/notice",
+      "domain": "Environment",
+      "title": "Notice to All Students and Staff: Changes to the Campus Electricity Supply",
+      "paragraphs": [
+        "The Office of Campus Sustainability is pleased to announce that solar panels will be installed on the roofs of 34 university buildings, beginning on 1 November. The completed system, with a capacity of 4.5 megawatts, is expected to generate about 6.3 million kilowatt-hours a year, roughly 30 per cent of the campus's annual electricity consumption.",
+        "The project is financed through a 15-year agreement with a private energy company and requires no upfront investment from the university, which will instead buy the electricity the panels produce at below the standard grid rate. First-year savings are estimated at 9 million baht. When the agreement expires, ownership of the equipment will pass to the university.",
+        "Work will proceed in three phases: the Central Library, the main lecture complexes and the Student Union (November–January); faculty buildings in Zone B (February–April); and student dormitories (May–June), a period chosen to coincide with the semester break, when most residents will be away.",
+        "During each phase, roof access will be closed in the buildings concerned, and parts of nearby car parks may be cordoned off while cranes are in use. Power interruptions of up to two hours may also be needed when each building is connected to the new system. These will be scheduled at weekends wherever possible. Staff responsible for temperature-sensitive laboratory equipment should contact the Office by 15 October so that backup arrangements can be made.",
+        "Once operational, the system will feed a live dashboard in the university app showing the output of each building, and students in engineering and environmental science will be able to use its performance data in coursework and research.",
+        "Enquiries may be directed to the Office of Campus Sustainability on extension 4410."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of the notice?",
+          "options": [
+            "to encourage students and staff to save electricity on campus",
+            "to invite energy companies to bid for a campus solar contract",
+            "to explain a solar project and its effects on campus life",
+            "to explain why the campus electricity bill has risen sharply"
+          ],
+          "answer": 2,
+          "explain": "ประกาศแจ้งโครงการติดตั้งแผงโซลาร์ (¶1) แล้วอธิบายการเงิน ช่วงเวลา และผลกระทบต่อผู้ใช้ เช่น ¶4: “roof access will be closed in the buildings concerned” จึงตอบ C ตัวเลือก A ฟังดูเข้ากับเรื่องพลังงาน แต่ประกาศไม่ได้ขอให้ใครประหยัดไฟเลย และ B ผิดเพราะสัญญากับบริษัทเอกชนทำเสร็จแล้ว (¶2)"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the notice, the completed solar system is expected to",
+          "options": [
+            "supply about three-tenths of the campus's yearly electricity",
+            "generate 4.5 million kilowatt-hours of electricity each year",
+            "save the university 9 million baht every year",
+            "provide all the electricity needed by 34 buildings"
+          ],
+          "answer": 0,
+          "explain": "¶1: “about 6.3 million kilowatt-hours a year, roughly 30 per cent of the campus's annual electricity consumption” — 30% คือราวสามในสิบ ตัวเลือก B เอาตัวเลข 4.5 ซึ่งเป็นกำลังการผลิต (megawatts) มาปนกับหน่วย kilowatt-hours ส่วน C ผิดเพราะ ¶2 ประมาณการเงินที่ประหยัดได้เฉพาะ 'ปีแรก' (First-year savings)"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'upfront' in paragraph 2 is closest in meaning to",
+          "options": [
+            "hidden or secret",
+            "extra or additional",
+            "paid every month",
+            "paid at the start"
+          ],
+          "answer": 3,
+          "explain": "¶2: “requires no upfront investment from the university” — มหาวิทยาลัยไม่ต้องควักเงินลงทุนตอนเริ่มโครงการ เพราะบริษัทเอกชนลงทุนแล้วขายไฟให้ภายหลัง upfront จึงหมายถึง 'จ่ายตั้งแต่แรก' ตัวเลือก C ผิดเพราะการจ่ายรายเดือนคือค่าไฟที่จะซื้อในภายหลัง ไม่ใช่เงินลงทุน"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 2 that, until the agreement expires, the panels will",
+          "options": [
+            "belong to the university from the first day",
+            "remain the property of the energy company",
+            "be shared equally by the two organisations",
+            "be paid for by the university in instalments"
+          ],
+          "answer": 1,
+          "explain": "¶2: “When the agreement expires, ownership of the equipment will pass to the university.” ถ้ากรรมสิทธิ์จะ 'โอน' มาเมื่อสัญญาหมด แปลว่าระหว่างสัญญาแผงยังเป็นของบริษัทพลังงาน ตัวเลือก D ผิดเพราะสิ่งที่มหาวิทยาลัยจ่ายคือค่าไฟฟ้า ไม่ใช่การผ่อนค่าแผง"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "Why will the dormitories be the last buildings to receive panels?",
+          "options": [
+            "Most of the students living there will be away.",
+            "Their roofs must be repaired before work can start.",
+            "They use less electricity than the other buildings.",
+            "Cranes cannot reach them during the semester."
+          ],
+          "answer": 0,
+          "explain": "¶3 ระบุว่าหอพักอยู่ในช่วง May–June ซึ่งเลือกให้ตรงกับปิดภาคเรียน “when most residents will be away” จึงตอบ A ส่วนเรื่องหลังคาต้องซ่อม การใช้ไฟน้อย หรือเครนเข้าไม่ถึง (B–D) ไม่ปรากฏในประกาศ"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'These' in paragraph 4 refer to?",
+          "options": [
+            "the nearby car parks",
+            "the cranes in use",
+            "power interruptions",
+            "the affected buildings"
+          ],
+          "answer": 2,
+          "explain": "¶4: “Power interruptions of up to two hours may also be needed ... These will be scheduled at weekends wherever possible.” These ชี้กลับไปที่การดับไฟชั่วคราวในประโยคก่อนหน้า ตัวเลือก D เป็นกับดักเพราะอาคารคือสิ่งที่ 'ถูกเชื่อมต่อ' ไม่ใช่สิ่งที่ถูกนัดหมายไว้วันหยุด"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a possible disruption during installation?",
+          "options": [
+            "closure of access to some roofs",
+            "restrictions in parts of car parks",
+            "short interruptions to the power supply",
+            "the relocation of some lectures"
+          ],
+          "answer": 3,
+          "explain": "¶4 กล่าวถึงการปิดทางขึ้นหลังคา (A) การกั้นบางส่วนของลานจอดรถขณะใช้เครน (B) และไฟดับไม่เกินสองชั่วโมง (C) แต่ไม่มีการย้ายห้องบรรยายเลย แม้ ¶3 จะเอ่ยถึง lecture complexes ก็เป็นเพียงชื่ออาคารที่ติดตั้งแผง จึงตอบ D"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "Which person would most need to contact the Office before 15 October?",
+          "options": [
+            "a student planning a project using solar data",
+            "a researcher storing samples in a lab freezer",
+            "a lecturer who parks near a lecture complex",
+            "a student who lives in a campus dormitory"
+          ],
+          "answer": 1,
+          "explain": "¶4: “Staff responsible for temperature-sensitive laboratory equipment should contact the Office by 15 October” — ตู้แช่แข็งตัวอย่างต้องใช้ไฟตลอด จึงต้องเตรียมไฟสำรองก่อนไฟดับ ตัวเลือก A เป็นกับดัก เพราะการใช้ข้อมูลโซลาร์ (¶5) เกิดขึ้นหลังระบบเปิดใช้แล้ว ไม่เกี่ยวกับกำหนดวันที่ 15 ตุลาคม"
+        }
+      ]
+    },
+    {
+      "id": "T4P3",
+      "kind": "short",
+      "genre": "news report",
+      "domain": "AI/Technology",
+      "title": "Airports Turn to Face Scans at the Gate",
+      "paragraphs": [
+        "At a growing number of airports around the world, passengers can now check in, drop off their luggage and board their flights without showing a passport or boarding pass. Instead, cameras at each checkpoint scan their faces and compare them with an image captured when they first registered.",
+        "Supporters say the technology removes one of the most frustrating parts of air travel. At one regional hub, managers report that boarding a wide-body aircraft now takes around 20 minutes, compared with 35 minutes when staff checked documents by hand. Airlines also argue that automated checks are more reliable than tired employees comparing faces with small passport photographs at the end of a long shift.",
+        "Privacy advocates, however, are uneasy. Unlike a password, a face cannot be replaced if it is stolen. “Once biometric data leaks, the damage is permanent,” said Nattapong Wiriya, a data protection researcher. He questions how long the images are retained, who has access to them and whether they might one day be passed to police or other government agencies without travellers' knowledge.",
+        "Operators insist that such fears are exaggerated. Most systems, they say, convert each face into a mathematical template rather than storing an actual photograph, and delete the data within 24 hours of departure. Participation is also voluntary: travellers who prefer not to be scanned can use a standard lane.",
+        "Critics respond that consent means little when the alternative is noticeably slower. In a survey of 2,000 travellers by a consumer rights group, 61 per cent said they had used facial recognition at an airport, yet fewer than a quarter knew they were entitled to refuse.",
+        "Accuracy is a further concern. Earlier generations of the software made more errors when identifying people with darker skin and older travellers, although developers claim the gap has narrowed considerably.",
+        "Several countries, Thailand among them, now classify biometric information as sensitive personal data whose collection requires explicit consent. Whether such rules are respected at the boarding gate, experts say, is another matter."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "title",
+          "q": "Which of the following is the best title for the passage?",
+          "options": [
+            "How Airports Have Made Passports Unnecessary",
+            "Privacy Laws Finally Catch Up with Airports",
+            "Software Errors Leave Many Travellers Stranded",
+            "Speed versus Privacy at the Airport Gate"
+          ],
+          "answer": 3,
+          "explain": "บทความเสนอทั้งข้อดีด้านความเร็ว (¶2) และข้อกังวลเรื่องความเป็นส่วนตัว ความยินยอม และความแม่นยำ (¶3–¶7) ชื่อที่ครอบคลุมคือ D ตัวเลือก B ขัดกับ ¶7 ที่ว่าการบังคับใช้กฎหมาย “is another matter” ส่วน A เกินจริงเพราะ ¶4 ยังมี standard lane ให้ผู้ที่ใช้พาสปอร์ตตามปกติ"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, why do airlines favour automated identity checks?",
+          "options": [
+            "They believe machines make fewer errors than tired staff.",
+            "They no longer need to employ staff at boarding gates.",
+            "Passengers have complained about long queues at check-in.",
+            "Passport photographs are often too small to be useful."
+          ],
+          "answer": 0,
+          "explain": "¶2: “Airlines also argue that automated checks are more reliable than tired employees” จึงตอบ A ตัวเลือก D ยืมคำว่า small passport photographs มาหลอก แต่บทความไม่ได้บอกว่ารูปเล็กจนใช้ไม่ได้ และ B ไม่มีการพูดถึงการเลิกจ้างพนักงาน"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'uneasy' in paragraph 3 is closest in meaning to",
+          "options": [
+            "uninformed",
+            "impatient",
+            "worried",
+            "divided"
+          ],
+          "answer": 2,
+          "explain": "¶3: “Privacy advocates, however, are uneasy.” ตามด้วยความกลัวว่าข้อมูลใบหน้าที่รั่วไหลจะเสียหายถาวร uneasy จึงแปลว่า 'กังวล ไม่สบายใจ' ตัวเลือก D (แตกความเห็น) ไม่เข้ากับบริบท เพราะกลุ่มนี้มีความเห็นไปในทางเดียวกัน"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'them' in paragraph 3 refer to?",
+          "options": [
+            "travellers",
+            "the stored images",
+            "government agencies",
+            "the police"
+          ],
+          "answer": 1,
+          "explain": "¶3: “He questions how long the images are retained, who has access to them” — them คือภาพใบหน้าที่ถูกเก็บไว้ ตัวเลือก A travellers เป็นกับดักเพราะอยู่ท้ายประโยคเดียวกัน แต่สิ่งที่ 'ถูกเข้าถึง' และอาจ 'ถูกส่งต่อ' ให้ตำรวจคือภาพ ไม่ใช่ตัวผู้โดยสาร"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to operators, how do most systems reduce the risk to privacy?",
+          "options": [
+            "They store faces as templates and delete them within a day.",
+            "They share the data only with the police and other government agencies.",
+            "They keep photographs until the passenger's next journey.",
+            "They ask travellers for a password before each scan."
+          ],
+          "answer": 0,
+          "explain": "¶4: ระบบ “convert each face into a mathematical template rather than storing an actual photograph, and delete the data within 24 hours of departure” ตรงกับ A (24 ชั่วโมง = ภายในหนึ่งวัน) ตัวเลือก B คือสิ่งที่นักวิจัยใน ¶3 'กังวล' ไม่ใช่สิ่งที่ผู้ให้บริการอ้าง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 5 that the critics believe",
+          "options": [
+            "most travellers refuse to be scanned when given a choice",
+            "consumer rights groups have exaggerated the risks",
+            "the standard lanes at airports should be closed",
+            "many travellers' consent is not genuinely informed"
+          ],
+          "answer": 3,
+          "explain": "¶5: “consent means little when the alternative is noticeably slower” และผลสำรวจพบว่า “fewer than a quarter knew they were entitled to refuse” จึงอนุมานได้ว่าผู้โดยสารจำนวนมากยินยอมโดยไม่รู้สิทธิของตน ตัวเลือก A ขัดกับข้อมูลที่ 61% เคยใช้ระบบนี้แล้ว"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+          "options": [
+            "Unlike a password, a face cannot be replaced if it is stolen.",
+            "Consent means little when the alternative is noticeably slower.",
+            "61 per cent said they had used facial recognition at an airport.",
+            "Travellers who prefer not to be scanned can use a standard lane."
+          ],
+          "answer": 1,
+          "explain": "ประโยคใน ¶5 “consent means little when the alternative is noticeably slower” เป็นการตัดสินคุณค่าของฝ่ายวิจารณ์ ซึ่งคนอื่นอาจไม่เห็นด้วย จึงเป็นความคิดเห็น ส่วน A, C, D ตรวจสอบได้ (ลักษณะของใบหน้า ผลสำรวจ และขั้นตอนของระบบ) แม้ C จะมาจากย่อหน้าเดียวกันก็เป็นตัวเลขข้อเท็จจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a concern about facial recognition at airports?",
+          "options": [
+            "images being passed to the police without travellers knowing",
+            "travellers being unaware that they can refuse to take part",
+            "the software making more errors with certain groups",
+            "the high cost of installing cameras at every gate"
+          ],
+          "answer": 3,
+          "explain": "บทความพูดถึงการส่งภาพให้ตำรวจ (¶3) ผู้โดยสารไม่รู้ว่าปฏิเสธได้ (¶5) และความผิดพลาดกับคนผิวเข้มและผู้สูงอายุ (¶6: “made more errors when identifying people with darker skin and older travellers”) แต่ไม่เอ่ยถึงต้นทุนการติดตั้งกล้องเลย จึงตอบ D"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward facial recognition at airports can best be described as",
+          "options": [
+            "enthusiastic",
+            "dismissive",
+            "even-handed",
+            "alarmed"
+          ],
+          "answer": 2,
+          "explain": "ผู้เขียนรายงานทั้งข้อดี (¶2) และข้อโต้แย้ง (¶3–¶6) โดยอ้างคำพูดของแต่ละฝ่าย เช่น ¶4: “Operators insist that such fears are exaggerated.” และไม่แสดงจุดยืนของตนเอง จึงเป็นท่าที 'เป็นกลาง' ตัวเลือก D ไม่ถูก เพราะความสงสัยใน ¶7 ถูกอ้างว่าเป็นของ experts ไม่ใช่ผู้เขียนตื่นตระหนกเอง"
+        }
+      ]
+    },
+    {
+      "id": "T4P4",
+      "kind": "short",
+      "genre": "research news",
+      "domain": "Medicine",
+      "title": "Researchers Weigh the Evidence on Exercise and Low Mood",
+      "paragraphs": [
+        "For people with mild-to-moderate depression, a structured programme of physical exercise may be roughly as effective as psychotherapy or antidepressant medication, according to a large review published this year. The analysis, conducted by an international team of researchers, pooled data from 97 clinical trials involving around 6,800 patients.",
+        "Walking or jogging, yoga and strength training produced the clearest benefits, and more vigorous activity was generally associated with greater improvement. Notably, the size of the effect did not depend on how many sessions people completed each week, suggesting that intensity may matter more than frequency. Programmes delivered in groups also tended to outperform those that participants followed alone.",
+        "Several mechanisms are thought to be involved. Exercise stimulates the release of proteins that support the growth of new connections between brain cells, and it may reduce the low-grade inflammation observed in some people with depression. It also tends to improve sleep. Psychological factors appear to play a part as well: completing a demanding workout gives patients a sense of achievement, which may counter the helplessness that so often accompanies the condition.",
+        "“What this review offers is reassurance that exercise is not merely an add-on,” said Dr. Pimchanok Saengthong, a psychiatrist at a teaching hospital in Bangkok who was not involved in the study. “For many patients, it can be a first-line treatment in its own right.”",
+        "The authors nonetheless acknowledge important limitations. Many of the trials were small, and because it is impossible to conceal from participants whether they are exercising, their expectations may have inflated some results. Drop-out rates were also high in certain programmes, which raises doubts about whether patients could sustain the habit outside the supportive setting of a trial.",
+        "Experts stress that the findings do not apply to severe depression and that patients already taking medication should not stop without medical advice. Dr. Pimchanok also points out that motivation is often the first thing depression erodes. “Telling someone who can barely get out of bed to go running is not a treatment plan,” she said. “Exercise has to be prescribed with the same care as any drug: start small, provide support and follow up regularly.”"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Exercising in a group helps depressed patients more than exercising alone.",
+            "Exercise looks like a credible treatment for milder depression, though doubts remain.",
+            "Patients with depression should replace their medication with regular exercise.",
+            "Scientists have now fully explained how physical activity changes the brains of depressed people."
+          ],
+          "answer": 1,
+          "explain": "¶1 สรุปว่าการออกกำลังกาย “may be roughly as effective as psychotherapy or antidepressant medication” สำหรับซึมเศร้าระดับน้อยถึงปานกลาง และ ¶5–¶6 ชี้ข้อจำกัด จึงตอบ B ตัวเลือก C ขัดกับ ¶6 ที่เตือนไม่ให้หยุดยาเอง ส่วน D เกินจริงเพราะ ¶3 ใช้ถ้อยคำ “are thought to be involved” ซึ่งยังไม่ใช่ข้อสรุปแน่ชัด"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'pooled' in paragraph 1 is closest in meaning to",
+          "options": [
+            "combined",
+            "selected",
+            "questioned",
+            "published"
+          ],
+          "answer": 0,
+          "explain": "¶1: “pooled data from 97 clinical trials” — งานทบทวนนี้นำข้อมูลจากหลายการทดลองมา 'รวมกัน' เพื่อวิเคราะห์ pooled จึงตรงกับ combined ตัวเลือก B (selected) ฟังดูเข้าเค้าเพราะงานทบทวนต้องคัดเลือกงานวิจัย แต่ไม่ใช่ความหมายของคำนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "What does paragraph 2 suggest about the intensity of exercise?",
+          "options": [
+            "It matters less than the number of weekly sessions.",
+            "It is important only for strength training.",
+            "It may matter more than exercise frequency.",
+            "It explains why group classes were more effective."
+          ],
+          "answer": 2,
+          "explain": "¶2: “the size of the effect did not depend on how many sessions people completed each week, suggesting that intensity may matter more than frequency” จึงตอบ C ตัวเลือก A กลับความหมาย ส่วน D ผิดเพราะผลของการออกกำลังเป็นกลุ่มเป็นข้อค้นพบแยกต่างหาก ไม่ได้ถูกอธิบายด้วยความหนักของการออกกำลัง"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned in paragraph 3 as a way in which exercise may help?",
+          "options": [
+            "supporting new links between brain cells",
+            "reducing low-grade inflammation",
+            "improving the quality of sleep",
+            "increasing contact with other people"
+          ],
+          "answer": 3,
+          "explain": "¶3 กล่าวถึงการสร้าง “new connections between brain cells” (A) การลดการอักเสบ (B) และการนอนที่ดีขึ้น (C) แต่ไม่ได้พูดถึงการพบปะผู้คน จึงตอบ D แม้ ¶2 จะบอกว่าการออกกำลังเป็นกลุ่มได้ผลดีกว่า ก็ไม่ได้ถูกอธิบายเป็นกลไกใน ¶3"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author quote Dr. Pimchanok in paragraph 4?",
+          "options": [
+            "to present an independent expert's reaction",
+            "to explain how the international review was carried out",
+            "to criticise the methods used in the clinical trials",
+            "to describe the biological effects of exercise on the brain"
+          ],
+          "answer": 0,
+          "explain": "¶4 ระบุว่า Dr. Pimchanok “was not involved in the study” คำพูดของเธอจึงเป็นปฏิกิริยาของผู้เชี่ยวชาญภายนอกต่อผลการวิจัย ตัวเลือก C ผิดเพราะเธอพูดเชิงสนับสนุนว่าการออกกำลังกาย “not merely an add-on” ไม่ได้วิจารณ์วิธีวิจัย"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 5, why might participants' expectations have affected the results?",
+          "options": [
+            "Many of the trials involved only a small number of people.",
+            "Patients often left the programmes before they had finished.",
+            "Participants always knew whether they were exercising.",
+            "Researchers told participants which results they hoped to find."
+          ],
+          "answer": 2,
+          "explain": "¶5: “because it is impossible to conceal from participants whether they are exercising, their expectations may have inflated some results” — ผู้เข้าร่วมย่อมรู้ตัวว่ากำลังออกกำลังกาย ความคาดหวังจึงแทรกเข้ามาได้ ตัวเลือก A และ B เป็นข้อจำกัดจริงตามบทความ แต่เป็นคนละเหตุผลกับเรื่องความคาดหวัง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'inflated' in paragraph 5 is closest in meaning to",
+          "options": [
+            "weakened",
+            "overstated",
+            "contradicted",
+            "postponed"
+          ],
+          "answer": 1,
+          "explain": "¶5: “their expectations may have inflated some results” — ความคาดหวังของผู้เข้าร่วมทำให้ผลดูดีกว่าความจริง inflated จึงหมายถึง 'ทำให้สูงเกินจริง' ใกล้เคียง overstated ตัวเลือก A (weakened) มีความหมายตรงกันข้าม"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'which' in paragraph 5 refer to?",
+          "options": [
+            "the supportive setting",
+            "the small size of the trials",
+            "participants' expectations",
+            "the high drop-out rates"
+          ],
+          "answer": 3,
+          "explain": "¶5: “Drop-out rates were also high in certain programmes, which raises doubts about whether patients could sustain the habit” — สิ่งที่ทำให้เกิดข้อสงสัยคืออัตราการถอนตัวกลางคันที่สูง ตัวเลือก A เป็นกับดักเพราะ the supportive setting อยู่ท้ายประโยค แต่เป็นส่วนหนึ่งของข้อสงสัย ไม่ใช่ตัวการที่ทำให้เกิดข้อสงสัย"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 6 that Dr. Pimchanok believes",
+          "options": [
+            "people with depression may need help to begin exercising",
+            "running is an unsuitable form of exercise for depressed patients",
+            "medication should be stopped once exercise has begun",
+            "exercise works best for patients with severe depression"
+          ],
+          "answer": 0,
+          "explain": "¶6: “motivation is often the first thing depression erodes” และเธอเสนอให้ “start small, provide support and follow up regularly” แสดงว่าผู้ป่วยอาจต้องมีคนช่วยในการเริ่มต้น ตัวเลือก B ผิดเพราะเธอไม่ได้ห้ามวิ่ง แต่ชี้ว่าการสั่งให้ไปวิ่งโดยไม่มีการสนับสนุนนั้น “is not a treatment plan”"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "Which of the following best describes the tone of the passage?",
+          "options": [
+            "dismissive",
+            "enthusiastic",
+            "measured",
+            "alarmed"
+          ],
+          "answer": 2,
+          "explain": "บทความรายงานผลเชิงบวก (¶1–¶3) แต่ก็ระบุข้อจำกัดชัดเจน เช่น ¶5: “The authors nonetheless acknowledge important limitations.” น้ำเสียงจึง 'สุขุม ชั่งน้ำหนัก' ตัวเลือก B เป็นกับดักเพราะผลวิจัยเป็นบวก แต่ผู้เขียนไม่ได้ยกย่องเกินจริง และยังเตือนเรื่องซึมเศร้ารุนแรงใน ¶6"
+        }
+      ]
+    },
+    {
+      "id": "T4P5",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "Society",
+      "title": "The City and the Mind: Urban Living and Psychological Well-being",
+      "paragraphs": [
+        "More than half of the world's population now lives in towns and cities, and that share is projected to approach two-thirds by the middle of this century. In Southeast Asia, where several countries are urbanising faster than Europe did during its industrial revolution, the shift has brought undeniable gains: higher incomes, better access to education and health care, and wider personal freedom. Yet a growing body of research suggests that city life may also carry psychological costs. This article reviews the principal environmental factors thought to link urban living with mental ill-health and considers what urban design might do to reduce them.",
+        "The association itself is well documented. Large population studies in northern Europe have found that people who grow up in cities face a higher risk of schizophrenia than those raised in rural areas, and that the risk rises with the number of years spent in an urban environment during childhood. Rates of anxiety and depression also tend to be higher in cities, although the differences are smaller and less consistent across countries. Interpreting these patterns is far from straightforward. Cities attract newcomers for many reasons, and people who are already vulnerable may move there in search of work, anonymity or services, a process known as “social drift”. Disentangling cause from selection therefore remains one of the central challenges in this field.",
+        "Noise is perhaps the most readily measured of the suspected factors. Chronic exposure to road traffic, aircraft and construction noise has been linked to annoyance, disturbed sleep and elevated levels of stress hormones. Its effects are particularly marked at night, when even sounds that do not fully wake a sleeper can fragment sleep and leave a person less able to cope with the following day. Because poor sleep is both a symptom of depression and a risk factor for it, noise may help to sustain a cycle that is difficult to break.",
+        "Crowding presents a more complicated picture. High population density in itself does not appear to damage mental health; some very densely populated cities report rates of mental illness no higher than those of far less crowded places. What seems to matter instead is crowding within the home, combined with a perceived lack of control over one's surroundings. Residents who cannot find privacy or withdraw from unwanted social contact are more likely to report irritability, fatigue and psychological distress. The problem, in other words, is less the number of people nearby than the inability to step away from them.",
+        "Paradoxically, cities can also be lonely places. Urban residents may encounter hundreds of strangers every day yet have fewer close relationships than their rural counterparts, particularly if they have migrated from elsewhere and left family networks behind. In a survey of 3,500 adults in one Southeast Asian capital, those who had lived in their neighbourhood for less than two years were nearly twice as likely to report frequent loneliness as long-term residents. Researchers distinguish social isolation, an objective shortage of contact, from loneliness, the subjective sense that one's relationships are inadequate. Both are associated with depression, but loneliness appears to be the stronger predictor.",
+        "Against these pressures, green space appears to offer a measure of protection. Studies on several continents have found that people living close to parks report lower psychological distress, even after income and other socioeconomic factors are taken into account. Two explanations are commonly proposed. One holds that natural settings allow the mind to recover from the constant, effortful attention that busy streets demand; the other emphasises the rapid physiological calming that views of trees and water seem to produce. Quality, however, matters as much as quantity. A neglected or unsafe park may be avoided altogether, in which case it delivers few of these benefits.",
+        "Such findings have encouraged planners to treat mental health as a deliberate design objective rather than an accidental by-product. Measures under discussion include planting trees along streets to absorb noise and provide shade, shielding quiet residential areas from through traffic, and creating shared spaces such as markets, libraries and community gardens where neighbours can meet informally. In several Asian cities, small plots of unused land have been converted into “pocket parks” within walking distance of homes. These interventions are inexpensive relative to the cost of treating mental illness, but their effects have rarely been evaluated rigorously.",
+        "None of this means that cities are inherently harmful to the mind. Urban areas concentrate mental health services, offer diverse opportunities and tolerate lifestyles that might be stigmatised in smaller communities. Many of the risks described above, moreover, are features not of cities as such but of particular ways of building and managing them. The task for the coming decades is not to slow urbanisation, which would be neither feasible nor desirable, but to ensure that the cities absorbing billions of new residents are built with psychological as well as physical needs in mind."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "City life is the main cause of rising rates of schizophrenia, anxiety and depression worldwide.",
+            "Green space is the most effective way to protect the mental health of city dwellers.",
+            "Various aspects of city environments affect mental health, and planning may reduce the harm.",
+            "Southeast Asian countries are urbanising faster than European countries did in the past."
+          ],
+          "answer": 2,
+          "explain": "บทความไล่ปัจจัยของเมืองทีละอย่าง (เสียง ความแออัด ความเหงา พื้นที่สีเขียว ¶3–¶6) แล้วเสนอแนวทางออกแบบเมือง (¶7) ตามที่ ¶1 ประกาศไว้ว่า “considers what urban design might do to reduce them” จึงตอบ C ตัวเลือก A เกินจริง เพราะ ¶2 ชี้ว่าอาจเกิดจาก social drift และ ¶8 ยืนยันว่า “None of this means that cities are inherently harmful to the mind.”"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'Disentangling' in paragraph 2 is closest in meaning to",
+          "options": [
+            "separating",
+            "explaining",
+            "confirming",
+            "ignoring"
+          ],
+          "answer": 0,
+          "explain": "¶2: “Disentangling cause from selection therefore remains one of the central challenges” — นักวิจัยต้อง 'แยก' ให้ออกว่าเมืองเป็นต้นเหตุ หรือคนที่เปราะบางเลือกย้ายเข้าเมืองเอง ตัวเลือก B (explaining) ใกล้เคียงแต่ไม่ได้สื่อถึงการแยกสองสิ่งที่พันกันอยู่ออกจากกัน ซึ่งเป็นแก่นของคำนี้ (entangle = พันกัน)"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, the risk of schizophrenia for people raised in cities",
+          "options": [
+            "is similar to that of people raised in rural areas",
+            "increases with the time spent in a city as a child",
+            "is higher in northern Europe than in other regions",
+            "depends mainly on the population of the city"
+          ],
+          "answer": 1,
+          "explain": "¶2: “the risk rises with the number of years spent in an urban environment during childhood” จึงตอบ B ตัวเลือก C เป็นกับดักเพราะ northern Europe เป็นเพียงสถานที่ที่ทำการศึกษา บทความไม่ได้เปรียบเทียบความเสี่ยงกับภูมิภาคอื่น"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author mention “social drift” in paragraph 2?",
+          "options": [
+            "to explain why rural areas lack mental health services",
+            "to describe how cities help vulnerable people recover",
+            "to argue that newcomers to cities should be screened for mental illness",
+            "to suggest that cities may not directly cause the higher rates"
+          ],
+          "answer": 3,
+          "explain": "¶2: “people who are already vulnerable may move there in search of work, anonymity or services” — ถ้าผู้มีความเสี่ยงย้ายเข้าเมืองเอง อัตราการป่วยที่สูงในเมืองก็อาจไม่ได้เกิดจากเมืองโดยตรง ผู้เขียนจึงยกคำนี้เพื่อแสดงว่าการตีความ “is far from straightforward” ตัวเลือก C ไม่มีการเสนอในบทความเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'Its' in paragraph 3 refer to?",
+          "options": [
+            "noise exposure",
+            "poor-quality sleep",
+            "general annoyance",
+            "construction work"
+          ],
+          "answer": 0,
+          "explain": "¶3: “Chronic exposure to road traffic, aircraft and construction noise has been linked to ... Its effects are particularly marked at night” — Its หมายถึงการได้รับเสียงดังเรื้อรัง ซึ่งเป็นประธานของประโยคก่อนหน้า ตัวเลือก D เป็นกับดักเพราะงานก่อสร้างเป็นเพียงหนึ่งในแหล่งเสียงที่ยกมา"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred from paragraph 3 about the relationship between noise and depression?",
+          "options": [
+            "Noise is the single most important cause of depression in cities.",
+            "People with depression are more sensitive to noise than others.",
+            "Noise may worsen depression indirectly by disrupting sleep.",
+            "Noise affects mood only when it wakes people during the night."
+          ],
+          "answer": 2,
+          "explain": "¶3: “Because poor sleep is both a symptom of depression and a risk factor for it, noise may help to sustain a cycle” — เสียงรบกวนการนอน และการนอนที่แย่เชื่อมโยงกับซึมเศร้า จึงเป็นผลทางอ้อม ตัวเลือก D ขัดกับ ¶3 ที่ระบุว่าแม้เสียงที่ “do not fully wake a sleeper” ก็ทำให้การนอนขาดเป็นช่วงได้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 4, which of the following seems most harmful to mental health?",
+          "options": [
+            "living in a city with a very high population density",
+            "lacking privacy and control at home",
+            "having too little contact with neighbours",
+            "moving to a large city from a rural area"
+          ],
+          "answer": 1,
+          "explain": "¶4: “What seems to matter instead is crowding within the home, combined with a perceived lack of control over one's surroundings.” จึงตอบ B ตัวเลือก A เป็นกับดักที่ดึงดูดที่สุด แต่ ¶4 บอกชัดว่า “High population density in itself does not appear to damage mental health”"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'counterparts' in paragraph 5 is closest in meaning to",
+          "options": [
+            "relatives who live in the countryside",
+            "rivals in the job market",
+            "neighbours from other countries",
+            "people in an equivalent position"
+          ],
+          "answer": 3,
+          "explain": "¶5: “fewer close relationships than their rural counterparts” — หมายถึงผู้อยู่อาศัยในชนบทซึ่งอยู่ในฐานะเทียบเคียงกับคนเมือง ตัวเลือก A เป็นกับดักเพราะคำว่า rural ชวนให้นึกถึงญาติที่อยู่ต่างจังหวัด แต่ counterparts ไม่ได้แปลว่าญาติ"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 6 that simply increasing the number of parks in a city",
+          "options": [
+            "may achieve little if the parks are poorly maintained",
+            "would remove the need for other mental health services",
+            "is the cheapest way to improve residents' mental health",
+            "benefits wealthy residents more than poorer residents"
+          ],
+          "answer": 0,
+          "explain": "¶6: “A neglected or unsafe park may be avoided altogether, in which case it delivers few of these benefits.” การเพิ่มจำนวนสวนอย่างเดียวจึงอาจไม่ช่วยหากคุณภาพต่ำ ตัวเลือก D ผิดเพราะ ¶6 บอกว่าผลดียังคงอยู่ “even after income and other socioeconomic factors are taken into account”"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned in paragraph 7 as a measure that planners are considering?",
+          "options": [
+            "planting trees along streets",
+            "limiting the height of new apartment blocks",
+            "keeping through traffic out of quiet areas",
+            "providing informal meeting places for neighbours"
+          ],
+          "answer": 1,
+          "explain": "¶7 กล่าวถึงการปลูกต้นไม้ริมถนน (A) การกันรถที่วิ่งผ่านออกจากย่านพักอาศัยที่เงียบ (C: “shielding quiet residential areas from through traffic”) และพื้นที่ส่วนรวมให้เพื่อนบ้านพบกัน (D) แต่ไม่มีเรื่องจำกัดความสูงอาคาร จึงตอบ B"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following statements is an opinion rather than a fact?",
+          "options": [
+            "Chronic exposure to noise has been linked to disturbed sleep.",
+            "Urban areas concentrate mental health services.",
+            "Slowing urbanisation would be neither feasible nor desirable.",
+            "Some very dense cities report no higher rates of mental illness."
+          ],
+          "answer": 2,
+          "explain": "¶8: “not to slow urbanisation, which would be neither feasible nor desirable” — คำว่า desirable เป็นการตัดสินคุณค่าของผู้เขียน จึงเป็นความคิดเห็น ส่วน A (¶3) และ D (¶4) เป็นข้อมูลจากงานวิจัยและสถิติ และ B (¶8) เป็นข้อมูลที่ตรวจสอบได้ แม้จะอยู่ในย่อหน้าเดียวกับความเห็นของผู้เขียนก็ตาม"
+        },
+        {
+          "type": "mc",
+          "skill": "organization",
+          "q": "Which of the following best describes how the passage is organised?",
+          "options": [
+            "A single problem is described, and one particular solution is then defended in detail.",
+            "Two opposing theories about city life are compared, and one of them is finally rejected.",
+            "Historical developments are presented in the order in which they occurred.",
+            "An association is described, its possible causes examined, and responses considered."
+          ],
+          "answer": 3,
+          "explain": "¶2 ยืนยันความเชื่อมโยงระหว่างเมืองกับสุขภาพจิต ¶3–¶6 พิจารณาปัจจัยทีละอย่าง และ ¶7–¶8 กล่าวถึงแนวทางรับมือ จึงตอบ D ตัวเลือก A ผิดเพราะ ¶7 เสนอมาตรการหลายอย่าง ไม่ได้ปกป้องทางออกเดียว ส่วน B ผิดเพราะคำอธิบายสองแบบเรื่องพื้นที่สีเขียวใน ¶6 ไม่ได้ถูกหักล้าง"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Apart from work and services, what may already vulnerable people be seeking when they move to a city? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "anonymity"
+          ],
+          "explain": "¶2: “people who are already vulnerable may move there in search of work, anonymity or services” — นอกจากงานและบริการแล้ว คนกลุ่มนี้แสวงหา anonymity (การไม่มีใครรู้จัก) ในเมือง"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Besides annoyance and disturbed sleep, chronic noise exposure has been linked to elevated levels of what? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "stress hormones",
+            "stress hormone"
+          ],
+          "explain": "¶3: “has been linked to annoyance, disturbed sleep and elevated levels of stress hormones” คำตอบคือ stress hormones (ฮอร์โมนความเครียด) ซึ่งเป็นผลด้านสรีรวิทยาอย่างเดียวที่ย่อหน้านี้ระบุ"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Which subjective experience appears to predict depression more strongly than social isolation does? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "loneliness"
+          ],
+          "explain": "¶5: “Both are associated with depression, but loneliness appears to be the stronger predictor.” loneliness คือความรู้สึกว่าความสัมพันธ์ไม่เพียงพอ ต่างจาก social isolation ที่เป็นการขาดการติดต่อตามความเป็นจริง"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What are the small green areas created from unused land within walking distance of homes called? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "pocket parks",
+            "pocket park"
+          ],
+          "explain": "¶7: “small plots of unused land have been converted into “pocket parks” within walking distance of homes” คำตอบคือ pocket parks (สวนขนาดเล็กใกล้บ้าน)"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "According to paragraph 8, what do urban areas tolerate that might be stigmatised in smaller communities? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "lifestyles",
+            "lifestyle"
+          ],
+          "explain": "¶8: “Urban areas ... tolerate lifestyles that might be stigmatised in smaller communities.” คำตอบคือ lifestyles ซึ่งผู้เขียนยกเป็นข้อดีของเมืองเพื่อแย้งว่าเมืองไม่ได้เป็นผลร้ายต่อจิตใจเสมอไป"
+        }
+      ]
+    },
+    {
+      "id": "T4P6",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "Education",
+      "title": "Peer Assessment in Higher Education: Evidence and Practice",
+      "paragraphs": [
+        "Peer assessment, in which students evaluate the work of their classmates and provide feedback, marks or both, has moved from the margins of university teaching into the mainstream over the past three decades. It is now used in disciplines as varied as engineering, nursing, architecture and language teaching, and online platforms have made it feasible even in classes of several hundred students. Its spread, however, has been accompanied by persistent doubts about whether students are capable of judging one another's work fairly. This article considers the educational case for peer assessment, the principal concerns it raises and the conditions under which it appears to work best.",
+        "The most compelling argument for peer assessment concerns what educational researchers call “evaluative judgement”: the capacity to recognise quality in one's own work and in the work of others. After graduation, few professionals have a teacher on hand to tell them whether a report, a design or a care plan is good enough; they must make that decision themselves. By applying assessment criteria to a range of real examples, students come to understand those criteria far more deeply than they would by simply reading them in a course handbook. In this sense, peer assessment is less a method of grading than a form of instruction.",
+        "Somewhat counter-intuitively, the benefits appear to flow more from giving feedback than from receiving it. In one study of first-year writing courses, students who only reviewed their peers' essays made greater gains in their own writing over a semester than students who only received reviews. Reviewers, it seems, are obliged to diagnose problems and articulate possible solutions, a cognitively demanding process that later transfers to their own drafts. Peer assessment also addresses a practical difficulty: in large classes, it enables each student to receive several sets of comments far more quickly than a single lecturer could provide them, although the quality of those comments inevitably varies.",
+        "Critics, however, raise the question of reliability. Students may lack the subject knowledge needed to detect subtle errors, and some are reluctant to criticise friends, a tendency often referred to as “friendship marking”. Others mark generously in the hope of being treated generously in return, while a minority may be unduly harsh towards classmates they dislike or regard as rivals for top grades. Students themselves frequently voice discomfort, arguing that assessment is the lecturer's responsibility and that they are paying fees to be taught, not to teach. Such reservations are not unreasonable, particularly when peer marks count towards final grades.",
+        "The evidence on accuracy is more reassuring than these concerns might suggest. Reviews of studies comparing peer and teacher marks have generally reported moderate to strong agreement, particularly when students judge overall performance against clearly defined criteria rather than awarding separate marks for many narrow components. Agreement also improves when each piece of work is assessed by several peers and the scores are averaged, because individual biases, whether lenient or severe, tend to cancel one another out. Interestingly, the accuracy of peer marks appears to increase as students gain experience, which suggests that the skill can be developed rather than simply assumed.",
+        "Preparation, nonetheless, makes a considerable difference. Rubrics that describe each level of performance in concrete terms reduce the scope for guesswork, especially when they are accompanied by annotated examples. Rubrics can, however, turn into checklists that students apply mechanically, so lecturers are advised to discuss them in class rather than simply distribute them. Many lecturers now run calibration exercises, in which students mark sample assignments and compare their judgements with those of the teacher before assessing real work. In a trial at a university in north-eastern Thailand, students who completed two such sessions produced marks considerably closer to the lecturer's than those of an untrained comparison group, and they also rated the process as fairer.",
+        "Design choices matter as well. Anonymous review can reduce friendship marking, although it may also make comments less considerate. Online platforms can allocate reviewers at random, preventing students from choosing whose work they assess. Many specialists recommend that peer assessment be used initially for formative purposes, that is, to improve work in progress, rather than to determine final grades. Where peer marks do contribute to grades, students can be required to justify each score in writing, and lecturers can moderate a random sample, together with any marks that differ widely.",
+        "Peer assessment, then, is neither a cost-free substitute for expert grading nor an inherently unreliable gimmick. Its value depends less on the technique itself than on the care with which it is introduced. Introduced hastily, with vague criteria and no preparation, it is likely to confirm students' worst suspicions. Universities that invest in training, clear criteria and sensible safeguards are likely to find that students become not only fairer judges of others but also sharper critics of their own work, which is arguably the more important outcome of a university education."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Peer assessment should replace grading by lecturers in large university classes.",
+            "Students are generally too biased to judge the work of their classmates fairly.",
+            "Giving feedback helps students more than receiving feedback from their peers.",
+            "Peer assessment can aid learning if its weaknesses are carefully managed."
+          ],
+          "answer": 3,
+          "explain": "บทความเสนอประโยชน์ (¶2–¶3) ข้อกังวล (¶4) แล้วชี้วิธีแก้ด้วยการฝึกและออกแบบ (¶6–¶7) ก่อนสรุปใน ¶8: “Its value depends less on the technique itself than on the care with which it is introduced.” จึงตอบ D ตัวเลือก A ขัดกับ ¶8 ที่ว่ามันไม่ใช่ “cost-free substitute for expert grading” ส่วน C เป็นเพียงข้อค้นพบใน ¶3"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'margins' in paragraph 1 is closest in meaning to",
+          "options": [
+            "the edges of a written page",
+            "a position of minor importance",
+            "the profit made on a product",
+            "the lowest standard that is acceptable"
+          ],
+          "answer": 1,
+          "explain": "¶1: “has moved from the margins of university teaching into the mainstream” — margins ถูกใช้คู่ตรงข้ามกับ mainstream จึงหมายถึงสถานะชายขอบที่ไม่ค่อยมีความสำคัญ ตัวเลือก A เป็นความหมายตามตัวอักษร (ขอบกระดาษ) ซึ่งไม่เข้ากับบริบทของการเรียนการสอน"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 3 that most people would expect",
+          "options": [
+            "giving feedback to be more useful than receiving it",
+            "peer comments to arrive more slowly than a lecturer's",
+            "receiving feedback to be more useful than giving it",
+            "first-year students to dislike reviewing essays"
+          ],
+          "answer": 2,
+          "explain": "¶3: “Somewhat counter-intuitively, the benefits appear to flow more from giving feedback than from receiving it.” คำว่า counter-intuitively บอกว่าผลนี้ขัดกับที่คนทั่วไปคาด จึงอนุมานได้ว่าคนส่วนใหญ่คิดว่า 'การได้รับ' feedback มีประโยชน์กว่า ตัวเลือก A คือข้อค้นพบจริงของงานวิจัย ไม่ใช่สิ่งที่คนทั่วไปคาดไว้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 3, why did the students who reviewed essays improve their own writing?",
+          "options": [
+            "They received more comments than other students did.",
+            "They read many essays written by skilled students.",
+            "Their lecturers gave them additional individual feedback.",
+            "They had to diagnose problems and suggest solutions."
+          ],
+          "answer": 3,
+          "explain": "¶3: “Reviewers, it seems, are obliged to diagnose problems and articulate possible solutions” และกระบวนการนี้ “later transfers to their own drafts” จึงตอบ D ตัวเลือก A ผิดเพราะกลุ่มที่ได้รับความเห็นคือกลุ่ม “only received reviews” ไม่ใช่กลุ่มผู้ตรวจ"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does the word 'Others' in paragraph 4 refer to?",
+          "options": [
+            "other critics",
+            "other lecturers",
+            "other students",
+            "other errors"
+          ],
+          "answer": 2,
+          "explain": "¶4: “some are reluctant to criticise friends ... Others mark generously in the hope of being treated generously in return” — Others ต่อเนื่องจาก some ซึ่งหมายถึงนักศึกษา ผู้ที่ 'ให้คะแนน' จึงเป็นนักศึกษาคนอื่น ๆ ตัวเลือก A เป็นกับดักเพราะย่อหน้าขึ้นต้นด้วยคำว่า Critics แต่ผู้วิจารณ์ไม่ได้เป็นผู้ให้คะแนน"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'unduly' in paragraph 4 is closest in meaning to",
+          "options": [
+            "openly",
+            "excessively",
+            "secretly",
+            "occasionally"
+          ],
+          "answer": 1,
+          "explain": "¶4: “a minority may be unduly harsh towards classmates they dislike” — unduly หมายถึง 'มากเกินควร' คือเข้มงวดเกินกว่าที่ผลงานสมควรได้รับ ตัวเลือก D เป็นกับดักเพราะคำว่า a minority ชวนให้นึกถึงความถี่ แต่ unduly บอก 'ระดับ' ไม่ใช่ 'ความถี่'"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned in paragraph 4 as a reason why peer marks may be unreliable?",
+          "options": [
+            "Students may not know enough to spot subtle mistakes.",
+            "Some students avoid criticising their friends.",
+            "Some students hope for generous marks in return.",
+            "Lecturers pressure students to award high marks."
+          ],
+          "answer": 3,
+          "explain": "¶4 กล่าวถึงความรู้ไม่พอจะเห็นข้อผิดพลาด (A) friendship marking (B) และการให้คะแนนสูงเพื่อหวังได้คืน (C: “in the hope of being treated generously in return”) แต่ไม่มีเรื่องอาจารย์กดดันให้ให้คะแนนสูง ย่อหน้านี้กล่าวถึงอาจารย์เพียงว่านักศึกษามองว่าการประเมินเป็น “the lecturer's responsibility” จึงตอบ D"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of paragraph 5?",
+          "options": [
+            "to show that accuracy concerns may be overstated",
+            "to explain how lecturers should design marking rubrics",
+            "to argue that peer marks should replace teacher marks",
+            "to describe why students dislike assessing classmates"
+          ],
+          "answer": 0,
+          "explain": "¶5 เปิดด้วย “The evidence on accuracy is more reassuring than these concerns might suggest.” แล้วยกหลักฐานว่าคะแนนจากเพื่อนกับอาจารย์สอดคล้องกันพอสมควร จุดประสงค์จึงเป็นการชี้ว่าความกังวลใน ¶4 อาจเกินจริง ตัวเลือก C ไปไกลกว่าที่บทความกล่าว เพราะ ¶8 ปฏิเสธการใช้แทนอาจารย์โดยตรง"
+        },
+        {
+          "type": "mc",
+          "skill": "topic",
+          "q": "What is paragraph 6 mainly about?",
+          "options": [
+            "the results of one trial at a university in Thailand",
+            "why rubrics are often used mechanically by students",
+            "how students can be prepared to mark well",
+            "how lecturers mark sample assignments themselves"
+          ],
+          "answer": 2,
+          "explain": "¶6 ขึ้นต้นด้วยประโยคใจความ “Preparation, nonetheless, makes a considerable difference.” แล้วอธิบาย rubric ตัวอย่างงาน และ calibration exercises ซึ่งล้วนเป็นวิธีเตรียมนักศึกษาให้ประเมินได้ดี จึงตอบ C ตัวเลือก A เป็นเพียงตัวอย่างประกอบท้ายย่อหน้า จึงแคบเกินไป"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'moderate' in paragraph 7 is closest in meaning to",
+          "options": [
+            "count the total of",
+            "review for consistency",
+            "calculate the average of",
+            "return to the students"
+          ],
+          "answer": 1,
+          "explain": "¶7: “lecturers can moderate a random sample, together with any marks that differ widely” — ในบริบทการวัดผล moderate (กริยา) คือการตรวจทานคะแนนให้ได้มาตรฐานเดียวกัน ตัวเลือก C เป็นกับดักเพราะ ¶5 พูดถึงการเฉลี่ยคะแนน (averaged) แต่ใน ¶7 อาจารย์ไม่ได้หาค่าเฉลี่ย"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward peer assessment can best be described as",
+          "options": [
+            "cautiously supportive",
+            "strongly opposed",
+            "uncritically enthusiastic",
+            "largely indifferent"
+          ],
+          "answer": 0,
+          "explain": "ผู้เขียนเห็นคุณค่าของ peer assessment แต่ยอมรับข้อจำกัด ดัง ¶8: “neither a cost-free substitute for expert grading nor an inherently unreliable gimmick” จึงเป็นท่าที 'สนับสนุนอย่างระมัดระวัง' ตัวเลือก C ผิดเพราะผู้เขียนยอมรับว่าข้อกังวลใน ¶4 “not unreasonable”"
+        },
+        {
+          "type": "mc",
+          "skill": "organization",
+          "q": "How is the information in the passage mainly organised?",
+          "options": [
+            "Benefits come first, followed by concerns, evidence and practical advice.",
+            "A history of the practice is traced from its origins up to the present day.",
+            "Two competing methods of assessment are compared point by point.",
+            "A single study is described in detail, followed by its limitations."
+          ],
+          "answer": 0,
+          "explain": "¶1 แนะนำหัวข้อ ¶2–¶3 อธิบายประโยชน์ ¶4 เสนอข้อกังวล ¶5 ให้หลักฐาน ¶6–¶7 ให้คำแนะนำเชิงปฏิบัติ และ ¶8 สรุป จึงตอบ A ตัวเลือก D ผิดเพราะงานวิจัยในไทย (¶6) และงานวิจัยการเขียน (¶3) เป็นเพียงตัวอย่างประกอบ ไม่ใช่โครงหลัก"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What term do educational researchers use for the ability to recognise quality in one's own work and in the work of others? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "evaluative judgement",
+            "evaluative judgment"
+          ],
+          "explain": "¶2: “what educational researchers call “evaluative judgement”: the capacity to recognise quality in one's own work and in the work of others” คำตอบคือ evaluative judgement (ความสามารถในการตัดสินคุณภาพงาน)"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What name is given to students' tendency to avoid criticising their friends when marking? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "friendship marking"
+          ],
+          "explain": "¶4: “some are reluctant to criticise friends, a tendency often referred to as “friendship marking”” คำตอบคือ friendship marking ซึ่ง ¶7 เสนอว่าลดได้ด้วยการรีวิวแบบไม่เปิดเผยชื่อ"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "According to paragraph 6, rubrics reduce guesswork most effectively when they are accompanied by what? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "annotated examples",
+            "annotated example"
+          ],
+          "explain": "¶6: “reduce the scope for guesswork, especially when they are accompanied by annotated examples” คำตอบคือ annotated examples (ตัวอย่างงานที่มีคำอธิบายกำกับ)"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What activities do many lecturers run so that students can compare their marking of sample assignments with the teacher's? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "calibration exercises",
+            "calibration exercise",
+            "calibration"
+          ],
+          "explain": "¶6: “Many lecturers now run calibration exercises, in which students mark sample assignments and compare their judgements with those of the teacher” คำตอบคือ calibration exercises (การฝึกปรับมาตรฐานการให้คะแนน)"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "For what kind of purposes do many specialists recommend using peer assessment at first? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "formative"
+          ],
+          "explain": "¶7: “peer assessment be used initially for formative purposes, that is, to improve work in progress” คำตอบคือ formative หมายถึงใช้เพื่อพัฒนางานระหว่างทาง ไม่ใช่เพื่อตัดสินเกรดสุดท้าย"
+        }
+      ]
+    }
+  ]
+}

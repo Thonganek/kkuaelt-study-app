@@ -1,0 +1,2625 @@
+{
+ "passages": [],
+ "grammar": [
+  {
+   "id": "G01",
+   "title": "Grammar diagnostic test",
+   "questions": [
+    {
+     "qid": "G01.1",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The number of international students have risen sharply since 2015.",
+      "The number of international students has risen sharply since 2015.",
+      "The number of international students are rising sharply since 2015.",
+      "The number of international students rise sharply since 2015."
+     ]
+    },
+    {
+     "qid": "G01.2",
+     "q": "Fill the blank: Since the pandemic, online learning ____ a standard part of university teaching.",
+     "options": [
+      "becomes",
+      "became",
+      "was becoming",
+      "has become"
+     ]
+    },
+    {
+     "qid": "G01.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Smoking is a major cause of lung cancer.",
+      "Smoking is major cause of lung cancer.",
+      "The smoking is a major cause of the lung cancer.",
+      "Smoking is a major cause of a lung cancer."
+     ]
+    },
+    {
+     "qid": "G01.4",
+     "q": "Fill the blank: One of the most serious ____ facing large cities is air pollution.",
+     "options": [
+      "problem",
+      "a problem",
+      "problems",
+      "the problem"
+     ]
+    },
+    {
+     "qid": "G01.5",
+     "q": "Fill the blank: Social media has a strong impact ____ teenagers' self-esteem.",
+     "options": [
+      "on",
+      "to",
+      "at",
+      "with"
+     ]
+    },
+    {
+     "qid": "G01.6",
+     "q": "Fill the blank: Regular exercise can ____ reduce the risk of heart disease.",
+     "options": [
+      "significant",
+      "significance",
+      "significantly",
+      "signify"
+     ]
+    },
+    {
+     "qid": "G01.7",
+     "q": "Which of the following is a complete sentence?",
+     "options": [
+      "Because many graduates cannot find jobs in their field.",
+      "Many graduates cannot find jobs in their field.",
+      "Graduates who cannot find jobs in their field.",
+      "Although many graduates in their field."
+     ]
+    },
+    {
+     "qid": "G01.8",
+     "q": "Choose the correctly punctuated sentence.",
+     "options": [
+      "Air pollution is increasing, many residents now wear masks.",
+      "Air pollution is increasing many residents now wear masks.",
+      "Air pollution is increasing, therefore, many residents now wear masks.",
+      "Air pollution is increasing; therefore, many residents now wear masks."
+     ]
+    },
+    {
+     "qid": "G01.9",
+     "q": "Fill the blank: Universities must protect the personal data of ____ students.",
+     "options": [
+      "its",
+      "it's",
+      "their",
+      "them"
+     ]
+    },
+    {
+     "qid": "G01.10",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Several new vaccines have been approved in the last five years.",
+      "Several new vaccines have approved in the last five years.",
+      "Several new vaccines have been approve in the last five years.",
+      "Several new vaccines has been approved in the last five years."
+     ]
+    },
+    {
+     "qid": "G01.11",
+     "q": "Fill the blank: Patients ____ live in rural areas often travel long distances to see a doctor.",
+     "options": [
+      "which",
+      "whose",
+      "where",
+      "who"
+     ]
+    },
+    {
+     "qid": "G01.12",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Online courses are more cheaper than traditional courses.",
+      "Online courses are cheaper than traditional courses.",
+      "Online courses are cheaper as traditional courses.",
+      "Online courses are the cheaper than traditional courses."
+     ]
+    },
+    {
+     "qid": "G01.13",
+     "q": "Choose the best connector: Renewable energy is expensive to install. ____, it saves money in the long term.",
+     "options": [
+      "However",
+      "Therefore",
+      "Moreover",
+      "For example"
+     ]
+    },
+    {
+     "qid": "G01.14",
+     "q": "Choose the sentence with correct parallel structure.",
+     "options": [
+      "Exercise improves sleep, reduces stress, and better concentration.",
+      "Exercise improves sleep, reducing stress, and concentration is better.",
+      "Exercise improves sleep, reduces stress, and boosts concentration.",
+      "Exercise improves sleep, to reduce stress, and boosting concentration."
+     ]
+    },
+    {
+     "qid": "G01.15",
+     "q": "Fill the blank: The government launched a campaign to ____ awareness of mental health.",
+     "options": [
+      "rise",
+      "raise",
+      "make",
+      "do"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G02",
+   "title": "Sentence structure: clauses, fragments, run-ons and comma splices",
+   "questions": [
+    {
+     "qid": "G02.1",
+     "q": "Which of the following is a complete sentence?",
+     "options": [
+      "Although online learning offers flexibility for working adults.",
+      "Online learning offers flexibility for working adults.",
+      "Working adults who prefer the flexibility of online learning.",
+      "Offering flexibility for working adults in many countries."
+     ]
+    },
+    {
+     "qid": "G02.2",
+     "q": "Which sentence is a comma splice?",
+     "options": [
+      "Many cities are expanding rapidly, and green spaces are disappearing.",
+      "Many cities are expanding rapidly; green spaces are disappearing.",
+      "As many cities are expanding rapidly, green spaces are disappearing.",
+      "Many cities are expanding rapidly, green spaces are disappearing."
+     ]
+    },
+    {
+     "qid": "G02.3",
+     "q": "Choose the best correction of this run-on: 'Obesity rates are rising governments must act quickly.'",
+     "options": [
+      "Obesity rates are rising, so governments must act quickly.",
+      "Obesity rates are rising, governments must act quickly.",
+      "Obesity rates are rising so, governments must act quickly.",
+      "Obesity rates are rising, therefore governments must act quickly."
+     ]
+    },
+    {
+     "qid": "G02.4",
+     "q": "Choose the grammatically correct option.",
+     "options": [
+      "Because the cost of living has risen. Many students struggle to pay tuition fees.",
+      "The cost of living has risen, many students struggle to pay tuition fees.",
+      "Because the cost of living has risen, many students struggle to pay tuition fees.",
+      "The cost of living has risen many students struggle to pay tuition fees."
+     ]
+    },
+    {
+     "qid": "G02.5",
+     "q": "Fill the blank: Many hospitals face staff shortages; ____, patients often wait for hours.",
+     "options": [
+      "because",
+      "although",
+      "and",
+      "as a result"
+     ]
+    },
+    {
+     "qid": "G02.6",
+     "q": "Which option contains a fragment?",
+     "options": [
+      "Climate change affects farmers. Especially those in dry regions.",
+      "Climate change affects farmers, especially those in dry regions.",
+      "Climate change affects farmers, particularly those who live in dry regions.",
+      "Climate change affects many farmers who live in dry regions."
+     ]
+    },
+    {
+     "qid": "G02.7",
+     "q": "Choose the best rewrite of: 'Remote work saves time, it also reduces traffic.'",
+     "options": [
+      "Remote work saves time, also it reduces traffic.",
+      "Remote work saves time it also reduces traffic.",
+      "Remote work saves time and also reduces traffic.",
+      "Remote work saves time, also reduces traffic."
+     ]
+    },
+    {
+     "qid": "G02.8",
+     "q": "Which of the following is a complete sentence?",
+     "options": [
+      "The main reason being that public transport is cheaper.",
+      "The main reason is that public transport is cheaper.",
+      "The main reason that public transport is cheaper.",
+      "Being cheaper, the main reason for public transport."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G03",
+   "title": "Tenses in academic writing and subject–verb agreement",
+   "questions": [
+    {
+     "qid": "G03.1",
+     "q": "Fill the blank: In recent years, the use of e-books ____ dramatically.",
+     "options": [
+      "increase",
+      "is increase",
+      "has increased",
+      "have increased"
+     ]
+    },
+    {
+     "qid": "G03.2",
+     "q": "Fill the blank: For example, in 2011 a major flood ____ hundreds of factories near Bangkok.",
+     "options": [
+      "damaged",
+      "has damaged",
+      "damages",
+      "was damaged"
+     ]
+    },
+    {
+     "qid": "G03.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The quality of public schools have improved.",
+      "The quality of public schools are improving.",
+      "The qualities of public school has improved.",
+      "The quality of public schools has improved."
+     ]
+    },
+    {
+     "qid": "G03.4",
+     "q": "Which part of the sentence contains an error? 'Recent research show that students who sleep well perform better in exams.'",
+     "options": [
+      "Recent research",
+      "show",
+      "who sleep well",
+      "perform better"
+     ]
+    },
+    {
+     "qid": "G03.5",
+     "q": "Fill the blank: Using smartphones during lectures ____ students' attention.",
+     "options": [
+      "reduces",
+      "reduce",
+      "are reducing",
+      "have reduced"
+     ]
+    },
+    {
+     "qid": "G03.6",
+     "q": "Which sentence uses the correct tense?",
+     "options": [
+      "Since 2015, the government spent more on renewable energy.",
+      "The government has spent more on renewable energy in 2015.",
+      "Since 2015, the government has spent more on renewable energy.",
+      "Since 2015, the government spends more on renewable energy."
+     ]
+    },
+    {
+     "qid": "G03.7",
+     "q": "Fill the blank: Each of the participants ____ a consent form before the study began.",
+     "options": [
+      "sign",
+      "signed",
+      "have signed",
+      "were signing"
+     ]
+    },
+    {
+     "qid": "G03.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Water pollution are a serious problem in many developing countries.",
+      "Water pollution is a serious problems in many developing country.",
+      "Water pollutions is a serious problem in many developing countries.",
+      "Water pollution is a serious problem in many developing countries."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G04",
+   "title": "Articles, countable vs uncountable nouns and key prepositions",
+   "questions": [
+    {
+     "qid": "G04.1",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "There are many evidences that exercise improves memory.",
+      "There is many evidence that exercise improves memory.",
+      "There are an evidence that exercise improves memory.",
+      "There is strong evidence that exercise improves memory."
+     ]
+    },
+    {
+     "qid": "G04.2",
+     "q": "Fill the blanks: It took ____ hour to complete ____ university entrance test.",
+     "options": [
+      "a / a",
+      "an / a",
+      "an / an",
+      "a / an"
+     ]
+    },
+    {
+     "qid": "G04.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The pollution is a serious threat to the health.",
+      "Pollution is serious threat to health.",
+      "Pollution is a serious threat to health.",
+      "A pollution is a serious threat to the health."
+     ]
+    },
+    {
+     "qid": "G04.4",
+     "q": "Fill the blank: Rising temperatures have a negative effect ____ crop yields.",
+     "options": [
+      "on",
+      "to",
+      "for",
+      "at"
+     ]
+    },
+    {
+     "qid": "G04.5",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The laboratory bought several new equipments.",
+      "The laboratory bought several new pieces of equipment.",
+      "The laboratory bought a new equipments.",
+      "The laboratory bought several new equipment."
+     ]
+    },
+    {
+     "qid": "G04.6",
+     "q": "Which part of the sentence contains an error? 'Parents are responsible for their children's safety, and schools should focus to teaching life skills.'",
+     "options": [
+      "are responsible for",
+      "their children's safety",
+      "schools should focus",
+      "to teaching life skills"
+     ]
+    },
+    {
+     "qid": "G04.7",
+     "q": "Fill the blank: A poor diet can lead ____ serious health problems.",
+     "options": [
+      "to",
+      "into",
+      "for",
+      "on"
+     ]
+    },
+    {
+     "qid": "G04.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Students need more informations about scholarships.",
+      "Students need an information about scholarships.",
+      "Students need more information about scholarships.",
+      "Students need many information about scholarships."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G05",
+   "title": "Relative clauses",
+   "questions": [
+    {
+     "qid": "G05.1",
+     "q": "Fill the blank: Students ____ parents read to them tend to develop strong literacy skills.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "where"
+     ]
+    },
+    {
+     "qid": "G05.2",
+     "q": "Choose the correctly punctuated sentence.",
+     "options": [
+      "Chiang Mai, that is in northern Thailand, attracts many digital nomads.",
+      "Chiang Mai which is in northern Thailand, attracts many digital nomads.",
+      "Chiang Mai, which is in northern Thailand, attracts many digital nomads.",
+      "Chiang Mai, which is in northern Thailand attracts many digital nomads."
+     ]
+    },
+    {
+     "qid": "G05.3",
+     "q": "Fill the blank: Many young people now work from home, ____ reduces traffic during rush hour.",
+     "options": [
+      "that",
+      "which",
+      "what",
+      "it"
+     ]
+    },
+    {
+     "qid": "G05.4",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The hospital where my sister works in has a new cancer unit.",
+      "The hospital which my sister works has a new cancer unit.",
+      "The hospital where my sister works at it has a new cancer unit.",
+      "The hospital where my sister works has a new cancer unit."
+     ]
+    },
+    {
+     "qid": "G05.5",
+     "q": "Which part of the sentence contains an error? 'The researchers who studied the data found that the patients which received the new drug recovered faster.'",
+     "options": [
+      "The researchers who studied",
+      "found that",
+      "the patients which received",
+      "recovered faster"
+     ]
+    },
+    {
+     "qid": "G05.6",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "This is the book which I recommended it to my students.",
+      "This is the book that I recommended to my students.",
+      "This is the book what I recommended to my students.",
+      "This is the book who I recommended to my students."
+     ]
+    },
+    {
+     "qid": "G05.7",
+     "q": "Choose the best way to combine: 'Many farmers burn their fields after the harvest. This causes severe air pollution.'",
+     "options": [
+      "Many farmers burn their fields after the harvest, that causes severe air pollution.",
+      "Many farmers burn their fields after the harvest, it causes severe air pollution.",
+      "Many farmers burn their fields after the harvest which cause severe air pollution.",
+      "Many farmers burn their fields after the harvest, which causes severe air pollution."
+     ]
+    },
+    {
+     "qid": "G05.8",
+     "q": "Which sentence means that ONLY the students who studied online passed the exam?",
+     "options": [
+      "The students who studied online passed the exam.",
+      "The students, who studied online, passed the exam.",
+      "The students, that studied online, passed the exam.",
+      "The students, who studied online passed the exam."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G06",
+   "title": "Passive voice",
+   "questions": [
+    {
+     "qid": "G06.1",
+     "q": "Fill the blank: In some countries, children ____ to do almost anything they want.",
+     "options": [
+      "allowed",
+      "are allowed",
+      "are allowing",
+      "allow"
+     ]
+    },
+    {
+     "qid": "G06.2",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The number of tourists rose to around 55,000 in 2002.",
+      "The number of tourists was risen to around 55,000 in 2002.",
+      "The number of tourists were rose to around 55,000 in 2002.",
+      "The number of tourists has risen to around 55,000 in 2002."
+     ]
+    },
+    {
+     "qid": "G06.3",
+     "q": "Which sentence uses the passive voice correctly?",
+     "options": [
+      "The survey was conduct in 2023.",
+      "The survey conducted in 2023.",
+      "The survey was conducting in 2023.",
+      "The survey was conducted in 2023."
+     ]
+    },
+    {
+     "qid": "G06.4",
+     "q": "Fill the blank: Traffic accidents ____ every day in large cities.",
+     "options": [
+      "are happened",
+      "is happened",
+      "happen",
+      "are happen"
+     ]
+    },
+    {
+     "qid": "G06.5",
+     "q": "Choose the best rewrite in an academic style: 'Researchers collected the data from 500 hospitals.'",
+     "options": [
+      "The data were collected from 500 hospitals.",
+      "The data was collect from 500 hospitals.",
+      "The data collected from 500 hospitals.",
+      "The data were collecting from 500 hospitals."
+     ]
+    },
+    {
+     "qid": "G06.6",
+     "q": "Which part of the sentence contains an error? 'Plastic waste is a serious problem because it cannot break down easily and is often dump into the sea.'",
+     "options": [
+      "is a serious problem",
+      "cannot break down",
+      "and is often",
+      "dump into the sea"
+     ]
+    },
+    {
+     "qid": "G06.7",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "This problem can solve by improving public transport.",
+      "This problem can be solved by improving public transport.",
+      "This problem can be solve by improving public transport.",
+      "This problem can solved by improving public transport."
+     ]
+    },
+    {
+     "qid": "G06.8",
+     "q": "Choose the most appropriate sentence for an academic essay.",
+     "options": [
+      "It believes that sugar taxes reduce obesity.",
+      "It is believed by people that sugar taxes reduce obesity.",
+      "It is widely believed that sugar taxes reduce obesity.",
+      "It is widely believing that sugar taxes reduce obesity."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G07",
+   "title": "Connectors and punctuation",
+   "questions": [
+    {
+     "qid": "G07.1",
+     "q": "Choose the correctly punctuated sentence.",
+     "options": [
+      "Online exams are convenient, however, they make cheating easier.",
+      "Online exams are convenient however they make cheating easier.",
+      "Online exams are convenient; however, they make cheating easier.",
+      "Online exams are convenient, however they make cheating easier."
+     ]
+    },
+    {
+     "qid": "G07.2",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Although the policy was expensive, but it saved many lives.",
+      "Although the policy was expensive, however it saved many lives.",
+      "The policy was expensive, although, it saved many lives.",
+      "Although the policy was expensive, it saved many lives."
+     ]
+    },
+    {
+     "qid": "G07.3",
+     "q": "Fill the blank: Many students work part-time, ____ they have less time to study.",
+     "options": [
+      "so",
+      "therefore",
+      "however",
+      "moreover"
+     ]
+    },
+    {
+     "qid": "G07.4",
+     "q": "Fill the blank: ____ the high cost of treatment, many patients delay seeing a doctor.",
+     "options": [
+      "Because",
+      "Because of",
+      "Although",
+      "Therefore"
+     ]
+    },
+    {
+     "qid": "G07.5",
+     "q": "Fill the blank: Some people prefer to study alone, ____ others learn better in groups.",
+     "options": [
+      "despite",
+      "because",
+      "moreover",
+      "whereas"
+     ]
+    },
+    {
+     "qid": "G07.6",
+     "q": "Choose the best connector: Exercise improves physical health. ____, it reduces stress and anxiety.",
+     "options": [
+      "However",
+      "Moreover",
+      "Therefore",
+      "Although"
+     ]
+    },
+    {
+     "qid": "G07.7",
+     "q": "Choose the correctly punctuated sentence.",
+     "options": [
+      "The city built more bike lanes, as a result, traffic fell by 10%.",
+      "The city built more bike lanes as a result, traffic fell by 10%.",
+      "The city built more bike lanes; as a result, traffic fell by 10%.",
+      "The city built more bike lanes, as a result traffic fell by 10%."
+     ]
+    },
+    {
+     "qid": "G07.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "While some people enjoy city life, others prefer the countryside.",
+      "While some people enjoy city life. Others prefer the countryside.",
+      "Some people enjoy city life, while, others prefer the countryside.",
+      "While some people enjoy city life, but others prefer the countryside."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G08",
+   "title": "Pronoun reference and agreement",
+   "questions": [
+    {
+     "qid": "G08.1",
+     "q": "Fill the blank: Smartphones are convenient, but ____ can also be highly addictive.",
+     "options": [
+      "it",
+      "this",
+      "its",
+      "they"
+     ]
+    },
+    {
+     "qid": "G08.2",
+     "q": "Fill the blank: Countries should protect ____ cultural heritage.",
+     "options": [
+      "its",
+      "it's",
+      "their",
+      "theirs"
+     ]
+    },
+    {
+     "qid": "G08.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The company has improved it's working conditions.",
+      "The company has improved its working conditions.",
+      "The company has improved its' working conditions.",
+      "The company has improved it working conditions."
+     ]
+    },
+    {
+     "qid": "G08.4",
+     "q": "Choose the best sentence to follow: 'Many teenagers spend more than six hours a day online.'",
+     "options": [
+      "This habit can harm their sleep and concentration.",
+      "This habit can harm his sleep and concentration.",
+      "These habit can harm their sleep and concentration.",
+      "This habit can harm its sleep and concentration."
+     ]
+    },
+    {
+     "qid": "G08.5",
+     "q": "Which sentence uses pronouns consistently?",
+     "options": [
+      "If a student wants to succeed, he must manage their time well.",
+      "If a student wants to succeed, they must manage his time well.",
+      "If a student wants to succeed, they must manage their time well.",
+      "If a student wants to succeed, you must manage your time well."
+     ]
+    },
+    {
+     "qid": "G08.6",
+     "q": "Fill the blank: Many governments have introduced sugar taxes. ____ aims to reduce obesity.",
+     "options": [
+      "This policy",
+      "These policy",
+      "They policy",
+      "This policies"
+     ]
+    },
+    {
+     "qid": "G08.7",
+     "q": "Which part of the sentence contains an error? 'Although social media helps people stay in touch, it also exposes themselves to online abuse.'",
+     "options": [
+      "helps people",
+      "stay in touch",
+      "it also exposes",
+      "themselves to online abuse"
+     ]
+    },
+    {
+     "qid": "G08.8",
+     "q": "Choose the most formal and consistent sentence for an essay.",
+     "options": [
+      "When you exercise regularly, you feel less stressed.",
+      "When people exercise regularly, they feel less stressed.",
+      "When people exercise regularly, you feel less stressed.",
+      "When people exercise regularly, he feels less stressed."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G09",
+   "title": "Word forms",
+   "questions": [
+    {
+     "qid": "G09.1",
+     "q": "Fill the blank: Free university education would be ____ to students from low-income families.",
+     "options": [
+      "beneficial",
+      "benefit",
+      "beneficially",
+      "benefited"
+     ]
+    },
+    {
+     "qid": "G09.2",
+     "q": "Fill the blank: Air pollution has a negative ____ on children's lung development.",
+     "options": [
+      "affect",
+      "affective",
+      "effective",
+      "effect"
+     ]
+    },
+    {
+     "qid": "G09.3",
+     "q": "Fill the blank: The number of online learners has increased ____ since 2020.",
+     "options": [
+      "dramatic",
+      "drama",
+      "dramatically",
+      "dramatize"
+     ]
+    },
+    {
+     "qid": "G09.4",
+     "q": "Fill the blank: Many experts emphasise the ____ of early childhood education.",
+     "options": [
+      "important",
+      "importance",
+      "importantly",
+      "imported"
+     ]
+    },
+    {
+     "qid": "G09.5",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The government should strength laws against drunk driving.",
+      "The government should strengthen laws against drunk driving.",
+      "The government should strong laws against drunk driving.",
+      "The government should strongly laws against drunk driving."
+     ]
+    },
+    {
+     "qid": "G09.6",
+     "q": "Which part of the sentence contains an error? 'Teachers should encourage students to think critical about online information.'",
+     "options": [
+      "should encourage",
+      "students to think",
+      "critical about",
+      "online information"
+     ]
+    },
+    {
+     "qid": "G09.7",
+     "q": "Fill the blank: Social media can have a ____ effect on teenagers' self-esteem.",
+     "options": [
+      "detrimental",
+      "detriment",
+      "detrimentally",
+      "detriments"
+     ]
+    },
+    {
+     "qid": "G09.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "It is evidence that renewable energy creates jobs.",
+      "It is evidently that renewable energy creates jobs.",
+      "It is evidences that renewable energy creates jobs.",
+      "It is evident that renewable energy creates jobs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "title": "Comparison language",
+   "questions": [
+    {
+     "qid": "G10.1",
+     "q": "Fill the blank: For many commuters, public transport is ____ driving because it is cheaper.",
+     "options": [
+      "preferable than",
+      "preferable to",
+      "more preferable than",
+      "preferable over than"
+     ]
+    },
+    {
+     "qid": "G10.2",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Online learning is more better than classroom learning for some adults.",
+      "Online learning is more good than classroom learning for some adults.",
+      "Online learning is best than classroom learning for some adults.",
+      "Online learning is better than classroom learning for some adults."
+     ]
+    },
+    {
+     "qid": "G10.3",
+     "q": "Fill the blank: As a form of daily exercise, walking is ____ cycling.",
+     "options": [
+      "as beneficial as",
+      "as beneficial than",
+      "so beneficial as",
+      "beneficial as"
+     ]
+    },
+    {
+     "qid": "G10.4",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The salary of doctors is higher than nurses.",
+      "The salary of doctors is higher than of nurses.",
+      "The salary of doctors is higher than that of nurses.",
+      "The salary of doctors is more high than that of nurses."
+     ]
+    },
+    {
+     "qid": "G10.5",
+     "q": "Choose the best connector: Urban residents have easy access to hospitals, ____ many rural residents must travel for hours to see a doctor.",
+     "options": [
+      "similarly",
+      "in contrast",
+      "moreover",
+      "whereas"
+     ]
+    },
+    {
+     "qid": "G10.6",
+     "q": "Fill the blank: Electric cars are ____ more efficient than petrol cars.",
+     "options": [
+      "much",
+      "very",
+      "more",
+      "too"
+     ]
+    },
+    {
+     "qid": "G10.7",
+     "q": "Choose the best connector: Finland invests heavily in teacher training. ____, Singapore requires all teachers to complete regular professional development.",
+     "options": [
+      "Whereas",
+      "In contrast",
+      "Similarly",
+      "Although"
+     ]
+    },
+    {
+     "qid": "G10.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The new policy is the same with the old one.",
+      "The new policy is the same as the old one.",
+      "The new policy is same as the old one.",
+      "The new policy is as same as the old one."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "title": "Numbers and quantities",
+   "questions": [
+    {
+     "qid": "G11.1",
+     "q": "Fill the blank: About 40 ____ of adults in the survey reported sleeping less than six hours.",
+     "options": [
+      "percentage",
+      "percentages",
+      "percent",
+      "per cents"
+     ]
+    },
+    {
+     "qid": "G11.2",
+     "q": "Fill the blank: The ____ of plastic waste produced each year has doubled.",
+     "options": [
+      "amount",
+      "number",
+      "numbers",
+      "many"
+     ]
+    },
+    {
+     "qid": "G11.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The number of cyclists in the city have grown steadily.",
+      "A number of cyclists in the city has grown steadily.",
+      "The numbers of cyclist in the city has grown steadily.",
+      "The number of cyclists in the city has grown steadily."
+     ]
+    },
+    {
+     "qid": "G11.4",
+     "q": "Fill the blanks: Unemployment fell ____ 8% ____ 5% between 2015 and 2020.",
+     "options": [
+      "at / to",
+      "from / to",
+      "from / at",
+      "by / by"
+     ]
+    },
+    {
+     "qid": "G11.5",
+     "q": "Fill the blank: Sales of electric vehicles increased ____ 25%, reaching two million units.",
+     "options": [
+      "by",
+      "at",
+      "on",
+      "for"
+     ]
+    },
+    {
+     "qid": "G11.6",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Most of respondents were satisfied with the service.",
+      "The majority of respondent were satisfied with the service.",
+      "The majority of respondents were satisfied with the service.",
+      "A majority of the respondent was satisfied with the service."
+     ]
+    },
+    {
+     "qid": "G11.7",
+     "q": "Fill the blank: ____ 60% of the budget was spent on staff salaries.",
+     "options": [
+      "Approximate",
+      "Approximately",
+      "Approximation",
+      "Approximating"
+     ]
+    },
+    {
+     "qid": "G11.8",
+     "q": "Choose the best sentence to describe this change: 20% in 2010 → 35% in 2020.",
+     "options": [
+      "The percentage increased by 35% between 2010 and 2020.",
+      "The percent rose from 20 to 35% between 2010 and 2020.",
+      "The percentage increased 15% to 35% between 2010 and 2020.",
+      "The percentage rose from 20% to 35% between 2010 and 2020."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "title": "Hedging and modal verbs",
+   "questions": [
+    {
+     "qid": "G12.1",
+     "q": "Choose the most appropriately hedged sentence for an academic essay.",
+     "options": [
+      "Social media destroys the mental health of every teenager who uses it.",
+      "Social media always destroys teenagers' mental health.",
+      "Social media never has any benefits for teenagers.",
+      "Excessive use of social media may harm teenagers' mental health."
+     ]
+    },
+    {
+     "qid": "G12.2",
+     "q": "Fill the blank: Long working hours ____ lead to burnout.",
+     "options": [
+      "can to",
+      "can",
+      "cans",
+      "can be"
+     ]
+    },
+    {
+     "qid": "G12.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Children who read regularly are likely develop larger vocabularies.",
+      "Children who read regularly are likely developing larger vocabularies.",
+      "Children who read regularly are likely to develop larger vocabularies.",
+      "Children who read regularly likely to develop larger vocabularies."
+     ]
+    },
+    {
+     "qid": "G12.4",
+     "q": "Fill the blank: Recent studies ____ that moderate coffee consumption may protect the heart.",
+     "options": [
+      "suggest",
+      "proves",
+      "suggests",
+      "are suggesting to"
+     ]
+    },
+    {
+     "qid": "G12.5",
+     "q": "Choose the best rewrite of this overgeneralisation: 'Everyone who studies abroad becomes more independent.'",
+     "options": [
+      "Everyone who studies abroad always becomes more independent.",
+      "Students who study abroad often become more independent.",
+      "Students who study abroad often becomes more independent.",
+      "Students who study abroad may becomes more independent."
+     ]
+    },
+    {
+     "qid": "G12.6",
+     "q": "Which part of the sentence contains an error? 'Experts suggest that excessive screen time may damages children's eyesight.'",
+     "options": [
+      "Experts suggest that",
+      "excessive screen time",
+      "may",
+      "damages children's eyesight"
+     ]
+    },
+    {
+     "qid": "G12.7",
+     "q": "Fill the blank: Older adults ____ to use online banking less than younger people.",
+     "options": [
+      "tend",
+      "tends",
+      "are tend",
+      "tending"
+     ]
+    },
+    {
+     "qid": "G12.8",
+     "q": "Which sentence states a clear opinion but avoids overgeneralisation?",
+     "options": [
+      "I strongly agree because all parents never have any time to cook at home.",
+      "I strongly agree because every parent is too busy to cook.",
+      "I strongly agree because many working parents have limited time to cook.",
+      "I strongly agree because parents always have no time to cook."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "title": "Conditionals and concession",
+   "questions": [
+    {
+     "qid": "G13.1",
+     "q": "Fill the blank: If the government ____ sugary drinks, consumption will probably fall.",
+     "options": [
+      "taxes",
+      "will tax",
+      "taxed",
+      "would tax"
+     ]
+    },
+    {
+     "qid": "G13.2",
+     "q": "Fill the blank: If university education were free, more students ____ apply.",
+     "options": [
+      "will",
+      "are",
+      "would",
+      "had"
+     ]
+    },
+    {
+     "qid": "G13.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Despite it is expensive, solar power is a good long-term investment.",
+      "Despite its high cost, solar power is a good long-term investment.",
+      "Despite of its high cost, solar power is a good long-term investment.",
+      "Although its high cost, solar power is a good long-term investment."
+     ]
+    },
+    {
+     "qid": "G13.4",
+     "q": "Choose the word that makes the sentence grammatical and logical: ____ governments act quickly, many coastal cities will be flooded by 2100.",
+     "options": [
+      "If",
+      "Despite",
+      "In spite of",
+      "Unless"
+     ]
+    },
+    {
+     "qid": "G13.5",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Although the policy was popular, but it was too expensive to continue.",
+      "In spite the policy was popular, it was too expensive to continue.",
+      "Even though the policy was popular, it was too expensive to continue.",
+      "Even the policy was popular, it was too expensive to continue."
+     ]
+    },
+    {
+     "qid": "G13.6",
+     "q": "Fill the blank: If people ____ less than six hours a night, their concentration usually declines.",
+     "options": [
+      "will sleep",
+      "sleep",
+      "would sleep",
+      "slept"
+     ]
+    },
+    {
+     "qid": "G13.7",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Unless students do not submit their work on time, they will lose marks.",
+      "Unless students will submit their work on time, they will lose marks.",
+      "Unless students submitted their work on time, they will lose marks.",
+      "Unless students submit their work on time, they will lose marks."
+     ]
+    },
+    {
+     "qid": "G13.8",
+     "q": "Choose the best way to combine: 'Many people know that smoking is harmful. They still smoke.'",
+     "options": [
+      "Despite knowing that smoking is harmful, many people still smoke.",
+      "Despite many people know that smoking is harmful, they still smoke.",
+      "Although knowing that smoking is harmful, but many people still smoke.",
+      "In spite of many people know that smoking is harmful, they still smoke."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "title": "Noun phrases, nominalisation and participle phrases",
+   "questions": [
+    {
+     "qid": "G14.1",
+     "q": "Fill the blank: The money ____ on military equipment could be used for education.",
+     "options": [
+      "spending",
+      "spent",
+      "spends",
+      "is spent"
+     ]
+    },
+    {
+     "qid": "G14.2",
+     "q": "Fill the blank: Students ____ in university dormitories often save time on travel.",
+     "options": [
+      "living",
+      "lived",
+      "who living",
+      "are living"
+     ]
+    },
+    {
+     "qid": "G14.3",
+     "q": "Choose the best nominalised version of: 'Because people rely heavily on cars, cities are congested.'",
+     "options": [
+      "The heavy rely on cars causes traffic congestion in cities.",
+      "The heavily reliance on cars causes traffic congestion in cities.",
+      "Heavy relying cars causes traffic congestion in cities.",
+      "Heavy reliance on cars causes traffic congestion in cities."
+     ]
+    },
+    {
+     "qid": "G14.4",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Most smartphones selling in Thailand are made in China.",
+      "Most smartphones which sold in Thailand are made in China.",
+      "Most smartphones sold in Thailand are made in China.",
+      "Most smartphones sold in Thailand are making in China."
+     ]
+    },
+    {
+     "qid": "G14.5",
+     "q": "Fill the blank: A significant ____ in air pollution was recorded after the factory closed.",
+     "options": [
+      "reduction",
+      "reduce",
+      "reducing",
+      "reduced"
+     ]
+    },
+    {
+     "qid": "G14.6",
+     "q": "Which part of the sentence contains an error? 'The new policy has led to a sharp increase in the number of people used public transport.'",
+     "options": [
+      "has led to",
+      "a sharp increase in",
+      "the number of",
+      "people used public transport"
+     ]
+    },
+    {
+     "qid": "G14.7",
+     "q": "Choose the best rewrite using a participle phrase: 'Children who are exposed to second-hand smoke have a higher risk of asthma.'",
+     "options": [
+      "Children exposing to second-hand smoke have a higher risk of asthma.",
+      "Children exposed to second-hand smoke have a higher risk of asthma.",
+      "Children are exposed to second-hand smoke have a higher risk of asthma.",
+      "Children who exposed to second-hand smoke have a higher risk of asthma."
+     ]
+    },
+    {
+     "qid": "G14.8",
+     "q": "Choose the most concise academic version of: 'When governments invest in public transport, people drive less.'",
+     "options": [
+      "When governments investing in public transport, people drive less.",
+      "Government invest in public transport reduces driving.",
+      "Government investment in public transport reduces car use.",
+      "Government investing public transport reduces car use."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "title": "Sentence types and sentence combining",
+   "questions": [
+    {
+     "qid": "G15.1",
+     "q": "What type of sentence is this? 'Although the city has expanded its metro system, traffic remains heavy, and air quality is still poor.'",
+     "options": [
+      "Simple",
+      "Compound",
+      "Compound-complex",
+      "Complex"
+     ]
+    },
+    {
+     "qid": "G15.2",
+     "q": "What type of sentence is this? 'Students who sleep well perform better in exams.'",
+     "options": [
+      "Compound",
+      "Compound-complex",
+      "Simple",
+      "Complex"
+     ]
+    },
+    {
+     "qid": "G15.3",
+     "q": "Choose the best way to combine: 'The researchers were concerned about the results. They repeated the experiment.'",
+     "options": [
+      "Concerned about the results, the researchers repeated the experiment.",
+      "Concerning about the results, the researchers repeated the experiment.",
+      "Concerned about the results, the experiment was repeated by the researchers.",
+      "The researchers concerned about the results, they repeated the experiment."
+     ]
+    },
+    {
+     "qid": "G15.4",
+     "q": "Which sentence contains a dangling participle error?",
+     "options": [
+      "Walking to the library, I saw a long queue outside.",
+      "Walking to the library, a long queue was seen outside.",
+      "While I was walking to the library, I saw a long queue outside.",
+      "I saw a long queue outside while walking to the library."
+     ]
+    },
+    {
+     "qid": "G15.5",
+     "q": "Choose the best way to combine: 'She completed her medical degree. She then worked in a rural hospital for five years.'",
+     "options": [
+      "Completing her medical degree, then she worked in a rural hospital for five years.",
+      "Having completed her medical degree, a rural hospital employed her for five years.",
+      "Having complete her medical degree, she worked in a rural hospital for five years.",
+      "Having completed her medical degree, she worked in a rural hospital for five years."
+     ]
+    },
+    {
+     "qid": "G15.6",
+     "q": "Which of the following is a compound sentence?",
+     "options": [
+      "Many students study abroad because they want better career prospects.",
+      "Many students study abroad, but some return home after a year.",
+      "Studying abroad helps students become more independent.",
+      "Students who study abroad often become more independent."
+     ]
+    },
+    {
+     "qid": "G15.7",
+     "q": "Combine into ONE complex sentence: 'Plastic bags are cheap. They cause serious environmental damage.'",
+     "options": [
+      "Plastic bags are cheap, they cause serious environmental damage.",
+      "Plastic bags are cheap but, they cause serious environmental damage.",
+      "Although plastic bags are cheap, they cause serious environmental damage.",
+      "Although plastic bags are cheap, but they cause serious environmental damage."
+     ]
+    },
+    {
+     "qid": "G15.8",
+     "q": "Choose the best way to combine: 'Social media allows people to share news instantly. It also spreads misinformation quickly.'",
+     "options": [
+      "Social media allows people to share news instantly, but it also spreads misinformation quickly.",
+      "Social media allows people to share news instantly, it also spreads misinformation quickly.",
+      "Allowing people to share news instantly, misinformation also spreads quickly through social media.",
+      "Social media allows people to share news instantly but also spreading misinformation quickly."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "title": "Thesis statements and introductions",
+   "questions": [
+    {
+     "qid": "G16.1",
+     "q": "Prompt: 'University education should be free for all students.' Which is the best paraphrase of the prompt?",
+     "options": [
+      "University education should be free for all students, and this is a big issue.",
+      "Universities education should be free of charge for every students.",
+      "The world is changing, and education is important for everyone today.",
+      "It is often argued that higher education should be provided at no cost to every student."
+     ]
+    },
+    {
+     "qid": "G16.2",
+     "q": "Which is the clearest thesis statement for a total-agree essay on the same prompt?",
+     "options": [
+      "There are both clear advantages and serious disadvantages of making university education free.",
+      "This essay will discuss whether university education should be free for all students or not.",
+      "I strongly agree with this view, as free tuition promotes equality and boosts the economy.",
+      "I partly agree, but in some cases students should still pay some of the fees."
+     ]
+    },
+    {
+     "qid": "G16.3",
+     "q": "Prompt: 'Working from home is more productive than working in an office.' Which opening sentence is the most effective?",
+     "options": [
+      "Nowadays, the world is gradually changing in many different ways.",
+      "It is frequently claimed that employees achieve more at home than in an office.",
+      "Working from home is more productive than working in an office.",
+      "This essay will describe the evident reasons about working from home."
+     ]
+    },
+    {
+     "qid": "G16.4",
+     "q": "Which thesis statement has a clear position AND previews two reasons?",
+     "options": [
+      "I strongly disagree, as office work aids concentration and makes teamwork more effective.",
+      "I strongly disagree with the claim that working from home is more productive than office work.",
+      "Working from home has many good points and also many bad points.",
+      "In my opinion, the answer depends on the type of job and the person."
+     ]
+    },
+    {
+     "qid": "G16.5",
+     "q": "Which is the best rewrite of this weak introduction? 'According to the statement, I disagree with this statement. Because a degree is basic for work skills.'",
+     "options": [
+      "According to the statement, I disagree because a degree is basic for work skills.",
+      "I disagree with this statement. Because a degree guarantees the quality of workers.",
+      "I strongly disagree, as a degree builds core competencies and ensures professional standards.",
+      "This essay will disagree with the statement because of a degree is basic."
+     ]
+    },
+    {
+     "qid": "G16.6",
+     "q": "Prompt: 'Children should be taught financial literacy in school.' Which paraphrase changes BOTH the vocabulary and the structure?",
+     "options": [
+      "It is often argued that schools ought to educate young people about managing money.",
+      "Children should be taught financial literacy in school because it is a very useful subject.",
+      "Children should be taught financial literacy at school, it is said.",
+      "It is said that children should be taught financial literacy in school."
+     ]
+    },
+    {
+     "qid": "G16.7",
+     "q": "Which introduction sentence is NOT appropriate in an academic opinion essay?",
+     "options": [
+      "It is widely believed that honesty is the foundation of strong relationships.",
+      "I strongly agree with this view, as truthfulness builds trust and strengthens bonds.",
+      "It is frequently argued that honesty matters more than anything else in a relationship.",
+      "Do you think that telling the truth is always important in a relationship?"
+     ]
+    },
+    {
+     "qid": "G16.8",
+     "q": "Which thesis statement keeps a TOTAL stance with no partial agreement?",
+     "options": [
+      "Although I agree in some cases, banning private cars from city centres can also harm local businesses.",
+      "I firmly believe that cars should be banned from city centres, as this would cut pollution and congestion.",
+      "Banning cars from city centres has some advantages, but it also has some disadvantages.",
+      "I agree and disagree with this statement for several different reasons."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "title": "Paragraph unity and topic sentences",
+   "questions": [
+    {
+     "qid": "G17.1",
+     "q": "Which is the best topic sentence for a body paragraph supporting the view that children should learn financial literacy in school?",
+     "options": [
+      "First and foremost, financial education equips young people to make informed decisions about saving and spending.",
+      "Money has been used by humans in many different forms, such as coins, notes and digital payments, for thousands of years.",
+      "For instance, my nephew bought an expensive phone with a credit card last year.",
+      "Some people believe that parents, not teachers, should teach money skills at home."
+     ]
+    },
+    {
+     "qid": "G17.2",
+     "q": "A paragraph argues that office work supports concentration. Which sentence is irrelevant and should be removed?",
+     "options": [
+      "Office work encourages employees to concentrate on their tasks.",
+      "At home, employees face distractions such as household chores.",
+      "These interruptions reduce the quality of their work.",
+      "Many modern offices now have high-quality coffee machines."
+     ]
+    },
+    {
+     "qid": "G17.3",
+     "q": "Put these sentences in Point–Explain–Example–Link order: (1) For instance, Madrid reported lower pollution after creating car-free zones. (2) Therefore, banning cars directly protects public health. (3) The most compelling reason for a ban is cleaner air. (4) Private vehicles are a major source of harmful emissions.",
+     "options": [
+      "4 – 3 – 1 – 2",
+      "3 – 1 – 4 – 2",
+      "3 – 4 – 1 – 2",
+      "1 – 3 – 4 – 2"
+     ]
+    },
+    {
+     "qid": "G17.4",
+     "q": "Which sentence would WEAKEN a body paragraph arguing that university education should be free?",
+     "options": [
+      "Free tuition allows talented students from poor families to enrol.",
+      "However, free tuition places an unfair burden on all taxpayers.",
+      "A more educated workforce leads to higher national productivity.",
+      "Graduates without large debts can contribute to the economy sooner."
+     ]
+    },
+    {
+     "qid": "G17.5",
+     "q": "Which is the best LINK sentence to end a paragraph about honesty building trust?",
+     "options": [
+      "For instance, partners who share their feelings resolve conflicts more effectively.",
+      "Therefore, truthfulness is clearly the foundation of any lasting relationship.",
+      "However, some people believe that white lies are sometimes necessary.",
+      "Another reason is that honest people earn a good reputation in society."
+     ]
+    },
+    {
+     "qid": "G17.6",
+     "q": "Which topic sentence is too broad to be useful?",
+     "options": [
+      "Remote work reduces employees' commuting time and travel costs.",
+      "Working in an office makes teamwork noticeably more effective.",
+      "Technology has changed the world in many ways.",
+      "Office routines help employees separate work from home life."
+     ]
+    },
+    {
+     "qid": "G17.7",
+     "q": "In a paragraph arguing that friends make people happier than family, which sentence is the best EXAMPLE?",
+     "options": [
+      "For instance, a music lover may find close friends among fellow musicians who share that passion.",
+      "Friends are very important for everyone in the world, both young and old.",
+      "Family members sometimes argue with each other about money, careers and other important decisions in life.",
+      "In conclusion, friends are better than family because they make us happy."
+     ]
+    },
+    {
+     "qid": "G17.8",
+     "q": "What is the main problem with this paragraph? 'Firstly, exercise improves physical health. Secondly, video games can be educational. Thirdly, healthy food is expensive.'",
+     "options": [
+      "It has no connectors between the sentences.",
+      "The sentences are grammatically incorrect and need to be rewritten.",
+      "It is too long for an academic essay.",
+      "It contains three unrelated ideas instead of one main idea."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "title": "Supporting ideas and examples",
+   "questions": [
+    {
+     "qid": "G18.1",
+     "q": "Topic sentence: 'Free university education promotes social equality.' Which example is the most relevant and specific?",
+     "options": [
+      "Many universities have beautiful campuses, modern libraries and excellent sports facilities for students.",
+      "In Germany, students from low-income families can attend university without paying tuition fees.",
+      "Education is very important for everyone in the world, rich or poor.",
+      "Some students prefer to study online rather than attend classes on campus."
+     ]
+    },
+    {
+     "qid": "G18.2",
+     "q": "Topic sentence: 'Social media can damage young people's mental health.' Which supporting idea is OFF-topic?",
+     "options": [
+      "Teenagers often compare themselves with idealised images posted by others.",
+      "Constant notifications can disrupt young people's sleep at night.",
+      "Cyberbullying can lead to anxiety and depression among teenagers.",
+      "Social media companies earn billions of dollars from advertising."
+     ]
+    },
+    {
+     "qid": "G18.3",
+     "q": "Which supporting sentence is the most SPECIFIC?",
+     "options": [
+      "A recent survey found that over sixty percent of office workers answer emails after working hours.",
+      "Many people around the world feel stressed because of modern technology.",
+      "Technology is everywhere nowadays, and it affects everyone in some way, whether they realise it or not.",
+      "Stress is a very common problem in our busy modern society."
+     ]
+    },
+    {
+     "qid": "G18.4",
+     "q": "Stance: 'Office work is more productive than working from home.' Which pair of reasons is the best choice for two body paragraphs?",
+     "options": [
+      "Office work improves focus; remote work saves commuting time.",
+      "Office work improves focus; offices have air conditioning.",
+      "Office work improves focus; face-to-face collaboration is more effective.",
+      "Remote work is flexible; remote work reduces costs for companies."
+     ]
+    },
+    {
+     "qid": "G18.5",
+     "q": "Point: 'Honesty builds trust.' Example: 'Partners who share their honest feelings tend to resolve conflicts more effectively.' Which sentence best EXPLAINS how the example supports the point?",
+     "options": [
+      "Many couples in Thailand get married every year.",
+      "However, some people tell white lies in order to avoid hurting their partner's feelings.",
+      "Honesty is a word that has many different meanings.",
+      "This is because open communication prevents misunderstandings from building up."
+     ]
+    },
+    {
+     "qid": "G18.6",
+     "q": "Which example best supports the claim that academic skills are essential for professional success?",
+     "options": [
+      "A financial analyst must interpret complex data sets to produce accurate reports.",
+      "Many people enjoy reading novels and short stories in their free time.",
+      "Social skills help first-year students make friends at university.",
+      "Some famous entrepreneurs left university before completing a degree and still became very rich."
+     ]
+    },
+    {
+     "qid": "G18.7",
+     "q": "Which supporting sentence is the most appropriate in an academic essay?",
+     "options": [
+      "Everybody knows that 100 percent of students hate exams.",
+      "I think maybe some students might perhaps feel stressed sometimes.",
+      "Many students experience high levels of anxiety before major examinations.",
+      "Exams are super stressful and totally unfair for most students."
+     ]
+    },
+    {
+     "qid": "G18.8",
+     "q": "Why is this example weak? 'Friends make people happier. For example, people who like travelling usually have friends who like travelling.'",
+     "options": [
+      "It uses the wrong tense for a general statement.",
+      "It does not explain how shared interests lead to greater happiness.",
+      "It is too long and contains too many details.",
+      "It supports the opposite stance from the one stated in the topic sentence."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "title": "Conclusions",
+   "questions": [
+    {
+     "qid": "G19.1",
+     "q": "Which is the best concluding sentence for an essay that strongly disagrees that a big salary matters more than job satisfaction?",
+     "options": [
+      "In conclusion, while a high salary may offer short-term comfort, job satisfaction provides lasting fulfilment and long-term career growth.",
+      "In conclusion, a high salary and job satisfaction are both important to workers, and each matters in different ways and at different stages of a career.",
+      "In conclusion, money is clearly the most important factor when people choose a job.",
+      "In conclusion, people should also consider the location and size of their workplace."
+     ]
+    },
+    {
+     "qid": "G19.2",
+     "q": "Which sentence should NOT appear in a conclusion?",
+     "options": [
+      "For these reasons, I maintain that free tuition benefits society as a whole.",
+      "In conclusion, free university education promotes equality and economic growth.",
+      "Another important benefit is that free tuition attracts more international students.",
+      "I therefore firmly believe that governments should fund higher education."
+     ]
+    },
+    {
+     "qid": "G19.3",
+     "q": "Thesis in the introduction: 'I strongly agree that technology has made our lives more stressful.' Which restatement is best for the conclusion?",
+     "options": [
+      "I strongly agree that technology has made our lives more stressful.",
+      "Technology has some positive and some negative effects on people's stress levels.",
+      "I strongly agree that technology has made our daily lives more relaxing.",
+      "I firmly believe that technology has increased the pressure people face in daily life."
+     ]
+    },
+    {
+     "qid": "G19.4",
+     "q": "Choose the grammatically correct concluding sentence.",
+     "options": [
+      "Therefore, should support individuals to develop their academic skills.",
+      "Therefore, individuals should be encouraged to develop their academic skills.",
+      "Therefore, individuals should encourage to develop their academic skills.",
+      "Because academic skills are essential for success in school and at work."
+     ]
+    },
+    {
+     "qid": "G19.5",
+     "q": "Reason 1: office work improves focus. Reason 2: face-to-face collaboration is more effective. Which conclusion summarises BOTH reasons?",
+     "options": [
+      "In conclusion, office work remains more productive because it supports concentration and enables effective collaboration.",
+      "In conclusion, office work remains more productive because it supports concentration.",
+      "In conclusion, office work remains more productive, and companies should also offer free lunches to keep their staff happy.",
+      "In conclusion, working from home and working in an office both have their own benefits."
+     ]
+    },
+    {
+     "qid": "G19.6",
+     "q": "Which ending would WEAKEN a total-agree conclusion about honesty in relationships?",
+     "options": [
+      "I therefore firmly believe that honesty is essential in any relationship.",
+      "For these reasons, I maintain that telling the truth builds lasting trust.",
+      "Nevertheless, some people suppose that lying is useful in some cases.",
+      "Truthfulness, therefore, remains the foundation of healthy relationships."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "title": "Common errors of Thai writers",
+   "questions": [
+    {
+     "qid": "G20.1",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "I am agree that university education should be free.",
+      "I am agreeing that university education should be free.",
+      "I agree that university education should be free.",
+      "I agreed with that university education should be free."
+     ]
+    },
+    {
+     "qid": "G20.2",
+     "q": "Fill the blank: ____ many problems with public transport in rural areas.",
+     "options": [
+      "There are",
+      "There have",
+      "It has",
+      "Have"
+     ]
+    },
+    {
+     "qid": "G20.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Therefore, should invest more in rural schools.",
+      "Therefore, is necessary to invest more in rural schools.",
+      "Therefore, investing more in rural schools necessary.",
+      "Therefore, the government should invest more in rural schools."
+     ]
+    },
+    {
+     "qid": "G20.4",
+     "q": "Fill the blank: The price of housing has risen ____ in recent years.",
+     "options": [
+      "rapid",
+      "rapidly",
+      "rapidity",
+      "more rapid"
+     ]
+    },
+    {
+     "qid": "G20.5",
+     "q": "Choose the best correction: 'I strongly disagree with this view. Because a degree ensures professional standards.'",
+     "options": [
+      "I strongly disagree with this view because a degree ensures professional standards.",
+      "I strongly disagree with this view, because of a degree ensures professional standards.",
+      "I strongly disagree with this view. Because of a degree ensures professional standards.",
+      "Because I strongly disagree with this view. A degree ensures professional standards."
+     ]
+    },
+    {
+     "qid": "G20.6",
+     "q": "Which part of the sentence contains an error? 'Online learning gives students more flexibility, but it make it harder to stay motivated.'",
+     "options": [
+      "gives students",
+      "more flexibility, but it",
+      "make it harder",
+      "to stay motivated"
+     ]
+    },
+    {
+     "qid": "G20.7",
+     "q": "Which is the most appropriate way to begin an introduction?",
+     "options": [
+      "According to the statement, I disagree with this statement.",
+      "It is often argued that practical skills matter more than formal qualifications.",
+      "According to the statement, it is about skills and degrees.",
+      "The world is gradually changing, according to the statement."
+     ]
+    },
+    {
+     "qid": "G20.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Telling lie can damage trust between friends.",
+      "Telling a lies can damage trust between friends.",
+      "Tell lies can damage trust between friends.",
+      "Telling lies can damage trust between friends."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "title": "Cohesion: choosing connectors by logical relationship",
+   "questions": [
+    {
+     "qid": "G21.1",
+     "q": "Choose the connector that shows RESULT: Many factories moved to the suburbs. ____, air quality in the city centre improved.",
+     "options": [
+      "However",
+      "For instance",
+      "In addition",
+      "Consequently"
+     ]
+    },
+    {
+     "qid": "G21.2",
+     "q": "Choose the best connector: Exercise strengthens the heart. ____, it improves mood by releasing endorphins.",
+     "options": [
+      "On the other hand",
+      "In addition",
+      "As a result",
+      "Nevertheless"
+     ]
+    },
+    {
+     "qid": "G21.3",
+     "q": "Choose the best connector: Solar panels are expensive to install. ____, they reduce electricity bills over time.",
+     "options": [
+      "Therefore",
+      "For example",
+      "Nevertheless",
+      "Furthermore"
+     ]
+    },
+    {
+     "qid": "G21.4",
+     "q": "Choose the connector that introduces an EXAMPLE: Many countries now tax sugary drinks. ____, Mexico introduced such a tax in 2014.",
+     "options": [
+      "For instance",
+      "In contrast",
+      "Therefore",
+      "Despite this"
+     ]
+    },
+    {
+     "qid": "G21.5",
+     "q": "Fill the blank: ____ heavy traffic, many commuters arrive at work late.",
+     "options": [
+      "Because",
+      "Due to",
+      "Although",
+      "Therefore"
+     ]
+    },
+    {
+     "qid": "G21.6",
+     "q": "Choose the best connector: Urban areas offer more job opportunities, ____ rural areas offer a lower cost of living.",
+     "options": [
+      "because",
+      "so that",
+      "as a result",
+      "while"
+     ]
+    },
+    {
+     "qid": "G21.7",
+     "q": "In which sentence is the connector used correctly?",
+     "options": [
+      "Smoking damages the lungs. Furthermore, it increases the risk of heart disease.",
+      "Smoking damages the lungs. On the other hand, it increases the risk of heart disease.",
+      "Smoking damages the lungs. However, it increases the risk of heart disease.",
+      "Smoking damages the lungs. For instance, it increases the risk of heart disease."
+     ]
+    },
+    {
+     "qid": "G21.8",
+     "q": "Choose the connector that shows CAUSE: Many young people delay buying a home ____ property prices have risen sharply.",
+     "options": [
+      "so",
+      "although",
+      "because",
+      "therefore"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "title": "Stance consistency and counter-arguments",
+   "questions": [
+    {
+     "qid": "G22.1",
+     "q": "In an essay that totally AGREES that private cars should be banned from city centres, which sentence weakens the stance?",
+     "options": [
+      "Car-free zones make streets much safer for pedestrians and cyclists.",
+      "Reducing traffic improves air quality and therefore public health.",
+      "Cleaner public spaces attract more businesses and tourists to the area.",
+      "On the other hand, a ban would harm local businesses, so it may not be wise."
+     ]
+    },
+    {
+     "qid": "G22.2",
+     "q": "Which sentence correctly concedes and then refutes, keeping a total-disagree stance against 'Working from home is more productive'?",
+     "options": [
+      "Working from home is flexible, and this flexibility clearly makes employees more productive than in an office.",
+      "Although remote work offers flexibility, this benefit is outweighed by constant distractions at home.",
+      "Remote work offers flexibility; therefore, I partly agree with the statement.",
+      "Remote work has both advantages and disadvantages for overall productivity."
+     ]
+    },
+    {
+     "qid": "G22.3",
+     "q": "Essay stance: always telling the truth is the most important thing in a relationship (total agree). Complete the refutation: 'Some argue that white lies protect people's feelings; ____'",
+     "options": [
+      "however, even small lies can gradually erode the trust that relationships depend on.",
+      "therefore, white lies are perfectly acceptable in most close and long-term relationships.",
+      "for example, people often tell white lies at parties and family events.",
+      "moreover, honesty is not always necessary between close friends."
+     ]
+    },
+    {
+     "qid": "G22.4",
+     "q": "What is the main problem with this body paragraph from a total-agree essay on honesty? 'Honesty builds trust. However, some individuals consider that lying is sometimes necessary. For example, people lie to avoid conflict.'",
+     "options": [
+      "It uses too many advanced words for an academic essay.",
+      "It has no topic sentence at the start of the paragraph.",
+      "It ends by supporting the opposite view without refuting it.",
+      "It uses the passive voice incorrectly in the second sentence."
+     ]
+    },
+    {
+     "qid": "G22.5",
+     "q": "Which conclusion keeps a consistent total-disagree stance against 'Social skills are more important than academic skills'?",
+     "options": [
+      "In conclusion, social skills and academic skills are equally important for success in both education and employment.",
+      "In conclusion, while social skills are beneficial, they are secondary to the academic abilities that drive success.",
+      "In conclusion, social skills have become more important in the modern workplace.",
+      "In conclusion, the answer depends on the individual and the type of job."
+     ]
+    },
+    {
+     "qid": "G22.6",
+     "q": "Which is the best way to mention the opposing view in a total-agree essay on free university education?",
+     "options": [
+      "Free university education is expensive, so governments simply cannot afford it.",
+      "Some people disagree with free tuition, and they have many good reasons that should be carefully considered.",
+      "Free university education has both advantages and disadvantages for society.",
+      "Critics argue that free tuition is costly; however, an educated workforce generates far greater returns."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "title": "Collocations and formal style",
+   "questions": [
+    {
+     "qid": "G23.1",
+     "q": "Fill the blank: Plastic pollution ____ a serious threat to marine life.",
+     "options": [
+      "poses",
+      "does",
+      "makes",
+      "gives"
+     ]
+    },
+    {
+     "qid": "G23.2",
+     "q": "Fill the blank: Job satisfaction gives people a genuine ____.",
+     "options": [
+      "fulfilled sense",
+      "sense of fulfilled",
+      "sense of fulfilment",
+      "fulfilment sense"
+     ]
+    },
+    {
+     "qid": "G23.3",
+     "q": "Fill the blank: People who always tell the truth ____ a reputation for being reliable.",
+     "options": [
+      "publish",
+      "earn",
+      "make up",
+      "do"
+     ]
+    },
+    {
+     "qid": "G23.4",
+     "q": "Choose the most formal sentence for an academic essay.",
+     "options": [
+      "Kids don't get enough exercise these days.",
+      "Children don't get enough exercise nowadays.",
+      "Kids do not get a lot of exercise nowadays.",
+      "Children do not get sufficient exercise nowadays."
+     ]
+    },
+    {
+     "qid": "G23.5",
+     "q": "Fill the blank: Honest communication helps couples ____ trust over time.",
+     "options": [
+      "do",
+      "forward",
+      "build",
+      "publish"
+     ]
+    },
+    {
+     "qid": "G23.6",
+     "q": "Fill the blank: Before choosing a university, students should ____ an informed decision.",
+     "options": [
+      "do",
+      "make",
+      "take on",
+      "create"
+     ]
+    },
+    {
+     "qid": "G23.7",
+     "q": "Which phrase should replace 'achieve their career' in this sentence? 'A motivated worker is more likely to achieve their career.'",
+     "options": [
+      "achieve their career advance",
+      "do career growth",
+      "make their career up",
+      "achieve career advancement"
+     ]
+    },
+    {
+     "qid": "G23.8",
+     "q": "Choose the most formal and accurate sentence.",
+     "options": [
+      "A large number of graduates struggle to find employment.",
+      "Lots of graduates can't find jobs these days.",
+      "A lot of graduates struggle to get a job, you know.",
+      "Tons of graduates struggle to find employment."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "title": "Error-correction intensive",
+   "questions": [
+    {
+     "qid": "G24.1",
+     "q": "Which part of the sentence contains an error? 'In the past, governments spend a great amount of money on artistic projects.'",
+     "options": [
+      "In the past,",
+      "governments",
+      "spend",
+      "a great amount of money"
+     ]
+    },
+    {
+     "qid": "G24.2",
+     "q": "Which part of the sentence contains an error? 'Companies has benefited greatly from the invention of television.'",
+     "options": [
+      "Companies has",
+      "benefited greatly",
+      "from the invention",
+      "of television"
+     ]
+    },
+    {
+     "qid": "G24.3",
+     "q": "Which part of the sentence contains an error? 'Having too many rules that are burdensome may lead for adverse consequences.'",
+     "options": [
+      "Having too many rules",
+      "that are burdensome",
+      "may lead",
+      "for adverse consequences"
+     ]
+    },
+    {
+     "qid": "G24.4",
+     "q": "Choose the best correction: 'They provide a alternative to cooking.'",
+     "options": [
+      "They provide the alternative to cook.",
+      "They provide an alternative to cooking.",
+      "They provide an alternatives to cooking.",
+      "They provide alternative to cooking."
+     ]
+    },
+    {
+     "qid": "G24.5",
+     "q": "Choose the best correction: 'Due to rising life expectancy, many countries faced with an ageing population.'",
+     "options": [
+      "Due to rising life expectancy, many countries facing with an ageing population.",
+      "Due to rising life expectancy, many countries are faced with an ageing population.",
+      "Due to rising life expectancy, many countries are face with an ageing population.",
+      "Due to rising life expectancy, many countries faced to an ageing population."
+     ]
+    },
+    {
+     "qid": "G24.6",
+     "q": "Which part of the sentence contains an error? 'Research indicates that people who exercise regularly are less likely to suffering from depression.'",
+     "options": [
+      "Research indicates that",
+      "people who exercise",
+      "regularly are less likely",
+      "to suffering from depression"
+     ]
+    },
+    {
+     "qid": "G24.7",
+     "q": "Which part of the sentence contains an error? 'Smartphones have a significantly impact on the way young people form friendships.'",
+     "options": [
+      "a significantly impact",
+      "on the way",
+      "young people",
+      "form friendships"
+     ]
+    },
+    {
+     "qid": "G24.8",
+     "q": "Which part of the sentence contains an error? 'Between 2000 and 2002, the number of visitors was increased to around 55,000.'",
+     "options": [
+      "Between 2000 and 2002,",
+      "the number of visitors",
+      "was increased",
+      "to around 55,000"
+     ]
+    },
+    {
+     "qid": "G24.9",
+     "q": "Choose the best correction: 'Nowadays, there have many reasons why people moves to big cities.'",
+     "options": [
+      "Nowadays, there are many reasons why people move to big cities.",
+      "Nowadays, there have many reasons why people move to big cities.",
+      "Nowadays, there are many reasons why people moves to big cities.",
+      "Nowadays, there is many reasons why people move to big cities."
+     ]
+    },
+    {
+     "qid": "G24.10",
+     "q": "Choose the best correction: 'In some countries, children allowed to do almost anything they want, it can cause discipline problems.'",
+     "options": [
+      "In some countries, children allowed to do almost anything they want, which can cause discipline problems.",
+      "In some countries, children are allowed to do almost anything they want, which can cause discipline problems.",
+      "In some countries, children are allowed to do almost anything they want, it can cause discipline problems.",
+      "In some countries, children are allow to do almost anything they want, which can cause discipline problems."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "title": "Quick check: parallel structure",
+   "questions": [
+    {
+     "qid": "G25.1",
+     "q": "Choose the sentence with correct parallel structure.",
+     "options": [
+      "The programme aims to reduce costs, improving quality, and to train staff.",
+      "The programme aims reducing costs, to improve quality, and train staff.",
+      "The programme aims to reduce costs, improve quality, and train staff.",
+      "The programme aims to reduce costs, quality improvement, and training staff."
+     ]
+    },
+    {
+     "qid": "G25.2",
+     "q": "Fill the blank: Regular exercise not only improves physical health but also ____.",
+     "options": [
+      "reduces stress",
+      "reducing stress",
+      "stress reduction is",
+      "to reduce stress"
+     ]
+    },
+    {
+     "qid": "G25.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Students prefer studying online and to work part-time.",
+      "Students prefer studying online and working part-time.",
+      "Students prefer to study online and working part-time.",
+      "Students prefer study online and working part-time."
+     ]
+    },
+    {
+     "qid": "G25.4",
+     "q": "Fill the blank: The new policy is both cost-effective and ____.",
+     "options": [
+      "it is easy to implement",
+      "implementing easily",
+      "ease of implementation",
+      "easy to implement"
+     ]
+    },
+    {
+     "qid": "G25.5",
+     "q": "Choose the best correction: 'Good teachers are patient, knowledgeable, and they motivate students.'",
+     "options": [
+      "Good teachers are patient, knowledgeable, and they are motivating students.",
+      "Good teachers are patience, knowledge, and motivating.",
+      "Good teachers are patient, knowledgeable, and motivating.",
+      "Good teachers are patient, knowledge, and motivating."
+     ]
+    },
+    {
+     "qid": "G25.6",
+     "q": "Fill the blank: Governments can reduce pollution either by taxing fuel or by ____ public transport.",
+     "options": [
+      "investing in",
+      "invest in",
+      "investment",
+      "to invest in"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G26",
+   "title": "Quick check: articles and plurals",
+   "questions": [
+    {
+     "qid": "G26.1",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Internet has changed the way people study.",
+      "The internet has changed the way people study.",
+      "An internet has changed the way people study.",
+      "The internets have changed the way people study."
+     ]
+    },
+    {
+     "qid": "G26.2",
+     "q": "Fill the blank: The government plans to build ____ new hospital in every province.",
+     "options": [
+      "an",
+      "the",
+      "many",
+      "a"
+     ]
+    },
+    {
+     "qid": "G26.3",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Several studies have examined the effects of caffeine on sleep.",
+      "Several researches have examined the effects of caffeine on sleep.",
+      "Several study have examined the effects of caffeine on sleep.",
+      "Several studies have examined the effect of caffeines on sleep."
+     ]
+    },
+    {
+     "qid": "G26.4",
+     "q": "Fill the blank: ____ is one of the most serious problems facing coastal cities.",
+     "options": [
+      "The floods",
+      "Floodings",
+      "Flooding",
+      "A flooding"
+     ]
+    },
+    {
+     "qid": "G26.5",
+     "q": "Which part of the sentence contains an error? 'Many children in rural areas do not have access to a clean water.'",
+     "options": [
+      "Many children",
+      "in rural areas",
+      "do not have access to",
+      "a clean water"
+     ]
+    },
+    {
+     "qid": "G26.6",
+     "q": "Fill the blank: One of the main ____ of obesity is a lack of physical activity.",
+     "options": [
+      "cause",
+      "causes",
+      "causing",
+      "caused"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G27",
+   "title": "Quick check: tenses and subject–verb agreement",
+   "questions": [
+    {
+     "qid": "G27.1",
+     "q": "Fill the blank: Since 2010, the population of Bangkok ____ steadily.",
+     "options": [
+      "grows",
+      "grew",
+      "have grown",
+      "has grown"
+     ]
+    },
+    {
+     "qid": "G27.2",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "The effects of air pollution are especially serious for children.",
+      "The effects of air pollution is especially serious for children.",
+      "The effect of air pollution are especially serious for children.",
+      "The effects of air pollution was especially serious for children."
+     ]
+    },
+    {
+     "qid": "G27.3",
+     "q": "Fill the blank: For instance, when the government raised fuel taxes in 2018, many people ____ to public transport.",
+     "options": [
+      "switch",
+      "have switched",
+      "switched",
+      "are switching"
+     ]
+    },
+    {
+     "qid": "G27.4",
+     "q": "Fill the blank: Neither the teacher nor the students ____ satisfied with the new timetable.",
+     "options": [
+      "is",
+      "are",
+      "was being",
+      "has been"
+     ]
+    },
+    {
+     "qid": "G27.5",
+     "q": "Which part of the sentence contains an error? 'Every student have to complete an internship before graduating.'",
+     "options": [
+      "Every student have",
+      "to complete",
+      "an internship",
+      "before graduating"
+     ]
+    },
+    {
+     "qid": "G27.6",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Learning a second language improve memory.",
+      "Learning a second language are improving memory.",
+      "Learning a second language improves memory.",
+      "Learn a second language improves memory."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G28",
+   "title": "Quick check: word form and collocation",
+   "questions": [
+    {
+     "qid": "G28.1",
+     "q": "Fill the blank: The internet has made information more ____ to rural communities.",
+     "options": [
+      "access",
+      "accessibly",
+      "accessible",
+      "accessibility"
+     ]
+    },
+    {
+     "qid": "G28.2",
+     "q": "Fill the blank: Governments must ____ steps to reduce plastic waste.",
+     "options": [
+      "do",
+      "take",
+      "make",
+      "give"
+     ]
+    },
+    {
+     "qid": "G28.3",
+     "q": "Fill the blank: Online learning has become ____ popular among working adults.",
+     "options": [
+      "increasing",
+      "increase",
+      "increased",
+      "increasingly"
+     ]
+    },
+    {
+     "qid": "G28.4",
+     "q": "Fill the blank: Smoking ____ a serious risk to public health.",
+     "options": [
+      "poses",
+      "does",
+      "takes",
+      "plays"
+     ]
+    },
+    {
+     "qid": "G28.5",
+     "q": "Which part of the sentence contains an error? 'Many people believe that technology has a strong affect on children's development.'",
+     "options": [
+      "Many people believe that",
+      "technology has a strong affect",
+      "on children's",
+      "development"
+     ]
+    },
+    {
+     "qid": "G28.6",
+     "q": "Fill the blank: Universities should help students ____ the gap between theory and practice.",
+     "options": [
+      "cross",
+      "cover",
+      "jump",
+      "bridge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G29",
+   "title": "Final mixed review",
+   "questions": [
+    {
+     "qid": "G29.1",
+     "q": "Fill the blank: The number of people working from home ____ risen since 2020.",
+     "options": [
+      "have",
+      "are",
+      "has",
+      "is"
+     ]
+    },
+    {
+     "qid": "G29.2",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "Education is the key to reducing poverty.",
+      "The education is the key to reducing poverty.",
+      "Education is the key to reduce poverty.",
+      "Education is key to reduce the poverty."
+     ]
+    },
+    {
+     "qid": "G29.3",
+     "q": "Which of the following is a complete sentence?",
+     "options": [
+      "Although many cities have introduced bike lanes.",
+      "Cities that have introduced bike lanes.",
+      "Because cycling is good for health and the environment.",
+      "Many cities have introduced bike lanes to encourage cycling."
+     ]
+    },
+    {
+     "qid": "G29.4",
+     "q": "Fill the blank: Thousands of trees ____ every year to make paper.",
+     "options": [
+      "cut down",
+      "are cut down",
+      "are cutting down",
+      "cuts down"
+     ]
+    },
+    {
+     "qid": "G29.5",
+     "q": "Fill the blank: Teachers ____ students respect them can manage classes more easily.",
+     "options": [
+      "who",
+      "which",
+      "that",
+      "whose"
+     ]
+    },
+    {
+     "qid": "G29.6",
+     "q": "Choose the correctly punctuated sentence.",
+     "options": [
+      "Fast food is cheap, however, it is often unhealthy.",
+      "Fast food is cheap; however, it is often unhealthy.",
+      "Fast food is cheap however, it is often unhealthy.",
+      "Fast food is cheap, however it is often unhealthy."
+     ]
+    },
+    {
+     "qid": "G29.7",
+     "q": "Fill the blank: Cycling is ____ than driving for short trips.",
+     "options": [
+      "more environmentally friendly",
+      "more environmental friendly",
+      "environmentally friendlier more",
+      "most environmentally friendly"
+     ]
+    },
+    {
+     "qid": "G29.8",
+     "q": "Choose the grammatically correct sentence.",
+     "options": [
+      "A large percent of students use AI tools for homework.",
+      "A large amount of students use AI tools for homework.",
+      "A large percentage of students use AI tools for homework.",
+      "A large percentage of student use AI tools for homework."
+     ]
+    },
+    {
+     "qid": "G29.9",
+     "q": "Choose the most appropriate sentence for an academic essay.",
+     "options": [
+      "Video games always make children violent and aggressive.",
+      "Violent video games may contribute to aggressive behaviour in some children.",
+      "Video games makes all children violent.",
+      "Every child who plays video games regularly becomes more violent and aggressive over time."
+     ]
+    },
+    {
+     "qid": "G29.10",
+     "q": "Fill the blank: If more people used public transport, traffic congestion ____.",
+     "options": [
+      "will decrease",
+      "decreases",
+      "has decreased",
+      "would decrease"
+     ]
+    },
+    {
+     "qid": "G29.11",
+     "q": "Fill the blank: Many graduates lack the practical skills that employers consider ____.",
+     "options": [
+      "essential",
+      "essence",
+      "essentially",
+      "essentialness"
+     ]
+    },
+    {
+     "qid": "G29.12",
+     "q": "Fill the blank: The report ____ by the Ministry of Health highlights rising obesity rates.",
+     "options": [
+      "publishing",
+      "publishes",
+      "published",
+      "was published"
+     ]
+    },
+    {
+     "qid": "G29.13",
+     "q": "Fill the blank: When students feel supported, ____ are more likely to stay in school.",
+     "options": [
+      "he",
+      "it",
+      "you",
+      "they"
+     ]
+    },
+    {
+     "qid": "G29.14",
+     "q": "Choose the most formal sentence.",
+     "options": [
+      "Lots of people can't afford healthy food.",
+      "Many people cannot afford nutritious food.",
+      "Loads of people cannot afford healthy food.",
+      "Many people can't afford good stuff to eat."
+     ]
+    },
+    {
+     "qid": "G29.15",
+     "q": "Fill the blank: ____ the high cost, many families choose private schools.",
+     "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "Despite of"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G30",
+   "title": "Light review: essay template phrases",
+   "questions": [
+    {
+     "qid": "G30.1",
+     "q": "Introduction — choose the best phrase to open the essay: '____ that university education should be free for all students.'",
+     "options": [
+      "In conclusion, I believe",
+      "It is often argued",
+      "For instance, it is said",
+      "Furthermore, it is argued"
+     ]
+    },
+    {
+     "qid": "G30.2",
+     "q": "Thesis (total stance) — fill the blank: 'I ____ with this view, as free tuition promotes equality and economic growth.'",
+     "options": [
+      "strongly agree",
+      "strongly agree to",
+      "am strongly agree",
+      "partly agree"
+     ]
+    },
+    {
+     "qid": "G30.3",
+     "q": "Body paragraph 1 — choose the best opening: '____ free education promotes social equality.'",
+     "options": [
+      "In conclusion,",
+      "On the other hand,",
+      "For instance,",
+      "The primary reason I support this view is that"
+     ]
+    },
+    {
+     "qid": "G30.4",
+     "q": "Body paragraph — fill the blank to introduce evidence: '____, a recent survey revealed that over sixty percent of workers feel pressured to stay available after hours.'",
+     "options": [
+      "In conclusion",
+      "However",
+      "For instance",
+      "Although"
+     ]
+    },
+    {
+     "qid": "G30.5",
+     "q": "Body paragraph 2 (second reason) — choose the best opening: '____, providing free university education benefits the nation as a whole.'",
+     "options": [
+      "Moreover",
+      "In contrast",
+      "In conclusion",
+      "For example"
+     ]
+    },
+    {
+     "qid": "G30.6",
+     "q": "Concession — fill the blank: '____ remote work offers flexibility, it reduces opportunities for collaboration.'",
+     "options": [
+      "Despite",
+      "However",
+      "In spite of",
+      "Although"
+     ]
+    },
+    {
+     "qid": "G30.7",
+     "q": "Conclusion — choose the best opening: '____, free university education is essential for social equality and economic progress.'",
+     "options": [
+      "For instance",
+      "In conclusion",
+      "Firstly",
+      "On the other hand"
+     ]
+    },
+    {
+     "qid": "G30.8",
+     "q": "Conclusion — fill the blank: '____ that governments should prioritise funding for higher education.'",
+     "options": [
+      "This essay will describe",
+      "According to the statement",
+      "I therefore firmly believe",
+      "Do you agree"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+[
+ {"qid": "W14.7", "issue": "Minor cross-question cue: W14.8's stem ('By how much more did mean systolic blood pressure fall...') supplies the W14.7 short answer 'systolic blood pressure'."},
+ {"qid": "W11.7", "issue": "Minor cross-question cue: W11.8 options A and C name 'The Breteau index', exposing the term W11.7 asks for (it does not define it, so the cue is weak)."},
+ {"qid": "W14.10", "issue": "Key should accept both '450 baht' and 'about 450 baht' (3 words); the stem itself says 'about how much'."}
+]

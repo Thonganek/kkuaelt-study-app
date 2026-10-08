@@ -1,0 +1,976 @@
+{
+  "id": "T6",
+  "day": 39,
+  "title": "Reading Test 6",
+  "passages": [
+    {
+      "id": "T6P1",
+      "kind": "short",
+      "genre": "news report",
+      "domain": "Public Health",
+      "title": "Roadside Survey Raises Fresh Concerns Over Motorcycle Safety",
+      "paragraphs": [
+        "Motorcycle passengers in Thailand's northeast are far less likely to protect their heads than the people steering the machines, according to a roadside survey released this week by university researchers.",
+        "Observers at 60 sites in three provinces recorded more than 18,000 motorcycles over four months. While 68 per cent of riders wore a helmet, only 27 per cent of adult passengers did so, and among child passengers the figure fell to just 9 per cent. Helmet use was lowest on short trips along village roads and after dark, when police checks were assumed to be unlikely.",
+        "The gap is troubling because passengers are hardly safer than riders in a crash. International studies show that a properly fastened helmet cuts the risk of death by roughly 40 per cent and of serious head injury by even more.",
+        "Dr. Kittipong Saenmuang, who led the study, said cost was unlikely to be the main obstacle, since most households already owned at least one helmet. 'Families tend to buy a helmet for whoever rides and assume everyone else will manage without. A quick trip to the market just isn't seen as dangerous,' he said.",
+        "The team urges provincial authorities to target passengers explicitly in enforcement campaigns, to distribute child-sized helmets through schools, and to fine riders, rather than passengers, whenever anyone on board is unprotected.",
+        "Officials in one province said they would study the proposals before the New Year holiday, traditionally the deadliest period on the country's roads."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the report?",
+          "options": [
+            "Helmet use in the northeast has declined because police checks have become less frequent.",
+            "A survey has found that passengers wear helmets far less often than the riders carrying them.",
+            "Researchers have concluded that the cost of helmets leaves many rural families unprotected.",
+            "Officials have launched a campaign to supply child-sized helmets to schools before the holiday."
+          ],
+          "answer": 1,
+          "explain": "ประเด็นหลักอยู่ใน ¶1: “Motorcycle passengers in Thailand's northeast are far less likely to protect their heads than the people steering the machines” ส่วนย่อหน้าที่เหลือเป็นตัวเลขและข้อเสนอที่ขยายประเด็นนี้ จึงตอบ B ตัวเลือก C ขัดกับ ¶4 ที่หัวหน้าทีมบอกว่าราคาไม่ใช่อุปสรรคหลัก และ D ผิดเพราะเจ้าหน้าที่เพียงจะ “study the proposals” ยังไม่ได้เริ่มโครงการใด"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "Which of the following is supported by the figures in paragraph 2?",
+          "options": [
+            "Roughly a quarter of riders were observed wearing a helmet.",
+            "Two-thirds of all people on the motorcycles wore a helmet.",
+            "Most adult passengers wore a helmet on village roads.",
+            "Child passengers were the group least likely to wear one."
+          ],
+          "answer": 3,
+          "explain": "¶2: “among child passengers the figure fell to just 9 per cent” ต่ำกว่าผู้ขับขี่ (68%) และผู้โดยสารผู้ใหญ่ (27%) เด็กจึงเป็นกลุ่มที่สวมหมวกน้อยที่สุด ตัวเลือก A เป็นกับดักตัวเลขเพราะ 'ราวหนึ่งในสี่' คือผู้โดยสารผู้ใหญ่ ไม่ใช่ผู้ขับขี่ ส่วน B ผิดเพราะสองในสามเป็นตัวเลขของผู้ขับขี่เท่านั้น ไม่ใช่ทุกคนบนรถ"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a situation in which helmet use was especially low?",
+          "options": [
+            "in heavy rain",
+            "on short local trips",
+            "on roads through villages",
+            "when it was dark"
+          ],
+          "answer": 0,
+          "explain": "¶2: “Helmet use was lowest on short trips along village roads and after dark” ครอบคลุมการเดินทางระยะสั้น ถนนในหมู่บ้าน และเวลากลางคืน (B, C, D) แต่ไม่มีการกล่าวถึงสภาพอากาศหรือฝนตกเลย จึงตอบ A"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'hardly' in paragraph 3 is closest in meaning to",
+          "options": [
+            "certainly",
+            "with difficulty",
+            "scarcely",
+            "considerably"
+          ],
+          "answer": 2,
+          "explain": "¶3: “passengers are hardly safer than riders in a crash” hardly แปลว่า แทบจะไม่ (scarcely) คือผู้โดยสารแทบไม่ได้ปลอดภัยกว่าผู้ขับขี่เลย ตัวเลือก B (with difficulty) เป็นกับดักเพราะดูคล้ายคำว่า hard แต่ความหมายต่างกันโดยสิ้นเชิง"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of paragraph 3?",
+          "options": [
+            "to compare the types of injury suffered by riders and passengers",
+            "to question how reliable the international research really is",
+            "to describe the correct way of fastening a motorcycle helmet",
+            "to show why the low rate of helmet use among passengers matters"
+          ],
+          "answer": 3,
+          "explain": "¶3 เปิดด้วย “The gap is troubling because...” แล้วให้ข้อมูลว่าหมวกนิรภัยลดความเสี่ยงการเสียชีวิตได้มาก เป้าหมายจึงเป็นการชี้ว่าทำไมอัตราการสวมหมวกที่ต่ำของผู้โดยสารเป็นเรื่องสำคัญ ตัวเลือก A ผิดเพราะย่อหน้าไม่ได้เปรียบเทียบชนิดของการบาดเจ็บระหว่างสองกลุ่ม"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 4 that Dr. Kittipong believes low helmet use among passengers stems mainly from",
+          "options": [
+            "family attitudes about who needs protection and when",
+            "the expense of buying a helmet for every family member",
+            "a lack of road-safety lessons in local schools",
+            "the poor quality of the helmets sold in local markets"
+          ],
+          "answer": 0,
+          "explain": "¶4 ผู้วิจัยตัดเรื่องราคาออก (“cost was unlikely to be the main obstacle”) และอธิบายว่าครอบครัวซื้อหมวกให้คนขับคนเดียว ทั้งไม่มองว่า “a quick trip to the market” อันตราย จึงอนุมานได้ว่าสาเหตุคือทัศนคติว่าใครต้องได้รับการป้องกันและเมื่อไร ตัวเลือก B ขัดกับคำพูดของเขาโดยตรง เพราะครัวเรือนส่วนใหญ่มีหมวกอยู่แล้วอย่างน้อยหนึ่งใบ"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'everyone else' in paragraph 4 refer to?",
+          "options": [
+            "other drivers using the same road",
+            "family members carried as passengers",
+            "households that own no helmet at all",
+            "officials who enforce the helmet law"
+          ],
+          "answer": 1,
+          "explain": "¶4: “Families tend to buy a helmet for whoever rides and assume everyone else will manage without.” everyone else คือสมาชิกครอบครัวคนอื่นที่ซ้อนท้ายและไม่มีหมวกของตัวเอง ตัวเลือก A ผิดเพราะบริบทพูดถึงการซื้อหมวกภายในครอบครัว ไม่ใช่ผู้ใช้ถนนคนอื่น"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred from paragraph 6?",
+          "options": [
+            "The provincial officials have already adopted the researchers' proposals.",
+            "Most holiday road deaths involve passengers rather than riders.",
+            "The officials have not yet committed to acting on the proposals.",
+            "The researchers plan to repeat their survey before the holiday."
+          ],
+          "answer": 2,
+          "explain": "¶6: “Officials in one province said they would study the proposals before the New Year holiday” แสดงว่ายังอยู่ระหว่างพิจารณา ยังไม่ได้ตัดสินใจนำไปใช้ ตัวเลือก A จึงผิด ส่วน B ผิดเพราะข่าวบอกเพียงว่าช่วงปีใหม่อันตรายที่สุด ไม่ได้บอกว่าผู้เสียชีวิตส่วนใหญ่เป็นผู้โดยสาร"
+        }
+      ]
+    },
+    {
+      "id": "T6P2",
+      "kind": "short",
+      "genre": "announcement/notice",
+      "domain": "Education",
+      "title": "Faculty of Public Health: Changes to Teaching in Semester 2",
+      "paragraphs": [
+        "From the start of Semester 2, the Faculty of Public Health will pilot a 'flipped classroom' model in three second-year courses. In a flipped course, content normally delivered in lectures is studied before class, so that time on campus can be devoted to discussion, problem-solving and group work.",
+        "Before each weekly session, students must watch short recorded lectures, usually totalling no more than 40 minutes, and complete a brief online quiz. Quizzes close at 8 a.m. on the day of the session. They are intended to check understanding rather than to rank students, although their combined score will count for 10 per cent of the final grade. Students who have not attempted the quiz may be asked to complete the preparation in the library before joining their group.",
+        "Recorded materials will be released every Friday afternoon, giving students the weekend to work through them. The existing two-hour lecture slots will be used for workshops in the active-learning rooms in Building 2. Class times and total contact hours will not change.",
+        "The faculty recognises that the new format requires students to manage their own study time. Fourth-year peer mentors will run drop-in sessions on Wednesday evenings, and students without reliable internet access at home may borrow a tablet with mobile data from the faculty office. A study-skills workshop will be held in the first week of term; attendance is strongly encouraged but not compulsory.",
+        "The pilot will be evaluated at the end of the semester using quiz results, examination performance and anonymous student feedback, and a decision on extending the model to other courses will be made before the next academic year. Enquiries should be directed to the Office of Academic Affairs."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of this notice?",
+          "options": [
+            "to report the results of a teaching experiment in three courses",
+            "to encourage lecturers to adopt a new approach in their courses",
+            "to announce new opening hours for the active-learning rooms",
+            "to explain a trial teaching format and what it requires"
+          ],
+          "answer": 3,
+          "explain": "ประกาศแจ้งนักศึกษาว่าคณะจะทดลองรูปแบบใหม่ (¶1: “the Faculty of Public Health will pilot a 'flipped classroom' model”) แล้วอธิบายสิ่งที่ต้องทำ ตารางเวลา และการช่วยเหลือ จึงตอบ D ตัวเลือก A ผิดเพราะโครงการยังไม่เริ่ม ผลการประเมินจะมีตอนปลายภาคตาม ¶5"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'devoted' in paragraph 1 is closest in meaning to",
+          "options": [
+            "dedicated",
+            "loyal",
+            "restricted",
+            "returned"
+          ],
+          "answer": 0,
+          "explain": "¶1: “time on campus can be devoted to discussion, problem-solving and group work” devoted to ในที่นี้คือ ใช้ (เวลา) ไปกับกิจกรรมเหล่านี้ ตรงกับ dedicated ตัวเลือก B (loyal) เป็นความหมายของ devoted เมื่อใช้กับคน เช่น a devoted fan จึงไม่เข้ากับบริบทเรื่องเวลา"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the notice, the weekly quizzes are intended mainly to",
+          "options": [
+            "rank students according to their ability",
+            "replace the final examination in each course",
+            "find out whether students have grasped the content",
+            "give lecturers feedback on the quality of the videos"
+          ],
+          "answer": 2,
+          "explain": "¶2: “They are intended to check understanding rather than to rank students” จึงตอบ C ตัวเลือก A ตรงข้ามกับข้อความเพราะประกาศปฏิเสธการจัดอันดับไว้ชัดเจน ส่วน B ผิดเพราะคะแนนควิซรวมกันคิดเป็นเพียง 10% ของเกรด ไม่ได้แทนการสอบปลายภาค"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 2 that a student who has not attempted the quiz",
+          "options": [
+            "will automatically receive a failing grade in the course",
+            "may lose some of the time set aside for group work",
+            "will be required to attend an additional lecture",
+            "can take the quiz again later on the same day"
+          ],
+          "answer": 1,
+          "explain": "¶2: “Students who have not attempted the quiz may be asked to complete the preparation in the library before joining their group.” นักศึกษาต้องไปเตรียมตัวให้เสร็จก่อนจึงเข้ากลุ่มได้ จึงอาจเสียเวลาทำงานกลุ่มไปบางส่วน ตัวเลือก A รุนแรงเกินข้อมูล ส่วน D ขัดกับข้อความที่ว่าควิซปิดเวลา 8 โมงเช้าของวันเรียน"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'them' in paragraph 3 refer to?",
+          "options": [
+            "the recorded materials",
+            "the students",
+            "the workshops",
+            "the weekly online quizzes"
+          ],
+          "answer": 0,
+          "explain": "¶3: “Recorded materials will be released every Friday afternoon, giving students the weekend to work through them.” สิ่งที่นักศึกษาใช้เวลาสุดสัปดาห์ศึกษาให้จบ (work through) คือสื่อที่บันทึกไว้ ตัวเลือก B ผิดเพราะ students เป็นผู้ศึกษา ไม่ใช่สิ่งที่ถูกศึกษา"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the notice, which of the following will change next semester?",
+          "options": [
+            "the days and times at which classes meet",
+            "the total number of contact hours",
+            "the number of courses in the second year",
+            "the way timetabled class time is used"
+          ],
+          "answer": 3,
+          "explain": "¶3: “The existing two-hour lecture slots will be used for workshops” คือเวลาเรียนเดิมยังอยู่ แต่เปลี่ยนจากการบรรยายเป็นเวิร์กช็อป จึงตอบ D ส่วน A และ B ไม่เปลี่ยนแปลง เพราะประกาศระบุว่า “Class times and total contact hours will not change.”"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a form of support for students?",
+          "options": [
+            "drop-in sessions run by senior students",
+            "individual tutorials with course lecturers",
+            "the loan of tablets with mobile internet data",
+            "a workshop held at the start of term"
+          ],
+          "answer": 1,
+          "explain": "¶4 กล่าวถึง drop-in sessions ของ “Fourth-year peer mentors” การยืมแท็บเล็ตพร้อมอินเทอร์เน็ต และ study-skills workshop ในสัปดาห์แรก แต่ไม่มีการสอนรายบุคคลกับอาจารย์ผู้สอน จึงตอบ B ตัวเลือก A อาจทำให้ลังเล แต่ senior students ในที่นี้ก็คือรุ่นพี่ชั้นปีที่ 4 นั่นเอง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred from paragraph 5?",
+          "options": [
+            "The model will be used in every course from next academic year.",
+            "Examination results have already improved under the new model.",
+            "The faculty has yet to decide whether to expand the model.",
+            "Students may choose whether or not to take part in the pilot."
+          ],
+          "answer": 2,
+          "explain": "¶5: “a decision on extending the model to other courses will be made before the next academic year” แปลว่ายังไม่ได้ตัดสินใจขยายผล จึงตอบ C ตัวเลือก A สรุปเกินข้อมูล และ B ผิดเพราะผลสอบจะถูกนำมาประเมินตอนปลายภาค ยังไม่มีผลออกมา"
+        }
+      ]
+    },
+    {
+      "id": "T6P3",
+      "kind": "short",
+      "genre": "feature article",
+      "domain": "Environment",
+      "title": "Small Boxes, Big Questions",
+      "paragraphs": [
+        "Each morning between February and April, when smoke from crop burning and forest fires settles over the valleys of northern Thailand, Wanida Promsri checks a small plastic box fastened to her school's fence. The sensor inside cost less than a pair of running shoes, yet within seconds its readings appear on a public map alongside those of hundreds of others.",
+        "Until recently, residents of districts like hers had little idea of what they were breathing. Official monitoring stations, which rely on costly reference-grade instruments, tend to be clustered in provincial capitals, and a village forty kilometres away may experience very different conditions.",
+        "Low-cost sensors are changing that. Most estimate concentrations of PM2.5, particles fine enough to lodge deep in the lungs, by shining a laser through a stream of air and measuring the light scattered by passing particles. Schools, temples and households now host such devices, creating networks far denser than any government could afford.",
+        "The approach has its critics. The devices are less precise than official instruments and tend to overestimate pollution in humid weather, when particles absorb moisture and appear larger than they are. Some scientists fear that uncorrected readings could cause needless alarm or erode confidence in official data when the two disagree. Others note that sensors are more often installed by better-off households, which may leave poorer neighbourhoods unmonitored.",
+        "Supporters insist these weaknesses can be managed. Placing a few sensors beside official stations allows researchers to calculate correction factors, and a recent study by university engineers found that corrected readings closely tracked official measurements. 'A slightly imperfect number from your own street is worth more than a perfect one from a town you don't live in,' says Dr. Anan Chaiwong, an environmental engineer who helps run one network.",
+        "For Wanida, the value lies as much in what the data prompt as in the figures themselves. When readings turn red, the school moves physical-education lessons indoors, and her students, who now chart the numbers in science class, have begun asking why neighbours still burn their fields after the harvest."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "title",
+          "q": "Which of the following is the best title for the passage?",
+          "options": [
+            "Why Official Air-Quality Stations Cost So Much to Run",
+            "How Lasers Are Used to Measure Fine Particles",
+            "Cheap Sensors Give Communities a View of Their Own Air",
+            "Students Campaign to End Crop Burning in Northern Thailand"
+          ],
+          "answer": 2,
+          "explain": "ทั้งบทความพูดถึงเซนเซอร์ราคาถูกที่ชุมชนติดตั้งเองเพื่อรู้คุณภาพอากาศในพื้นที่ของตน พร้อมข้อวิจารณ์และประโยชน์ (¶3: “Schools, temples and households now host such devices”) จึงตอบ C ตัวเลือก A และ B แคบเกินไปเพราะเป็นเพียงรายละเอียดใน ¶2 และ ¶3 ส่วน D บิดเบือน ¶6 เพราะนักเรียนเพียงเริ่ม “asking why” ไม่ได้รณรงค์"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, why did many villagers know little about the air they breathed?",
+          "options": [
+            "Official monitors were concentrated in the main towns.",
+            "Official data were kept secret from rural residents.",
+            "Air quality in villages matched that of nearby towns.",
+            "Reference-grade instruments could not work in villages."
+          ],
+          "answer": 0,
+          "explain": "¶2: “Official monitoring stations ... tend to be clustered in provincial capitals” ชาวบ้านที่อยู่ห่างออกไปจึงไม่มีข้อมูลของพื้นที่ตนเอง ตัวเลือก C ตรงข้ามกับข้อความที่ว่าหมู่บ้าน “may experience very different conditions” จากในเมือง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'host' in paragraph 3 is closest in meaning to",
+          "options": [
+            "fund",
+            "organise",
+            "entertain",
+            "house"
+          ],
+          "answer": 3,
+          "explain": "¶3: “Schools, temples and households now host such devices” host ในที่นี้คือ เป็นที่ตั้งหรือให้ที่ติดตั้งอุปกรณ์ ตรงกับ house ที่ใช้เป็นกริยา (ให้ที่อยู่/เป็นที่เก็บ) ตัวเลือก C (entertain) เป็นความหมายของ host เมื่อพูดถึงการต้อนรับแขก จึงใช้กับอุปกรณ์ไม่ได้"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'they' in paragraph 4 refer to?",
+          "options": [
+            "the devices",
+            "official instruments",
+            "the particles",
+            "the readings"
+          ],
+          "answer": 2,
+          "explain": "¶4: “when particles absorb moisture and appear larger than they are” สิ่งที่ดูใหญ่กว่าความจริงเพราะดูดความชื้นคืออนุภาค ตัวเลือก A เป็นกับดักเพราะ devices เป็นประธานของประโยคหลัก แต่เครื่องวัดไม่ได้ดูดความชื้นจนดูใหญ่ขึ้น"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a concern about low-cost sensors?",
+          "options": [
+            "They may give inflated readings when the air is damp.",
+            "They may be damaged by smoke during the burning season.",
+            "They may be spread unevenly between richer and poorer areas.",
+            "Their unadjusted figures may cause unnecessary worry."
+          ],
+          "answer": 1,
+          "explain": "¶4 กล่าวถึงค่าที่สูงเกินจริงเมื่ออากาศชื้น (A) ความตื่นตระหนกจากค่าที่ไม่ได้ปรับแก้ (D: “could cause needless alarm”) และการติดตั้งที่กระจุกในครัวเรือนที่มีฐานะ (C) แต่ไม่มีการพูดถึงความเสียหายของเครื่องจากควัน จึงตอบ B"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'erode' in paragraph 4 is closest in meaning to",
+          "options": [
+            "gradually weaken",
+            "firmly establish",
+            "openly question",
+            "fully replace"
+          ],
+          "answer": 0,
+          "explain": "¶4: “erode confidence in official data when the two disagree” erode แปลว่า กัดกร่อน ทำให้ค่อย ๆ ลดลง เมื่อค่าจากเซนเซอร์ขัดกับค่าทางการ ความเชื่อมั่นจึงอาจค่อย ๆ เสื่อมลง ตัวเลือก B มีความหมายตรงข้าม และ C ไม่ได้สื่อถึงการลดลงทีละน้อย"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following is an opinion rather than a fact?",
+          "options": [
+            "Official monitoring stations tend to be found in provincial capitals.",
+            "Most low-cost sensors use a laser to estimate particle levels.",
+            "Corrected sensor readings closely matched official figures in one study.",
+            "A rough local reading is more valuable than a precise distant one."
+          ],
+          "answer": 3,
+          "explain": "D ถอดความจากคำพูดของ ดร.อนันต์ใน ¶5: “A slightly imperfect number from your own street is worth more than a perfect one from a town you don't live in” ซึ่งเป็นการตัดสินคุณค่าตามมุมมองส่วนตัว พิสูจน์ไม่ได้ ส่วน A, B และ C เป็นข้อมูลที่ตรวจสอบได้จาก ¶2, ¶3 และผลการศึกษาใน ¶5"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred from paragraph 6?",
+          "options": [
+            "Wanida's school has cancelled all outdoor activities for the season.",
+            "The sensor data have made students think about local causes of smoke.",
+            "Local farmers have agreed to stop burning their fields after harvest.",
+            "Dr. Anan's network designed the students' science curriculum."
+          ],
+          "answer": 1,
+          "explain": "¶6: “her students ... have begun asking why neighbours still burn their fields after the harvest” แสดงว่าข้อมูลจากเซนเซอร์ทำให้นักเรียนเริ่มเชื่อมโยงควันกับการเผาในชุมชนของตน ตัวเลือก A กล่าวเกินจริง เพราะโรงเรียนย้ายเฉพาะวิชาพลศึกษาเข้าในร่มเมื่อค่าเป็นสีแดงเท่านั้น"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward low-cost sensors can best be described as",
+          "options": [
+            "cautiously positive",
+            "uncritically enthusiastic",
+            "deeply suspicious",
+            "largely indifferent"
+          ],
+          "answer": 0,
+          "explain": "ผู้เขียนเสนอประโยชน์ของเซนเซอร์ แต่ก็ให้พื้นที่กับข้อวิจารณ์ (¶4: “The approach has its critics.”) ก่อนนำเสนอวิธีแก้ใน ¶5 จึงเป็นท่าทีเชิงบวกอย่างระมัดระวัง ตัวเลือก B ผิดเพราะผู้เขียนไม่ได้มองข้ามข้อจำกัดของอุปกรณ์"
+        }
+      ]
+    },
+    {
+      "id": "T6P4",
+      "kind": "short",
+      "genre": "research news",
+      "domain": "Society",
+      "title": "Study Tracks Older Volunteers Over Eight Years",
+      "paragraphs": [
+        "Older adults who give a few hours a week to volunteering report greater life satisfaction and fewer symptoms of depression than those who do not, according to a study that followed more than 4,000 people aged 60 and over in Thailand and Malaysia for eight years. The findings, published last month in an international ageing journal, add to growing evidence linking social engagement in later life with better health.",
+        "Participants were interviewed every two years about their health, social contacts and daily activities. After adjusting for income, education and existing illness, the researchers found that those who volunteered for two to four hours a week were 30 per cent less likely to develop depressive symptoms. Intriguingly, the advantage did not grow with greater commitment: those who gave more than 15 hours a week fared no better than non-volunteers, and several described feeling drained.",
+        "The lead author, Dr. Pornthip Wongsawat, a social gerontologist, believes the key lies in what volunteering restores. 'Retirement can remove, almost overnight, the things that gave people a reason to get up in the morning: colleagues, routine, a sense of being useful,' she said. 'Volunteering gives some of that back, but only up to a point. Beyond it, the activity starts to resemble the very obligations people were relieved to leave behind.'",
+        "Not everyone is persuaded that volunteering itself is responsible. Healthier, wealthier people are more likely to volunteer in the first place, and although the team tried to account for this, critics argue that unmeasured factors such as personality could explain part of the link. 'Optimistic, outgoing people tend to seek out volunteering, and they also tend to stay well,' said an epidemiologist not involved in the research.",
+        "The authors accept the limitation but highlight a striking detail: participants who took up volunteering during the study showed improvements in mood within two years, while those who gave it up saw their scores fall. Such a pattern, they argue, is difficult to attribute to fixed traits alone.",
+        "The results are likely to interest policymakers in Thailand, where roughly one in five people is now aged 60 or over. Village health volunteer networks, temple-based activities and school reading schemes already rely heavily on older residents, and the researchers suggest such programmes should offer flexible, modest roles rather than expecting retirees to work long shifts."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Older people who volunteer for many hours a week gain the greatest boost to their mood.",
+            "Retirement is the main cause of depression among older adults in Southeast Asia.",
+            "Governments should require retired people to take part in community volunteering.",
+            "Volunteering after 60 is linked to better mental health, though the cause is disputed."
+          ],
+          "answer": 3,
+          "explain": "บทความรายงานผลวิจัยว่าการทำงานอาสาสัมพันธ์กับสุขภาพจิตที่ดีขึ้น (¶1–2) แต่มีผู้สงสัยว่าเป็นเหตุเป็นผลจริงหรือไม่ (¶4: “Not everyone is persuaded that volunteering itself is responsible.”) จึงตอบ D ตัวเลือก A ขัดกับ ¶2 ที่ว่าผู้ทำงานอาสาเกิน 15 ชั่วโมงต่อสัปดาห์ไม่ได้ดีขึ้นเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the study, participants who volunteered more than 15 hours a week",
+          "options": [
+            "were more likely to remain in good physical health",
+            "noticed benefits only after several years",
+            "did no better than people who did not volunteer",
+            "were mostly people who had recently retired"
+          ],
+          "answer": 2,
+          "explain": "¶2: “those who gave more than 15 hours a week fared no better than non-volunteers” คือไม่ได้ดีกว่าผู้ที่ไม่ทำงานอาสาเลย ตัวเลือก B เป็นกับดักจากข้อมูลว่าผู้เข้าร่วมถูกติดตามหลายปี แต่ไม่ได้บอกว่าประโยชน์มาช้า"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'drained' in paragraph 2 is closest in meaning to",
+          "options": [
+            "exhausted",
+            "emptied",
+            "ignored",
+            "criticised"
+          ],
+          "answer": 0,
+          "explain": "¶2: “several described feeling drained” หลังทำงานอาสามากเกิน 15 ชั่วโมงต่อสัปดาห์ drained ในที่นี้คือ หมดแรง เหนื่อยล้า ตรงกับ exhausted ตัวเลือก B (emptied) เป็นความหมายตรงตัวของ drain เช่น การระบายน้ำออก จึงไม่เข้ากับการบรรยายความรู้สึกของคน"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "In paragraph 3, Dr. Pornthip implies that volunteering beyond a certain point",
+          "options": [
+            "is the best way to replace the colleagues people lose",
+            "may come to feel like the duties of a working life",
+            "is possible only for people in excellent health",
+            "brings benefits that appear only after retirement"
+          ],
+          "answer": 1,
+          "explain": "¶3: “Beyond it, the activity starts to resemble the very obligations people were relieved to leave behind.” ภาระที่คนโล่งใจที่ได้ทิ้งไว้ตอนเกษียณก็คือหน้าที่ในชีวิตการทำงาน จึงอนุมานได้ว่าการทำงานอาสามากเกินไปจะรู้สึกเหมือนกลับไปทำงาน ตัวเลือก A ผิดเพราะการได้เพื่อนร่วมงานกลับมาเป็นประโยชน์ที่มีแค่ “only up to a point”"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'this' in paragraph 4 refer to?",
+          "options": [
+            "the claim that volunteering itself makes people healthier",
+            "the role of personality in keeping older people well",
+            "the views of an expert who was not part of the study",
+            "the tendency of healthier, richer people to volunteer"
+          ],
+          "answer": 3,
+          "explain": "¶4: “Healthier, wealthier people are more likely to volunteer in the first place, and although the team tried to account for this” this หมายถึงข้อเท็จจริงที่คนสุขภาพดีและฐานะดีมีแนวโน้มเป็นอาสาสมัครอยู่แล้ว ซึ่งทีมวิจัยพยายามปรับค่าในการวิเคราะห์ ตัวเลือก B เป็นกับดักเพราะบุคลิกภาพถูกกล่าวถึงหลังคำว่า this ในฐานะปัจจัยที่ “unmeasured” คือยังไม่ได้ปรับ"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'striking' in paragraph 5 is closest in meaning to",
+          "options": [
+            "remarkable",
+            "violent",
+            "attractive",
+            "conflicting"
+          ],
+          "answer": 0,
+          "explain": "¶5: “highlight a striking detail” striking แปลว่า โดดเด่น น่าสังเกต ตรงกับ remarkable ผู้วิจัยยกรายละเอียดนี้ขึ้นมาตอบข้อวิจารณ์ ตัวเลือก B (violent) มาจากความหมายของ strike ที่แปลว่าตี ซึ่งไม่เกี่ยวกับบริบท"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "Why do the authors believe the pattern described in paragraph 5 is hard to explain by fixed traits alone?",
+          "options": [
+            "Volunteers' moods improved before they took up volunteering.",
+            "Personality traits were measured carefully at the start of the study.",
+            "Fixed traits cannot explain changes that follow starting or stopping.",
+            "People with fixed personalities rarely begin volunteering in later life."
+          ],
+          "answer": 2,
+          "explain": "¶5 ผู้ที่เริ่มทำงานอาสามีอารมณ์ดีขึ้น ส่วนผู้ที่เลิกมีคะแนนลดลง (“those who gave it up saw their scores fall”) หากสาเหตุคือบุคลิกภาพซึ่งคงที่ คะแนนไม่ควรขึ้นลงตามการเริ่มหรือเลิก จึงตอบ C ตัวเลือก A ผิดเพราะอารมณ์ดีขึ้น “within two years” หลังเริ่ม ไม่ใช่ก่อนเริ่ม"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author mention that roughly one in five people in Thailand is aged 60 or over?",
+          "options": [
+            "to show that the study's sample represented Thailand's population",
+            "to explain why the findings are relevant to Thai policymakers",
+            "to suggest that older Thais volunteer more often than Malaysians",
+            "to argue that Thailand's population is ageing faster than expected"
+          ],
+          "answer": 1,
+          "explain": "¶6: “The results are likely to interest policymakers in Thailand, where roughly one in five people is now aged 60 or over.” ตัวเลขนี้ชี้ว่าผู้สูงอายุมีจำนวนมาก ผลวิจัยจึงมีความหมายต่อนโยบาย ตัวเลือก D ผิดเพราะบทความไม่ได้เปรียบเทียบกับการคาดการณ์ใด ๆ"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as an activity that already relies on older residents?",
+          "options": [
+            "visiting patients in hospitals",
+            "village health volunteer networks",
+            "activities based at temples",
+            "reading schemes in schools"
+          ],
+          "answer": 0,
+          "explain": "¶6: “Village health volunteer networks, temple-based activities and school reading schemes already rely heavily on older residents” มีเพียงสามกิจกรรมนี้ ไม่มีการเยี่ยมผู้ป่วยในโรงพยาบาล จึงตอบ A"
+        },
+        {
+          "type": "mc",
+          "skill": "organization",
+          "q": "How is the information in the passage organised?",
+          "options": [
+            "A problem is described, possible solutions are compared and one is recommended.",
+            "The methods of two competing studies are summarised and then contrasted.",
+            "A finding is reported, then explained, challenged and related to policy.",
+            "The history of volunteering is traced from its origins to the present."
+          ],
+          "answer": 2,
+          "explain": "บทความเริ่มจากผลการวิจัย (¶1–2) คำอธิบายของผู้วิจัย (¶3) ข้อโต้แย้งเรื่องเหตุและผลกับคำตอบของทีม (¶4–5) แล้วโยงสู่นโยบาย (¶6: “The results are likely to interest policymakers in Thailand”) จึงตอบ C ตัวเลือก B ผิดเพราะมีการศึกษาเพียงชิ้นเดียว นักระบาดวิทยาเป็นเพียงผู้ให้ความเห็น"
+        }
+      ]
+    },
+    {
+      "id": "T6P5",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "Medicine",
+      "title": "Precision Medicine and the Genomic Revolution",
+      "paragraphs": [
+        "For most of the twentieth century, medicine was built on averages. A drug was approved because it helped the typical patient in a clinical trial, and doses were adjusted, if at all, for body weight, age or kidney function. Precision medicine seeks to replace this one-size-fits-all model with treatment tailored to the biological characteristics of the individual, above all to his or her genome. The idea is not new, but it has become practical only recently. Sequencing the first human genome, completed in 2003, took more than a decade and cost billions of dollars; today a whole genome can be read in a day or two for well under US$1,000.",
+        "The clearest successes have come in cancer care. Because tumours arise from accumulated genetic changes, profiling a tumour's DNA can reveal which mutations are driving its growth and which drugs might block them. In lung cancer, for instance, mutations in a gene called EGFR occur in a substantially higher proportion of patients of East Asian ancestry than of European ancestry, particularly among people who have never smoked. Patients whose tumours carry these mutations often respond well to targeted tablets that inhibit the faulty protein, and for many of them such drugs have displaced conventional chemotherapy as the first-line treatment, offering fewer side effects and longer control of the disease.",
+        "Genomics can also make existing drugs safer. Carbamazepine, a widely prescribed anti-seizure medicine, occasionally triggers Stevens-Johnson syndrome, a rare but potentially fatal reaction in which the skin blisters and peels. The risk is strongly associated with an immune-system gene variant, HLA-B*15:02, which is relatively common in parts of Southeast and East Asia but rare in most European populations. Testing for the variant before prescribing allows doctors to choose an alternative drug for carriers, and such screening is now recommended in several Asian countries. The example illustrates a broader point: the value of a genetic test depends heavily on the population in which it is used.",
+        "Yet the falling price of sequencing has not made precision medicine cheap. The test is only the first step: interpreting its results requires specialist laboratories, bioinformatics expertise and genetic counsellors, all of which are scarce in many health systems. More significantly, many targeted cancer drugs cost tens of thousands of dollars per patient per year, placing them beyond the reach of most public budgets in low- and middle-income countries. Health economists therefore caution against equating a cheaper test with a cheaper pathway of care. One recent analysis from the region found that screening for a drug-reaction variant was cost-effective, because the test was inexpensive and the reaction it prevented was costly to treat; several high-priced cancer therapies, by contrast, offered real benefits measured in months rather than years.",
+        "A deeper problem concerns whose genomes the field has been built on. Analyses of published genetic studies have repeatedly found that the great majority of participants are of European ancestry, while people of African, South Asian and Southeast Asian descent remain severely under-represented. This imbalance has concrete consequences. When a patient from an under-studied population is tested, laboratories are more likely to report variants of uncertain significance, genetic changes whose effect on health cannot yet be determined, leaving doctors and families with ambiguity rather than answers. Scores that combine thousands of genetic markers to predict conditions such as heart disease are also markedly less accurate in non-European groups. Unless reference databases become more diverse, precision medicine may prove most precise for those who are already best served.",
+        "The data on which precision medicine depends also raise distinctive privacy concerns. Unlike a password, a genome cannot be changed once it has been exposed, and it reveals information not only about the individual but also about parents, siblings and children. Removing names from genetic datasets offers less protection than is often assumed: researchers have shown that supposedly anonymous genomes can sometimes be re-identified by cross-referencing them with public records, and investigators in the United States have traced suspects in long-unsolved crimes by matching crime-scene DNA with profiles that distant relatives had uploaded to genealogy websites. Legal safeguards remain patchy. A 2008 federal law in the United States, for example, bars genetic discrimination in health insurance and employment but does not extend to life insurance.",
+        "Several approaches have been proposed to reconcile research with privacy. Under dynamic consent, participants use an online platform to decide, and later revise, which studies may use their data, rather than signing a single broad form at enrolment. Federated analysis allows researchers to send their queries to datasets held securely within each hospital or country, so that only summary results, never individual genomes, leave the institution. A number of Asian countries, Thailand among them, have also launched national programmes to sequence tens of thousands of their own citizens, partly to correct the ancestral imbalance described above and partly to keep the resulting data under domestic governance.",
+        "None of this means that precision medicine is overrated. For a patient whose tumour responds to a targeted drug, or who is spared a life-threatening reaction, its benefits are anything but abstract. It does suggest, however, that the future of the field will be decided less in the laboratory than in the policy arena. Whether genomic medicine narrows or widens existing health inequalities will depend on choices about pricing, data governance and investment in diverse research, choices that are ultimately political rather than technical."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Sequencing is now so cheap that precision medicine has become affordable for most health systems.",
+            "Genetic testing is useful mainly for preventing dangerous reactions to commonly used medicines.",
+            "Precision medicine offers real benefits, but cost, fairness and privacy will shape who gains.",
+            "Genomic research should be paused until laws fully protect the privacy of genetic information."
+          ],
+          "answer": 2,
+          "explain": "ผู้เขียนยอมรับประโยชน์ใน ¶2–3 แล้วอภิปรายเรื่องต้นทุน ความเท่าเทียม และความเป็นส่วนตัว ก่อนสรุปใน ¶8 ว่าอนาคตขึ้นกับ “choices about pricing, data governance and investment in diverse research” จึงตอบ C ตัวเลือก A ขัดกับ ¶4 ที่ว่าราคาการถอดรหัสที่ลดลง “has not made precision medicine cheap” ส่วน B แคบเกินไปเพราะเป็นเพียงเนื้อหาของ ¶3"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'practical' in paragraph 1 is closest in meaning to",
+          "options": [
+            "useful",
+            "feasible",
+            "sensible",
+            "fashionable"
+          ],
+          "answer": 1,
+          "explain": "¶1: “The idea is not new, but it has become practical only recently.” ประโยคถัดไปอธิบายว่าการถอดรหัสจีโนมเคยใช้เวลานับสิบปีและเงินมหาศาล แต่ปัจจุบันทำได้เร็วและถูก practical จึงหมายถึง ทำได้จริง (feasible) ตัวเลือก A (useful) เป็นกับดักเพราะแนวคิดนี้มีประโยชน์มาตั้งแต่ต้น สิ่งที่เปลี่ยนคือความเป็นไปได้ในการนำมาใช้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, what has happened in the treatment of many lung cancer patients whose tumours carry certain mutations?",
+          "options": [
+            "Targeted drugs are now given only after chemotherapy has failed.",
+            "Chemotherapy and targeted tablets are always given together.",
+            "Surgery has largely replaced drug treatment for these patients.",
+            "Targeted tablets have become the first treatment they receive."
+          ],
+          "answer": 3,
+          "explain": "¶2: “such drugs have displaced conventional chemotherapy as the first-line treatment” first-line treatment คือการรักษาลำดับแรก ยามุ่งเป้าจึงถูกใช้ก่อนแทนเคมีบำบัด ตัวเลือก A กลับลำดับ เพราะยาไม่ได้ถูกเก็บไว้ใช้หลังเคมีบำบัดล้มเหลว"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 3 that screening for HLA-B*15:02 before prescribing carbamazepine would be of least value",
+          "options": [
+            "in populations where the variant is seldom found",
+            "in countries across Southeast and East Asia",
+            "for patients who are about to start the drug",
+            "in regions where the skin reaction is most common"
+          ],
+          "answer": 0,
+          "explain": "¶3 ระบุว่ายีนนี้ “rare in most European populations” และ “the value of a genetic test depends heavily on the population in which it is used” หากแทบไม่มีใครมียีนนี้ การตรวจจะพบผู้เสี่ยงน้อยมากจึงคุ้มค่าน้อยที่สุด ตัวเลือก B ตรงข้าม เพราะยีนพบบ่อยในภูมิภาคนี้ การตรวจจึงมีประโยชน์มาก"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned in paragraph 4 as adding to the cost of precision medicine?",
+          "options": [
+            "the need for specialist laboratories",
+            "the high price of many targeted drugs",
+            "fees for licensing patented genes",
+            "the expertise needed to interpret results"
+          ],
+          "answer": 2,
+          "explain": "¶4 ระบุว่าการแปลผลต้องอาศัย “specialist laboratories, bioinformatics expertise and genetic counsellors” และยามะเร็งมุ่งเป้า “cost tens of thousands of dollars per patient per year” แต่ไม่มีการกล่าวถึงค่าลิขสิทธิ์ยีนเลย จึงตอบ C"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "Which conclusion about cost-effectiveness is best supported by paragraph 4?",
+          "options": [
+            "A genetic test is worthwhile only in wealthy health systems.",
+            "Cancer therapies become cost-effective once sequencing is cheap.",
+            "Genetic tests should be offered to all patients regardless of ancestry.",
+            "A test pays off when it is cheap and averts a costly condition."
+          ],
+          "answer": 3,
+          "explain": "¶4: “screening for a drug-reaction variant was cost-effective, because the test was inexpensive and the reaction it prevented was costly to treat” จึงสรุปเป็นหลักทั่วไปได้ว่าการตรวจคุ้มค่าเมื่อราคาถูกและป้องกันภาวะที่รักษาแพง ตัวเลือก B ขัดกับคำเตือน “caution against equating a cheaper test with a cheaper pathway of care”"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'This imbalance' in paragraph 5 refer to?",
+          "options": [
+            "the gap in genetic test prices between rich and poor countries",
+            "the over-representation of European ancestry in research",
+            "the difference in disease rates between ethnic groups",
+            "the uneven number of genetic laboratories across regions"
+          ],
+          "answer": 1,
+          "explain": "¶5 ประโยคก่อนหน้า: “the great majority of participants are of European ancestry, while people of African, South Asian and Southeast Asian descent remain severely under-represented” ความไม่สมดุลนี้คือการที่งานวิจัยพันธุกรรมมีผู้เข้าร่วมเชื้อสายยุโรปเป็นส่วนใหญ่ ตัวเลือก A ฟังดูเกี่ยวกับความเหลื่อมล้ำ แต่เป็นประเด็นเรื่องราคาจาก ¶4 ไม่ใช่สิ่งที่ this อ้างถึง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'markedly' in paragraph 5 is closest in meaning to",
+          "options": [
+            "noticeably",
+            "slightly",
+            "officially",
+            "consistently"
+          ],
+          "answer": 0,
+          "explain": "¶5: “are also markedly less accurate in non-European groups” markedly แปลว่า อย่างเห็นได้ชัด ตรงกับ noticeably ตัวเลือก B (slightly) มีความหมายตรงข้าม และขัดกับน้ำเสียงของย่อหน้าที่เตือนว่าความไม่สมดุลของข้อมูลมีผลจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author mention criminal investigations in paragraph 6?",
+          "options": [
+            "to argue that police should have wider access to genetic data",
+            "to suggest that genealogy websites are a reliable research source",
+            "to illustrate how quickly forensic DNA technology has advanced",
+            "to show that relatives' DNA can reveal who a person is"
+          ],
+          "answer": 3,
+          "explain": "¶6 ยกตัวอย่างการตามหาผู้ต้องสงสัยโดยเทียบ DNA จากที่เกิดเหตุกับ “profiles that distant relatives had uploaded” เพื่อสนับสนุนว่าการลบชื่อออกปกป้องได้น้อยกว่าที่คิด เพราะ DNA ของญาติชี้ตัวบุคคลได้ ตัวเลือก A ผิดเพราะผู้เขียนไม่ได้เรียกร้องให้ตำรวจเข้าถึงข้อมูลมากขึ้น แต่ใช้เป็นตัวอย่างของความเสี่ยงด้านความเป็นส่วนตัว"
+        },
+        {
+          "type": "mc",
+          "skill": "organization",
+          "q": "How is the passage mainly organised?",
+          "options": [
+            "The history of genetics is traced in order from its origins to today.",
+            "Benefits are outlined first, then the problems the field must address.",
+            "Two opposing views are presented and the author rejects both of them.",
+            "One patient's experience is used to illustrate each of the main issues."
+          ],
+          "answer": 1,
+          "explain": "¶2–3 เสนอความสำเร็จด้านมะเร็งและความปลอดภัยของยา จากนั้น ¶4–7 กล่าวถึงต้นทุน ความเท่าเทียม และความเป็นส่วนตัว (¶4 เริ่มด้วย “Yet the falling price of sequencing has not made precision medicine cheap.”) ก่อนสรุปใน ¶8 จึงตอบ B ตัวเลือก A ผิดเพราะการย้อนประวัติมีเพียงสั้น ๆ ใน ¶1"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following is an opinion rather than a fact?",
+          "options": [
+            "The field's future depends more on policy than on laboratory work.",
+            "Sequencing the first human genome took more than a decade.",
+            "Carbamazepine is a medicine widely used to control seizures.",
+            "Tumours develop as a result of changes that build up in their DNA."
+          ],
+          "answer": 0,
+          "explain": "A ถอดความจาก ¶8: “the future of the field will be decided less in the laboratory than in the policy arena” ซึ่งเป็นการคาดการณ์และวิจารณญาณของผู้เขียน ส่วน B (¶1) C (¶3) และ D (¶2) เป็นข้อเท็จจริงทางการแพทย์ที่ตรวจสอบได้"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward precision medicine can best be described as",
+          "options": [
+            "openly hostile",
+            "uncritically enthusiastic",
+            "appreciative yet critical",
+            "largely indifferent"
+          ],
+          "answer": 2,
+          "explain": "¶8: “None of this means that precision medicine is overrated.” แสดงว่าผู้เขียนเห็นคุณค่า แต่ตลอดบทความก็ชี้ปัญหาเรื่องราคา ความเท่าเทียม และความเป็นส่วนตัว จึงเป็นท่าทีชื่นชมแต่มีข้อวิจารณ์ ตัวเลือก B ผิดเพราะผู้เขียนไม่ได้มองข้ามข้อจำกัดเหล่านี้"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What rare but potentially fatal reaction, in which the skin blisters and peels, can carbamazepine occasionally trigger? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "Stevens-Johnson syndrome",
+            "stevens johnson syndrome",
+            "stevens–johnson syndrome",
+            "stevens-johnson"
+          ],
+          "explain": "¶3: “occasionally triggers Stevens-Johnson syndrome, a rare but potentially fatal reaction in which the skin blisters and peels” คำตอบคือชื่อกลุ่มอาการนี้ ซึ่งสัมพันธ์กับยีน HLA-B*15:02"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Genetic changes whose effect on health cannot yet be determined are reported as 'variants of ...'. Complete the term. (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "uncertain significance"
+          ],
+          "explain": "¶5: “laboratories are more likely to report variants of uncertain significance, genetic changes whose effect on health cannot yet be determined” ผลแบบนี้ทำให้แพทย์และครอบครัวได้ความคลุมเครือแทนคำตอบ"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Which type of insurance is NOT covered by the 2008 US law on genetic discrimination? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "life insurance"
+          ],
+          "explain": "¶6: “bars genetic discrimination in health insurance and employment but does not extend to life insurance” กฎหมายคุ้มครองเฉพาะประกันสุขภาพและการจ้างงาน จึงตอบ life insurance ไม่ใช่ health insurance"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Under which approach do participants use an online platform to decide, and later change, which studies may use their data? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "dynamic consent"
+          ],
+          "explain": "¶7: “Under dynamic consent, participants use an online platform to decide, and later revise, which studies may use their data” ต่างจากการเซ็นยินยอมครั้งเดียวแบบกว้าง ๆ ตอนเริ่มเข้าร่วม"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Which approach ensures that only summary results, and never individual genomes, leave the hospital or country holding the data? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "federated analysis"
+          ],
+          "explain": "¶7: “Federated analysis allows researchers to send their queries to datasets held securely within each hospital or country” นักวิจัยส่งคำถามไปหาข้อมูลแทนการดึงข้อมูลรายบุคคลออกมา"
+        }
+      ]
+    },
+    {
+      "id": "T6P6",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "Public Health",
+      "title": "Viral Falsehoods: Health Misinformation on Social Media",
+      "paragraphs": [
+        "During the COVID-19 pandemic, the word 'infodemic' entered everyday use to describe an overabundance of information, some accurate and much of it not, spreading alongside the virus itself. The phenomenon was hardly new, since rumours about vaccines and miracle cures long predate the internet, but social media have transformed its scale and speed. A claim that once travelled by word of mouth within a single village can now reach millions of people within hours, often stripped of any indication of where it came from. Understanding why this happens is a precondition for responding to it effectively.",
+        "Part of the explanation lies in human psychology. People are more inclined to share content that is novel, emotionally arousing or consistent with what they already believe, and health misinformation frequently has all three qualities. A widely cited analysis of millions of posts on one large platform found that false stories travelled further and faster than accurate ones, and that this was driven mainly by ordinary users rather than by automated accounts. Repetition compounds the problem. Through what psychologists call the illusory truth effect, statements that people have encountered several times come to feel more credible, even when they were initially recognised as doubtful. A rumour repeated in a family chat group may thus acquire an authority it has done nothing to earn.",
+        "Platform design amplifies these tendencies. The ranking algorithms that determine what appears in users' feeds are generally optimised for engagement, measured in clicks, comments, shares and viewing time, rather than for accuracy. Content that provokes fear or outrage tends to attract engagement, so it is shown to wider audiences, which in turn generates further engagement. Recommendation systems may also steer users who show interest in one questionable claim toward increasingly extreme material. Meanwhile, much health misinformation in Thailand and elsewhere in Southeast Asia now circulates through closed messaging groups, where messages are forwarded among relatives and friends and cannot easily be monitored by researchers or fact-checkers.",
+        "The consequences are not confined to the online world. Exposure to vaccine misinformation has been associated with lower intention to vaccinate, and outbreaks of measles in several countries have been concentrated in communities where false claims about vaccine safety had circulated widely. During the pandemic, rumours that drinking high-strength alcohol could destroy the virus were followed in one country by hundreds of deaths from methanol poisoning. Less dramatic but more pervasive are the indirect effects: patients who delay effective treatment in favour of unproven remedies, and a gradual erosion of trust in health professionals that may outlast any single false claim.",
+        "The traditional response has been to correct falsehoods after publication. Fact-checking does help: studies generally find that corrections reduce belief in false claims, and fears that corrections routinely 'backfire' by strengthening the original belief have largely not been borne out. Yet corrections have clear limits. They rarely reach as many people as the original claim and usually arrive after the damage has begun. Moreover, even people who accept a correction often continue to rely on the discredited information when reasoning about a topic, a pattern known as the continued influence effect.",
+        "These limitations have prompted growing interest in prebunking, an approach grounded in inoculation theory, which social psychologists developed in the 1960s. Just as a vaccine exposes the immune system to a weakened form of a pathogen, prebunking exposes people to a weakened dose of misleading argument, together with an explanation of why it misleads, before they encounter the real thing. Rather than addressing individual claims, prebunking often targets techniques common to many of them, such as emotionally manipulative language, false dichotomies and the use of fake experts. In one large field experiment, short animated videos explaining such techniques were shown as advertisements on a video-sharing platform, and viewers subsequently became better at recognising manipulation in test headlines. The effects fade over time, however, which suggests that periodic 'booster' messages may be needed.",
+        "Individual resilience, however, cannot carry the whole burden. Because platforms profit from the engagement that misinformation generates, many researchers argue that they bear particular responsibility for limiting its spread. Options range from removing content and labelling disputed posts to reducing the visibility of repeat offenders and adding friction, such as prompts asking users whether they have read an article before sharing it. Regulators have begun to act: legislation adopted in the European Union in 2022 requires the largest platforms to assess and mitigate systemic risks, including risks to public health. Such measures raise difficult questions, though. Scientific understanding evolves, as shifting advice on face masks early in the pandemic demonstrated, and decisions about what counts as misinformation can be contested or even misused to silence legitimate debate.",
+        "No single measure is likely to be sufficient. The evidence points instead toward a layered strategy in which prebunking strengthens individuals, platform design reduces the rewards for spreading falsehoods, and health authorities communicate openly, including about what remains uncertain. Perhaps the most underused resource is the trust that patients already place in their own doctors, nurses and village health volunteers. If these people are equipped to address misinformation during routine consultations, they may achieve what no algorithm can: persuasion grounded in a personal relationship."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Social media companies alone are to blame for health misinformation and must be strictly regulated.",
+            "Prebunking has proved so effective that platforms no longer need to remove false health content.",
+            "Health misinformation is a new problem that first appeared with social media during the pandemic.",
+            "Misinformation spreads for human and technical reasons, does real harm and needs several responses."
+          ],
+          "answer": 3,
+          "explain": "บทความอธิบายสาเหตุด้านจิตวิทยา (¶2) และการออกแบบแพลตฟอร์ม (¶3) ผลกระทบ (¶4) และวิธีรับมือหลายแบบ ก่อนสรุปใน ¶8 ว่า “No single measure is likely to be sufficient.” จึงตอบ D ตัวเลือก C ขัดกับ ¶1 ที่ว่าปรากฏการณ์นี้ “was hardly new” และ A ผิดเพราะผู้เขียนให้น้ำหนักกับจิตวิทยาของผู้ใช้ด้วย ไม่ได้โทษบริษัทฝ่ายเดียว"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'stripped' in paragraph 1 is closest in meaning to",
+          "options": [
+            "deprived",
+            "decorated",
+            "accused",
+            "copied"
+          ],
+          "answer": 0,
+          "explain": "¶1: “often stripped of any indication of where it came from” stripped of แปลว่า ถูกลอกหรือตัดบางสิ่งออกไป ตรงกับ deprived (of) คือข้อความที่ถูกส่งต่อมักไม่มีร่องรอยแหล่งที่มาเหลืออยู่ ตัวเลือก D (copied) ดูเข้ากับเรื่องการส่งต่อข้อความ แต่ไม่ได้หมายถึงการสูญเสียข้อมูลแหล่งที่มา"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the analysis mentioned in paragraph 2, the faster spread of false stories was driven mainly by",
+          "options": [
+            "the activity of automated accounts",
+            "paid promotion by advertisers",
+            "sharing by ordinary users",
+            "coverage in the mainstream media"
+          ],
+          "answer": 2,
+          "explain": "¶2: “this was driven mainly by ordinary users rather than by automated accounts” จึงตอบ C ตัวเลือก A เป็นกับดักเพราะ automated accounts ปรากฏในประโยคเดียวกัน แต่ถูกกล่าวถึงในฐานะสิ่งที่ไม่ใช่สาเหตุหลัก"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 3 that ranking algorithms",
+          "options": [
+            "are deliberately designed to promote false health claims",
+            "can spread misleading content without being intended to",
+            "work best when users share calm, unemotional posts",
+            "give priority to posts that have been checked for accuracy"
+          ],
+          "answer": 1,
+          "explain": "¶3: อัลกอริทึม “are generally optimised for engagement ... rather than for accuracy” และเนื้อหาที่ทำให้กลัวหรือโกรธได้ engagement สูงจึงถูกส่งต่อให้คนเห็นมากขึ้น แสดงว่าข้อมูลผิดถูกขยายผลได้แม้ระบบไม่ได้ตั้งใจออกแบบมาเพื่อสิ่งนั้น ตัวเลือก A กล่าวเกินไป เพราะบทความไม่ได้บอกว่ามีเจตนาส่งเสริมข้อมูลเท็จ"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'pervasive' in paragraph 4 is closest in meaning to",
+          "options": [
+            "persuasive",
+            "temporary",
+            "obvious",
+            "widespread"
+          ],
+          "answer": 3,
+          "explain": "¶4: “Less dramatic but more pervasive are the indirect effects” pervasive แปลว่า แพร่หลาย แทรกซึมไปทั่ว ตรงกับ widespread ผลทางอ้อมไม่หวือหวาแต่เกิดในวงกว้าง ตัวเลือก A (persuasive) เป็นกับดักเพราะสะกดคล้ายกัน แต่แปลว่า โน้มน้าวใจได้"
+        },
+        {
+          "type": "mc",
+          "skill": "topic",
+          "q": "What is paragraph 4 mainly about?",
+          "options": [
+            "the offline harm done by misinformation",
+            "the history of public opposition to vaccination",
+            "how measles outbreaks spread within communities",
+            "ways of restoring trust in health professionals"
+          ],
+          "answer": 0,
+          "explain": "¶4 เปิดด้วย “The consequences are not confined to the online world.” แล้วยกตัวอย่างผลเสียจริง ทั้งความลังเลที่จะฉีดวัคซีน การระบาดของหัด การเสียชีวิตจากเมทานอล และความไว้วางใจที่ลดลง จึงตอบ A ตัวเลือก C แคบเกินไปเพราะหัดเป็นเพียงตัวอย่างหนึ่ง ส่วน D ผิดเพราะย่อหน้าพูดถึงการสูญเสียความไว้วางใจ ไม่ใช่วิธีฟื้นฟู"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'They' in paragraph 5 refer to?",
+          "options": [
+            "false claims",
+            "corrections",
+            "fact-checkers",
+            "original beliefs"
+          ],
+          "answer": 1,
+          "explain": "¶5: “Yet corrections have clear limits. They rarely reach as many people as the original claim” They ต่อจากประโยคที่มี corrections เป็นประธาน หมายถึงการแก้ข่าวที่เข้าถึงคนได้น้อยกว่าข่าวลือต้นฉบับ ตัวเลือก A ผิดเพราะข่าวเท็จคือสิ่งที่ถูกนำมาเปรียบเทียบ (the original claim) ไม่ใช่สิ่งที่ They อ้างถึง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 5 that the author regards fact-checking as",
+          "options": [
+            "counterproductive, since it usually strengthens false beliefs",
+            "the most effective response available to health authorities",
+            "worthwhile but insufficient as the only response",
+            "unnecessary in countries that already use prebunking"
+          ],
+          "answer": 2,
+          "explain": "¶5 ผู้เขียนยอมรับว่า “Fact-checking does help” แต่ก็ชี้ว่า “corrections have clear limits” จึงมองว่ามีประโยชน์แต่ไม่พอหากใช้วิธีเดียว ตัวเลือก A ขัดกับข้อความที่ว่าความกลัวเรื่อง backfire “have largely not been borne out”"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a technique that prebunking often targets?",
+          "options": [
+            "emotionally manipulative language",
+            "false dichotomies",
+            "the use of fake experts",
+            "misleading statistics"
+          ],
+          "answer": 3,
+          "explain": "¶6: “such as emotionally manipulative language, false dichotomies and the use of fake experts” มีเพียงสามเทคนิคนี้ ไม่มีการพูดถึงการใช้สถิติชี้นำผิด จึงตอบ D"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author refer to advice on face masks early in the pandemic?",
+          "options": [
+            "to show that what counts as accurate health advice can change",
+            "to criticise health authorities for giving inconsistent advice",
+            "to give an example of content that platforms removed in error",
+            "to argue that masks did little to slow the spread of the virus"
+          ],
+          "answer": 0,
+          "explain": "¶7: “Scientific understanding evolves, as shifting advice on face masks early in the pandemic demonstrated” ตัวอย่างนี้แสดงว่าความรู้ทางวิทยาศาสตร์เปลี่ยนได้ การตัดสินว่าอะไรคือข้อมูลเท็จจึงทำได้ยาก ตัวเลือก B ผิดเพราะผู้เขียนไม่ได้ตำหนิหน่วยงานสาธารณสุข แต่ใช้เป็นตัวอย่างของความรู้ที่พัฒนาไปตามเวลา"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following is an opinion rather than a fact?",
+          "options": [
+            "Rumours about miracle cures were circulating long before the internet existed.",
+            "Exposure to vaccine misinformation has been linked to lower intention to vaccinate.",
+            "Patients' trust in their own health workers is perhaps the most underused resource.",
+            "A European Union law adopted in 2022 places new duties on the largest platforms."
+          ],
+          "answer": 2,
+          "explain": "C มาจาก ¶8: “Perhaps the most underused resource is the trust that patients already place in their own doctors, nurses and village health volunteers.” คำว่า Perhaps และการตัดสินว่าเป็นทรัพยากรที่ถูกใช้น้อยที่สุดเป็นความเห็นของผู้เขียน ส่วน A (¶1) B (¶4) และ D (¶7) เป็นข้อเท็จจริงที่ตรวจสอบได้"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward measures requiring platforms to limit misinformation is best described as",
+          "options": [
+            "firmly opposed",
+            "supportive but wary",
+            "wholly enthusiastic",
+            "largely indifferent"
+          ],
+          "answer": 1,
+          "explain": "ผู้เขียนเห็นด้วยว่า ¶7: “Individual resilience, however, cannot carry the whole burden.” และแพลตฟอร์มควรรับผิดชอบ แต่ก็เตือนว่า “Such measures raise difficult questions, though.” จึงเป็นการสนับสนุนอย่างระวัง ตัวเลือก C ผิดเพราะมองข้ามความกังวลเรื่องการปิดกั้นการถกเถียงที่ชอบธรรม"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What word came into everyday use during the COVID-19 pandemic to describe an overabundance of information, much of it inaccurate? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "infodemic",
+            "an infodemic"
+          ],
+          "explain": "¶1: “the word 'infodemic' entered everyday use to describe an overabundance of information” คำนี้รวม information กับ epidemic เข้าด้วยกัน"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What do psychologists call the process by which statements that people have encountered several times come to feel more credible? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "illusory truth effect",
+            "the illusory truth effect"
+          ],
+          "explain": "¶2: “Through what psychologists call the illusory truth effect, statements that people have encountered several times come to feel more credible” การได้ยินซ้ำทำให้ข้อความดูน่าเชื่อขึ้นแม้ไม่มีหลักฐาน"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Through what channels does much health misinformation in Thailand and Southeast Asia now circulate, out of sight of researchers and fact-checkers? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "closed messaging groups",
+            "closed messaging group",
+            "messaging groups"
+          ],
+          "explain": "¶3: “much health misinformation in Thailand and elsewhere in Southeast Asia now circulates through closed messaging groups” ข้อความถูกส่งต่อในหมู่ญาติและเพื่อน จึงตรวจสอบจากภายนอกได้ยาก"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "On which theory, developed by social psychologists in the 1960s, is prebunking based? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+          "answers": [
+            "inoculation theory"
+          ],
+          "explain": "¶6: “prebunking, an approach grounded in inoculation theory, which social psychologists developed in the 1960s” แนวคิดคล้ายวัคซีน คือให้เจอข้อโต้แย้งที่ชี้นำผิดแบบอ่อน ๆ ก่อนเจอของจริง"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What does the author call measures such as prompts that ask users whether they have read an article before sharing it? (Answer in ONE WORD from the passage.)",
+          "answers": [
+            "friction"
+          ],
+          "explain": "¶7: “adding friction, such as prompts asking users whether they have read an article before sharing it” friction คือการเพิ่มขั้นตอนเล็ก ๆ ให้ผู้ใช้หยุดคิดก่อนแชร์"
+        }
+      ]
+    }
+  ]
+}

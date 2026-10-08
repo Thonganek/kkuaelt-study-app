@@ -1,0 +1,5 @@
+[
+ {"qid": "W02.2", "issue": "Cross-question cue: the stem of W02.4 ('According to paragraph 3, what did the nurses in the microlearning group do?') tells test-takers that the two-group comparison is in paragraph 3, which gives away W02.2's answer (Paragraph 3)."},
+ {"qid": "W02.5", "issue": "Minor cross-question cue: W02.7's stem cites paragraph 4 and its option A mentions 'diagnose unusual illnesses' (the paragraph 4 example), which hints that paragraph 4 is where the hard-to-develop abilities are listed."},
+ {"qid": "W10.6", "issue": "Minor cross-question cue: W10.7's stem ('According to paragraph 5, what do deposit-return schemes do?') and its option D ('make companies pay to collect packaging') signal that the packaging-cost policies are in paragraph 5, the answer to W10.6."}
+]

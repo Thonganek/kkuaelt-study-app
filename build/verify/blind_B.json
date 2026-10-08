@@ -1,0 +1,1582 @@
+{
+ "passages": [
+  {
+   "id": "T3P1",
+   "title": "Province Targets Holiday Drownings as Schools Close for Summer",
+   "paragraphs": [
+    "Hundreds of children in a province in north-eastern Thailand are spending the school holiday in the water, thanks to a free programme aimed at cutting one of the most common causes of death among the young.",
+    "The programme, run by the provincial health office and local schools, offers ten one-hour lessons to children aged six to twelve. Rather than teaching competitive strokes, instructors focus on “survival swimming”: floating on the back, moving a short distance to safety and staying calm.",
+    "Children also learn a simple rule for helping others: “shout, throw, don't go.” Instead of jumping in to save a friend, which often results in two deaths rather than one, they call an adult and throw something that floats, such as an empty bottle.",
+    "According to the provincial health office, 41 children in the province drowned in 2022. Most died not in swimming pools but in ponds, canals and reservoirs near their homes, and nearly half died during the March-to-May holidays, when many children are left without adult supervision.",
+    "Ms. Wanida Srisuk, a teacher and one of the organisers, said many parents in farming villages cannot swim. “They are afraid of the water, so they keep their children away from it, but that does not make the children safer,” she said.",
+    "Organisers hope to train 3,000 children by the end of next year, but admit that lessons alone are not enough. They are urging village leaders to put up fences and warning signs around the most dangerous ponds."
+   ],
+   "questions": [
+    {
+     "qid": "T3P1.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most children who drown in the province lose their lives in public swimming pools.",
+      "Free lessons are teaching children skills that could save them in the water.",
+      "Parents in farming villages are being trained to rescue children from ponds.",
+      "Village leaders have built fences around the province's most dangerous ponds."
+     ]
+    },
+    {
+     "qid": "T3P1.2",
+     "type": "mc",
+     "q": "According to paragraph 2, what do the instructors mainly focus on?",
+     "options": [
+      "skills for surviving in the water",
+      "strokes used in swimming competitions",
+      "methods for rescuing other swimmers",
+      "ways of swimming long distances fast"
+     ]
+    },
+    {
+     "qid": "T3P1.3",
+     "type": "mc",
+     "q": "The word 'supervision' in paragraph 4 is closest in meaning to",
+     "options": [
+      "instruction",
+      "permission",
+      "transport",
+      "monitoring"
+     ]
+    },
+    {
+     "qid": "T3P1.4",
+     "type": "mc",
+     "q": "What does 'they' in paragraph 3 refer to?",
+     "options": [
+      "the instructors",
+      "the parents",
+      "the children",
+      "the organisers"
+     ]
+    },
+    {
+     "qid": "T3P1.5",
+     "type": "mc",
+     "q": "According to paragraph 4, where did most of the children who drowned in 2022 die?",
+     "options": [
+      "in open water close to where they lived",
+      "in public swimming pools during the holidays",
+      "in the sea while on family trips",
+      "in school pools during swimming lessons"
+     ]
+    },
+    {
+     "qid": "T3P1.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as something the children learn?",
+     "options": [
+      "how to float on their backs",
+      "how to move a short distance to safety",
+      "how to help a friend without jumping in",
+      "how to give first aid after a rescue"
+     ]
+    },
+    {
+     "qid": "T3P1.7",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that many children in farming villages",
+     "options": [
+      "are not allowed to join the free lessons",
+      "are unlikely to learn swimming at home",
+      "already swim better than their parents",
+      "live a long way from ponds and canals"
+     ]
+    },
+    {
+     "qid": "T3P1.8",
+     "type": "mc",
+     "q": "Why does the author mention fences and warning signs in paragraph 6?",
+     "options": [
+      "to explain how the programme is funded",
+      "to criticise village leaders for ignoring the danger",
+      "to show that lessons alone cannot solve the problem",
+      "to describe a rule that the children are taught"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T3P2",
+   "title": "Northern City Reviews Six-Month Trial at Busy Junctions",
+   "paragraphs": [
+    "Traffic lights controlled by artificial intelligence have shortened waiting times at some of the busiest junctions in a city in northern Thailand, according to a review of a six-month pilot scheme released this week.",
+    "Under the scheme, cameras mounted above twelve intersections count the cars, motorcycles and pedestrians approaching from each direction. Software then adjusts the length of each green light every few seconds. Previously, the lights followed fixed timings that had been set years earlier and were rarely updated.",
+    "According to the city's transport department, the average time vehicles spent waiting at the twelve junctions fell by 23 percent during the morning rush hour. Emergency services have also benefited: when an ambulance approaches, the system can detect it and switch the lights ahead to green.",
+    "“In the past, police officers often had to stand in the middle of the road and direct traffic by hand,” said Mr. Kittipong Saenkham, an engineer on the project. “Now the lights respond to what is actually happening on the street.”",
+    "Not everyone is convinced. Some residents have asked what happens to the video recorded by the cameras and who is allowed to see it. City officials insist that the software keeps only the number of vehicles and that all footage is deleted automatically within 24 hours. Privacy campaigners argue that such promises should be written into law.",
+    "Others doubt that the improvements will last. Transport researchers warn that when traffic moves more smoothly, more people may choose to drive, which could eventually bring congestion back to its previous level.",
+    "The city will decide early next year whether to extend the system to a further 40 junctions at an estimated cost of 60 million baht."
+   ],
+   "questions": [
+    {
+     "qid": "T3P2.1",
+     "type": "mc",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "AI Traffic Lights Put an End to the City's Rush-Hour Jams",
+      "Privacy Fears Force City to Switch Off Traffic Cameras",
+      "AI Signals Cut Waiting Times, but Doubts Remain",
+      "Why Police Officers Still Direct the City's Traffic"
+     ]
+    },
+    {
+     "qid": "T3P2.2",
+     "type": "mc",
+     "q": "According to paragraph 2, how did the traffic lights work before the pilot scheme?",
+     "options": [
+      "They were controlled by police officers at all times.",
+      "They followed timings that were seldom changed.",
+      "They changed their timings every few seconds.",
+      "They counted vehicles approaching from each direction."
+     ]
+    },
+    {
+     "qid": "T3P2.3",
+     "type": "mc",
+     "q": "The word 'mounted' in paragraph 2 is closest in meaning to",
+     "options": [
+      "increased",
+      "hidden",
+      "repaired",
+      "fixed"
+     ]
+    },
+    {
+     "qid": "T3P2.4",
+     "type": "mc",
+     "q": "According to paragraph 3, the figure of 23 percent refers to a fall in",
+     "options": [
+      "morning waiting times at the twelve junctions",
+      "the number of accidents at the twelve junctions",
+      "the time ambulances need to reach a hospital",
+      "the number of cars on the city's roads"
+     ]
+    },
+    {
+     "qid": "T3P2.5",
+     "type": "mc",
+     "q": "What does 'it' in paragraph 3 refer to?",
+     "options": [
+      "the system",
+      "the morning rush hour",
+      "an ambulance",
+      "the transport department"
+     ]
+    },
+    {
+     "qid": "T3P2.6",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that the researchers believe",
+     "options": [
+      "the system will cost more than the city expects",
+      "drivers will avoid the twelve junctions in future",
+      "the cameras cannot count vehicles accurately",
+      "the benefits of the system may be temporary"
+     ]
+    },
+    {
+     "qid": "T3P2.7",
+     "type": "mc",
+     "q": "Which of the following is an opinion rather than a fact?",
+     "options": [
+      "Rules on deleting video ought to be written into law.",
+      "Cameras have been placed above twelve intersections.",
+      "Waiting times fell by 23 percent in the morning rush hour.",
+      "The city will decide next year whether to extend the system."
+     ]
+    },
+    {
+     "qid": "T3P2.8",
+     "type": "mc",
+     "q": "The tone of the passage can best be described as",
+     "options": [
+      "enthusiastic",
+      "objective",
+      "critical",
+      "humorous"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T3P3",
+   "title": "Who Will Teach the Village Children?",
+   "paragraphs": [
+    "At a small primary school in the hills of northern Thailand, Mr. Somchai Phonsawat teaches mathematics, science and physical education, and on Friday afternoons he also runs the school library. With six grades but only four teachers, the school expects everyone to cover several subjects. His situation is common: across rural Thailand, as in many countries, small schools struggle to attract and keep teachers.",
+    "The causes are well known. Young graduates tend to prefer towns, where housing is better and further study is easier to arrange. Those who do accept rural posts often apply for a transfer as soon as they are allowed to.",
+    "The effects fall hardest on pupils. When a teacher leaves mid-year, classes may be combined or taught by unqualified temporary staff. A 2022 survey of 300 rural schools in the north-east found that nearly one in three had at least one class without a permanent teacher for more than a term. Such disruption has been linked to lower reading scores.",
+    "Governments have tried several incentives. Some offer extra allowances for remote postings; others provide free housing or repay the student loans of teachers who stay five years or more. A newer approach is to recruit young people from rural communities, train them and send them back to their home districts, on the assumption that teachers with local roots are more likely to stay.",
+    "Early results are encouraging. In one programme, about 80 percent of locally recruited teachers were still in their first school after five years, compared with around half of those hired through the usual system. Yet money alone rarely solves the problem. Teachers interviewed for this article said that what they valued most was support: a head teacher who listened, colleagues to share ideas with and the chance to keep learning.",
+    "For Mr. Somchai, who grew up two villages away, leaving has never been an option. “If I go, who will teach these children?” he asks."
+   ],
+   "questions": [
+    {
+     "qid": "T3P3.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Rural pupils' reading scores are lower than those of children in towns.",
+      "Paying teachers more money is the most effective way to keep them in rural schools.",
+      "Rural schools struggle to keep teachers, and incentives have only partly helped.",
+      "Teachers who grew up in villages are unwilling to work in city schools."
+     ]
+    },
+    {
+     "qid": "T3P3.2",
+     "type": "mc",
+     "q": "According to paragraph 1, why does each teacher at Mr. Somchai's school teach several subjects?",
+     "options": [
+      "The school has more grades than teachers.",
+      "The teachers were trained in several subjects.",
+      "Pupils learn better from the same teacher.",
+      "The head teacher wants to reduce costs."
+     ]
+    },
+    {
+     "qid": "T3P3.3",
+     "type": "mc",
+     "q": "Why does the author mention that Mr. Somchai runs the school library?",
+     "options": [
+      "to suggest that the school has an unusually good library",
+      "to explain why he decided to become a teacher",
+      "to show that he prefers reading to teaching science",
+      "to show how many different duties he has to take on"
+     ]
+    },
+    {
+     "qid": "T3P3.4",
+     "type": "mc",
+     "q": "According to the survey mentioned in paragraph 3, nearly one in three schools",
+     "options": [
+      "relied on temporary staff with no teaching qualification",
+      "had a class with no permanent teacher for over a term",
+      "reported a fall in their pupils' reading scores",
+      "had combined two or more classes into one"
+     ]
+    },
+    {
+     "qid": "T3P3.5",
+     "type": "mc",
+     "q": "The word 'disruption' in paragraph 3 is closest in meaning to",
+     "options": [
+      "interruption",
+      "punishment",
+      "improvement",
+      "overcrowding"
+     ]
+    },
+    {
+     "qid": "T3P3.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as an incentive for rural teachers?",
+     "options": [
+      "extra pay for working in remote areas",
+      "accommodation provided at no cost",
+      "quicker promotion to senior posts",
+      "repayment of their student loans"
+     ]
+    },
+    {
+     "qid": "T3P3.7",
+     "type": "mc",
+     "q": "What does 'they' in paragraph 5 refer to?",
+     "options": [
+      "the head teachers",
+      "the colleagues",
+      "the researchers",
+      "the teachers"
+     ]
+    },
+    {
+     "qid": "T3P3.8",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that Mr. Somchai",
+     "options": [
+      "is planning to move to a school in town",
+      "feels a strong duty toward his pupils",
+      "teaches in the village where he was born",
+      "was hired through the new local programme"
+     ]
+    },
+    {
+     "qid": "T3P3.9",
+     "type": "mc",
+     "q": "How is the information in the passage organised?",
+     "options": [
+      "one teacher's story framing causes, effects and possible remedies",
+      "a list of government policies ranked from cheapest to most costly",
+      "a comparison between rural schools in Thailand and other countries",
+      "a sequence of events told in the order in which they took place"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T3P4",
+   "title": "Roots Against the Tide",
+   "paragraphs": [
+    "For decades, Thailand's coastal mangrove forests were treated as wasteland. Large areas were cleared for shrimp farms, charcoal production and tourist resorts. Today attitudes have changed, and villagers, scientists and officials are working together to bring the forests back.",
+    "The most obvious reason is protection. The dense, tangled roots of mangrove trees slow down waves and trap mud, reducing coastal erosion and, in some cases, storm damage. After the 2004 Indian Ocean tsunami, several studies reported that villages behind healthy mangrove belts tended to suffer less than those on exposed shores, although scientists caution that no forest can stop the largest waves.",
+    "Mangroves are also remarkably good at storing carbon. Because the waterlogged soil beneath them contains little oxygen, dead leaves and roots decay very slowly, and carbon can remain locked in the mud for centuries. A hectare of mangrove may hold several times more carbon than a hectare of tropical forest on land. When the trees are cleared, much of this carbon escapes into the atmosphere.",
+    "A third benefit is less visible but matters greatly to coastal families. The shallow, sheltered water among the roots serves as a nursery for young fish, crabs and shrimp. Fishers in restored areas often report larger catches within a few years, although such claims are difficult to verify.",
+    "Restoration, however, is harder than it looks. Many early projects simply planted thousands of seedlings on open mudflats, where most of them were washed away or drowned by the tide. Experts now argue that the first step should be to restore the natural flow of water, for example by breaking down the walls of abandoned shrimp ponds, and then allow seeds from nearby trees to settle naturally.",
+    "Local involvement appears to be just as important. In one village in southern Thailand, residents have formed a committee that sets rules for cutting wood and organises patrols. “We used to think the forest belonged to no one,” said Mr. Preecha Thongdee, the committee's chairman. “Now we understand that it belongs to all of us.”",
+    "In my view, such community-led efforts offer the best hope for Thailand's coasts. Planting seedlings for a photograph is easy; keeping a forest alive for decades requires the commitment of the people who depend on it."
+   ],
+   "questions": [
+    {
+     "qid": "T3P4.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most of Thailand's mangroves were cleared to make room for shrimp farms.",
+      "Mangroves are valuable, but restoring them needs care and local support.",
+      "Mangrove forests can protect coastal villages from even the largest waves.",
+      "Fishers catch more fish after planting mangrove seedlings on mudflats."
+     ]
+    },
+    {
+     "qid": "T3P4.2",
+     "type": "mc",
+     "q": "Why does the author mention the 2004 Indian Ocean tsunami in paragraph 2?",
+     "options": [
+      "to explain why many mangroves were cleared",
+      "to show that mangroves can stop any wave",
+      "to describe how the tsunami destroyed fish nurseries",
+      "to give evidence of the protection mangroves offer"
+     ]
+    },
+    {
+     "qid": "T3P4.3",
+     "type": "mc",
+     "q": "The word 'caution' in paragraph 2 is closest in meaning to",
+     "options": [
+      "warn",
+      "deny",
+      "prove",
+      "hope"
+     ]
+    },
+    {
+     "qid": "T3P4.4",
+     "type": "mc",
+     "q": "According to paragraph 3, why can carbon stay in mangrove soil for centuries?",
+     "options": [
+      "The trees grow very slowly in the salty water.",
+      "The tangled roots trap mud that is carried in by the waves.",
+      "There is little oxygen, so plant matter decays slowly.",
+      "Seawater carries the carbon deep under the ground."
+     ]
+    },
+    {
+     "qid": "T3P4.5",
+     "type": "mc",
+     "q": "The word 'verify' in paragraph 4 is closest in meaning to",
+     "options": [
+      "increase",
+      "confirm",
+      "explain",
+      "repeat"
+     ]
+    },
+    {
+     "qid": "T3P4.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a benefit of mangrove forests?",
+     "options": [
+      "reducing the erosion of coastlines",
+      "storing carbon for long periods",
+      "providing shelter for young sea creatures",
+      "attracting tourists to coastal resorts"
+     ]
+    },
+    {
+     "qid": "T3P4.7",
+     "type": "mc",
+     "q": "What does 'them' in paragraph 5 refer to?",
+     "options": [
+      "the seedlings",
+      "the early projects",
+      "the mudflats",
+      "the experts"
+     ]
+    },
+    {
+     "qid": "T3P4.8",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that many early restoration projects failed because",
+     "options": [
+      "local people cut the young trees for firewood",
+      "there was not enough money to buy seedlings",
+      "the seedlings were put in unsuitable places",
+      "the shrimp pond walls were too difficult to remove"
+     ]
+    },
+    {
+     "qid": "T3P4.9",
+     "type": "mc",
+     "q": "Which of the following statements expresses an opinion rather than a fact?",
+     "options": [
+      "Community efforts offer the best hope for the coast.",
+      "Many early projects planted seedlings on open mudflats.",
+      "Residents of one village have formed a forest committee.",
+      "Mangrove roots slow down waves and trap mud."
+     ]
+    },
+    {
+     "qid": "T3P4.10",
+     "type": "mc",
+     "q": "The author's attitude toward community-led restoration can best be described as",
+     "options": [
+      "doubtful",
+      "indifferent",
+      "critical",
+      "supportive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T3P5",
+   "title": "Health Literacy in Clinical Practice: Evidence and Implications",
+   "paragraphs": [
+    "When a doctor prescribes a new medicine, the consultation is usually regarded as complete once the prescription has been written. Yet the success of treatment depends heavily on what happens afterwards: whether the patient understands the instructions, remembers them and is able to act on them at home. The skills involved in this process are collectively known as health literacy. Broadly defined, the term refers to a person's capacity to find, understand, evaluate and use health information in order to make decisions about his or her own care. It therefore goes well beyond the ability to read. It also includes numeracy, the confidence to ask questions and the ability to navigate complex health systems, from booking appointments to understanding insurance forms.",
+    "Limited health literacy is far more common than most clinicians assume. Surveys in several countries have suggested that between a third and a half of adults have difficulty with everyday health tasks, such as working out the correct dose of a medicine for a child or interpreting the nutrition label on a packet of food. Older adults, people with long-term illnesses and those with fewer years of schooling are at particular risk. Health literacy, however, is not simply a matter of education. A university professor who has just received a frightening diagnosis may be unable to absorb information that he would normally understand with ease, because anxiety, pain and unfamiliar terminology all reduce comprehension.",
+    "The consequences of low health literacy are well documented. Compared with patients who have adequate skills, those with limited health literacy are less likely to take medicines as prescribed and less likely to attend screening programmes. They are admitted to hospital more often, make greater use of emergency services and, among older people, have higher death rates. Some of these associations may partly reflect poverty and the other disadvantages that frequently accompany low literacy. Even after such factors are taken into account, however, a link generally remains.",
+    "One reason the problem persists is that it is largely invisible. Patients who struggle with written information often develop strategies to conceal their difficulty: they may claim to have forgotten their glasses, ask to take forms home, or simply nod when a doctor asks whether everything is clear. Shame plays an important part. In a study at a regional hospital in north-eastern Thailand, researchers interviewed 150 patients with type 2 diabetes and found that more than 40 percent could not correctly explain how to take their main medicine, although nearly all of them had told their doctor that the instructions were easy to follow.",
+    "Because clinicians cannot reliably identify patients with low health literacy, experts increasingly recommend a “universal precautions” approach: communicating with every patient as though he or she might have difficulty understanding. The best-known technique of this kind is teach-back. At the end of an explanation, the clinician asks the patient to describe, in his or her own words, what has been agreed — for example, “I want to be sure I explained this clearly. Can you tell me how you will take this tablet?” If the answer is incomplete, the clinician explains the point again in a different way and checks once more. Crucially, the method is presented as a test of the clinician's explanation rather than of the patient's intelligence, which reduces embarrassment.",
+    "A second strategy is the use of plain language in both speech and writing. This involves replacing medical jargon with everyday words, such as “high blood pressure” instead of “hypertension”, keeping sentences short, and limiting each consultation to a small number of key messages. Written materials can be improved through larger print, generous white space and simple pictures. Such changes may appear minor, yet trials have shown that redesigned medicine labels and leaflets can noticeably improve how accurately patients follow instructions.",
+    "Some clinicians object that these techniques take time that busy clinics simply do not have. The available evidence suggests that the additional time is usually modest, often only a minute or two per consultation, and that it may be recovered later through fewer telephone calls, repeat visits and avoidable admissions. Others worry that simplified language may seem patronising to well-educated patients. In practice, few patients complain about information that is easy to understand; clarity tends to be appreciated by everyone, including doctors themselves when they become patients.",
+    "Health literacy, then, should not be regarded as a deficit that belongs only to patients. It is equally a property of health systems, which can be designed to be more or less understandable. Yet training in clear communication remains a minor part of many medical and nursing curricula. Making it a core clinical skill, alongside diagnosis and treatment, may be one of the least expensive ways of improving patient outcomes."
+   ],
+   "questions": [
+    {
+     "qid": "T3P5.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Many patients misunderstand health information, but better communication can help.",
+      "Patients with little schooling should be given simplified leaflets about their medicines.",
+      "Doctors in Thailand lack the time to explain medicines properly to their patients.",
+      "Health literacy depends mainly on how many years a person has spent in school."
+     ]
+    },
+    {
+     "qid": "T3P5.2",
+     "type": "mc",
+     "q": "The word 'navigate' in paragraph 1 is closest in meaning to",
+     "options": [
+      "improve",
+      "criticise",
+      "deal with",
+      "avoid"
+     ]
+    },
+    {
+     "qid": "T3P5.3",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 1 as part of health literacy?",
+     "options": [
+      "evaluating health information",
+      "the confidence to ask questions",
+      "booking appointments and reading forms",
+      "knowing how medicines are developed"
+     ]
+    },
+    {
+     "qid": "T3P5.4",
+     "type": "mc",
+     "q": "Why does the author mention a university professor in paragraph 2?",
+     "options": [
+      "to show that anxiety is common among university staff",
+      "to show that well-educated patients may also struggle",
+      "to give an example of a patient with a long-term illness",
+      "to argue that education has no effect on health literacy"
+     ]
+    },
+    {
+     "qid": "T3P5.5",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 3 that the author believes",
+     "options": [
+      "poverty is the only cause of poor outcomes among such patients",
+      "screening programmes are of little value to most patients",
+      "low health literacy itself contributes to poorer health",
+      "older patients have higher health literacy than younger ones"
+     ]
+    },
+    {
+     "qid": "T3P5.6",
+     "type": "mc",
+     "q": "According to the study described in paragraph 4, more than 40 percent of the patients",
+     "options": [
+      "could not explain how to take their main medicine",
+      "had forgotten to bring their glasses to the clinic",
+      "told their doctor that the instructions were unclear",
+      "were unable to read the labels on their medicines"
+     ]
+    },
+    {
+     "qid": "T3P5.7",
+     "type": "mc",
+     "q": "What does 'them' in paragraph 4 refer to?",
+     "options": [
+      "the researchers",
+      "the doctors",
+      "the instructions",
+      "the patients"
+     ]
+    },
+    {
+     "qid": "T3P5.8",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 4 that asking patients whether they have understood",
+     "options": [
+      "is the most reliable way to identify low health literacy",
+      "often fails to reveal what patients really understand",
+      "makes most patients feel ashamed of their difficulties",
+      "should only be done by specially trained nurses"
+     ]
+    },
+    {
+     "qid": "T3P5.9",
+     "type": "mc",
+     "q": "What does 'This' in paragraph 6 refer to?",
+     "options": [
+      "the use of plain language",
+      "the teach-back method",
+      "medical jargon",
+      "a small number of key messages"
+     ]
+    },
+    {
+     "qid": "T3P5.10",
+     "type": "mc",
+     "q": "The word 'patronising' in paragraph 7 is closest in meaning to",
+     "options": [
+      "confusing",
+      "time-consuming",
+      "condescending",
+      "inaccurate"
+     ]
+    },
+    {
+     "qid": "T3P5.11",
+     "type": "mc",
+     "q": "How is paragraph 7 organised?",
+     "options": [
+      "A problem is described and then its causes are listed.",
+      "Two methods are compared and the better one is chosen.",
+      "A study is described and its limitations are explained.",
+      "Two objections are raised and each is then answered."
+     ]
+    },
+    {
+     "qid": "T3P5.12",
+     "type": "mc",
+     "q": "The author's attitude toward training clinicians in clear communication can best be described as",
+     "options": [
+      "doubtful",
+      "supportive",
+      "indifferent",
+      "critical"
+     ]
+    },
+    {
+     "qid": "T3P5.13",
+     "type": "short",
+     "q": "Apart from reading, which skill involving numbers does the author include in health literacy? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T3P5.14",
+     "type": "short",
+     "q": "According to paragraph 4, which feeling plays an important part in patients hiding their difficulties? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T3P5.15",
+     "type": "short",
+     "q": "What name is given to the approach of communicating with every patient as though he or she might have difficulty understanding? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T3P5.16",
+     "type": "short",
+     "q": "What is the best-known technique in which patients describe in their own words what has been agreed? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T3P5.17",
+     "type": "short",
+     "q": "Which everyday phrase does the author suggest using instead of 'hypertension'? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "T3P6",
+   "title": "Automation and the Future of Work: Evidence, Uncertainty and Policy",
+   "paragraphs": [
+    "Few economic questions provoke as much anxiety as the effect of automation on employment. Each new wave of technology, from the mechanical loom to the industrial robot, has been accompanied by warnings that machines would leave large numbers of people permanently without work. The recent arrival of artificial intelligence systems that can write text, analyse images and hold conversations has revived these fears, partly because, for the first time, the technology appears to threaten professional and office jobs as well as manual ones.",
+    "Economists generally find it more useful to think about tasks than about whole occupations. Most jobs consist of many different tasks, and only some of these can be performed by machines. Historically, the tasks most easily automated have been routine ones that follow clear and predictable rules, such as assembling identical parts on a production line, sorting mail or entering figures into a spreadsheet. By contrast, tasks that demand physical flexibility in unpredictable settings, social understanding or creativity have proved much harder to automate. A robot can weld a car door with near-perfect accuracy, yet it still struggles to tidy an unfamiliar room or to comfort a frightened patient.",
+    "This distinction helps to explain why forecasts of job losses have varied so widely. One widely discussed early study, which assessed whole occupations, concluded that almost half of all jobs in the United States faced a high risk of automation within one or two decades. Later research that examined the individual tasks within each job produced far lower estimates, typically suggesting that around one job in ten was at high risk, although a much larger share would see some of their tasks change significantly. Generative AI has complicated the picture further, since it can carry out non-routine work such as drafting reports or writing computer code.",
+    "Historical evidence suggests that automation more often transforms jobs than eliminates them. When automated teller machines spread across American banks in the 1980s and 1990s, many observers expected the number of human bank tellers to collapse. Instead, because each branch now needed fewer staff, banks found it cheaper to open new branches, and teller employment remained broadly stable for many years. The nature of the work changed, however: tellers spent less time counting cash and more time advising customers and selling financial products. Technology also creates entirely new occupations. Many of today's common job titles, from software developer to social media manager, would have meant nothing to workers fifty years ago.",
+    "None of this means that the transition is painless. The gains from automation tend to be unevenly distributed. In many advanced economies, employment has grown in well-paid professional jobs and in low-paid service jobs, while middle-skill jobs in factories and offices have declined, a pattern known as job polarisation. Workers who lose such jobs frequently find new employment only at lower wages, and older workers in particular may never fully recover their previous earnings. Moreover, new jobs are often created in different places from those where old ones disappear, leaving some industrial regions in long-term decline.",
+    "For these reasons, most researchers argue that the central policy challenge is not to stop automation but to help workers move between tasks and jobs. Reskilling, which means training workers for substantially different roles, is the most frequently proposed response. Singapore, for example, gives adult citizens credits that can be spent on approved training courses, while Denmark combines relatively easy hiring and firing with generous unemployment benefits and active help in finding new work. Such programmes are not cheap, and their results vary. Training appears to work best when it is closely linked to jobs that employers actually need to fill, and when workers receive income support while they learn.",
+    "Other proposals are more controversial. Some commentators have suggested a tax on robots, both to slow the pace of automation and to fund support for displaced workers. Critics reply that a robot would be hard to define for tax purposes and that such a tax could discourage investment that raises productivity. A universal basic income, a regular payment to every citizen regardless of employment, has also been proposed. Small trials in several countries have produced mixed results, and the cost of a national scheme would be very high.",
+    "The future of work, then, will be shaped less by technology itself than by the choices societies make in response to it. Automation will probably continue to raise productivity and to create new kinds of employment, but whether its benefits are widely shared depends on education systems, labour-market institutions and public policy. In my view, the greater danger is not that machines will take all the jobs, but that governments will act too slowly to support the people whose jobs change."
+   ],
+   "questions": [
+    {
+     "qid": "T3P6.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Artificial intelligence will soon replace most professional and office workers.",
+      "Robots are better than humans at routine tasks but worse at creative ones.",
+      "Reskilling programmes in Singapore and Denmark have solved unemployment.",
+      "Automation changes work more than it destroys it, but workers need support."
+     ]
+    },
+    {
+     "qid": "T3P6.2",
+     "type": "mc",
+     "q": "According to paragraph 1, why do many people find recent artificial intelligence especially worrying?",
+     "options": [
+      "It has already caused large numbers of people to lose their jobs.",
+      "It seems to threaten office jobs, not only manual ones.",
+      "It costs less than the industrial robots used in factories.",
+      "It was developed much more quickly than earlier technologies."
+     ]
+    },
+    {
+     "qid": "T3P6.3",
+     "type": "mc",
+     "q": "The word 'revived' in paragraph 1 is closest in meaning to",
+     "options": [
+      "brought back",
+      "calmed",
+      "caused for the first time",
+      "proved wrong"
+     ]
+    },
+    {
+     "qid": "T3P6.4",
+     "type": "mc",
+     "q": "What is paragraph 2 mainly about?",
+     "options": [
+      "the history of robots in car factories",
+      "why office workers are afraid of losing their jobs",
+      "which tasks are easy or hard to automate",
+      "how forecasts of job losses are made"
+     ]
+    },
+    {
+     "qid": "T3P6.5",
+     "type": "mc",
+     "q": "What does 'it' in paragraph 3 refer to?",
+     "options": [
+      "this distinction",
+      "generative AI",
+      "the picture",
+      "computer code"
+     ]
+    },
+    {
+     "qid": "T3P6.6",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 3 that the early study produced a higher estimate mainly because it",
+     "options": [
+      "focused only on jobs in factories",
+      "was carried out before computers were common",
+      "included the effects of generative AI",
+      "did not examine the tasks within each job"
+     ]
+    },
+    {
+     "qid": "T3P6.7",
+     "type": "mc",
+     "q": "Why does the author mention automated teller machines in paragraph 4?",
+     "options": [
+      "to show that a job can change without disappearing",
+      "to explain why banks closed so many of their branches",
+      "to argue that bank tellers were paid too little",
+      "to give an example of a job created by technology"
+     ]
+    },
+    {
+     "qid": "T3P6.8",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a problem linked to automation?",
+     "options": [
+      "lower wages for workers who find new jobs",
+      "older workers never regaining their past earnings",
+      "longer hours for workers who keep their jobs",
+      "the long-term decline of some industrial regions"
+     ]
+    },
+    {
+     "qid": "T3P6.9",
+     "type": "mc",
+     "q": "According to paragraph 6, training appears to work best when",
+     "options": [
+      "it is paid for entirely by the workers themselves",
+      "it is linked to jobs that employers need to fill",
+      "it replaces unemployment benefits completely",
+      "it is offered only to younger workers"
+     ]
+    },
+    {
+     "qid": "T3P6.10",
+     "type": "mc",
+     "q": "The word 'displaced' in paragraph 7 is closest in meaning to",
+     "options": [
+      "retired",
+      "relocated",
+      "skilled",
+      "jobless"
+     ]
+    },
+    {
+     "qid": "T3P6.11",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 7 that the author regards a robot tax and a universal basic income as",
+     "options": [
+      "ideas with serious practical problems",
+      "the policies most economists now support",
+      "cheaper alternatives to reskilling",
+      "proven ways of reducing unemployment"
+     ]
+    },
+    {
+     "qid": "T3P6.12",
+     "type": "mc",
+     "q": "Which of the following is an opinion rather than a fact?",
+     "options": [
+      "Automated teller machines spread across American banks in the 1980s.",
+      "Singapore gives adult citizens credits for approved training courses.",
+      "The greater danger is that governments will act too slowly.",
+      "Small trials of a basic income have produced mixed results."
+     ]
+    },
+    {
+     "qid": "T3P6.13",
+     "type": "short",
+     "q": "In paragraph 2, which word describes tasks such as sorting mail or entering figures into a spreadsheet? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T3P6.14",
+     "type": "short",
+     "q": "Apart from selling financial products, what did bank tellers spend more time doing after cash machines spread? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T3P6.15",
+     "type": "short",
+     "q": "What name is given to the pattern in which middle-skill jobs decline while well-paid and low-paid jobs grow? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T3P6.16",
+     "type": "short",
+     "q": "Which term does the author use for training workers for substantially different roles? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T3P6.17",
+     "type": "short",
+     "q": "What is the name of the proposed regular payment to every citizen regardless of employment? (Answer in NO MORE THAN THREE WORDS from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "T4P1",
+   "title": "Health Officials Turn Their Attention to the Kitchen Table",
+   "paragraphs": [
+    "Health authorities have launched a year-long national campaign urging Thais to cut their salt intake, warning that most adults consume roughly twice the recommended limit without realising it.",
+    "International guidelines advise adults to keep their intake below five grams of salt a day, about one teaspoon. A national dietary survey last year, however, estimated that the average Thai adult consumes close to ten grams. Excess sodium raises blood pressure, which in turn increases the risk of stroke, heart attack and kidney disease.",
+    "Unlike earlier efforts, which concentrated mainly on the salt shaker, the new campaign targets what officials describe as “hidden” sources. Fish sauce, soy sauce, seasoning powder and instant noodles supply much of the sodium in the national diet, yet many consumers do not regard them as salty at all.",
+    "The campaign has three strands. Television and social media advertisements will show how quickly sodium accumulates over a typical day. Street food vendors in twelve pilot provinces will be offered free training in reducing seasoning without sacrificing flavour. Meanwhile, manufacturers are being encouraged, though not yet required, to display sodium content on the front of their packaging.",
+    "Dr. Kanokwan Srisuk, a nutrition researcher who advised the campaign, believes tastes can be retrained. “When salt is reduced gradually, most people stop noticing the difference within a few weeks,” she said.",
+    "Not everyone is convinced. “My customers expect a certain taste,” said one noodle seller in Bangkok. “If they don't get it, they'll simply go elsewhere.”"
+   ],
+   "questions": [
+    {
+     "qid": "T4P1.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Most Thai adults eat about twice as much salt as international guidelines advise.",
+      "A national campaign is targeting less obvious sources of salt in the Thai diet.",
+      "Street vendors in twelve provinces are learning to cook with less seasoning.",
+      "Food companies will soon have to print sodium levels on the front of packets."
+     ]
+    },
+    {
+     "qid": "T4P1.2",
+     "type": "mc",
+     "q": "According to paragraph 2, excess sodium increases the risk of stroke mainly by",
+     "options": [
+      "raising blood pressure",
+      "damaging the kidneys",
+      "weakening the heart muscle",
+      "thickening the blood"
+     ]
+    },
+    {
+     "qid": "T4P1.3",
+     "type": "mc",
+     "q": "According to paragraph 3, why do many people consume more salt than they realise?",
+     "options": [
+      "They rarely add salt from a shaker to their food.",
+      "They are unaware of the international guidelines.",
+      "Packaged foods do not list the amount of sodium.",
+      "They do not think of common sauces as salty."
+     ]
+    },
+    {
+     "qid": "T4P1.4",
+     "type": "mc",
+     "q": "What does the word 'them' in paragraph 3 refer to?",
+     "options": [
+      "earlier national campaigns",
+      "health officials",
+      "the listed products",
+      "many consumers"
+     ]
+    },
+    {
+     "qid": "T4P1.5",
+     "type": "mc",
+     "q": "The word 'strands' in paragraph 4 is closest in meaning to",
+     "options": [
+      "stages that follow one another",
+      "groups of people involved",
+      "separate components",
+      "possible weaknesses"
+     ]
+    },
+    {
+     "qid": "T4P1.6",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as part of the campaign?",
+     "options": [
+      "advertisements showing how quickly sodium adds up",
+      "a legal cap on salt in instant noodles",
+      "free training for some street food vendors",
+      "encouraging sodium labels on the front of packs"
+     ]
+    },
+    {
+     "qid": "T4P1.7",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 4 that, at present, front-of-pack sodium labels are",
+     "options": [
+      "voluntary for food manufacturers",
+      "compulsory for imported products only",
+      "already found on most packets",
+      "unpopular with most consumers"
+     ]
+    },
+    {
+     "qid": "T4P1.8",
+     "type": "mc",
+     "q": "Why does the author include the noodle seller's comments in paragraph 6?",
+     "options": [
+      "to prove that customers now prefer less salty food",
+      "to explain how vendors were chosen for training",
+      "to support Dr. Kanokwan's claim about changing tastes",
+      "to show that the campaign may face resistance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T4P2",
+   "title": "Notice to All Students and Staff: Changes to the Campus Electricity Supply",
+   "paragraphs": [
+    "The Office of Campus Sustainability is pleased to announce that solar panels will be installed on the roofs of 34 university buildings, beginning on 1 November. The completed system, with a capacity of 4.5 megawatts, is expected to generate about 6.3 million kilowatt-hours a year, roughly 30 per cent of the campus's annual electricity consumption.",
+    "The project is financed through a 15-year agreement with a private energy company and requires no upfront investment from the university, which will instead buy the electricity the panels produce at below the standard grid rate. First-year savings are estimated at 9 million baht. When the agreement expires, ownership of the equipment will pass to the university.",
+    "Work will proceed in three phases: the Central Library, the main lecture complexes and the Student Union (November–January); faculty buildings in Zone B (February–April); and student dormitories (May–June), a period chosen to coincide with the semester break, when most residents will be away.",
+    "During each phase, roof access will be closed in the buildings concerned, and parts of nearby car parks may be cordoned off while cranes are in use. Power interruptions of up to two hours may also be needed when each building is connected to the new system. These will be scheduled at weekends wherever possible. Staff responsible for temperature-sensitive laboratory equipment should contact the Office by 15 October so that backup arrangements can be made.",
+    "Once operational, the system will feed a live dashboard in the university app showing the output of each building, and students in engineering and environmental science will be able to use its performance data in coursework and research.",
+    "Enquiries may be directed to the Office of Campus Sustainability on extension 4410."
+   ],
+   "questions": [
+    {
+     "qid": "T4P2.1",
+     "type": "mc",
+     "q": "What is the main purpose of the notice?",
+     "options": [
+      "to encourage students and staff to save electricity on campus",
+      "to invite energy companies to bid for a campus solar contract",
+      "to explain a solar project and its effects on campus life",
+      "to explain why the campus electricity bill has risen sharply"
+     ]
+    },
+    {
+     "qid": "T4P2.2",
+     "type": "mc",
+     "q": "According to the notice, the completed solar system is expected to",
+     "options": [
+      "supply about three-tenths of the campus's yearly electricity",
+      "generate 4.5 million kilowatt-hours of electricity each year",
+      "save the university 9 million baht every year",
+      "provide all the electricity needed by 34 buildings"
+     ]
+    },
+    {
+     "qid": "T4P2.3",
+     "type": "mc",
+     "q": "The word 'upfront' in paragraph 2 is closest in meaning to",
+     "options": [
+      "hidden or secret",
+      "extra or additional",
+      "paid every month",
+      "paid at the start"
+     ]
+    },
+    {
+     "qid": "T4P2.4",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 2 that, until the agreement expires, the panels will",
+     "options": [
+      "belong to the university from the first day",
+      "remain the property of the energy company",
+      "be shared equally by the two organisations",
+      "be paid for by the university in instalments"
+     ]
+    },
+    {
+     "qid": "T4P2.5",
+     "type": "mc",
+     "q": "Why will the dormitories be the last buildings to receive panels?",
+     "options": [
+      "Most of the students living there will be away.",
+      "Their roofs must be repaired before work can start.",
+      "They use less electricity than the other buildings.",
+      "Cranes cannot reach them during the semester."
+     ]
+    },
+    {
+     "qid": "T4P2.6",
+     "type": "mc",
+     "q": "What does the word 'These' in paragraph 4 refer to?",
+     "options": [
+      "the nearby car parks",
+      "the cranes in use",
+      "power interruptions",
+      "the affected buildings"
+     ]
+    },
+    {
+     "qid": "T4P2.7",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a possible disruption during installation?",
+     "options": [
+      "closure of access to some roofs",
+      "restrictions in parts of car parks",
+      "short interruptions to the power supply",
+      "the relocation of some lectures"
+     ]
+    },
+    {
+     "qid": "T4P2.8",
+     "type": "mc",
+     "q": "Which person would most need to contact the Office before 15 October?",
+     "options": [
+      "a student planning a project using solar data",
+      "a researcher storing samples in a lab freezer",
+      "a lecturer who parks near a lecture complex",
+      "a student who lives in a campus dormitory"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T4P3",
+   "title": "Airports Turn to Face Scans at the Gate",
+   "paragraphs": [
+    "At a growing number of airports around the world, passengers can now check in, drop off their luggage and board their flights without showing a passport or boarding pass. Instead, cameras at each checkpoint scan their faces and compare them with an image captured when they first registered.",
+    "Supporters say the technology removes one of the most frustrating parts of air travel. At one regional hub, managers report that boarding a wide-body aircraft now takes around 20 minutes, compared with 35 minutes when staff checked documents by hand. Airlines also argue that automated checks are more reliable than tired employees comparing faces with small passport photographs at the end of a long shift.",
+    "Privacy advocates, however, are uneasy. Unlike a password, a face cannot be replaced if it is stolen. “Once biometric data leaks, the damage is permanent,” said Nattapong Wiriya, a data protection researcher. He questions how long the images are retained, who has access to them and whether they might one day be passed to police or other government agencies without travellers' knowledge.",
+    "Operators insist that such fears are exaggerated. Most systems, they say, convert each face into a mathematical template rather than storing an actual photograph, and delete the data within 24 hours of departure. Participation is also voluntary: travellers who prefer not to be scanned can use a standard lane.",
+    "Critics respond that consent means little when the alternative is noticeably slower. In a survey of 2,000 travellers by a consumer rights group, 61 per cent said they had used facial recognition at an airport, yet fewer than a quarter knew they were entitled to refuse.",
+    "Accuracy is a further concern. Earlier generations of the software made more errors when identifying people with darker skin and older travellers, although developers claim the gap has narrowed considerably.",
+    "Several countries, Thailand among them, now classify biometric information as sensitive personal data whose collection requires explicit consent. Whether such rules are respected at the boarding gate, experts say, is another matter."
+   ],
+   "questions": [
+    {
+     "qid": "T4P3.1",
+     "type": "mc",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "How Airports Have Made Passports Unnecessary",
+      "Privacy Laws Finally Catch Up with Airports",
+      "Software Errors Leave Many Travellers Stranded",
+      "Speed versus Privacy at the Airport Gate"
+     ]
+    },
+    {
+     "qid": "T4P3.2",
+     "type": "mc",
+     "q": "According to paragraph 2, why do airlines favour automated identity checks?",
+     "options": [
+      "They believe machines make fewer errors than tired staff.",
+      "They no longer need to employ staff at boarding gates.",
+      "Passengers have complained about long queues at check-in.",
+      "Passport photographs are often too small to be useful."
+     ]
+    },
+    {
+     "qid": "T4P3.3",
+     "type": "mc",
+     "q": "The word 'uneasy' in paragraph 3 is closest in meaning to",
+     "options": [
+      "uninformed",
+      "impatient",
+      "worried",
+      "divided"
+     ]
+    },
+    {
+     "qid": "T4P3.4",
+     "type": "mc",
+     "q": "What does the word 'them' in paragraph 3 refer to?",
+     "options": [
+      "travellers",
+      "the stored images",
+      "government agencies",
+      "the police"
+     ]
+    },
+    {
+     "qid": "T4P3.5",
+     "type": "mc",
+     "q": "According to operators, how do most systems reduce the risk to privacy?",
+     "options": [
+      "They store faces as templates and delete them within a day.",
+      "They share the data only with the police and other government agencies.",
+      "They keep photographs until the passenger's next journey.",
+      "They ask travellers for a password before each scan."
+     ]
+    },
+    {
+     "qid": "T4P3.6",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 5 that the critics believe",
+     "options": [
+      "most travellers refuse to be scanned when given a choice",
+      "consumer rights groups have exaggerated the risks",
+      "the standard lanes at airports should be closed",
+      "many travellers' consent is not genuinely informed"
+     ]
+    },
+    {
+     "qid": "T4P3.7",
+     "type": "mc",
+     "q": "Which of the following statements from the passage is an opinion rather than a fact?",
+     "options": [
+      "Unlike a password, a face cannot be replaced if it is stolen.",
+      "Consent means little when the alternative is noticeably slower.",
+      "61 per cent said they had used facial recognition at an airport.",
+      "Travellers who prefer not to be scanned can use a standard lane."
+     ]
+    },
+    {
+     "qid": "T4P3.8",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned as a concern about facial recognition at airports?",
+     "options": [
+      "images being passed to the police without travellers knowing",
+      "travellers being unaware that they can refuse to take part",
+      "the software making more errors with certain groups",
+      "the high cost of installing cameras at every gate"
+     ]
+    },
+    {
+     "qid": "T4P3.9",
+     "type": "mc",
+     "q": "The author's attitude toward facial recognition at airports can best be described as",
+     "options": [
+      "enthusiastic",
+      "dismissive",
+      "even-handed",
+      "alarmed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T4P4",
+   "title": "Researchers Weigh the Evidence on Exercise and Low Mood",
+   "paragraphs": [
+    "For people with mild-to-moderate depression, a structured programme of physical exercise may be roughly as effective as psychotherapy or antidepressant medication, according to a large review published this year. The analysis, conducted by an international team of researchers, pooled data from 97 clinical trials involving around 6,800 patients.",
+    "Walking or jogging, yoga and strength training produced the clearest benefits, and more vigorous activity was generally associated with greater improvement. Notably, the size of the effect did not depend on how many sessions people completed each week, suggesting that intensity may matter more than frequency. Programmes delivered in groups also tended to outperform those that participants followed alone.",
+    "Several mechanisms are thought to be involved. Exercise stimulates the release of proteins that support the growth of new connections between brain cells, and it may reduce the low-grade inflammation observed in some people with depression. It also tends to improve sleep. Psychological factors appear to play a part as well: completing a demanding workout gives patients a sense of achievement, which may counter the helplessness that so often accompanies the condition.",
+    "“What this review offers is reassurance that exercise is not merely an add-on,” said Dr. Pimchanok Saengthong, a psychiatrist at a teaching hospital in Bangkok who was not involved in the study. “For many patients, it can be a first-line treatment in its own right.”",
+    "The authors nonetheless acknowledge important limitations. Many of the trials were small, and because it is impossible to conceal from participants whether they are exercising, their expectations may have inflated some results. Drop-out rates were also high in certain programmes, which raises doubts about whether patients could sustain the habit outside the supportive setting of a trial.",
+    "Experts stress that the findings do not apply to severe depression and that patients already taking medication should not stop without medical advice. Dr. Pimchanok also points out that motivation is often the first thing depression erodes. “Telling someone who can barely get out of bed to go running is not a treatment plan,” she said. “Exercise has to be prescribed with the same care as any drug: start small, provide support and follow up regularly.”"
+   ],
+   "questions": [
+    {
+     "qid": "T4P4.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Exercising in a group helps depressed patients more than exercising alone.",
+      "Exercise looks like a credible treatment for milder depression, though doubts remain.",
+      "Patients with depression should replace their medication with regular exercise.",
+      "Scientists have now fully explained how physical activity changes the brains of depressed people."
+     ]
+    },
+    {
+     "qid": "T4P4.2",
+     "type": "mc",
+     "q": "The word 'pooled' in paragraph 1 is closest in meaning to",
+     "options": [
+      "combined",
+      "selected",
+      "questioned",
+      "published"
+     ]
+    },
+    {
+     "qid": "T4P4.3",
+     "type": "mc",
+     "q": "What does paragraph 2 suggest about the intensity of exercise?",
+     "options": [
+      "It matters less than the number of weekly sessions.",
+      "It is important only for strength training.",
+      "It may matter more than exercise frequency.",
+      "It explains why group classes were more effective."
+     ]
+    },
+    {
+     "qid": "T4P4.4",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 3 as a way in which exercise may help?",
+     "options": [
+      "supporting new links between brain cells",
+      "reducing low-grade inflammation",
+      "improving the quality of sleep",
+      "increasing contact with other people"
+     ]
+    },
+    {
+     "qid": "T4P4.5",
+     "type": "mc",
+     "q": "Why does the author quote Dr. Pimchanok in paragraph 4?",
+     "options": [
+      "to present an independent expert's reaction",
+      "to explain how the international review was carried out",
+      "to criticise the methods used in the clinical trials",
+      "to describe the biological effects of exercise on the brain"
+     ]
+    },
+    {
+     "qid": "T4P4.6",
+     "type": "mc",
+     "q": "According to paragraph 5, why might participants' expectations have affected the results?",
+     "options": [
+      "Many of the trials involved only a small number of people.",
+      "Patients often left the programmes before they had finished.",
+      "Participants always knew whether they were exercising.",
+      "Researchers told participants which results they hoped to find."
+     ]
+    },
+    {
+     "qid": "T4P4.7",
+     "type": "mc",
+     "q": "The word 'inflated' in paragraph 5 is closest in meaning to",
+     "options": [
+      "weakened",
+      "overstated",
+      "contradicted",
+      "postponed"
+     ]
+    },
+    {
+     "qid": "T4P4.8",
+     "type": "mc",
+     "q": "What does the word 'which' in paragraph 5 refer to?",
+     "options": [
+      "the supportive setting",
+      "the small size of the trials",
+      "participants' expectations",
+      "the high drop-out rates"
+     ]
+    },
+    {
+     "qid": "T4P4.9",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that Dr. Pimchanok believes",
+     "options": [
+      "people with depression may need help to begin exercising",
+      "running is an unsuitable form of exercise for depressed patients",
+      "medication should be stopped once exercise has begun",
+      "exercise works best for patients with severe depression"
+     ]
+    },
+    {
+     "qid": "T4P4.10",
+     "type": "mc",
+     "q": "Which of the following best describes the tone of the passage?",
+     "options": [
+      "dismissive",
+      "enthusiastic",
+      "measured",
+      "alarmed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "T4P5",
+   "title": "The City and the Mind: Urban Living and Psychological Well-being",
+   "paragraphs": [
+    "More than half of the world's population now lives in towns and cities, and that share is projected to approach two-thirds by the middle of this century. In Southeast Asia, where several countries are urbanising faster than Europe did during its industrial revolution, the shift has brought undeniable gains: higher incomes, better access to education and health care, and wider personal freedom. Yet a growing body of research suggests that city life may also carry psychological costs. This article reviews the principal environmental factors thought to link urban living with mental ill-health and considers what urban design might do to reduce them.",
+    "The association itself is well documented. Large population studies in northern Europe have found that people who grow up in cities face a higher risk of schizophrenia than those raised in rural areas, and that the risk rises with the number of years spent in an urban environment during childhood. Rates of anxiety and depression also tend to be higher in cities, although the differences are smaller and less consistent across countries. Interpreting these patterns is far from straightforward. Cities attract newcomers for many reasons, and people who are already vulnerable may move there in search of work, anonymity or services, a process known as “social drift”. Disentangling cause from selection therefore remains one of the central challenges in this field.",
+    "Noise is perhaps the most readily measured of the suspected factors. Chronic exposure to road traffic, aircraft and construction noise has been linked to annoyance, disturbed sleep and elevated levels of stress hormones. Its effects are particularly marked at night, when even sounds that do not fully wake a sleeper can fragment sleep and leave a person less able to cope with the following day. Because poor sleep is both a symptom of depression and a risk factor for it, noise may help to sustain a cycle that is difficult to break.",
+    "Crowding presents a more complicated picture. High population density in itself does not appear to damage mental health; some very densely populated cities report rates of mental illness no higher than those of far less crowded places. What seems to matter instead is crowding within the home, combined with a perceived lack of control over one's surroundings. Residents who cannot find privacy or withdraw from unwanted social contact are more likely to report irritability, fatigue and psychological distress. The problem, in other words, is less the number of people nearby than the inability to step away from them.",
+    "Paradoxically, cities can also be lonely places. Urban residents may encounter hundreds of strangers every day yet have fewer close relationships than their rural counterparts, particularly if they have migrated from elsewhere and left family networks behind. In a survey of 3,500 adults in one Southeast Asian capital, those who had lived in their neighbourhood for less than two years were nearly twice as likely to report frequent loneliness as long-term residents. Researchers distinguish social isolation, an objective shortage of contact, from loneliness, the subjective sense that one's relationships are inadequate. Both are associated with depression, but loneliness appears to be the stronger predictor.",
+    "Against these pressures, green space appears to offer a measure of protection. Studies on several continents have found that people living close to parks report lower psychological distress, even after income and other socioeconomic factors are taken into account. Two explanations are commonly proposed. One holds that natural settings allow the mind to recover from the constant, effortful attention that busy streets demand; the other emphasises the rapid physiological calming that views of trees and water seem to produce. Quality, however, matters as much as quantity. A neglected or unsafe park may be avoided altogether, in which case it delivers few of these benefits.",
+    "Such findings have encouraged planners to treat mental health as a deliberate design objective rather than an accidental by-product. Measures under discussion include planting trees along streets to absorb noise and provide shade, shielding quiet residential areas from through traffic, and creating shared spaces such as markets, libraries and community gardens where neighbours can meet informally. In several Asian cities, small plots of unused land have been converted into “pocket parks” within walking distance of homes. These interventions are inexpensive relative to the cost of treating mental illness, but their effects have rarely been evaluated rigorously.",
+    "None of this means that cities are inherently harmful to the mind. Urban areas concentrate mental health services, offer diverse opportunities and tolerate lifestyles that might be stigmatised in smaller communities. Many of the risks described above, moreover, are features not of cities as such but of particular ways of building and managing them. The task for the coming decades is not to slow urbanisation, which would be neither feasible nor desirable, but to ensure that the cities absorbing billions of new residents are built with psychological as well as physical needs in mind."
+   ],
+   "questions": [
+    {
+     "qid": "T4P5.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "City life is the main cause of rising rates of schizophrenia, anxiety and depression worldwide.",
+      "Green space is the most effective way to protect the mental health of city dwellers.",
+      "Various aspects of city environments affect mental health, and planning may reduce the harm.",
+      "Southeast Asian countries are urbanising faster than European countries did in the past."
+     ]
+    },
+    {
+     "qid": "T4P5.2",
+     "type": "mc",
+     "q": "The word 'Disentangling' in paragraph 2 is closest in meaning to",
+     "options": [
+      "separating",
+      "explaining",
+      "confirming",
+      "ignoring"
+     ]
+    },
+    {
+     "qid": "T4P5.3",
+     "type": "mc",
+     "q": "According to paragraph 2, the risk of schizophrenia for people raised in cities",
+     "options": [
+      "is similar to that of people raised in rural areas",
+      "increases with the time spent in a city as a child",
+      "is higher in northern Europe than in other regions",
+      "depends mainly on the population of the city"
+     ]
+    },
+    {
+     "qid": "T4P5.4",
+     "type": "mc",
+     "q": "Why does the author mention “social drift” in paragraph 2?",
+     "options": [
+      "to explain why rural areas lack mental health services",
+      "to describe how cities help vulnerable people recover",
+      "to argue that newcomers to cities should be screened for mental illness",
+      "to suggest that cities may not directly cause the higher rates"
+     ]
+    },
+    {
+     "qid": "T4P5.5",
+     "type": "mc",
+     "q": "What does the word 'Its' in paragraph 3 refer to?",
+     "options": [
+      "noise exposure",
+      "poor-quality sleep",
+      "general annoyance",
+      "construction work"
+     ]
+    },
+    {
+     "qid": "T4P5.6",
+     "type": "mc",
+     "q": "What can be inferred from paragraph 3 about the relationship between noise and depression?",
+     "options": [
+      "Noise is the single most important cause of depression in cities.",
+      "People with depression are more sensitive to noise than others.",
+      "Noise may worsen depression indirectly by disrupting sleep.",
+      "Noise affects mood only when it wakes people during the night."
+     ]
+    },
+    {
+     "qid": "T4P5.7",
+     "type": "mc",
+     "q": "According to paragraph 4, which of the following seems most harmful to mental health?",
+     "options": [
+      "living in a city with a very high population density",
+      "lacking privacy and control at home",
+      "having too little contact with neighbours",
+      "moving to a large city from a rural area"
+     ]
+    },
+    {
+     "qid": "T4P5.8",
+     "type": "mc",
+     "q": "The word 'counterparts' in paragraph 5 is closest in meaning to",
+     "options": [
+      "relatives who live in the countryside",
+      "rivals in the job market",
+      "neighbours from other countries",
+      "people in an equivalent position"
+     ]
+    },
+    {
+     "qid": "T4P5.9",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 6 that simply increasing the number of parks in a city",
+     "options": [
+      "may achieve little if the parks are poorly maintained",
+      "would remove the need for other mental health services",
+      "is the cheapest way to improve residents' mental health",
+      "benefits wealthy residents more than poorer residents"
+     ]
+    },
+    {
+     "qid": "T4P5.10",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 7 as a measure that planners are considering?",
+     "options": [
+      "planting trees along streets",
+      "limiting the height of new apartment blocks",
+      "keeping through traffic out of quiet areas",
+      "providing informal meeting places for neighbours"
+     ]
+    },
+    {
+     "qid": "T4P5.11",
+     "type": "mc",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Chronic exposure to noise has been linked to disturbed sleep.",
+      "Urban areas concentrate mental health services.",
+      "Slowing urbanisation would be neither feasible nor desirable.",
+      "Some very dense cities report no higher rates of mental illness."
+     ]
+    },
+    {
+     "qid": "T4P5.12",
+     "type": "mc",
+     "q": "Which of the following best describes how the passage is organised?",
+     "options": [
+      "A single problem is described, and one particular solution is then defended in detail.",
+      "Two opposing theories about city life are compared, and one of them is finally rejected.",
+      "Historical developments are presented in the order in which they occurred.",
+      "An association is described, its possible causes examined, and responses considered."
+     ]
+    },
+    {
+     "qid": "T4P5.13",
+     "type": "short",
+     "q": "Apart from work and services, what may already vulnerable people be seeking when they move to a city? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T4P5.14",
+     "type": "short",
+     "q": "Besides annoyance and disturbed sleep, chronic noise exposure has been linked to elevated levels of what? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P5.15",
+     "type": "short",
+     "q": "Which subjective experience appears to predict depression more strongly than social isolation does? (Answer in ONE WORD from the passage.)"
+    },
+    {
+     "qid": "T4P5.16",
+     "type": "short",
+     "q": "What are the small green areas created from unused land within walking distance of homes called? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P5.17",
+     "type": "short",
+     "q": "According to paragraph 8, what do urban areas tolerate that might be stigmatised in smaller communities? (Answer in ONE WORD from the passage.)"
+    }
+   ]
+  },
+  {
+   "id": "T4P6",
+   "title": "Peer Assessment in Higher Education: Evidence and Practice",
+   "paragraphs": [
+    "Peer assessment, in which students evaluate the work of their classmates and provide feedback, marks or both, has moved from the margins of university teaching into the mainstream over the past three decades. It is now used in disciplines as varied as engineering, nursing, architecture and language teaching, and online platforms have made it feasible even in classes of several hundred students. Its spread, however, has been accompanied by persistent doubts about whether students are capable of judging one another's work fairly. This article considers the educational case for peer assessment, the principal concerns it raises and the conditions under which it appears to work best.",
+    "The most compelling argument for peer assessment concerns what educational researchers call “evaluative judgement”: the capacity to recognise quality in one's own work and in the work of others. After graduation, few professionals have a teacher on hand to tell them whether a report, a design or a care plan is good enough; they must make that decision themselves. By applying assessment criteria to a range of real examples, students come to understand those criteria far more deeply than they would by simply reading them in a course handbook. In this sense, peer assessment is less a method of grading than a form of instruction.",
+    "Somewhat counter-intuitively, the benefits appear to flow more from giving feedback than from receiving it. In one study of first-year writing courses, students who only reviewed their peers' essays made greater gains in their own writing over a semester than students who only received reviews. Reviewers, it seems, are obliged to diagnose problems and articulate possible solutions, a cognitively demanding process that later transfers to their own drafts. Peer assessment also addresses a practical difficulty: in large classes, it enables each student to receive several sets of comments far more quickly than a single lecturer could provide them, although the quality of those comments inevitably varies.",
+    "Critics, however, raise the question of reliability. Students may lack the subject knowledge needed to detect subtle errors, and some are reluctant to criticise friends, a tendency often referred to as “friendship marking”. Others mark generously in the hope of being treated generously in return, while a minority may be unduly harsh towards classmates they dislike or regard as rivals for top grades. Students themselves frequently voice discomfort, arguing that assessment is the lecturer's responsibility and that they are paying fees to be taught, not to teach. Such reservations are not unreasonable, particularly when peer marks count towards final grades.",
+    "The evidence on accuracy is more reassuring than these concerns might suggest. Reviews of studies comparing peer and teacher marks have generally reported moderate to strong agreement, particularly when students judge overall performance against clearly defined criteria rather than awarding separate marks for many narrow components. Agreement also improves when each piece of work is assessed by several peers and the scores are averaged, because individual biases, whether lenient or severe, tend to cancel one another out. Interestingly, the accuracy of peer marks appears to increase as students gain experience, which suggests that the skill can be developed rather than simply assumed.",
+    "Preparation, nonetheless, makes a considerable difference. Rubrics that describe each level of performance in concrete terms reduce the scope for guesswork, especially when they are accompanied by annotated examples. Rubrics can, however, turn into checklists that students apply mechanically, so lecturers are advised to discuss them in class rather than simply distribute them. Many lecturers now run calibration exercises, in which students mark sample assignments and compare their judgements with those of the teacher before assessing real work. In a trial at a university in north-eastern Thailand, students who completed two such sessions produced marks considerably closer to the lecturer's than those of an untrained comparison group, and they also rated the process as fairer.",
+    "Design choices matter as well. Anonymous review can reduce friendship marking, although it may also make comments less considerate. Online platforms can allocate reviewers at random, preventing students from choosing whose work they assess. Many specialists recommend that peer assessment be used initially for formative purposes, that is, to improve work in progress, rather than to determine final grades. Where peer marks do contribute to grades, students can be required to justify each score in writing, and lecturers can moderate a random sample, together with any marks that differ widely.",
+    "Peer assessment, then, is neither a cost-free substitute for expert grading nor an inherently unreliable gimmick. Its value depends less on the technique itself than on the care with which it is introduced. Introduced hastily, with vague criteria and no preparation, it is likely to confirm students' worst suspicions. Universities that invest in training, clear criteria and sensible safeguards are likely to find that students become not only fairer judges of others but also sharper critics of their own work, which is arguably the more important outcome of a university education."
+   ],
+   "questions": [
+    {
+     "qid": "T4P6.1",
+     "type": "mc",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Peer assessment should replace grading by lecturers in large university classes.",
+      "Students are generally too biased to judge the work of their classmates fairly.",
+      "Giving feedback helps students more than receiving feedback from their peers.",
+      "Peer assessment can aid learning if its weaknesses are carefully managed."
+     ]
+    },
+    {
+     "qid": "T4P6.2",
+     "type": "mc",
+     "q": "The word 'margins' in paragraph 1 is closest in meaning to",
+     "options": [
+      "the edges of a written page",
+      "a position of minor importance",
+      "the profit made on a product",
+      "the lowest standard that is acceptable"
+     ]
+    },
+    {
+     "qid": "T4P6.3",
+     "type": "mc",
+     "q": "It can be inferred from paragraph 3 that most people would expect",
+     "options": [
+      "giving feedback to be more useful than receiving it",
+      "peer comments to arrive more slowly than a lecturer's",
+      "receiving feedback to be more useful than giving it",
+      "first-year students to dislike reviewing essays"
+     ]
+    },
+    {
+     "qid": "T4P6.4",
+     "type": "mc",
+     "q": "According to paragraph 3, why did the students who reviewed essays improve their own writing?",
+     "options": [
+      "They received more comments than other students did.",
+      "They read many essays written by skilled students.",
+      "Their lecturers gave them additional individual feedback.",
+      "They had to diagnose problems and suggest solutions."
+     ]
+    },
+    {
+     "qid": "T4P6.5",
+     "type": "mc",
+     "q": "What does the word 'Others' in paragraph 4 refer to?",
+     "options": [
+      "other critics",
+      "other lecturers",
+      "other students",
+      "other errors"
+     ]
+    },
+    {
+     "qid": "T4P6.6",
+     "type": "mc",
+     "q": "The word 'unduly' in paragraph 4 is closest in meaning to",
+     "options": [
+      "openly",
+      "excessively",
+      "secretly",
+      "occasionally"
+     ]
+    },
+    {
+     "qid": "T4P6.7",
+     "type": "mc",
+     "q": "Which of the following is NOT mentioned in paragraph 4 as a reason why peer marks may be unreliable?",
+     "options": [
+      "Students may not know enough to spot subtle mistakes.",
+      "Some students avoid criticising their friends.",
+      "Some students hope for generous marks in return.",
+      "Lecturers pressure students to award high marks."
+     ]
+    },
+    {
+     "qid": "T4P6.8",
+     "type": "mc",
+     "q": "What is the main purpose of paragraph 5?",
+     "options": [
+      "to show that accuracy concerns may be overstated",
+      "to explain how lecturers should design marking rubrics",
+      "to argue that peer marks should replace teacher marks",
+      "to describe why students dislike assessing classmates"
+     ]
+    },
+    {
+     "qid": "T4P6.9",
+     "type": "mc",
+     "q": "What is paragraph 6 mainly about?",
+     "options": [
+      "the results of one trial at a university in Thailand",
+      "why rubrics are often used mechanically by students",
+      "how students can be prepared to mark well",
+      "how lecturers mark sample assignments themselves"
+     ]
+    },
+    {
+     "qid": "T4P6.10",
+     "type": "mc",
+     "q": "The word 'moderate' in paragraph 7 is closest in meaning to",
+     "options": [
+      "count the total of",
+      "review for consistency",
+      "calculate the average of",
+      "return to the students"
+     ]
+    },
+    {
+     "qid": "T4P6.11",
+     "type": "mc",
+     "q": "The author's attitude toward peer assessment can best be described as",
+     "options": [
+      "cautiously supportive",
+      "strongly opposed",
+      "uncritically enthusiastic",
+      "largely indifferent"
+     ]
+    },
+    {
+     "qid": "T4P6.12",
+     "type": "mc",
+     "q": "How is the information in the passage mainly organised?",
+     "options": [
+      "Benefits come first, followed by concerns, evidence and practical advice.",
+      "A history of the practice is traced from its origins up to the present day.",
+      "Two competing methods of assessment are compared point by point.",
+      "A single study is described in detail, followed by its limitations."
+     ]
+    },
+    {
+     "qid": "T4P6.13",
+     "type": "short",
+     "q": "What term do educational researchers use for the ability to recognise quality in one's own work and in the work of others? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P6.14",
+     "type": "short",
+     "q": "What name is given to students' tendency to avoid criticising their friends when marking? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P6.15",
+     "type": "short",
+     "q": "According to paragraph 6, rubrics reduce guesswork most effectively when they are accompanied by what? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P6.16",
+     "type": "short",
+     "q": "What activities do many lecturers run so that students can compare their marking of sample assignments with the teacher's? (Answer in NO MORE THAN TWO WORDS from the passage.)"
+    },
+    {
+     "qid": "T4P6.17",
+     "type": "short",
+     "q": "For what kind of purposes do many specialists recommend using peer assessment at first? (Answer in ONE WORD from the passage.)"
+    }
+   ]
+  }
+ ],
+ "grammar": []
+}

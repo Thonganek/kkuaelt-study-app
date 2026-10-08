@@ -1,0 +1,1894 @@
+{
+ "essays": [
+  {
+   "id": "R1",
+   "prompt": "Students will learn a foreign language easily if it is integrated with another subject.",
+   "prompt_fixed": "Students will learn a foreign language more easily if it is integrated with another subject. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่า ถ้าสอนภาษาต่างประเทศโดยบูรณาการเข้ากับวิชาอื่น เช่น สอนวิทยาศาสตร์หรือคณิตศาสตร์เป็นภาษาอังกฤษ นักเรียนจะเรียนภาษาได้ง่ายขึ้นหรือไม่ แนวคิดนี้ในวงการศึกษาเรียกว่า CLIL (Content and Language Integrated Learning) ขอบเขตของโจทย์คือ 'ความง่ายและประสิทธิภาพในการเรียนภาษา' ไม่ใช่ผลต่อวิชาอื่นโดยตรง กับดักที่พบบ่อยคือเขียนถึงประโยชน์ของภาษาอังกฤษแบบกว้างๆ จนหลุดประเด็น 'integrated with another subject' และโจทย์ต้นฉบับมีจุดผิดเล็กน้อย (easily ควรเป็น more easily) จึงไม่ควรลอกโจทย์มาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "foreign language",
+     "th": "ภาษาต่างประเทศ"
+    },
+    {
+     "en": "integrate (with)",
+     "th": "บูรณาการ / ผสมผสานเข้ากับ"
+    },
+    {
+     "en": "subject content",
+     "th": "เนื้อหาวิชา"
+    },
+    {
+     "en": "exposure",
+     "th": "การได้สัมผัสและได้ใช้ภาษา"
+    },
+    {
+     "en": "acquire a language",
+     "th": "รับภาษาเข้ามาจนใช้ได้เอง"
+    },
+    {
+     "en": "meaningful context",
+     "th": "บริบทที่มีความหมาย"
+    },
+    {
+     "en": "English Program (EP)",
+     "th": "หลักสูตรที่สอนวิชาต่างๆ เป็นภาษาอังกฤษ"
+    },
+    {
+     "en": "cognitive overload",
+     "th": "ภาระทางความคิดที่มากเกินไป"
+    }
+   ],
+   "paraphrases": [
+    "Many educators argue that a second language is acquired more effectively when it is taught through the content of other subjects.",
+    "It is often claimed that combining language teaching with subjects such as science or mathematics makes a foreign language easier to learn.",
+    "Some people believe that learners pick up a new language more quickly when they use it to study other school subjects."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยเขียนง่ายกว่าเพราะมีเหตุผลที่ชัดและเป็นรูปธรรม คือ ภาษาถูกใช้ในบริบทจริงทำให้จำศัพท์ได้นาน และนักเรียนได้ใช้ภาษามากขึ้นโดยไม่ต้องเพิ่มชั่วโมงเรียน อีกทั้งยกตัวอย่างโรงเรียนหลักสูตร EP ในไทยได้ทันที ส่วนฝั่งไม่เห็นด้วยมักต้องพูดถึงความพร้อมของครูและภาระของผู้เรียน ซึ่งเป็นปัญหาด้านการจัดการมากกว่าจะหักล้างแนวคิดนี้ได้จริง",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Integrating language with subject content gives learners a meaningful context, which makes vocabulary and structures easier to remember.",
+      "explain": "Words learned in order to understand a real concept are linked to meaning and experience rather than memorised in isolation.",
+      "example": "Pupils in an English Program in Khon Kaen learn 'evaporation' and 'condensation' while doing a water-cycle experiment and still remember the words months later."
+     },
+     {
+      "reason": "An integrated approach greatly increases learners' exposure to the target language without adding extra class hours.",
+      "explain": "Fluency requires a large amount of input and practice, which a few language periods each week cannot provide.",
+      "example": "A Thai secondary school that teaches part of its mathematics and health education in English gives students daily contact with English instead of three periods a week."
+     },
+     {
+      "reason": "Learners become more motivated when the language is a practical tool rather than an examination subject.",
+      "explain": "Students see an immediate reason to understand and use the language, so they make more effort.",
+      "example": "Nursing students who read short English articles on infection control in a health course realise that English will help them in their future work."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Learning new content and a new language at the same time can overload students.",
+      "explain": "Weaker learners may fail to understand either the language or the subject properly.",
+      "example": "A Grade 7 student with basic English may be unable to follow a science lesson about photosynthesis taught entirely in English."
+     },
+     {
+      "reason": "Many subject teachers lack the language proficiency to teach their subjects in a foreign language.",
+      "explain": "If teachers struggle with the language, lessons become confusing and may contain errors.",
+      "example": "A mathematics teacher at a provincial school may read slides in English but switch to Thai whenever students ask questions."
+     },
+     {
+      "reason": "Subject knowledge may suffer when lessons are delivered in a language students do not fully understand.",
+      "explain": "Teachers often simplify the content to match students' language level, so important concepts are covered less deeply.",
+      "example": "A history class taught in English may cover fewer events and less analysis than the same class taught in Thai."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Many educators argue that a second language is acquired more effectively through the content of other subjects. Thesis: I strongly agree because integration provides a meaningful context and much greater exposure.",
+    "body1": "Reason 1: Subject content gives language a real context, so new words are remembered; example of an English Program science lesson in Khon Kaen.",
+    "body2": "Reason 2: Integration increases daily exposure without extra hours; concession about weaker students plus rebuttal (teacher support); additional point on motivation.",
+    "conclusion": "Restate that integrated learning makes a foreign language easier to learn because of meaningful context and greater exposure; recommend wider use."
+   },
+   "model": [
+    "Many educators argue that a second language is acquired more effectively when it is taught through the content of other subjects rather than as an isolated school subject. I strongly agree with this view, as integrated learning gives language a meaningful purpose and greatly increases students' exposure to it.",
+    "First and foremost, combining a language with subject content provides a real context that makes new words and structures easier to remember. When students study English only through grammar exercises, the language often feels abstract and disconnected from their lives. In contrast, when they use English to explain the water cycle, every new word is attached to a concept they need to understand. For instance, pupils in an English Program in Khon Kaen learn terms such as 'evaporation' and 'condensation' while carrying out simple experiments, so the vocabulary is reinforced by hands-on experience. As a result, the language is absorbed naturally rather than memorised and quickly forgotten.",
+    "Furthermore, integration significantly increases the time learners spend using the target language without adding extra hours to an already crowded timetable. Most Thai students receive only a few English periods each week, which is rarely enough to build fluency. If mathematics or health education is partly delivered in English, students meet the language daily in a range of situations. Admittedly, weaker students may find this approach challenging at first; however, teachers can support them with visuals, glossaries and simplified tasks. Additionally, learners tend to be more motivated because they see the language as a practical tool rather than a test subject.",
+    "In conclusion, teaching a foreign language through another subject helps students learn it more easily because it offers a meaningful context and far greater exposure. I therefore firmly believe that schools and universities should make wider use of this integrated approach."
+   ],
+   "phrases": [
+    {
+     "en": "gives language a meaningful purpose",
+     "th": "ทำให้ภาษามีจุดมุ่งหมายในการใช้ที่มีความหมาย"
+    },
+    {
+     "en": "is reinforced by hands-on experience",
+     "th": "ได้รับการตอกย้ำด้วยประสบการณ์การลงมือทำจริง"
+    },
+    {
+     "en": "an already crowded timetable",
+     "th": "ตารางเรียนที่แน่นอยู่แล้ว"
+    },
+    {
+     "en": "a practical tool rather than a test subject",
+     "th": "เครื่องมือที่ใช้งานได้จริง มากกว่าเป็นแค่วิชาสำหรับสอบ"
+    },
+    {
+     "en": "make wider use of",
+     "th": "นำ...มาใช้ให้แพร่หลายมากขึ้น"
+    }
+   ]
+  },
+  {
+   "id": "R2",
+   "prompt": "Students value grades over learning.",
+   "prompt_fixed": "Students value grades more than learning. Do you agree or disagree?",
+   "th_explain": "โจทย์เป็นข้อความเชิงสังเกตพฤติกรรม ถามว่านักเรียนนักศึกษาให้ความสำคัญกับ 'เกรด' มากกว่า 'การเรียนรู้จริง' หรือไม่ โจทย์ไม่ได้ถามว่า 'ควร' ให้ความสำคัญกับอะไร จึงต้องอธิบายว่าสิ่งที่เกิดขึ้นจริงเป็นอย่างไรและเพราะอะไร คำสำคัญคือ value (ให้คุณค่า ให้ความสำคัญ) และ grades over learning (เกรดมาก่อนความรู้) กับดักคือเขียนเป็นบทความสอนนักเรียนให้ตั้งใจเรียน ซึ่งไม่ตอบโจทย์ และควรระวังการเหมารวม ให้ใช้ many students หรือ most students แทน all students",
+   "keywords": [
+    {
+     "en": "grades",
+     "th": "เกรด / ผลการเรียน"
+    },
+    {
+     "en": "value (v.)",
+     "th": "ให้ความสำคัญ / ให้คุณค่า"
+    },
+    {
+     "en": "genuine learning",
+     "th": "การเรียนรู้ที่แท้จริง"
+    },
+    {
+     "en": "grade point average (GPA / GPAX)",
+     "th": "เกรดเฉลี่ย / เกรดเฉลี่ยสะสม"
+    },
+    {
+     "en": "transcript",
+     "th": "ใบแสดงผลการเรียน"
+    },
+    {
+     "en": "rote memorisation",
+     "th": "การท่องจำแบบไม่เข้าใจ"
+    },
+    {
+     "en": "high-stakes assessment",
+     "th": "การสอบหรือการประเมินที่มีผลต่ออนาคตสูง"
+    },
+    {
+     "en": "curiosity",
+     "th": "ความใฝ่รู้ / ความอยากรู้"
+    }
+   ],
+   "paraphrases": [
+    "It is widely observed that many students care more about the marks they receive than about the knowledge they gain.",
+    "Some people believe that today's learners are more interested in achieving high grades than in genuinely understanding what they study.",
+    "It is often said that, for most students, the score on a report card matters more than the learning behind it."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยมีหลักฐานจากชีวิตจริงมากและยกตัวอย่างในบริบทไทยได้ง่าย เช่น การใช้ GPAX ในระบบ TCAS ทุนการศึกษา และพฤติกรรมอ่านหนังสือคืนก่อนสอบแล้วลืม ส่วนฝั่งไม่เห็นด้วยต้องพิสูจน์ว่านักเรียนส่วนใหญ่เรียนเพราะใฝ่รู้ ซึ่งหาตัวอย่างที่น่าเชื่อถือได้ยากกว่า",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "The education system rewards grades above everything else, so students naturally prioritise them.",
+      "explain": "University places, scholarships and even first jobs are often decided by grade point averages.",
+      "example": "Thai upper-secondary students know that their GPAX will be used in the university admission system, so they treat every test as a gate to pass."
+     },
+     {
+      "reason": "Students' study habits show that they aim to pass examinations rather than to understand.",
+      "explain": "Cramming the night before a test produces marks but very little lasting knowledge.",
+      "example": "Many university students memorise lecture slides before a mid-term examination and forget most of the content a week later."
+     },
+     {
+      "reason": "Parents and society judge young people's success mainly by their grades.",
+      "explain": "This pressure teaches students that the number on the report card is what matters most.",
+      "example": "Relatives often compare children's report cards at family gatherings during the school holidays."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Many students are genuinely curious and study topics that will never be graded.",
+      "explain": "Free online courses and videos allow learners to explore their interests without any marks involved.",
+      "example": "A Thai engineering student may spend his evenings learning to build mobile apps from free online tutorials simply because he enjoys it."
+     },
+     {
+      "reason": "In professional programmes, students know that real competence matters more than marks.",
+      "explain": "Future practitioners understand that patients or clients will depend on their actual skills.",
+      "example": "Nursing students practise clinical skills repeatedly because they know they will soon care for real patients on hospital wards."
+     },
+     {
+      "reason": "Students value grades mainly because grades are supposed to reflect learning.",
+      "explain": "For many learners, a good grade is simply evidence that they have learned well, not a goal in itself.",
+      "example": "A student who works hard to understand statistics usually earns a good grade as a natural result of that understanding."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Many students care more about marks than about knowledge. Thesis: I strongly agree because the system rewards grades and students' study habits reflect this priority.",
+    "body1": "Reason 1: Grades unlock opportunities such as university places and scholarships; example of GPAX in Thai university admission and pressure from parents.",
+    "body2": "Reason 2: Study habits show that learning comes second (cramming, easy electives); concession about passionate learners plus rebuttal; additional point about students asking what will be tested.",
+    "conclusion": "Restate that most students place grades above genuine learning because of future opportunities and exam-driven habits."
+   },
+   "model": [
+    "It is widely observed that many students care more about the marks they receive than about the knowledge they actually gain. I strongly agree with this observation, since the education system rewards high grades above all else and students' everyday study habits clearly reflect this priority.",
+    "The primary reason for this attitude is that grades act as the key to almost every opportunity a student wants. University admission, scholarships and even first jobs are often decided by a single number on a transcript. In Thailand, for example, secondary school students know that their cumulative grade point average will affect their chances in the national university admission system, so they naturally treat each test as a gate to pass rather than a chance to learn. Many parents also judge their children's success by report cards, adding further pressure. When the stakes are this high, it is hardly surprising that students focus on the score rather than the subject.",
+    "Moreover, the way students prepare for assessments shows that learning often comes second. A common strategy is to memorise large amounts of information the night before an examination and forget most of it a week later. Some university students also choose elective courses that are easy to pass rather than ones that genuinely interest them. Admittedly, there are passionate learners who study for the joy of understanding; however, they remain a minority in a system built around rankings. Additionally, students frequently ask teachers which topics will be tested, suggesting that their effort is guided by marks rather than curiosity.",
+    "In conclusion, students place grades above genuine learning because high marks unlock future opportunities and because their study habits are shaped by examinations. For these reasons, I firmly maintain that, for most students, the grade itself has become more important than what is learned."
+   ],
+   "phrases": [
+    {
+     "en": "the key to almost every opportunity",
+     "th": "กุญแจสู่โอกาสแทบทุกอย่าง"
+    },
+    {
+     "en": "a gate to pass rather than a chance to learn",
+     "th": "ด่านที่ต้องผ่านไปให้ได้ มากกว่าโอกาสในการเรียนรู้"
+    },
+    {
+     "en": "When the stakes are this high",
+     "th": "เมื่อสิ่งที่ได้หรือเสียมีผลสูงขนาดนี้"
+    },
+    {
+     "en": "learning often comes second",
+     "th": "การเรียนรู้มักถูกจัดไว้เป็นเรื่องรอง"
+    },
+    {
+     "en": "a system built around rankings",
+     "th": "ระบบที่สร้างขึ้นโดยยึดการจัดอันดับเป็นหลัก"
+    }
+   ]
+  },
+  {
+   "id": "R3",
+   "prompt": "Native English speaker is better teacher than non-native English speaker.",
+   "prompt_fixed": "A native English speaker is a better teacher than a non-native English speaker. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าครูที่เป็นเจ้าของภาษาอังกฤษสอนได้ดีกว่าครูที่ไม่ใช่เจ้าของภาษาหรือไม่ ประเด็นหลักคือ 'ความเป็นครูที่ดี' (better teacher) ไม่ใช่ 'ใครพูดภาษาอังกฤษเก่งกว่า' คำสำคัญคือ native speaker, non-native speaker และ teaching qualification กับดักคือเขียนแต่เรื่องสำเนียงจนลืมทักษะการสอน และควรหลีกเลี่ยงการโจมตีเชื้อชาติหรือสัญชาติ ให้เน้นที่คุณสมบัติและวิธีการสอนแทน โจทย์ต้นฉบับขาด article (A native English speaker is a better teacher) จึงไม่ควรลอกมาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "native speaker",
+     "th": "เจ้าของภาษา"
+    },
+    {
+     "en": "non-native speaker",
+     "th": "ผู้ที่ไม่ใช่เจ้าของภาษา"
+    },
+    {
+     "en": "first language (L1)",
+     "th": "ภาษาแม่"
+    },
+    {
+     "en": "teaching qualification",
+     "th": "คุณวุฒิทางการสอน"
+    },
+    {
+     "en": "TESOL",
+     "th": "การสอนภาษาอังกฤษแก่ผู้พูดภาษาอื่น (สาขาวิชา)"
+    },
+    {
+     "en": "anticipate errors",
+     "th": "คาดการณ์ข้อผิดพลาดล่วงหน้า"
+    },
+    {
+     "en": "pronunciation model",
+     "th": "ต้นแบบการออกเสียง"
+    },
+    {
+     "en": "role model",
+     "th": "แบบอย่าง"
+    }
+   ],
+   "paraphrases": [
+    "Many people assume that teachers who grew up speaking English are more effective than those who learned it as a second language.",
+    "It is commonly believed that English is best taught by people who speak it as their mother tongue.",
+    "Some argue that learners benefit more from native-speaking teachers than from local teachers of English."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วยเขียนได้หนักแน่นกว่า เพราะ 'การสอน' เป็นทักษะวิชาชีพที่ต้องฝึกฝน ไม่ได้มาจากการเกิดเป็นเจ้าของภาษา และครูไทยเข้าใจปัญหาของผู้เรียนไทยจากประสบการณ์ตรง ผู้เรียนซึ่งเป็นอาจารย์มหาวิทยาลัยไทยจึงยกตัวอย่างจากชีวิตจริงได้ง่าย ส่วนฝั่งเห็นด้วยมักมีเพียงเรื่องสำเนียงและวัฒนธรรม ซึ่งปัจจุบันหาฟังได้จากสื่อออนไลน์",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Native speakers provide a natural model of pronunciation and intonation.",
+      "explain": "Students hear authentic rhythm and stress, which helps them sound more natural.",
+      "example": "Thai students taught by a teacher from Australia may learn to link words smoothly, as in 'turn it off', instead of pronouncing each word separately."
+     },
+     {
+      "reason": "Native speakers know idiomatic and current everyday usage.",
+      "explain": "They can tell students which expressions sound natural and which sound old-fashioned or overly formal.",
+      "example": "A native-speaking teacher can explain that 'How do you do?' is rarely used in daily conversation today and suggest more natural greetings."
+     },
+     {
+      "reason": "Native speakers push students to use English because students cannot rely on Thai.",
+      "explain": "Learners must listen and respond in English, which builds real communication skills.",
+      "example": "In a conversation class with a teacher from Canada, students must ask for clarification in English instead of switching to Thai."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Non-native teachers understand learners' difficulties because they have gone through the same learning process.",
+      "explain": "They can predict typical errors and explain them by comparing English with the learners' first language.",
+      "example": "A Thai teacher knows that Thai verbs do not change form to show past time, so she can explain why students write 'She go to school yesterday.'"
+     },
+     {
+      "reason": "Teaching ability depends on training and experience, not on a person's first language.",
+      "explain": "Lesson planning, classroom management and assessment are professional skills that must be learned.",
+      "example": "A Thai lecturer with a master's degree in TESOL is usually more effective than an untrained traveller hired only because of his accent."
+     },
+     {
+      "reason": "Successful non-native teachers are realistic role models for learners.",
+      "explain": "They prove that a high level of English can be reached by someone who learned it as a foreign language.",
+      "example": "When students at a university in Khon Kaen see a Thai lecturer presenting confidently at an international conference, they believe they can do the same."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Many people assume that teachers who grew up speaking English are more effective. Thesis: I strongly disagree because non-native teachers understand learners' problems and teaching depends on training, not birthplace.",
+    "body1": "Reason 1: Non-native teachers have experienced the same learning process and can explain typical errors; example of a Thai teacher explaining past-tense errors.",
+    "body2": "Reason 2: Teaching is a professional skill; example of an untrained foreign visitor versus a Thai TESOL lecturer; concession on pronunciation plus rebuttal (online audio); additional point on role models.",
+    "conclusion": "Restate that a teacher's first language does not decide teaching quality; summarise insight into learners' problems and professional training."
+   },
+   "model": [
+    "Many people assume that teachers who grew up speaking English are automatically more effective than those who learned it as a second language. I strongly disagree with this belief, as non-native teachers understand learners' difficulties from personal experience, and effective teaching depends on professional training rather than birthplace.",
+    "First and foremost, non-native teachers have gone through the same learning process as their students, so they can anticipate and explain common problems. A Thai English teacher, for instance, knows that Thai verbs do not change form to show past time, which is why learners often write sentences such as 'She go to school yesterday.' Having struggled with the same point herself, the teacher can explain the rule clearly and compare it with Thai. A native speaker, by contrast, may use the language perfectly but find it hard to explain why a structure is correct.",
+    "Furthermore, teaching is a professional skill that requires training, and being a native speaker is not a teaching qualification. Lesson planning, classroom management and assessment design must all be learned. In some language schools, untrained foreign visitors are hired simply because of their accent, while a Thai lecturer with a master's degree in TESOL may be overlooked. Clearly, the qualified lecturer is far more likely to help students progress. Admittedly, native speakers offer a natural model of pronunciation; however, students can now hear authentic English through podcasts, films and online videos. In addition, a successful non-native teacher is an inspiring role model who proves that fluency is achievable.",
+    "In conclusion, a teacher's first language does not determine the quality of teaching. Non-native teachers bring valuable insight into learners' problems, and professional training matters far more than nationality. I am therefore convinced that skilled non-native teachers are just as effective as their native-speaking colleagues, and often more so."
+   ],
+   "phrases": [
+    {
+     "en": "anticipate and explain common problems",
+     "th": "คาดการณ์และอธิบายปัญหาที่พบบ่อยได้"
+    },
+    {
+     "en": "is not a teaching qualification",
+     "th": "ไม่ใช่คุณวุฒิทางการสอน"
+    },
+    {
+     "en": "a natural model of pronunciation",
+     "th": "ต้นแบบการออกเสียงที่เป็นธรรมชาติ"
+    },
+    {
+     "en": "an inspiring role model",
+     "th": "แบบอย่างที่สร้างแรงบันดาลใจ"
+    },
+    {
+     "en": "matters far more than nationality",
+     "th": "สำคัญกว่าสัญชาติมาก"
+    }
+   ]
+  },
+  {
+   "id": "R4",
+   "prompt": "Students perform better in school when they are rewarded rather than punished.",
+   "prompt_fixed": "Students perform better in school when they are rewarded rather than punished. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการให้รางวัล (reward) ทำให้นักเรียนมีผลการเรียนและพฤติกรรมในโรงเรียนดีกว่าการลงโทษ (punishment) หรือไม่ คำว่า reward ครอบคลุมทั้งคำชม คะแนนพิเศษ สติกเกอร์ หรือสิทธิพิเศษ ส่วน punishment หมายถึงการทำโทษ การดุว่า การหักคะแนน หรือการทำให้อับอาย ขอบเขตคือ 'perform better in school' ซึ่งรวมทั้งด้านการเรียนและพฤติกรรม กับดักคือเขียนว่า 'ควรใช้ทั้งสองอย่างผสมกัน' ซึ่งเป็นการตอบกลางๆ และเสียคะแนน Task Response ควรเลือกข้างเดียวให้ชัด",
+   "keywords": [
+    {
+     "en": "reward",
+     "th": "รางวัล / ให้รางวัล"
+    },
+    {
+     "en": "punishment",
+     "th": "การลงโทษ"
+    },
+    {
+     "en": "positive reinforcement",
+     "th": "การเสริมแรงทางบวก"
+    },
+    {
+     "en": "motivation",
+     "th": "แรงจูงใจ"
+    },
+    {
+     "en": "self-esteem",
+     "th": "ความภาคภูมิใจในตนเอง"
+    },
+    {
+     "en": "classroom atmosphere",
+     "th": "บรรยากาศในชั้นเรียน"
+    },
+    {
+     "en": "discipline",
+     "th": "วินัย / การรักษาระเบียบ"
+    },
+    {
+     "en": "humiliate",
+     "th": "ทำให้อับอายขายหน้า"
+    }
+   ],
+   "paraphrases": [
+    "There is ongoing debate about whether praise and incentives or penalties are the better way to improve students' performance.",
+    "Some people believe that learners achieve more at school when good work is rewarded instead of poor work being punished.",
+    "It is often argued that encouragement is a more effective tool than punishment for helping students succeed."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยเขียนง่ายและมีน้ำหนักกว่า เพราะสอดคล้องกับหลักจิตวิทยาการศึกษาเรื่องการเสริมแรงทางบวก และหาตัวอย่างในโรงเรียนไทยได้ง่าย เช่น การชมเชยหรือการให้สติกเกอร์ ในขณะที่การลงโทษมีผลเสียที่อธิบายได้ชัด เช่น ความกลัว ความอับอาย และการพลาดบทเรียน ฝั่งไม่เห็นด้วยเขียนได้แต่เสี่ยงถูกมองว่าสนับสนุนการลงโทษที่รุนแรง",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Rewards create a positive learning environment, whereas punishment creates fear.",
+      "explain": "Anxious students avoid answering questions and taking risks, which are necessary parts of learning.",
+      "example": "Pupils at a rural primary school in Khon Kaen who receive stickers and praise for finishing reading books start to compete happily to read more."
+     },
+     {
+      "reason": "Rewards show students clearly what they should do, not only what they should avoid.",
+      "explain": "Reinforcing good behaviour gives the whole class a clear model to follow.",
+      "example": "Making a student stand outside for forgetting homework only makes him miss the lesson, while praising punctual work encourages others to submit on time."
+     },
+     {
+      "reason": "Frequent punishment damages self-esteem and can push students away from school.",
+      "explain": "Students who feel like failures lose interest and may stop trying altogether.",
+      "example": "A teenager who is regularly scolded in front of classmates may begin skipping classes to avoid embarrassment."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Punishment teaches students that actions have consequences.",
+      "explain": "Clear penalties help learners understand rules that they will also face in adult life.",
+      "example": "Students who lose marks for late submission learn to manage deadlines, just as employees must meet deadlines at work."
+     },
+     {
+      "reason": "Rewards can make students work only for prizes rather than for learning.",
+      "explain": "When the rewards stop, motivation may disappear as well.",
+      "example": "Pupils who read only to earn stickers may stop reading once the sticker chart is removed."
+     },
+     {
+      "reason": "Some serious behaviour problems require firm penalties to protect other students.",
+      "explain": "Rewards alone may not stop bullying or cheating.",
+      "example": "A school may need to suspend a student who repeatedly bullies younger pupils in order to keep everyone safe."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: There is ongoing debate about whether incentives or penalties improve students' performance. Thesis: I strongly agree that rewards work better because they build lasting motivation and show students what success looks like.",
+    "body1": "Reason 1: Rewards create a positive environment while punishment causes fear; example of stickers and praise for reading at a rural school in Khon Kaen.",
+    "body2": "Reason 2: Rewards highlight desirable behaviour; example contrasting standing outside the classroom with praising punctual work; concession about rules plus rebuttal (positive reinforcement); additional point on self-esteem.",
+    "conclusion": "Restate that rewards are more effective than punishment; summarise the supportive atmosphere and clear reinforcement of desirable behaviour."
+   },
+   "model": [
+    "There is ongoing debate about whether praise and incentives or penalties are the better way to improve students' performance. I strongly agree that learners achieve more when they are rewarded than when they are punished, as rewards build lasting motivation and clearly show students what success looks like.",
+    "The most compelling reason for this view is that rewards create a positive learning environment, whereas punishment generates fear. Students afraid of being scolded or embarrassed in front of classmates tend to avoid answering questions and taking risks, both essential parts of learning. Recognition, on the other hand, encourages them to participate and keep trying. For instance, a rural primary school teacher in Khon Kaen might give stickers and public praise to pupils who finish a reading book each week. Over a term, children who once disliked reading may compete happily to read more, showing how encouragement can turn effort into a habit.",
+    "Furthermore, rewards guide behaviour more effectively because they highlight what students should do, not merely what they should avoid. Making a student stand outside the classroom for forgetting homework, for example, only removes the learner from the lesson, so he or she falls even further behind. By contrast, rewarding students who submit work on time sets a clear example for the whole class. Admittedly, schools still need clear rules; however, these rules can be maintained through positive reinforcement rather than humiliating punishment. Additionally, frequent punishment damages self-esteem, and students who feel like failures often lose interest in school altogether.",
+    "In conclusion, rewarding students is more effective than punishing them because it builds a supportive classroom atmosphere and clearly reinforces desirable behaviour. I therefore firmly believe that teachers and parents should rely on encouragement rather than penalties to help young people reach their full potential."
+   ],
+   "parts": {
+    "intro": "There is ongoing debate about whether praise and incentives or penalties are the better way to improve students' performance. I strongly agree that learners achieve more when they are rewarded than when they are punished, as rewards build lasting motivation and clearly show students what success looks like.",
+    "body1": "The most compelling reason for this view is that rewards create a positive learning environment, whereas punishment generates fear. Students afraid of being scolded or embarrassed in front of classmates tend to avoid answering questions and taking risks, both essential parts of learning. Recognition, on the other hand, encourages them to participate and keep trying. For instance, a rural primary school teacher in Khon Kaen might give stickers and public praise to pupils who finish a reading book each week. Over a term, children who once disliked reading may compete happily to read more, showing how encouragement can turn effort into a habit.",
+    "body2": "Furthermore, rewards guide behaviour more effectively because they highlight what students should do, not merely what they should avoid. Making a student stand outside the classroom for forgetting homework, for example, only removes the learner from the lesson, so he or she falls even further behind. By contrast, rewarding students who submit work on time sets a clear example for the whole class. Admittedly, schools still need clear rules; however, these rules can be maintained through positive reinforcement rather than humiliating punishment. Additionally, frequent punishment damages self-esteem, and students who feel like failures often lose interest in school altogether.",
+    "conclusion": "In conclusion, rewarding students is more effective than punishing them because it builds a supportive classroom atmosphere and clearly reinforces desirable behaviour. I therefore firmly believe that teachers and parents should rely on encouragement rather than penalties to help young people reach their full potential."
+   },
+   "phrases": [
+    {
+     "en": "build lasting motivation",
+     "th": "สร้างแรงจูงใจที่ยั่งยืน"
+    },
+    {
+     "en": "turn effort into a habit",
+     "th": "เปลี่ยนความพยายามให้กลายเป็นนิสัย"
+    },
+    {
+     "en": "falls even further behind",
+     "th": "ยิ่งตามไม่ทันมากขึ้นไปอีก"
+    },
+    {
+     "en": "positive reinforcement",
+     "th": "การเสริมแรงทางบวก"
+    },
+    {
+     "en": "reach their full potential",
+     "th": "พัฒนาได้เต็มศักยภาพ"
+    }
+   ]
+  },
+  {
+   "id": "R5",
+   "prompt": "Online courses are preferable to face-to-face courses.",
+   "prompt_fixed": "Online courses are preferable to face-to-face courses. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการเรียนออนไลน์ 'ดีกว่าหรือน่าเลือกมากกว่า' การเรียนแบบพบหน้าในห้องเรียนหรือไม่ คำสำคัญคือ preferable to (ดีกว่า น่าเลือกกว่า) ซึ่งเป็นการเปรียบเทียบสองรูปแบบโดยตรง จึงต้องเขียนในเชิงเปรียบเทียบ ไม่ใช่เขียนแค่ข้อดีหรือข้อเสียของการเรียนออนไลน์อย่างเดียว กับดักคือเขียนว่า 'ดีทั้งคู่แล้วแต่สถานการณ์' หรือเสนอ blended learning เป็นคำตอบหลัก ซึ่งเป็นการตอบกลางๆ และระวังอย่าเขียนซ้ำกับโจทย์ R15 ที่ถามเรื่องผลกระทบต่อชีวิตนักเรียน",
+   "keywords": [
+    {
+     "en": "online course",
+     "th": "รายวิชาหรือหลักสูตรออนไลน์"
+    },
+    {
+     "en": "face-to-face course",
+     "th": "การเรียนแบบพบหน้าในชั้นเรียน"
+    },
+    {
+     "en": "preferable to",
+     "th": "ดีกว่า / น่าเลือกมากกว่า"
+    },
+    {
+     "en": "interaction",
+     "th": "ปฏิสัมพันธ์"
+    },
+    {
+     "en": "immediate feedback",
+     "th": "ผลป้อนกลับทันที"
+    },
+    {
+     "en": "hands-on practice",
+     "th": "การฝึกปฏิบัติจริง"
+    },
+    {
+     "en": "flexibility",
+     "th": "ความยืดหยุ่น"
+    },
+    {
+     "en": "distraction",
+     "th": "สิ่งรบกวนสมาธิ"
+    }
+   ],
+   "paraphrases": [
+    "With the rapid growth of digital platforms, many people now claim that studying online is superior to attending classes in person.",
+    "Some people believe that internet-based courses are a better choice than traditional classroom teaching.",
+    "It is often argued that learners gain more from online programmes than from lessons in a physical classroom."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วยมีน้ำหนักกว่า เพราะการเรียนในห้องให้ปฏิสัมพันธ์และผลป้อนกลับทันที และหลายสาขา เช่น พยาบาล สาธารณสุข และวิทยาศาสตร์ ต้องฝึกปฏิบัติจริงภายใต้การดูแล นอกจากนี้ผู้เรียนมีประสบการณ์ตรงจากช่วง COVID-19 ที่ต้องสอนออนไลน์และเห็นปัญหาจริง จึงยกตัวอย่างได้ง่ายและน่าเชื่อถือ",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Online courses offer flexibility for people who work or live far from a university.",
+      "explain": "Learners can study at any time and place, so education fits around their jobs and family duties.",
+      "example": "A nurse working shifts at a district hospital in Loei can complete an online master's course without leaving her job."
+     },
+     {
+      "reason": "Online learning is often cheaper for students.",
+      "explain": "Students save money on travel, accommodation and printed materials.",
+      "example": "A student from a remote village does not need to rent a room near the campus in Khon Kaen city."
+     },
+     {
+      "reason": "Online materials can be reviewed as many times as necessary.",
+      "explain": "Recorded lectures allow learners to pause, replay and study difficult points at their own pace.",
+      "example": "A student who misses a key explanation in a statistics class can watch the recording again before the examination."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Face-to-face classes allow immediate interaction and feedback.",
+      "explain": "Teachers can notice confusion and respond at once, and students can discuss ideas with classmates.",
+      "example": "During the COVID-19 school closures, many Thai teachers taught to screens of switched-off cameras and could not tell whether students understood."
+     },
+     {
+      "reason": "Many subjects require hands-on practice under supervision.",
+      "explain": "Practical skills must be observed and corrected in person.",
+      "example": "Nursing students need to practise measuring blood pressure and giving injections on real equipment with an instructor beside them."
+     },
+     {
+      "reason": "Classrooms provide a focused environment with fewer distractions.",
+      "explain": "At home, learners are surrounded by social media, household duties and noise.",
+      "example": "A university student attending an online lecture from home may be interrupted repeatedly by family members and phone notifications."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Many people now claim that studying online is superior to attending classes in person. Thesis: I strongly disagree because face-to-face courses offer richer interaction and are essential for practical skills.",
+    "body1": "Reason 1: Classrooms allow immediate interaction and feedback; example of Thai teachers facing switched-off cameras during the COVID-19 closures.",
+    "body2": "Reason 2: Many subjects need hands-on practice; example of nursing and laboratory skills; concession on flexibility plus rebuttal; additional point on distractions at home.",
+    "conclusion": "Restate that face-to-face courses are better because of interaction and practical training; online courses should complement classroom teaching."
+   },
+   "model": [
+    "With the rapid growth of digital platforms, many people now claim that studying online is superior to attending classes in person. I strongly disagree with this claim, because face-to-face courses offer richer interaction and are essential for developing practical skills.",
+    "First and foremost, classroom learning allows immediate and meaningful interaction between teachers and students. In a physical classroom, a lecturer can notice confused faces, stop to clarify a point and adjust the pace of the lesson at once. Students can also discuss ideas with classmates, which deepens their understanding. In online courses, by contrast, many learners keep their cameras off and rarely speak, so misunderstandings remain hidden until the examination. During the COVID-19 school closures, for example, many Thai teachers found themselves teaching to a screen of black boxes with no idea whether anyone was following. Such limited communication inevitably weakens learning.",
+    "Moreover, many subjects require hands-on practice that cannot be replicated through a screen. Nursing students must learn to measure blood pressure and give injections on real equipment under close supervision, and science students need to handle laboratory instruments safely. A video may demonstrate the steps, but it cannot correct a student's hand position or build the confidence that comes from real practice. Admittedly, online courses are flexible and convenient for working adults; nevertheless, convenience is of little value if graduates lack the competence their jobs demand. Additionally, studying at home exposes learners to constant distractions, from social media to household duties.",
+    "In conclusion, face-to-face courses remain the better choice because they support genuine interaction and provide the practical training that many professions require. I therefore firmly believe that online courses should complement, rather than replace, traditional classroom teaching."
+   ],
+   "phrases": [
+    {
+     "en": "adjust the pace of the lesson",
+     "th": "ปรับจังหวะความเร็วของบทเรียน"
+    },
+    {
+     "en": "cannot be replicated through a screen",
+     "th": "ไม่สามารถทำซ้ำหรือจำลองผ่านหน้าจอได้"
+    },
+    {
+     "en": "under close supervision",
+     "th": "ภายใต้การดูแลอย่างใกล้ชิด"
+    },
+    {
+     "en": "convenience is of little value",
+     "th": "ความสะดวกแทบไม่มีคุณค่า (ถ้า...)"
+    },
+    {
+     "en": "complement, rather than replace,",
+     "th": "เสริม มากกว่าที่จะเข้ามาแทนที่"
+    }
+   ]
+  },
+  {
+   "id": "R6",
+   "prompt": "Some people think that they can learn better by themselves than with a teacher.",
+   "prompt_fixed": "Some people think that they can learn better by themselves than with a teacher. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการเรียนรู้ด้วยตนเอง (self-study) ได้ผลดีกว่าการเรียนกับครูหรือไม่ โจทย์ไม่ได้จำกัดว่าเรียนเรื่องอะไร จึงยกตัวอย่างได้ทั้งภาษา ทักษะวิชาชีพ และวิชาการ คำสำคัญคือ by themselves (ด้วยตนเอง) และ with a teacher (มีครูสอนหรือชี้แนะ) กับดักคือเขียนข้อดีของอินเทอร์เน็ตแบบกว้างๆ โดยไม่เปรียบเทียบกับการมีครู และอย่าตอบว่า 'ต้องใช้ทั้งสองอย่าง' เพราะเป็นการไม่เลือกข้าง โจทย์นี้ถูกไวยากรณ์อยู่แล้ว แต่ใน Introduction ต้อง paraphrase ไม่ลอกมาตรงๆ",
+   "keywords": [
+    {
+     "en": "self-study / independent learning",
+     "th": "การเรียนรู้ด้วยตนเอง"
+    },
+    {
+     "en": "guidance",
+     "th": "การชี้แนะ / คำแนะนำ"
+    },
+    {
+     "en": "feedback",
+     "th": "ผลป้อนกลับ / คำติชม"
+    },
+    {
+     "en": "accountability",
+     "th": "การมีผู้ติดตามตรวจสอบและต้องรับผิดชอบต่อผลงาน"
+    },
+    {
+     "en": "self-discipline",
+     "th": "วินัยในตนเอง"
+    },
+    {
+     "en": "fossilised errors",
+     "th": "ข้อผิดพลาดที่ติดเป็นนิสัยจนแก้ยาก"
+    },
+    {
+     "en": "structured learning",
+     "th": "การเรียนรู้อย่างเป็นระบบ"
+    },
+    {
+     "en": "learning resources",
+     "th": "แหล่งเรียนรู้ / สื่อการเรียนรู้"
+    }
+   ],
+   "paraphrases": [
+    "Some people believe that independent study is a more effective way to learn than being taught by a teacher.",
+    "It is sometimes claimed that learners make more progress on their own than in a class led by an instructor.",
+    "Certain individuals feel that, with so many resources available online, they no longer need a teacher in order to learn well."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วยเขียนได้หนักแน่น เพราะมีเหตุผลที่จับต้องได้สองข้อ คือ ครูให้โครงสร้างและผลป้อนกลับที่ผู้เรียนให้ตัวเองไม่ได้ และครูช่วยสร้างวินัยและความต่อเนื่องในการเรียน ตัวอย่างใกล้ตัวมาก เช่น คนที่ซื้อคอร์สออนไลน์แล้วเรียนไม่จบ ส่วนฝั่งเห็นด้วยเขียนได้ แต่มักใช้ได้กับคนส่วนน้อยที่มีวินัยสูงมากเท่านั้น",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Self-learners can study at their own pace and choose topics that interest them.",
+      "explain": "They do not have to wait for slower classmates or repeat material they already know.",
+      "example": "A university student can learn Python programming from free online tutorials in the evenings, moving quickly through the easy sections."
+     },
+     {
+      "reason": "Independent learning builds responsibility and lifelong learning skills.",
+      "explain": "People who learn alone must plan, search for information and evaluate sources themselves.",
+      "example": "A public health officer who teaches himself data analysis through online courses develops skills he can keep updating throughout his career."
+     },
+     {
+      "reason": "The internet now offers high-quality resources that were once available only through teachers.",
+      "explain": "Video lectures, online dictionaries and practice platforms are free and accessible at any time.",
+      "example": "A learner in a small district of Kalasin can watch lectures from world-class universities on a smartphone."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Teachers provide structure and expert feedback that self-learners cannot give themselves.",
+      "explain": "Learners studying alone often do not know what to study first and cannot recognise their own errors.",
+      "example": "A person practising English pronunciation alone with videos may repeat the same mistakes for months, while a teacher could correct them in one lesson."
+     },
+     {
+      "reason": "Teachers keep learners motivated and accountable.",
+      "explain": "Deadlines, quizzes and a teacher's expectations encourage steady effort when the material becomes difficult.",
+      "example": "Many adults buy online courses with enthusiasm but never finish them because nobody checks their progress."
+     },
+     {
+      "reason": "Teachers can adapt explanations to individual learners.",
+      "explain": "A good teacher notices confusion and explains the same idea in a different way.",
+      "example": "A mathematics tutor who sees that a student does not understand fractions can use pieces of fruit to make the concept clear."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Some people believe that independent study is more effective than being taught by a teacher. Thesis: I strongly disagree because teachers provide expert guidance and keep learners accountable.",
+    "body1": "Reason 1: Teachers give structure and feedback; example of self-taught pronunciation errors that a teacher could correct in one lesson.",
+    "body2": "Reason 2: Teachers keep learners motivated and accountable; example of unfinished online courses; concession on free internet resources plus rebuttal.",
+    "conclusion": "Restate that learning with a teacher is more effective; summarise direction, feedback and accountability."
+   },
+   "model": [
+    "Some people believe that independent study is a more effective way to learn than being taught by a teacher, especially now that so much information is available online. I strongly disagree with this view, since teachers provide expert guidance and keep learners accountable.",
+    "The primary reason is that teachers offer structure and feedback that self-learners cannot easily give themselves. A person studying alone often does not know what to learn first or how topics connect, so he or she may waste time on material that is too difficult or irrelevant. More importantly, self-learners frequently cannot recognise their own mistakes. For example, someone who practises English pronunciation by copying online videos may repeat the same errors for months without realising it, whereas a teacher could identify and correct the problem in a single lesson. Expert feedback therefore prevents bad habits from becoming permanent.",
+    "Furthermore, a teacher keeps learners motivated and accountable. Studying alone requires exceptional self-discipline, and most people find it hard to continue when the material becomes difficult or when work and family responsibilities increase. Many adults, for instance, enthusiastically buy online courses but never finish them because nobody checks their progress. In a class, by contrast, regular deadlines, quizzes and a teacher's expectations encourage steady effort. It is true that the internet offers endless free resources; however, information alone is not the same as instruction, and learners still need someone to select and explain it.",
+    "In conclusion, learning with a teacher is more effective than studying alone because teachers provide clear direction, accurate feedback and the accountability that sustains effort. For these reasons, I firmly believe that most people make greater progress under a teacher's guidance than on their own."
+   ],
+   "phrases": [
+    {
+     "en": "keep learners accountable",
+     "th": "ทำให้ผู้เรียนมีความรับผิดชอบและถูกติดตามผล"
+    },
+    {
+     "en": "prevents bad habits from becoming permanent",
+     "th": "ป้องกันไม่ให้นิสัยที่ผิดกลายเป็นสิ่งถาวร"
+    },
+    {
+     "en": "exceptional self-discipline",
+     "th": "วินัยในตนเองที่สูงเป็นพิเศษ"
+    },
+    {
+     "en": "information alone is not the same as instruction",
+     "th": "ข้อมูลเพียงอย่างเดียวไม่เท่ากับการสอน"
+    },
+    {
+     "en": "the accountability that sustains effort",
+     "th": "การถูกติดตามผลที่ช่วยให้ความพยายามต่อเนื่อง"
+    }
+   ]
+  },
+  {
+   "id": "R7",
+   "prompt": "Big salary is much more important than job satisfaction.",
+   "prompt_fixed": "A big salary is much more important than job satisfaction. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าเงินเดือนสูงสำคัญกว่าความพึงพอใจหรือความสุขในงานมากหรือไม่ คำสำคัญคือ big salary (รายได้สูง) และ job satisfaction (ความพึงพอใจในงาน) และมีคำว่า much more important จึงต้องแสดงให้เห็นว่าฝั่งที่เลือกสำคัญกว่าอย่างชัดเจน ผู้เรียนมี essay ตัวอย่างฝั่ง Disagree แล้ว 2 ฉบับ ฉบับนี้จึงเขียนฝั่ง Agree เพื่อให้เห็นว่าเขียนได้ทั้งสองข้างถ้ามีเหตุผลและตัวอย่างที่ดี กับดักคือยอมรับฝั่งตรงข้ามมากเกินไปจนดูเหมือนเปลี่ยนข้าง ให้ใช้ concession เพียงประโยคเดียวแล้วหักล้างทันที โจทย์ต้นฉบับขาด article (A big salary) จึงไม่ควรลอกมาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "salary / income",
+     "th": "เงินเดือน / รายได้"
+    },
+    {
+     "en": "job satisfaction",
+     "th": "ความพึงพอใจในงาน"
+    },
+    {
+     "en": "financial security",
+     "th": "ความมั่นคงทางการเงิน"
+    },
+    {
+     "en": "financial obligations",
+     "th": "ภาระทางการเงิน"
+    },
+    {
+     "en": "student loan",
+     "th": "เงินกู้ยืมเพื่อการศึกษา (เช่น กยศ.)"
+    },
+    {
+     "en": "personal fulfilment",
+     "th": "ความรู้สึกเติมเต็มในชีวิต"
+    },
+    {
+     "en": "ageing parents",
+     "th": "พ่อแม่ที่สูงวัย"
+    },
+    {
+     "en": "long-term freedom",
+     "th": "อิสรภาพในระยะยาว"
+    }
+   ],
+   "paraphrases": [
+    "Whether people should prioritise a generous income or an enjoyable job is a question that most employees face at some point.",
+    "Some people argue that earning a high income matters far more than finding personal satisfaction at work.",
+    "It is often claimed that a well-paid position is a better choice than a job that is enjoyable but poorly paid."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ผู้เรียนมีตัวอย่างฝั่ง Disagree อยู่แล้ว ฉบับนี้จึงตั้งใจเขียนฝั่ง Agree เพื่อฝึกมองอีกด้าน ฝั่งนี้เขียนได้หนักแน่นเพราะเหตุผลเรื่องความมั่นคงทางการเงินเป็นรูปธรรมมาก และเชื่อมกับบริบทไทยได้ดี เช่น ภาระการดูแลพ่อแม่และหนี้ กยศ. อีกทั้งชี้ได้ว่าความพึงพอใจในงานไม่แน่นอน ส่วนความสุขสามารถหาได้นอกเวลางานถ้ามีรายได้เพียงพอ",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "A high salary provides financial security for individuals and their families.",
+      "explain": "Housing, healthcare, children's education and retirement all require money that enthusiasm cannot provide.",
+      "example": "A young graduate from a rural province who must repay a student loan and support ageing parents needs a well-paid job to avoid constant financial stress."
+     },
+     {
+      "reason": "Money creates long-term freedom and choices, whereas job satisfaction is often temporary.",
+      "explain": "Even an enjoyable job can become routine, but savings can be invested and used for future plans.",
+      "example": "An engineer who saves part of a high salary for ten years may later open a small cafe, his true passion, without borrowing money."
+     },
+     {
+      "reason": "Financial worry causes more stress than an unexciting job.",
+      "explain": "Debt and unpaid bills affect sleep, health and family relationships.",
+      "example": "A teacher with a low salary may take evening tutoring jobs to pay off debts, leaving little time for rest or family."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Job satisfaction gives people a sense of purpose that money cannot buy.",
+      "explain": "Meaningful work reduces stress and improves overall well-being.",
+      "example": "A doctor who chooses to work at a community hospital in a remote district may earn less but feels proud of serving local patients."
+     },
+     {
+      "reason": "People who enjoy their work are more productive and progress further in their careers.",
+      "explain": "Motivation leads to better performance, new skills and promotion.",
+      "example": "A designer who loves her work may spend extra time improving her portfolio and eventually become head of her department."
+     },
+     {
+      "reason": "A high salary in an unpleasant job can lead to burnout.",
+      "explain": "Long hours and pressure may damage health, so the extra money is spent on treatment or recovery.",
+      "example": "An office worker in Bangkok who earns a large salary but works until midnight every day may develop chronic stress and eventually resign."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Whether people should prioritise a generous income or an enjoyable job is a common question. Thesis: I strongly agree that a high salary is far more important because it provides security and creates freedom.",
+    "body1": "Reason 1: A substantial income provides security for the whole family; example of a young graduate repaying a student loan and supporting parents.",
+    "body2": "Reason 2: Money creates long-term freedom while satisfaction is temporary; hobbies and further study outside work; concession about unpleasant jobs plus rebuttal (financial worry is worse).",
+    "conclusion": "Restate that a generous salary matters more because it guarantees family security and opens doors to a fulfilling life beyond work."
+   },
+   "model": [
+    "Whether people should prioritise a generous income or an enjoyable job is a question that most employees face at some point. I strongly agree that a high salary is far more important than job satisfaction, as financial security is the foundation of a stable life and creates the freedom to find happiness outside work.",
+    "First and foremost, a substantial income provides the security that individuals and their families depend on. Rent, healthcare, children's education and retirement savings all require money, and no amount of enthusiasm for a job can pay these bills. In Thai society, where many adult children are expected to support their ageing parents, this responsibility is even heavier. For example, a young graduate from a rural province who must repay a student loan and send money home every month would face constant financial stress in a poorly paid but enjoyable position. A well-paid job, by contrast, allows the same person to meet these obligations with confidence.",
+    "Furthermore, a high salary creates long-term freedom, whereas job satisfaction is often temporary. Even a dream job can become routine after a few years, and a new manager or company policy can quickly destroy the enjoyment it once offered. Money, on the other hand, can be saved and invested. A well-paid employee can afford hobbies, travel and further study, so personal fulfilment can be found outside the workplace. Admittedly, an unpleasant job can be tiring; nevertheless, financial worry is usually a far greater and more lasting source of stress.",
+    "In conclusion, a generous salary matters more than job satisfaction because it guarantees security for the whole family and opens doors to a fulfilling life beyond work. I therefore firmly believe that income should be the top priority when choosing a career."
+   ],
+   "phrases": [
+    {
+     "en": "the foundation of a stable life",
+     "th": "รากฐานของชีวิตที่มั่นคง"
+    },
+    {
+     "en": "no amount of enthusiasm",
+     "th": "ความกระตือรือร้นมากเท่าใดก็ตาม (ก็ไม่สามารถ...)"
+    },
+    {
+     "en": "meet these obligations with confidence",
+     "th": "รับผิดชอบภาระเหล่านี้ได้อย่างมั่นใจ"
+    },
+    {
+     "en": "a far greater and more lasting source of stress",
+     "th": "ต้นเหตุของความเครียดที่หนักกว่าและยาวนานกว่ามาก"
+    },
+    {
+     "en": "opens doors to",
+     "th": "เปิดโอกาสไปสู่"
+    }
+   ]
+  },
+  {
+   "id": "R8",
+   "prompt": "Young people are the best change makers.",
+   "prompt_fixed": "Young people are the best agents of change in society. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าคนรุ่นใหม่เป็นกลุ่มที่สร้างการเปลี่ยนแปลงในสังคมได้ดีที่สุดหรือไม่ คำว่า the best หมายถึงดีที่สุดเมื่อเทียบกับกลุ่มอื่น เช่น ผู้ใหญ่ ผู้มีประสบการณ์ หรือผู้มีอำนาจ จึงควรมีการเปรียบเทียบด้วย คำว่า change makers (ผู้สร้างการเปลี่ยนแปลง) paraphrase ได้เป็น agents of change หรือ drivers of change กับดักคือเขียนแค่ว่าคนรุ่นใหม่มีความสามารถ โดยไม่อธิบายว่าทำไมจึงเหนือกว่ากลุ่มอื่น และควรเลือกตัวอย่างที่เป็นกลาง เช่น สิ่งแวดล้อม จิตอาสา หรือการช่วยเหลือผู้ประสบภัย หลีกเลี่ยงประเด็นการเมืองที่อ่อนไหว",
+   "keywords": [
+    {
+     "en": "change maker / agent of change",
+     "th": "ผู้สร้างการเปลี่ยนแปลง"
+    },
+    {
+     "en": "the younger generation",
+     "th": "คนรุ่นใหม่"
+    },
+    {
+     "en": "mobilise",
+     "th": "ระดมคน / ระดมการสนับสนุน"
+    },
+    {
+     "en": "social media",
+     "th": "สื่อสังคมออนไลน์"
+    },
+    {
+     "en": "open-minded",
+     "th": "เปิดกว้างทางความคิด"
+    },
+    {
+     "en": "outdated",
+     "th": "ล้าสมัย"
+    },
+    {
+     "en": "the status quo",
+     "th": "สภาพที่เป็นอยู่เดิม"
+    },
+    {
+     "en": "volunteer",
+     "th": "อาสาสมัคร / จิตอาสา"
+    }
+   ],
+   "paraphrases": [
+    "It is often said that the younger generation is the driving force behind social progress.",
+    "Some people believe that youth, rather than older generations, are the most effective agents of change.",
+    "Many argue that real social change is most likely to come from young people."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยมีเหตุผลที่เห็นภาพชัด คือ คนรุ่นใหม่ใช้เทคโนโลยีระดมคนได้รวดเร็ว และกล้าตั้งคำถามกับสิ่งเดิม ตัวอย่างในไทยหาได้ง่าย เช่น นักศึกษาระดมเงินช่วยผู้ประสบอุทกภัย หรือรณรงค์ลดการใช้พลาสติก ส่วนจุดอ่อนเรื่องขาดประสบการณ์สามารถยอมรับสั้นๆ แล้วหักล้างได้ว่าประสบการณ์ขอคำแนะนำจากผู้อื่นได้ แต่วิสัยทัศน์ใหม่และความกล้าสอนกันได้ยาก",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Young people can spread ideas and organise action quickly through technology.",
+      "explain": "They are skilled at creating content and reaching large audiences through social media.",
+      "example": "When floods hit provinces in northeastern Thailand, university students used online platforms to raise donations and coordinate volunteers within hours."
+     },
+     {
+      "reason": "Young people are more open-minded and willing to challenge outdated practices.",
+      "explain": "They are less attached to existing systems and more ready to ask whether things could be done differently.",
+      "example": "Student groups have led campaigns to reduce single-use plastic bags on campuses and in local markets."
+     },
+     {
+      "reason": "Young people have the strongest stake in the future.",
+      "explain": "They will live longest with the results of today's decisions, which gives them a powerful reason to act.",
+      "example": "Secondary students in Chiang Mai who suffer from seasonal haze every year are motivated to campaign against the burning of crop waste."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Real change requires experience and knowledge that young people often lack.",
+      "explain": "Without understanding how systems work, good ideas may fail in practice.",
+      "example": "A student project to reorganise a local market may collapse because the organisers do not understand the vendors' financial situation."
+     },
+     {
+      "reason": "Older people hold the power and resources needed to put change into practice.",
+      "explain": "Laws, budgets and organisations are usually controlled by experienced adults.",
+      "example": "A provincial health policy can only change when senior officials approve the budget and staff."
+     },
+     {
+      "reason": "Young people's enthusiasm can be short-lived.",
+      "explain": "Online campaigns may attract attention quickly but lose momentum when the topic is no longer trending.",
+      "example": "A hashtag campaign about road safety may be popular for a week and then disappear without changing anyone's behaviour."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: The younger generation is often seen as the driving force behind social progress. Thesis: I strongly agree because young people mobilise others through technology and challenge outdated ideas.",
+    "body1": "Reason 1: Digital skills let young people organise action quickly; example of students raising flood donations in northeastern Thailand.",
+    "body2": "Reason 2: Young people are open-minded and less attached to old systems; example of campaigns against single-use plastic; concession on lack of experience plus rebuttal; additional point on their stake in the future.",
+    "conclusion": "Restate that the young are society's most powerful drivers of change; summarise technology and willingness to question the status quo."
+   },
+   "model": [
+    "It is often said that the younger generation is the driving force behind social progress. I strongly agree that young people are the most effective agents of change, as they are skilled at using digital tools to mobilise others and are more willing to challenge outdated ideas.",
+    "First and foremost, young people have a remarkable ability to spread ideas and organise action through technology. Having grown up with smartphones and social media, they can design a campaign, create persuasive content and reach thousands of people within hours. For instance, when floods hit several provinces in northeastern Thailand, groups of university students quickly used online platforms to collect donations, coordinate volunteers and deliver supplies to affected villages. This speed and reach give young people a unique advantage in turning concern into real change.",
+    "Moreover, the young are generally more open-minded and less attached to existing systems. Older people may hesitate to question traditional practices because they have spent decades working within them. Young people, by contrast, are more willing to ask whether something could be done differently. This is evident in the environmental movement, where students have led campaigns to reduce single-use plastic on campuses and in local markets. Admittedly, young people often lack experience; however, they can easily seek advice from mentors, whereas fresh vision and courage are much harder to teach. In addition, the young will live longest with the consequences of today's decisions, which gives them a strong reason to act.",
+    "In conclusion, young people are society's most powerful drivers of change because they can mobilise support through technology and are willing to question the status quo. For these reasons, I firmly believe that the younger generation should be given more opportunities to lead."
+   ],
+   "phrases": [
+    {
+     "en": "the driving force behind social progress",
+     "th": "แรงขับเคลื่อนเบื้องหลังความก้าวหน้าของสังคม"
+    },
+    {
+     "en": "turning concern into real change",
+     "th": "เปลี่ยนความห่วงใยให้กลายเป็นการเปลี่ยนแปลงที่เกิดขึ้นจริง"
+    },
+    {
+     "en": "less attached to existing systems",
+     "th": "ยึดติดกับระบบเดิมน้อยกว่า"
+    },
+    {
+     "en": "fresh vision and courage are much harder to teach",
+     "th": "วิสัยทัศน์ใหม่และความกล้าหาญเป็นสิ่งที่สอนกันได้ยากกว่ามาก"
+    },
+    {
+     "en": "question the status quo",
+     "th": "ตั้งคำถามกับสภาพที่เป็นอยู่เดิม"
+    }
+   ]
+  },
+  {
+   "id": "R9",
+   "prompt": "Thailand should not open to international tourist.",
+   "prompt_fixed": "Thailand should not open its borders to international tourists. Do you agree or disagree?",
+   "th_explain": "โจทย์นี้ออกสอบในปี 2020 ซึ่งเป็นช่วงการระบาดของ COVID-19 จึงถามว่าไทยควร 'ปิดประเทศ' ไม่รับนักท่องเที่ยวต่างชาติหรือไม่ ผู้เขียนสามารถชั่งน้ำหนักระหว่างความปลอดภัยด้านสุขภาพของประชาชน กับเศรษฐกิจไทยที่พึ่งพาการท่องเที่ยวอย่างมาก ต้องระวังว่าโจทย์เป็นประโยคปฏิเสธ (should not open) ถ้า Agree แปลว่าสนับสนุนการปิดประเทศ ถ้า Disagree แปลว่าควรเปิดรับนักท่องเที่ยว หากเขียนสลับความหมายจะเสียคะแนนหนัก นอกจากนี้โจทย์ต้นฉบับขาดคำว่า its borders และ tourist ควรเป็นพหูพจน์ tourists จึงไม่ควรลอกมาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "international tourists",
+     "th": "นักท่องเที่ยวต่างชาติ"
+    },
+    {
+     "en": "reopen the borders",
+     "th": "เปิดประเทศ / เปิดพรมแดน"
+    },
+    {
+     "en": "tourism-dependent economy",
+     "th": "เศรษฐกิจที่พึ่งพาการท่องเที่ยว"
+    },
+    {
+     "en": "livelihood",
+     "th": "การทำมาหากิน / ปากท้อง"
+    },
+    {
+     "en": "public health",
+     "th": "สาธารณสุข"
+    },
+    {
+     "en": "health screening",
+     "th": "การคัดกรองสุขภาพ"
+    },
+    {
+     "en": "quarantine",
+     "th": "การกักตัว"
+    },
+    {
+     "en": "outbreak",
+     "th": "การระบาดของโรค"
+    }
+   ],
+   "paraphrases": [
+    "Since the COVID-19 pandemic, some people have argued that Thailand should keep its borders closed to foreign visitors.",
+    "It has been suggested that Thailand ought to stop welcoming travellers from other countries in order to protect its people.",
+    "Some believe that the Thai government should refuse entry to overseas tourists."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วย (คือควรเปิดรับนักท่องเที่ยว) เขียนได้หนักแน่น เพราะมีทั้งเหตุผลด้านเศรษฐกิจที่ชัดเจน คือคนไทยจำนวนมากพึ่งรายได้จากการท่องเที่ยว และเหตุผลด้านสาธารณสุขที่ผู้เรียนถนัด คือการว่างงานและความยากจนก็ทำลายสุขภาพเช่นกัน ส่วนความเสี่ยงเรื่องโรคระบาดสามารถยอมรับแล้วหักล้างด้วยมาตรการคัดกรองและวัคซีน อย่างไรก็ตาม ในบริบทปี 2020 ฝั่ง Agree ก็เขียนได้ โดยเน้นการป้องกันการระบาดและการส่งเสริมการท่องเที่ยวภายในประเทศ",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Keeping the borders closed protects public health during a pandemic.",
+      "explain": "Fewer international arrivals reduce the risk of new infections and new variants entering the country.",
+      "example": "In 2020, strict entry controls helped Thailand keep local COVID-19 cases low for several months."
+     },
+     {
+      "reason": "Closure prevents hospitals from being overwhelmed.",
+      "explain": "A sudden wave of infections would put enormous pressure on doctors, nurses and intensive care beds.",
+      "example": "A provincial hospital in Isan with only a few intensive care beds could not cope if visitors brought a new outbreak to the area."
+     },
+     {
+      "reason": "Domestic tourism can partly replace foreign visitors while the country is closed.",
+      "explain": "Encouraging Thai people to travel within the country keeps some money flowing to local businesses.",
+      "example": "Government-supported travel schemes in 2020 encouraged Thai families to stay in hotels and eat at restaurants in other provinces."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Tourism supports the livelihoods of millions of Thai people.",
+      "explain": "Hotels, restaurants, drivers, vendors and craft producers depend on spending by foreign visitors.",
+      "example": "When the borders closed in 2020, Phuket became almost empty and many workers returned to their home provinces with no income."
+     },
+     {
+      "reason": "Health risks can be managed through careful measures rather than complete closure.",
+      "explain": "Vaccination requirements, screening and testing allow authorities to detect and isolate cases quickly.",
+      "example": "The Phuket Sandbox in 2021 allowed vaccinated visitors to enter under strict conditions while the island's economy began to recover."
+     },
+     {
+      "reason": "International tourism promotes cultural exchange and Thailand's global image.",
+      "explain": "Visitors learn about Thai culture, and positive experiences encourage future travel and investment.",
+      "example": "Foreign tourists who join a cooking class in Chiang Mai often share their experience online, attracting more visitors."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Since the COVID-19 pandemic, some argue that Thailand should keep its borders closed to foreign visitors. Thesis: I strongly disagree because the economy depends on tourism and health risks can be managed.",
+    "body1": "Reason 1: Tourism supports millions of livelihoods; example of empty Phuket and Pattaya in 2020; link unemployment and poverty to poor health.",
+    "body2": "Reason 2: Health risks can be controlled through vaccination, screening and testing; example of the Phuket Sandbox; concession on risk plus rebuttal; additional point on cultural exchange.",
+    "conclusion": "Restate that Thailand should welcome international tourists because tourism sustains livelihoods and health measures make travel safe."
+   },
+   "model": [
+    "Since the COVID-19 pandemic, some people have argued that Thailand should keep its borders closed to foreign visitors in order to protect public health. I strongly disagree with this position, as the Thai economy depends heavily on international tourism, and health risks can be managed through careful measures rather than complete closure.",
+    "The most important reason is that tourism supports the livelihoods of millions of Thai people. Hotels, restaurants, tour operators, taxi drivers, street vendors and handicraft producers all rely on spending by foreign visitors. When the borders were closed in 2020, popular destinations such as Phuket and Pattaya became almost empty, and many workers lost their jobs or returned to their home provinces with no income. From a public health perspective, this loss is also serious, because unemployment and poverty lead to poor nutrition, stress and reduced access to healthcare. Keeping the country closed would therefore harm the well-being of the very people it aims to protect.",
+    "Furthermore, health risks can be controlled without shutting the country off from the world. Measures such as vaccination requirements, health screening at airports and rapid testing allow authorities to detect and isolate cases quickly. Thailand demonstrated this approach with the Phuket Sandbox in 2021, which allowed vaccinated visitors to enter under strict conditions while the island's economy began to recover. Admittedly, reopening involves some risk; nevertheless, a well-prepared health system can respond to outbreaks far more effectively than a closed economy can recover from collapse. Additionally, international visitors promote cultural exchange and strengthen Thailand's reputation as a welcoming nation.",
+    "In conclusion, Thailand should continue to welcome international tourists because tourism sustains millions of livelihoods and modern health measures make safe travel possible. I therefore firmly believe that careful reopening, not closure, is the wiser policy."
+   ],
+   "phrases": [
+    {
+     "en": "depends heavily on international tourism",
+     "th": "พึ่งพาการท่องเที่ยวระหว่างประเทศอย่างมาก"
+    },
+    {
+     "en": "From a public health perspective",
+     "th": "ในมุมมองด้านสาธารณสุข"
+    },
+    {
+     "en": "the very people it aims to protect",
+     "th": "คนกลุ่มเดียวกับที่มาตรการนั้นตั้งใจจะปกป้อง"
+    },
+    {
+     "en": "under strict conditions",
+     "th": "ภายใต้เงื่อนไขที่เข้มงวด"
+    },
+    {
+     "en": "careful reopening, not closure",
+     "th": "การเปิดประเทศอย่างรอบคอบ ไม่ใช่การปิดประเทศ"
+    }
+   ]
+  },
+  {
+   "id": "R10",
+   "prompt": "When learning a language, studying grammar is more important than practising conversation skills.",
+   "prompt_fixed": "When learning a language, studying grammar is more important than practising conversation skills. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าในการเรียนภาษา การเรียนไวยากรณ์สำคัญกว่าการฝึกทักษะการสนทนาหรือไม่ เป็นการเปรียบเทียบสองสิ่งโดยตรง จึงต้องเลือกให้ชัดว่าอะไรสำคัญกว่า ไม่ใช่ตอบว่า 'สำคัญเท่ากัน' คำสำคัญคือ grammar (ไวยากรณ์), conversation skills (ทักษะการสนทนา), accuracy (ความถูกต้อง) และ fluency (ความคล่องแคล่ว) กับดักคือถ้าเลือก Disagree ไม่ควรเขียนว่าไวยากรณ์ไม่มีประโยชน์เลย ให้ยอมรับสั้นๆ แล้วหักล้างว่าไวยากรณ์เรียนรู้ผ่านการใช้จริงได้ดีกว่า",
+   "keywords": [
+    {
+     "en": "grammar",
+     "th": "ไวยากรณ์"
+    },
+    {
+     "en": "conversation skills",
+     "th": "ทักษะการสนทนา"
+    },
+    {
+     "en": "communication",
+     "th": "การสื่อสาร"
+    },
+    {
+     "en": "fluency",
+     "th": "ความคล่องแคล่ว"
+    },
+    {
+     "en": "accuracy",
+     "th": "ความถูกต้อง"
+    },
+    {
+     "en": "acquire",
+     "th": "รับภาษาเข้ามาได้เองตามธรรมชาติ"
+    },
+    {
+     "en": "explicit instruction",
+     "th": "การสอนกฎหรือหลักอย่างชัดแจ้ง"
+    },
+    {
+     "en": "in real time",
+     "th": "ทันทีในสถานการณ์จริง"
+    }
+   ],
+   "paraphrases": [
+    "Language learners often debate whether they should focus on mastering grammar rules or on developing their speaking ability.",
+    "Some people believe that learning the rules of a language deserves more attention than practising speaking with others.",
+    "It is often argued that grammatical knowledge is a more valuable foundation for language learners than conversation practice."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วยเขียนได้หนักแน่นและใกล้ตัวผู้เรียนไทยมาก เพราะเป็นที่รู้กันว่านักเรียนไทยเรียนไวยากรณ์มาหลายปีแต่พูดสื่อสารไม่ได้ ตัวอย่างจึงน่าเชื่อถือ อีกทั้งยังอธิบายได้ว่าการสนทนาช่วยให้ซึมซับไวยากรณ์ไปพร้อมกัน เหมือนเด็กที่เรียนภาษาแม่ จึงไม่ต้องปฏิเสธไวยากรณ์ทั้งหมด ทำให้เนื้อหาไม่ดูสุดโต่ง",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Grammar provides the foundation for accurate and clear communication.",
+      "explain": "Without correct structures, speakers may be misunderstood, especially in formal situations.",
+      "example": "A Thai researcher presenting at an international conference needs accurate tenses to explain clearly what was done and what will be done next."
+     },
+     {
+      "reason": "Grammar is essential for academic writing and examinations.",
+      "explain": "Most academic and professional tests assess grammatical accuracy in reading and writing.",
+      "example": "Candidates taking the KKU-AELT must write an essay of at least 250 words, and frequent grammar mistakes lower the score."
+     },
+     {
+      "reason": "Learning grammar helps learners correct their own mistakes.",
+      "explain": "Knowing the rules allows learners to monitor and improve their language independently.",
+      "example": "A student who understands subject-verb agreement can notice and fix 'He work in a hospital' when checking an email."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "The main purpose of learning a language is communication, which conversation practice develops directly.",
+      "explain": "Knowing rules has little value if a learner cannot respond in a real situation.",
+      "example": "Many Thai students study English grammar for over ten years but freeze when a tourist asks them for directions."
+     },
+     {
+      "reason": "Conversation practice helps learners acquire grammar naturally through meaningful use.",
+      "explain": "Repeated exposure and feedback make structures automatic rather than memorised.",
+      "example": "Children learn the grammar of their first language through daily interaction long before they study it formally."
+     },
+     {
+      "reason": "Speaking practice builds confidence and motivation.",
+      "explain": "Successful communication encourages learners to keep using the language.",
+      "example": "A nurse who practises short English conversations with foreign patients at a hospital in Khon Kaen gradually loses her fear of speaking."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Learners often debate whether to focus on grammar rules or speaking ability. Thesis: I strongly disagree that grammar is more important because communication is the main purpose and speaking helps learners acquire grammar.",
+    "body1": "Reason 1: Conversation directly develops communication; example of Thai students who studied grammar for years but freeze when asked for directions.",
+    "body2": "Reason 2: Conversation helps learners absorb grammar through use; example of children learning their first language; concession on formal writing plus rebuttal.",
+    "conclusion": "Restate that conversation practice is more valuable; summarise communication as the goal and natural development of grammar."
+   },
+   "model": [
+    "Language learners often debate whether they should focus on mastering grammar rules or on developing their speaking ability. I strongly disagree with the idea that grammar study deserves more attention than conversation practice, as the main purpose of a language is communication, and speaking practice helps learners acquire grammar naturally.",
+    "First and foremost, people learn a language in order to communicate, and conversation practice develops this ability directly. Knowing grammar rules is of limited value if a learner cannot respond when someone asks a simple question. In Thailand, for example, many students study English grammar for more than ten years at school and can complete written tests accurately, yet they freeze when a foreign visitor asks them for directions. Their difficulty is not a lack of knowledge but a lack of practice in listening and responding in real time. Regular conversation builds exactly these skills, along with the confidence to use them.",
+    "Moreover, conversation practice does not ignore grammar; rather, it helps learners absorb grammatical patterns through meaningful use. When people speak, they hear correct forms repeatedly from their partners and receive immediate feedback when a message is unclear. In this way, structures such as past tense endings or question forms become automatic instead of remaining rules memorised for an examination. Children acquire the grammar of their first language in exactly this way, long before they study it formally. Admittedly, explicit grammar instruction can improve accuracy in formal writing; however, it is most effective when it supports speaking rather than replacing it.",
+    "In conclusion, practising conversation is more valuable than studying grammar because communication is the ultimate goal of language learning and speaking practice strengthens grammatical knowledge in a natural way. I therefore firmly believe that learners should spend most of their time using the language, not just analysing it."
+   ],
+   "parts": {
+    "intro": "Language learners often debate whether they should focus on mastering grammar rules or on developing their speaking ability. I strongly disagree with the idea that grammar study deserves more attention than conversation practice, as the main purpose of a language is communication, and speaking practice helps learners acquire grammar naturally.",
+    "body1": "First and foremost, people learn a language in order to communicate, and conversation practice develops this ability directly. Knowing grammar rules is of limited value if a learner cannot respond when someone asks a simple question. In Thailand, for example, many students study English grammar for more than ten years at school and can complete written tests accurately, yet they freeze when a foreign visitor asks them for directions. Their difficulty is not a lack of knowledge but a lack of practice in listening and responding in real time. Regular conversation builds exactly these skills, along with the confidence to use them.",
+    "body2": "Moreover, conversation practice does not ignore grammar; rather, it helps learners absorb grammatical patterns through meaningful use. When people speak, they hear correct forms repeatedly from their partners and receive immediate feedback when a message is unclear. In this way, structures such as past tense endings or question forms become automatic instead of remaining rules memorised for an examination. Children acquire the grammar of their first language in exactly this way, long before they study it formally. Admittedly, explicit grammar instruction can improve accuracy in formal writing; however, it is most effective when it supports speaking rather than replacing it.",
+    "conclusion": "In conclusion, practising conversation is more valuable than studying grammar because communication is the ultimate goal of language learning and speaking practice strengthens grammatical knowledge in a natural way. I therefore firmly believe that learners should spend most of their time using the language, not just analysing it."
+   },
+   "phrases": [
+    {
+     "en": "of limited value",
+     "th": "มีคุณค่าหรือประโยชน์จำกัด"
+    },
+    {
+     "en": "listening and responding in real time",
+     "th": "การฟังและตอบโต้ได้ทันทีในสถานการณ์จริง"
+    },
+    {
+     "en": "become automatic",
+     "th": "กลายเป็นสิ่งที่ใช้ได้โดยอัตโนมัติ"
+    },
+    {
+     "en": "supports speaking rather than replacing it",
+     "th": "ช่วยเสริมการพูด มากกว่าที่จะมาแทนที่การพูด"
+    },
+    {
+     "en": "using the language, not just analysing it",
+     "th": "ใช้ภาษาจริง ไม่ใช่แค่วิเคราะห์ภาษา"
+    }
+   ]
+  },
+  {
+   "id": "R11",
+   "prompt": "Education is the single most important factor in the development of a country.",
+   "prompt_fixed": "Education is the single most important factor in the development of a country. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการศึกษาเป็นปัจจัยที่สำคัญที่สุด 'เพียงปัจจัยเดียว' (the single most important factor) ในการพัฒนาประเทศหรือไม่ คำว่า single most important เป็นคำที่แรงมาก ถ้าเลือก Agree ต้องแสดงให้เห็นว่าการศึกษาสำคัญกว่าปัจจัยอื่น เช่น ทรัพยากรธรรมชาติ โครงสร้างพื้นฐาน หรือเสถียรภาพทางการเมือง ไม่ใช่แค่บอกว่าการศึกษามีความสำคัญ คำว่า development ครอบคลุมทั้งเศรษฐกิจ สุขภาพ และคุณภาพชีวิต จึงใช้มุมสาธารณสุขได้ กับดักคือเขียนข้อดีของการศึกษาทั่วไปโดยไม่เปรียบเทียบกับปัจจัยอื่นเลย",
+   "keywords": [
+    {
+     "en": "national development",
+     "th": "การพัฒนาประเทศ"
+    },
+    {
+     "en": "human capital",
+     "th": "ทุนมนุษย์"
+    },
+    {
+     "en": "skilled workforce",
+     "th": "แรงงานที่มีทักษะ"
+    },
+    {
+     "en": "natural resources",
+     "th": "ทรัพยากรธรรมชาติ"
+    },
+    {
+     "en": "infrastructure",
+     "th": "โครงสร้างพื้นฐาน"
+    },
+    {
+     "en": "health literacy",
+     "th": "ความรอบรู้ด้านสุขภาพ"
+    },
+    {
+     "en": "sustainable development",
+     "th": "การพัฒนาที่ยั่งยืน"
+    },
+    {
+     "en": "village health volunteer",
+     "th": "อาสาสมัครสาธารณสุขประจำหมู่บ้าน (อสม.)"
+    }
+   ],
+   "paraphrases": [
+    "Many factors contribute to national progress, but some people believe that education matters more than any other.",
+    "It is often argued that a country's development depends above all on the quality of its education system.",
+    "Some people maintain that no factor contributes more to a nation's progress than education."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยเขียนง่าย เพราะการศึกษาเชื่อมโยงกับปัจจัยอื่นทุกตัว จึงหักล้างฝั่งตรงข้ามได้ว่า โครงสร้างพื้นฐานหรือรัฐบาลที่ดีก็ต้องอาศัยคนที่มีการศึกษา มีตัวอย่างระดับประเทศที่รู้จักกันดี เช่น สิงคโปร์และเกาหลีใต้ และผู้เรียนสามารถใช้มุมสาธารณสุข เช่น การให้ความรู้ด้านสุขภาพผ่าน อสม. ได้อย่างเป็นธรรมชาติ",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Education produces the human capital that drives economic growth.",
+      "explain": "Skilled citizens can work in high-value industries, adopt new technology and create new products.",
+      "example": "Singapore and South Korea, both with few natural resources, invested heavily in education and became advanced economies within a few decades."
+     },
+     {
+      "reason": "Education improves public health and quality of life.",
+      "explain": "Educated people understand health information better and use healthcare services more appropriately.",
+      "example": "In Thailand, trained village health volunteers teach their neighbours about nutrition and diabetes control, helping to reduce preventable illness."
+     },
+     {
+      "reason": "Other development factors depend on educated people.",
+      "explain": "Roads, hospitals and effective institutions all require engineers, doctors and administrators.",
+      "example": "A new provincial hospital cannot serve patients well without enough trained doctors, nurses and managers."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Political stability and good governance are more fundamental than education.",
+      "explain": "Without peace and honest government, even well-educated citizens cannot use their skills productively.",
+      "example": "Countries with many university graduates may still suffer economic decline during long periods of conflict or corruption."
+     },
+     {
+      "reason": "Infrastructure is a precondition for development.",
+      "explain": "Transport, electricity and internet access allow businesses and schools to function.",
+      "example": "A rural district without a paved road or reliable electricity cannot attract investors, however well educated its people are."
+     },
+     {
+      "reason": "Economic investment and job creation matter more than education alone.",
+      "explain": "Graduates need suitable jobs; otherwise their skills are wasted or they move abroad.",
+      "example": "Some engineering graduates take jobs unrelated to their field because there are too few local industries to employ them."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Many factors contribute to national progress. Thesis: I strongly agree that education matters more than any of them because it creates a skilled workforce and improves public health.",
+    "body1": "Reason 1: Education builds human capital for economic growth; example of Singapore and South Korea compared with countries relying on natural resources.",
+    "body2": "Reason 2: Education improves public health and quality of life; example of Thai village health volunteers; concession on infrastructure and government plus rebuttal (they depend on educated people); additional point on responsible citizenship.",
+    "conclusion": "Restate that education is the most crucial factor; summarise a productive workforce and a healthier society; governments should prioritise it."
+   },
+   "model": [
+    "Many factors contribute to national progress, including natural resources, infrastructure and political stability. Nevertheless, I strongly agree that education matters more than any of them, because it creates the skilled workforce a modern economy needs and improves the health and well-being of the whole population.",
+    "First and foremost, education produces the human capital that drives economic growth. Well-educated citizens can work in high-value industries, adopt new technologies and create innovative products instead of depending on low-wage work. Singapore and South Korea illustrate this point clearly: with few natural resources, both countries invested heavily in schools and universities and transformed themselves into prosperous, technologically advanced economies within a few decades. Natural resources, by contrast, eventually run out and cannot by themselves produce sustainable development. A nation's long-term wealth therefore lies in the knowledge and skills of its people.",
+    "Furthermore, education improves public health and quality of life, which are central to any meaningful definition of development. People with higher levels of education are better able to understand health information, prevent disease and use healthcare services appropriately. In Thailand, for instance, village health volunteers are trained to teach their neighbours about nutrition, vaccination and the control of diabetes and high blood pressure, and this community education helps reduce preventable illness. It could be argued that infrastructure and stable government matter equally; however, roads, hospitals and effective institutions all depend on educated engineers, doctors and administrators. Additionally, educated citizens are more likely to participate responsibly in public life.",
+    "In conclusion, education is the most crucial factor in a country's development because it builds a productive workforce and supports a healthier society. I therefore firmly believe that governments should make investment in education their highest priority."
+   ],
+   "parts": {
+    "intro": "Many factors contribute to national progress, including natural resources, infrastructure and political stability. Nevertheless, I strongly agree that education matters more than any of them, because it creates the skilled workforce a modern economy needs and improves the health and well-being of the whole population.",
+    "body1": "First and foremost, education produces the human capital that drives economic growth. Well-educated citizens can work in high-value industries, adopt new technologies and create innovative products instead of depending on low-wage work. Singapore and South Korea illustrate this point clearly: with few natural resources, both countries invested heavily in schools and universities and transformed themselves into prosperous, technologically advanced economies within a few decades. Natural resources, by contrast, eventually run out and cannot by themselves produce sustainable development. A nation's long-term wealth therefore lies in the knowledge and skills of its people.",
+    "body2": "Furthermore, education improves public health and quality of life, which are central to any meaningful definition of development. People with higher levels of education are better able to understand health information, prevent disease and use healthcare services appropriately. In Thailand, for instance, village health volunteers are trained to teach their neighbours about nutrition, vaccination and the control of diabetes and high blood pressure, and this community education helps reduce preventable illness. It could be argued that infrastructure and stable government matter equally; however, roads, hospitals and effective institutions all depend on educated engineers, doctors and administrators. Additionally, educated citizens are more likely to participate responsibly in public life.",
+    "conclusion": "In conclusion, education is the most crucial factor in a country's development because it builds a productive workforce and supports a healthier society. I therefore firmly believe that governments should make investment in education their highest priority."
+   },
+   "phrases": [
+    {
+     "en": "the human capital that drives economic growth",
+     "th": "ทุนมนุษย์ที่ขับเคลื่อนการเติบโตทางเศรษฐกิจ"
+    },
+    {
+     "en": "high-value industries",
+     "th": "อุตสาหกรรมที่สร้างมูลค่าสูง"
+    },
+    {
+     "en": "sustainable development",
+     "th": "การพัฒนาที่ยั่งยืน"
+    },
+    {
+     "en": "central to any meaningful definition of development",
+     "th": "เป็นหัวใจของความหมายของการพัฒนาไม่ว่าจะนิยามแบบใด"
+    },
+    {
+     "en": "their highest priority",
+     "th": "สิ่งที่ต้องให้ความสำคัญเป็นอันดับแรก"
+    }
+   ]
+  },
+  {
+   "id": "R13",
+   "prompt": "National university entrance examination should be abolished.",
+   "prompt_fixed": "The national university entrance examination should be abolished. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าควรยกเลิกการสอบคัดเลือกเข้ามหาวิทยาลัยระดับชาติหรือไม่ ในบริบทไทยคือการสอบส่วนกลางในระบบ TCAS เช่น TGAT/TPAT และ A-Level คำสำคัญคือ abolish (ยกเลิก) ซึ่งต่างจาก reform (ปรับปรุง) ถ้าเลือก Disagree ต้องยืนยันว่าควรคงการสอบไว้ และใช้แนวคิด 'ปรับปรุงแทนการยกเลิก' เป็นข้อหักล้างได้ แต่อย่าเขียนจนดูเหมือนเห็นด้วยกับการยกเลิก กับดักคือเขียนแต่เรื่องความเครียดของนักเรียนโดยไม่พูดถึงความยุติธรรมในการคัดเลือก โจทย์ต้นฉบับขาด article (The national...) จึงไม่ควรลอกมาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "entrance examination",
+     "th": "การสอบคัดเลือกเข้าศึกษาต่อ"
+    },
+    {
+     "en": "abolish",
+     "th": "ยกเลิก"
+    },
+    {
+     "en": "standardised test",
+     "th": "แบบทดสอบมาตรฐาน"
+    },
+    {
+     "en": "admission",
+     "th": "การรับเข้าศึกษา"
+    },
+    {
+     "en": "transparent",
+     "th": "โปร่งใส"
+    },
+    {
+     "en": "favouritism",
+     "th": "การเล่นพรรคเล่นพวก"
+    },
+    {
+     "en": "private tutoring",
+     "th": "การเรียนพิเศษ / กวดวิชา"
+    },
+    {
+     "en": "grading practices",
+     "th": "วิธีการให้เกรด"
+    }
+   ],
+   "paraphrases": [
+    "Some critics argue that the standardised national test used for university admission should be eliminated.",
+    "It has been proposed that universities should stop selecting students through a nationwide entrance examination.",
+    "Some people believe that the country no longer needs a common examination for university entry."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วย (คงการสอบไว้) มีเหตุผลที่หนักแน่นเรื่องความยุติธรรมและความโปร่งใส เพราะโรงเรียนในไทยมีคุณภาพและการให้เกรดแตกต่างกันมาก ข้อสอบกลางจึงเป็นมาตรฐานเดียวที่เปรียบเทียบนักเรียนจากโรงเรียนในชนบทกับนักเรียนในกรุงเทพฯ ได้ ส่วนปัญหาความเครียดและค่ากวดวิชาสามารถยอมรับสั้นๆ แล้วหักล้างว่าควรปรับปรุงข้อสอบ ไม่ใช่ยกเลิก",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "A single high-stakes examination causes extreme stress for students.",
+      "explain": "Students feel that one test will decide their whole future, which harms their mental health.",
+      "example": "Many Grade 12 students in Thailand study late every night for months before the national tests and often lose sleep."
+     },
+     {
+      "reason": "The examination increases inequality because wealthy families can pay for private tutoring.",
+      "explain": "Students from richer families receive extra preparation, so the test favours them.",
+      "example": "Tutoring schools in Bangkok charge high fees for exam courses that many families in rural Isan cannot afford."
+     },
+     {
+      "reason": "A test cannot measure all the abilities that universities need.",
+      "explain": "Creativity, teamwork and motivation are better shown through portfolios, interviews and school records.",
+      "example": "A student who has won regional science project awards may perform poorly in a multiple-choice test but still be an excellent future researcher."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "A national examination provides a single, fair standard for comparing applicants.",
+      "explain": "Schools differ greatly in quality and grading, so grades alone are not comparable.",
+      "example": "A talented student from a small rural school in Isan can prove that her ability matches that of a student from a famous school in Bangkok."
+     },
+     {
+      "reason": "A centralised examination makes admission transparent and prevents favouritism.",
+      "explain": "Clear scoring criteria make it difficult for personal connections or money to influence selection.",
+      "example": "Published results allow students and parents to see exactly why an applicant was accepted or rejected."
+     },
+     {
+      "reason": "One national test is cheaper and more convenient than many separate university tests.",
+      "explain": "Students do not need to travel to different campuses to take different examinations.",
+      "example": "A student in Nakhon Phanom can take one set of tests near home instead of travelling to Bangkok, Chiang Mai and Khon Kaen."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Some critics argue that the standardised national test for university admission should be eliminated. Thesis: I strongly disagree because it allows fair comparison and protects admission from favouritism.",
+    "body1": "Reason 1: The test is a single, fair standard; example of a rural student in Isan compared with a student from a famous Bangkok school.",
+    "body2": "Reason 2: Centralised testing keeps admission transparent and affordable; concession on stress and tutoring costs plus rebuttal (reform, not abolish).",
+    "conclusion": "Restate that the national examination should be retained; summarise fairness and transparency; improving the test is wiser than removing it."
+   },
+   "model": [
+    "Some critics argue that the standardised national test used for university admission should be eliminated. I strongly disagree with this proposal, since a common examination provides a fair way to compare applicants from very different schools and protects the admission process from favouritism.",
+    "The primary reason for keeping the national examination is that it offers a single, fair standard for all applicants. Schools vary greatly in quality and in their grading practices, so a high grade point average from one school may not represent the same level of knowledge as the same average from another. A national test solves this problem by asking every candidate the same questions under the same conditions. For instance, a talented student from a small rural school in Isan can demonstrate that her ability matches that of a student from a famous school in Bangkok. Without such a test, universities would have no reliable way to make this comparison.",
+    "Moreover, a centralised examination makes university admission more transparent. When results are calculated and published according to clear criteria, it becomes difficult for personal connections, donations or family status to influence who is accepted. If each university relied only on interviews, portfolios or its own tests, the process could become less open and more expensive, since students would need to travel to many campuses. Admittedly, the current examination places heavy pressure on students and encourages costly private tutoring; however, the solution is to reform the content and format of the test, not to abolish it.",
+    "In conclusion, the national university entrance examination should be retained because it ensures fair comparison between applicants and keeps admission transparent. I therefore firmly believe that improving the examination is far wiser than removing it."
+   ],
+   "phrases": [
+    {
+     "en": "a single, fair standard",
+     "th": "มาตรฐานเดียวที่ยุติธรรม"
+    },
+    {
+     "en": "under the same conditions",
+     "th": "ภายใต้เงื่อนไขเดียวกัน"
+    },
+    {
+     "en": "personal connections",
+     "th": "เส้นสาย / ความสัมพันธ์ส่วนตัว"
+    },
+    {
+     "en": "reform the content and format of the test, not to abolish it",
+     "th": "ปรับปรุงเนื้อหาและรูปแบบของข้อสอบ ไม่ใช่ยกเลิกการสอบ"
+    },
+    {
+     "en": "far wiser than removing it",
+     "th": "ฉลาดกว่าการยกเลิกมาก"
+    }
+   ]
+  },
+  {
+   "id": "R14",
+   "prompt": "Learning from experience is better than learning from a book.",
+   "prompt_fixed": "Learning from experience is better than learning from books. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการเรียนรู้จากประสบการณ์ตรงดีกว่าการเรียนรู้จากหนังสือหรือไม่ เป็นการเปรียบเทียบแหล่งความรู้สองแบบ คำสำคัญคือ experience (ประสบการณ์ตรง การลงมือทำ) และ learning from books (ความรู้จากการอ่าน ตำรา และทฤษฎี) ขอบเขตกว้าง จึงยกตัวอย่างได้ทั้งการศึกษา การแพทย์ สาธารณสุข และชีวิตการทำงาน กับดักคือเขียนว่า 'ต้องใช้ทั้งสองอย่างควบคู่กัน' ซึ่งเป็นการไม่เลือกข้าง ถ้าจะพูดถึงประโยชน์ของหนังสือ ให้ใส่เป็น concession เพียงประโยคเดียวแล้วหักล้างทันที",
+   "keywords": [
+    {
+     "en": "experience",
+     "th": "ประสบการณ์"
+    },
+    {
+     "en": "learning by doing",
+     "th": "การเรียนรู้จากการลงมือทำ"
+    },
+    {
+     "en": "theory",
+     "th": "ทฤษฎี"
+    },
+    {
+     "en": "practical skills",
+     "th": "ทักษะเชิงปฏิบัติ"
+    },
+    {
+     "en": "interpersonal skills",
+     "th": "ทักษะการติดต่อสัมพันธ์กับผู้อื่น"
+    },
+    {
+     "en": "hospital ward",
+     "th": "หอผู้ป่วย"
+    },
+    {
+     "en": "resilience",
+     "th": "ความยืดหยุ่นทางใจ / ความสามารถในการฟื้นตัว"
+    },
+    {
+     "en": "long-lasting",
+     "th": "คงทน / ยาวนาน"
+    }
+   ],
+   "paraphrases": [
+    "People have long debated whether knowledge gained through direct experience is more valuable than knowledge gained from reading.",
+    "Some people believe that learning by doing teaches us more than studying information in books.",
+    "It is often claimed that real-life experience is a better teacher than any textbook."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยมีตัวอย่างที่ทรงพลังและใกล้ตัว เช่น นักศึกษาแพทย์หรือพยาบาลที่เข้าใจโรคอย่างแท้จริงเมื่อได้ดูแลผู้ป่วย และอาจารย์ใหม่ที่เรียนรู้การบริหารชั้นเรียนจากการสอนจริง เหตุผลชัดเจนสองข้อ คือความรู้จากประสบการณ์จำได้นานกว่า และสร้างทักษะที่หนังสือสอนไม่ได้ ส่วนข้อดีของหนังสือยอมรับสั้นๆ ว่าเป็นพื้นฐานทางทฤษฎี แล้วหักล้างว่าความรู้นั้นมีค่าจริงเมื่อถูกนำไปใช้",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Lessons learned through experience are remembered far longer than facts read in books.",
+      "explain": "Direct experience involves the senses, emotions and real consequences, which make knowledge personal.",
+      "example": "Medical students who care for a child with dengue fever on a hospital ward understand the disease far better than they did from reading about it."
+     },
+     {
+      "reason": "Experience develops practical and interpersonal skills that books cannot fully describe.",
+      "explain": "Handling people, managing time and adapting to problems are learned mainly through practice.",
+      "example": "A new lecturer learns how to handle a silent class during the first semester of real teaching, not from books on classroom management."
+     },
+     {
+      "reason": "Mistakes made in real situations build resilience and judgement.",
+      "explain": "Facing the consequences of an error teaches people to think more carefully next time.",
+      "example": "A community health officer whose first health campaign attracts few villagers learns to plan the next event around local festivals."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Books allow people to learn from the experience of others without taking risks.",
+      "explain": "Some mistakes are too dangerous or costly to learn through personal experience.",
+      "example": "Pharmacy students must learn safe drug doses from textbooks rather than by testing them on patients."
+     },
+     {
+      "reason": "Books provide systematic theory that explains why things happen.",
+      "explain": "Experience alone may show what works but not the principles behind it.",
+      "example": "A farmer may know from experience that a crop grows poorly, but an agricultural textbook explains the soil chemistry behind the problem."
+     },
+     {
+      "reason": "Reading is a faster and cheaper way to gain broad knowledge.",
+      "explain": "A book can cover in a few days what might take years to experience directly.",
+      "example": "A student can learn about the history of many countries from books without travelling to any of them."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: People have long debated whether direct experience is more valuable than reading. Thesis: I strongly agree that learning by doing is superior because it creates lasting understanding and practical skills.",
+    "body1": "Reason 1: Experience creates deeper and longer-lasting understanding; example of medical students caring for a child with dengue fever.",
+    "body2": "Reason 2: Experience develops practical and interpersonal skills; example of a new lecturer learning classroom management; concession on theory from books plus rebuttal; additional point on learning from mistakes.",
+    "conclusion": "Restate that experience is a more effective teacher than books; summarise lasting understanding and practical skills."
+   },
+   "model": [
+    "People have long debated whether knowledge gained through direct experience is more valuable than knowledge gained from reading. I strongly agree that learning by doing is superior, because experience produces deeper and longer-lasting understanding and develops practical skills that books cannot teach.",
+    "First and foremost, lessons learned through experience are remembered far longer than facts read on a page. When people actively take part in a situation, they use their senses and emotions, and they see the real consequences of their decisions. This makes the knowledge personal and meaningful. Medical education is a clear example: students may read about the symptoms of dengue fever many times, but the first time they examine a feverish child on a hospital ward and monitor the illness day by day, they understand the disease in a way no textbook can provide. Such memories remain with them throughout their careers.",
+    "Furthermore, experience develops practical and interpersonal skills that cannot be fully described in writing. Communicating with difficult people, managing time under pressure and adapting when plans fail are abilities learned mainly through practice. A newly appointed lecturer, for instance, may read several books on classroom management, yet it is the first semester of real teaching that shows how to handle a silent class or an unexpected technical failure. Admittedly, books provide useful theory and background knowledge; however, this knowledge only becomes truly useful when it is tested in real situations. Additionally, learning from mistakes builds resilience and confidence, which are essential in any profession.",
+    "In conclusion, experience is a more effective teacher than books because it creates lasting understanding and builds skills that reading alone cannot develop. For these reasons, I firmly believe that practical experience should be at the centre of education and professional training."
+   ],
+   "phrases": [
+    {
+     "en": "learning by doing",
+     "th": "การเรียนรู้จากการลงมือทำ"
+    },
+    {
+     "en": "personal and meaningful",
+     "th": "เป็นเรื่องของตนเองและมีความหมาย"
+    },
+    {
+     "en": "in a way no textbook can provide",
+     "th": "ในแบบที่ตำราเล่มใดก็ให้ไม่ได้"
+    },
+    {
+     "en": "tested in real situations",
+     "th": "ถูกพิสูจน์หรือนำไปใช้ในสถานการณ์จริง"
+    },
+    {
+     "en": "builds resilience and confidence",
+     "th": "สร้างความยืดหยุ่นทางใจและความมั่นใจ"
+    }
+   ]
+  },
+  {
+   "id": "R15",
+   "prompt": "Online learning has negative impact on students life.",
+   "prompt_fixed": "Online learning has a negative impact on students' lives. Do you agree or disagree?",
+   "th_explain": "โจทย์ถามว่าการเรียนออนไลน์ส่งผลกระทบทางลบต่อ 'ชีวิต' ของนักเรียนหรือไม่ ขอบเขตจึงกว้างกว่าผลการเรียน ครอบคลุมทั้งสุขภาพกาย สุขภาพจิต ความสัมพันธ์ทางสังคม และภาระทางการเงินของครอบครัว ซึ่งเชื่อมกับมุมสาธารณสุขได้ดี คำสำคัญคือ negative impact (ผลกระทบทางลบ) และ students' lives (ชีวิตของนักเรียน) กับดักคือเขียนซ้ำกับโจทย์ R5 ที่เปรียบเทียบคุณภาพการเรียนออนไลน์กับในห้องเรียน ควรเน้นผลต่อชีวิตด้านต่างๆ แทน โจทย์ต้นฉบับขาด a และ students life ควรเป็น students' lives จึงไม่ควรลอกมาใช้ตรงๆ",
+   "keywords": [
+    {
+     "en": "online learning",
+     "th": "การเรียนออนไลน์"
+    },
+    {
+     "en": "negative impact",
+     "th": "ผลกระทบทางลบ"
+    },
+    {
+     "en": "screen time",
+     "th": "เวลาที่ใช้หน้าจอ"
+    },
+    {
+     "en": "eye strain",
+     "th": "อาการตาล้า"
+    },
+    {
+     "en": "sedentary behaviour",
+     "th": "พฤติกรรมเนือยนิ่ง"
+    },
+    {
+     "en": "social isolation",
+     "th": "การแยกตัวทางสังคม"
+    },
+    {
+     "en": "digital divide",
+     "th": "ความเหลื่อมล้ำทางดิจิทัล"
+    },
+    {
+     "en": "financial burden",
+     "th": "ภาระทางการเงิน"
+    }
+   ],
+   "paraphrases": [
+    "The widespread shift to online learning has changed the daily lives of students.",
+    "Some people believe that studying through a screen has harmful effects on young people's lives.",
+    "It is often argued that internet-based education damages students' well-being."
+   ],
+   "stance": "agree",
+   "stance_reason_th": "ฝั่งเห็นด้วยเขียนง่ายและเชื่อมกับความถนัดด้านสาธารณสุขของผู้เรียนได้โดยตรง เช่น เวลาหน้าจอที่มากเกินไป พฤติกรรมเนือยนิ่ง และสุขภาพจิต อีกทั้งมีประสบการณ์จริงจากช่วงปิดโรงเรียนในสถานการณ์ COVID-19 ที่ครอบครัวในชนบทต้องแบกภาระค่าอุปกรณ์และค่าอินเทอร์เน็ต ส่วนข้อดีเรื่องความยืดหยุ่นสามารถยอมรับสั้นๆ แล้วหักล้างได้",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Online learning harms students' physical health.",
+      "explain": "Long hours in front of a screen cause eye strain, back pain and a lack of exercise.",
+      "example": "During school closures in Thailand, some secondary students followed six or more hours of video lessons a day with little time for physical activity."
+     },
+     {
+      "reason": "Online learning damages mental health and social development.",
+      "explain": "Students lose daily contact with friends and teachers, which can lead to loneliness and anxiety.",
+      "example": "First-year university students who began their studies online may finish the year without making close friends on campus."
+     },
+     {
+      "reason": "Online learning places a financial burden on families and widens inequality.",
+      "explain": "Families must provide devices and reliable internet access for each child.",
+      "example": "In rural parts of Isan, some parents borrowed money to buy smartphones so that several children could attend classes at the same time."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Online learning gives students flexibility to manage their time.",
+      "explain": "Recorded lessons allow students to study at their own pace and balance study with other responsibilities.",
+      "example": "A university student who works part-time in a coffee shop can watch lectures in the evening."
+     },
+     {
+      "reason": "Online learning reduces travel time and costs.",
+      "explain": "Students save time and money that would otherwise be spent on commuting.",
+      "example": "A student living an hour from campus in Khon Kaen can use the time saved to rest or study."
+     },
+     {
+      "reason": "Online learning develops digital skills needed in modern life.",
+      "explain": "Students learn to use online tools, manage files and communicate digitally.",
+      "example": "Students who completed group projects online learned to use shared documents and video meetings, skills that are now common in workplaces."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: The widespread shift to online learning has changed students' daily lives. Thesis: I strongly agree that it has a harmful effect because it damages health and creates social and financial burdens.",
+    "body1": "Reason 1: Online learning threatens physical and mental health; example of long daily video lessons during Thai school closures; long-term health consequences.",
+    "body2": "Reason 2: It disrupts social development and burdens families; example of parents in rural Isan borrowing money for smartphones; concession on flexibility plus rebuttal.",
+    "conclusion": "Restate that studying online harms students' lives; summarise health and socio-economic problems; use it only as a supplement."
+   },
+   "model": [
+    "The widespread shift to online learning, particularly during the COVID-19 pandemic, has changed the daily lives of students. I strongly agree that this form of study has a harmful effect on learners, as it damages their physical and mental health and places a heavy social and financial burden on them and their families.",
+    "First and foremost, online learning threatens students' health. Learners who attend classes through a screen often sit in the same position for many hours a day, which can cause eye strain, back pain and a lack of physical activity. Their mental health may also suffer, since they spend long periods isolated from teachers and friends. During the school closures in Thailand, for example, some secondary students followed six or more hours of video lessons daily, leaving little time for exercise or rest. Over time, such habits may lead to long-term problems such as obesity, poor sleep and anxiety.",
+    "Moreover, online learning disrupts social development and increases pressure on families. School is not only a place for academic study; it is also where young people learn to cooperate, resolve conflicts and build friendships. Without daily face-to-face contact, these skills develop more slowly. At the same time, many families must buy devices and pay for reliable internet access. In rural parts of Isan, some parents had to borrow money to buy smartphones so that several children could attend classes simultaneously. It is true that online learning offers flexibility; nevertheless, this benefit cannot compensate for its effects on health, relationships and household finances.",
+    "In conclusion, studying online harms students' lives because it endangers their physical and mental well-being and creates social and economic difficulties. I therefore firmly believe that it should be used only as a supplement to classroom education."
+   ],
+   "phrases": [
+    {
+     "en": "a heavy social and financial burden",
+     "th": "ภาระทางสังคมและการเงินที่หนักหน่วง"
+    },
+    {
+     "en": "a lack of physical activity",
+     "th": "การขาดการเคลื่อนไหวร่างกาย"
+    },
+    {
+     "en": "build friendships",
+     "th": "สร้างมิตรภาพ"
+    },
+    {
+     "en": "cannot compensate for",
+     "th": "ไม่สามารถชดเชย...ได้"
+    },
+    {
+     "en": "a supplement to classroom education",
+     "th": "ส่วนเสริมของการเรียนในชั้นเรียน"
+    }
+   ]
+  },
+  {
+   "id": "R16",
+   "prompt": "Man is preferable when working alone than working with a team.",
+   "prompt_fixed": "It is preferable for people to work alone rather than in a team. Do you agree or disagree?",
+   "th_explain": "โจทย์ต้นฉบับมีข้อผิดไวยากรณ์ (Man is preferable when working alone...) ความหมายที่ตั้งใจคือ 'การทำงานคนเดียวดีกว่าหรือน่าเลือกกว่าการทำงานเป็นทีม' คำว่า Man ในที่นี้หมายถึงมนุษย์หรือคนทั่วไป ไม่ใช่เฉพาะผู้ชาย จึงควร paraphrase เป็น people หรือ individuals ประเด็นคือเปรียบเทียบประสิทธิภาพและผลลัพธ์ของการทำงานคนเดียวกับการทำงานเป็นทีม กับดักคือห้ามลอกโจทย์ที่ผิดไวยากรณ์มาใช้ และอย่าตอบว่า 'แล้วแต่ลักษณะงาน' ซึ่งเป็นการไม่เลือกข้าง",
+   "keywords": [
+    {
+     "en": "work independently / work alone",
+     "th": "ทำงานคนเดียว"
+    },
+    {
+     "en": "teamwork",
+     "th": "การทำงานเป็นทีม"
+    },
+    {
+     "en": "collaboration",
+     "th": "ความร่วมมือ"
+    },
+    {
+     "en": "multidisciplinary team",
+     "th": "ทีมสหวิชาชีพ"
+    },
+    {
+     "en": "expertise",
+     "th": "ความเชี่ยวชาญ"
+    },
+    {
+     "en": "workload",
+     "th": "ภาระงาน"
+    },
+    {
+     "en": "complementary skills",
+     "th": "ทักษะที่เสริมกันและกัน"
+    },
+    {
+     "en": "shared responsibility",
+     "th": "ความรับผิดชอบร่วมกัน"
+    }
+   ],
+   "paraphrases": [
+    "Some people believe that individuals produce better results when they work independently rather than as part of a group.",
+    "It is sometimes argued that working on one's own is more effective than working with colleagues.",
+    "Some people prefer to work alone because they feel that teamwork slows them down."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วย (การทำงานเป็นทีมดีกว่า) เขียนได้หนักแน่น เพราะงานสมัยใหม่ซับซ้อนเกินกว่าคนเดียวจะทำได้ดี ผู้เรียนยกตัวอย่างจากระบบสาธารณสุขได้ทันที เช่น ทีมสหวิชาชีพที่ดูแลผู้ป่วยเบาหวาน และจากชีวิตอาจารย์ เช่น การสอนร่วมกับเพื่อนร่วมงาน ส่วนข้อดีของการทำงานคนเดียวเรื่องสมาธิสามารถยอมรับสั้นๆ แล้วหักล้างได้",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "Working alone allows deep concentration without interruptions.",
+      "explain": "Individuals can focus fully on a task without meetings or discussions.",
+      "example": "A lecturer writing a research article may make more progress in a quiet office than in a shared workspace."
+     },
+     {
+      "reason": "Individuals can make decisions quickly without waiting for agreement.",
+      "explain": "Teams often spend a long time debating, which can delay action.",
+      "example": "A freelance graphic designer can change a design immediately instead of waiting for a team meeting."
+     },
+     {
+      "reason": "Working alone makes responsibility and credit clear.",
+      "explain": "When one person does the work, there is no problem of unequal contribution.",
+      "example": "In some student group projects, one or two members do most of the work while the others receive the same grade."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "Teams combine diverse knowledge and skills to solve complex problems.",
+      "explain": "Most modern problems are too complex for one person to handle well.",
+      "example": "A patient with diabetes receives safer care from a team of a doctor, nurse, dietitian and pharmacist than from one professional."
+     },
+     {
+      "reason": "Teamwork shares the workload and reduces errors.",
+      "explain": "Dividing tasks reduces pressure, and colleagues can check each other's work.",
+      "example": "In a hospital, a pharmacist who double-checks a doctor's prescription can prevent a dangerous medication error."
+     },
+     {
+      "reason": "Team members learn from one another and stay motivated.",
+      "explain": "Sharing ideas and experience helps everyone improve faster.",
+      "example": "A new lecturer who co-teaches a course with experienced colleagues quickly learns practical assessment techniques."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: Some people believe that individuals produce better results when working independently. Thesis: I strongly disagree because teamwork combines diverse skills and lets members share responsibilities and learn.",
+    "body1": "Reason 1: Teams combine knowledge for complex problems; example of a multidisciplinary team caring for a patient with diabetes.",
+    "body2": "Reason 2: Teamwork reduces pressure, catches errors and supports learning; example of a new lecturer co-teaching; concession on concentration plus rebuttal; additional point on motivation.",
+    "conclusion": "Restate that people achieve more in a team; summarise complementary expertise and shared workload and knowledge."
+   },
+   "model": [
+    "Some people believe that individuals produce better results when they work independently rather than as part of a group. I strongly disagree with this view, because teamwork combines diverse skills to solve complex problems and allows members to share responsibilities and learn from one another.",
+    "First and foremost, a team can bring together a range of knowledge and skills that no single person possesses. Most modern problems are too complex to be solved by one individual. In healthcare, for example, a patient with diabetes is best supported by a multidisciplinary team: a doctor adjusts the medication, a nurse monitors blood sugar, a dietitian plans meals and a pharmacist checks for harmful drug interactions. Together, they provide safer and more complete care than any single professional could. The same principle applies in engineering, business and research, where combining perspectives leads to more creative and reliable solutions.",
+    "Moreover, teamwork reduces individual pressure and improves the quality of work. When tasks are divided fairly, each member can concentrate on a manageable part of the project, and colleagues can check one another's work to catch errors before they become serious. Team members also learn continuously from each other. A new lecturer who co-teaches a course with experienced colleagues, for instance, quickly gains practical ideas about assessment and student support that would take years to discover alone. Admittedly, working alone offers fewer distractions for tasks that require deep concentration; however, most workplace goals depend on cooperation. In addition, belonging to a team increases motivation and a sense of shared responsibility.",
+    "In conclusion, people generally achieve more in a team than on their own because teams combine complementary expertise and share both workload and knowledge. I therefore firmly believe that teamwork is the more effective way of working in today's complex world."
+   ],
+   "phrases": [
+    {
+     "en": "a multidisciplinary team",
+     "th": "ทีมสหวิชาชีพ"
+    },
+    {
+     "en": "combining perspectives",
+     "th": "การผสานมุมมองที่หลากหลาย"
+    },
+    {
+     "en": "a manageable part of the project",
+     "th": "ส่วนของโครงการที่จัดการได้ไม่เกินกำลัง"
+    },
+    {
+     "en": "a sense of shared responsibility",
+     "th": "ความรู้สึกรับผิดชอบร่วมกัน"
+    },
+    {
+     "en": "complementary expertise",
+     "th": "ความเชี่ยวชาญที่เสริมกันและกัน"
+    }
+   ]
+  },
+  {
+   "id": "RX",
+   "prompt": "Artificial intelligence will do more harm than good to education.",
+   "prompt_fixed": "Artificial intelligence will do more harm than good to education. Do you agree or disagree?",
+   "th_explain": "โจทย์นี้เป็นหัวข้อที่คาดว่าอาจออกสอบ (ไม่ใช่ข้อสอบจริงในอดีต) ถามว่าปัญญาประดิษฐ์ (AI) จะสร้างผลเสียต่อการศึกษามากกว่าผลดีหรือไม่ รูปแบบ 'more harm than good' ต้องชั่งน้ำหนักว่าผลด้านใดมากกว่า ถ้าเลือก Disagree หมายความว่า AI ให้ประโยชน์มากกว่าโทษ คำสำคัญคือ artificial intelligence, personalised learning (การเรียนรู้เฉพาะบุคคล) และ academic integrity (ความซื่อสัตย์ทางวิชาการ) กับดักคือเขียนแต่เรื่องการโกงการบ้านจนดูเหมือนเห็นด้วย หรือเขียนข้อดีข้อเสียเท่าๆ กันโดยไม่สรุปว่าด้านใดหนักกว่า",
+   "keywords": [
+    {
+     "en": "artificial intelligence (AI)",
+     "th": "ปัญญาประดิษฐ์"
+    },
+    {
+     "en": "personalised learning",
+     "th": "การเรียนรู้เฉพาะบุคคล"
+    },
+    {
+     "en": "instant feedback",
+     "th": "ผลป้อนกลับทันที"
+    },
+    {
+     "en": "academic integrity",
+     "th": "ความซื่อสัตย์ทางวิชาการ"
+    },
+    {
+     "en": "plagiarism",
+     "th": "การลอกเลียนผลงาน"
+    },
+    {
+     "en": "administrative workload",
+     "th": "ภาระงานด้านธุรการและเอกสาร"
+    },
+    {
+     "en": "disadvantaged schools",
+     "th": "โรงเรียนที่ขาดแคลนทรัพยากร"
+    },
+    {
+     "en": "responsible use",
+     "th": "การใช้อย่างรับผิดชอบ"
+    }
+   ],
+   "paraphrases": [
+    "The rapid rise of artificial intelligence has led some people to fear that it will damage teaching and learning.",
+    "Some people believe that the disadvantages of AI in schools and universities will outweigh its benefits.",
+    "It is often argued that intelligent technology poses a greater threat than opportunity for education."
+   ],
+   "stance": "disagree",
+   "stance_reason_th": "ฝั่งไม่เห็นด้วย (AI ให้ประโยชน์มากกว่าโทษ) เขียนได้มีน้ำหนัก เพราะมีตัวอย่างการใช้งานจริงที่ชัดเจน เช่น ติวเตอร์ AI ช่วยนักเรียนในโรงเรียนห่างไกลที่ขาดครูเฉพาะทาง และช่วยลดภาระงานเอกสารของอาจารย์ ส่วนปัญหาการโกงสามารถยอมรับแล้วหักล้างได้ว่าแก้ได้ด้วยการปรับวิธีประเมินผล อาจารย์มหาวิทยาลัยมีประสบการณ์ตรงกับการใช้ AI จึงยกตัวอย่างได้อย่างเป็นธรรมชาติ",
+   "ideas": {
+    "agree": [
+     {
+      "reason": "AI makes cheating easy and threatens academic integrity.",
+      "explain": "Students can submit essays and assignments written by AI without learning anything.",
+      "example": "A university lecturer may receive several essays with almost identical AI-generated wording from the same class."
+     },
+     {
+      "reason": "Over-reliance on AI weakens students' thinking and basic skills.",
+      "explain": "If AI always provides the answers, students stop practising problem-solving, writing and critical thinking.",
+      "example": "A student who uses AI to solve every mathematics exercise may be unable to solve similar problems in an examination."
+     },
+     {
+      "reason": "AI can provide inaccurate or biased information.",
+      "explain": "Students who trust AI answers without checking them may learn false information.",
+      "example": "An AI tool may invent a reference that does not exist, and a student may copy it into a research report."
+     }
+    ],
+    "disagree": [
+     {
+      "reason": "AI provides personalised support to every learner at any time.",
+      "explain": "AI tutors can explain concepts in different ways, give extra practice and offer instant feedback.",
+      "example": "A student at a rural school without an English specialist can practise speaking with an AI conversation partner every evening."
+     },
+     {
+      "reason": "AI reduces teachers' administrative workload.",
+      "explain": "Teachers can use AI to draft quizzes and routine feedback, then spend the time saved on mentoring students.",
+      "example": "A lecturer can ask AI to prepare a first draft of multiple-choice questions and then check and improve them in a fraction of the usual time."
+     },
+     {
+      "reason": "Learning to use AI responsibly is an essential skill for the future.",
+      "explain": "Graduates will use AI tools in most professions, so schools should teach students to use them well.",
+      "example": "Public health students can learn to use AI to summarise research articles while checking the original sources."
+     }
+    ]
+   },
+   "outline": {
+    "intro": "Paraphrase: The rise of AI has led some people to fear that it will damage teaching and learning. Thesis: I strongly disagree because AI offers personalised support and frees teachers for more meaningful work.",
+    "body1": "Reason 1: AI gives individual support at any time; example of a rural student practising speaking with an AI conversation partner.",
+    "body2": "Reason 2: AI reduces teachers' administrative workload; time saved goes to mentoring and creative lessons; concession on cheating plus rebuttal (in-class writing, oral assessment, clear guidelines).",
+    "conclusion": "Restate that AI will benefit education more than it harms it; summarise personalised learning and more time for real teaching."
+   },
+   "model": [
+    "The rapid rise of artificial intelligence tools such as chatbots has led some people to fear that technology will damage teaching and learning. I strongly disagree with this view, as AI can provide personalised support to every learner and can free teachers to focus on the most meaningful parts of their work.",
+    "The most compelling advantage of AI is its ability to give each student individual support at any time. In a typical classroom, one teacher cannot answer every question or adjust the pace for forty learners with different needs. An AI tutor, however, can explain a concept in several ways, provide extra practice and give instant feedback on written answers. For example, a student at a small school in a rural district, where there may be no English specialist, can practise speaking with an AI conversation partner every evening and receive suggestions on vocabulary and pronunciation. In this way, AI helps narrow the gap between well-resourced and disadvantaged schools.",
+    "Furthermore, AI reduces the administrative workload that consumes much of teachers' time. Lecturers can use AI tools to draft quiz questions, summarise readings or produce initial feedback on routine assignments, and then review and improve the results. The time saved can be spent on mentoring students, leading class discussions and designing more creative lessons, which are tasks that machines cannot perform well. Admittedly, AI makes it easier for some students to submit work they did not write themselves; however, this problem can be addressed through in-class writing, oral presentations and clear guidelines on responsible use.",
+    "In conclusion, artificial intelligence will benefit education far more than it harms it, since it offers personalised learning and allows teachers to concentrate on what matters most. I therefore firmly believe that schools should embrace AI carefully rather than fear it."
+   ],
+   "phrases": [
+    {
+     "en": "free teachers to focus on",
+     "th": "ทำให้ครูมีเวลาว่างพอจะมุ่งไปที่..."
+    },
+    {
+     "en": "narrow the gap between well-resourced and disadvantaged schools",
+     "th": "ลดช่องว่างระหว่างโรงเรียนที่มีทรัพยากรพร้อมกับโรงเรียนที่ขาดแคลน"
+    },
+    {
+     "en": "administrative workload",
+     "th": "ภาระงานด้านธุรการและเอกสาร"
+    },
+    {
+     "en": "clear guidelines on responsible use",
+     "th": "แนวปฏิบัติที่ชัดเจนเรื่องการใช้อย่างรับผิดชอบ"
+    },
+    {
+     "en": "embrace AI carefully rather than fear it",
+     "th": "เปิดรับ AI อย่างระมัดระวัง แทนที่จะหวาดกลัว"
+    }
+   ]
+  }
+ ]
+}

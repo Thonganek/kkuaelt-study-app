@@ -1,0 +1,1433 @@
+{
+ "passages": [
+  {
+   "id": "W11",
+   "day": 15,
+   "focus": "Scanning for numbers, names and technical terms; short-answer questions",
+   "skill_tip_en": "Underline the key word in each question, decide what kind of answer you need (a number, a month, a name or a technical term), scan only for that form, and then copy the words exactly as they appear in the passage without going over the word limit.",
+   "kind": "short",
+   "genre": "research summary",
+   "domain": "Public Health",
+   "title": "Dengue in Southeast Asia: A Ten-Year Review of Patterns and Prevention",
+   "paragraphs": [
+    "Dengue is a viral infection spread mainly by the Aedes aegypti mosquito and, to a lesser extent, by Aedes albopictus, commonly known as the Asian tiger mosquito. Although most infections cause only a mild fever or no symptoms at all, a small proportion progress to severe dengue, which can be fatal. Because Southeast Asia carries a large share of the global burden, researchers at a university in central Thailand reviewed a decade of regional data to identify when and where the disease strikes and which prevention measures appear to work.",
+    "The team analysed national surveillance reports from five countries covering the years 2014 to 2023. Across all five, roughly 70 percent of reported cases occurred between June and October, the months of heaviest rainfall. In Thailand, cases usually began to climb in May and peaked in July. Four serotypes of the virus, labelled DENV-1 to DENV-4, circulate in the region. Infection with one gives lifelong protection against that serotype only, and a later infection with a different serotype raises the risk of severe illness.",
+    "The review also points to a shift in who is falling ill. Dengue was long regarded as a childhood disease, yet the median age of patients in Thai surveillance data rose from 12 years in 2014 to 19 years in 2023, a change the authors attribute partly to falling birth rates. Location matters, too: incidence in fast-growing urban districts was 1.6 times higher than in rural districts, reflecting the crowded housing and water containers in which Aedes mosquitoes thrive.",
+    "To find out where mosquitoes breed, the researchers drew on household surveys of 1,500 homes in northeastern Thailand. Larvae were most often found in water storage jars, which accounted for 42 percent of positive containers, followed by discarded tyres at 18 percent and flower vases at 11 percent. Infestation was measured with the Breteau index, the number of containers with larvae per 100 houses; a value above 50 was treated as a sign of high outbreak risk.",
+    "Several prevention methods were compared. Community clean-up campaigns cut the Breteau index by about a third within two months, but the effect faded once the campaigns ended. Adding temephos sand granules to water jars, or keeping guppy fish in them to eat the larvae, gave longer-lasting results where households kept up the practice. The strongest evidence came from releasing mosquitoes carrying Wolbachia, a bacterium that stops the virus from multiplying inside the insect; a randomised trial in an Indonesian city reported a fall of roughly three quarters in confirmed cases.",
+    "The authors conclude that no single tool is enough. They recommend integrated vector management, which combines removing breeding sites, biological control and community education, supported by early-warning systems that use rainfall and temperature data to predict outbreaks several weeks ahead. Newly licensed vaccines may help, they note, but cannot replace the routine work of emptying and covering water containers."
+   ],
+   "questions": [
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the common name of Aedes albopictus? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "asian tiger mosquito",
+      "the asian tiger mosquito",
+      "asian tiger mosquitoes"
+     ],
+     "explain": "¶1: \"Aedes albopictus, commonly known as the Asian tiger mosquito\" วลี commonly known as เป็นสัญญาณบอกชื่อเรียกทั่วไป อย่าตอบ Aedes aegypti ซึ่งเป็นยุงพาหะหลักอีกชนิดหนึ่งที่อยู่ในประโยคเดียวกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the review, during which months did roughly 70 percent of reported cases occur?",
+     "options": [
+      "From May to July",
+      "From June to October",
+      "From July to December",
+      "From October to April"
+     ],
+     "answer": 1,
+     "explain": "¶2: \"roughly 70 percent of reported cases occurred between June and October\" ตัวเลือก A เป็นกับดัก เพราะ May และ July อยู่ในประโยคถัดไปซึ่งบอกเดือนที่ผู้ป่วยในไทยเริ่มเพิ่มและถึงจุดสูงสุด ไม่ใช่ช่วงที่รวมผู้ป่วยร้อยละ 70"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In which month did dengue cases in Thailand usually reach their peak? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "july",
+      "in july"
+     ],
+     "explain": "¶2: \"cases usually began to climb in May and peaked in July\" คำว่า peaked คือถึงจุดสูงสุด ส่วน May เป็นเดือนที่จำนวนผู้ป่วยเริ่มเพิ่มขึ้นเท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best restates what the passage says about dengue serotypes?",
+     "options": [
+      "Recovering from one serotype protects a person against all four for life.",
+      "A second infection is usually milder because the body already knows the virus.",
+      "Only DENV-1 and DENV-2 are currently found in Southeast Asian countries.",
+      "A later infection with another serotype makes severe illness more likely."
+     ],
+     "answer": 3,
+     "explain": "¶2: \"a later infection with a different serotype raises the risk of severe illness\" — raises the risk ถอดความได้เป็น makes ... more likely ตัวเลือก A ผิดเพราะภูมิคุ้มกันตลอดชีวิตมีต่อ \"that serotype only\" ส่วน B มีความหมายตรงข้ามกับบทความ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to Thai surveillance data, what was the median age of dengue patients in 2023?",
+     "options": [
+      "12 years",
+      "16 years",
+      "19 years",
+      "23 years"
+     ],
+     "answer": 2,
+     "explain": "¶3: \"the median age ... rose from 12 years in 2014 to 19 years in 2023\" ตัวเลข 12 เป็นค่าของปี 2014 จึงเป็นกับดักสำหรับผู้ที่หยิบตัวเลขแรกที่เห็นโดยไม่ดูปีให้ตรงกับคำถาม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a place where mosquito larvae were found?",
+     "options": [
+      "Roof gutters",
+      "Water storage jars",
+      "Discarded tyres",
+      "Flower vases"
+     ],
+     "answer": 0,
+     "explain": "¶4 ระบุแหล่งที่พบลูกน้ำเพียงสามแห่ง: \"water storage jars ... discarded tyres at 18 percent and flower vases at 11 percent\" ไม่มีรางน้ำฝน (roof gutters) แม้ในชีวิตจริงจะเป็นแหล่งเพาะพันธุ์ยุงได้ก็ตาม จึงต้องตอบจากบทความเท่านั้น"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What measure records the number of containers with larvae per 100 houses? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "breteau index",
+      "the breteau index"
+     ],
+     "explain": "¶4: \"the Breteau index, the number of containers with larvae per 100 houses\" วลีหลังจุลภาคเป็นคำนิยาม (definition) ของศัพท์เทคนิคที่อยู่ข้างหน้า จึงต้องตอบชื่อดัชนีนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, what happened after community clean-up campaigns?",
+     "options": [
+      "Mosquito-breeding levels fell by about a third, but the gain did not last long.",
+      "Confirmed cases fell by roughly three quarters within the next year.",
+      "Mosquito-breeding levels stayed high because few households joined in.",
+      "Larvae vanished from water jars but remained in discarded tyres."
+     ],
+     "answer": 0,
+     "explain": "¶5: \"cut the Breteau index by about a third within two months, but the effect faded once the campaigns ended\" ตัวเลือก B เป็นผลของการปล่อยยุงที่มี Wolbachia ซึ่งอยู่ท้ายย่อหน้าเดียวกัน ไม่ใช่ผลของการรณรงค์ทำความสะอาด"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which bacterium is carried by the mosquitoes that were released? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "wolbachia"
+     ],
+     "explain": "¶5: \"releasing mosquitoes carrying Wolbachia, a bacterium that stops the virus from multiplying\" — a bacterium ที่ตามหลังเป็นตัวยืนยันว่า Wolbachia คือชื่อแบคทีเรีย ส่วน temephos เป็นสารเคมีกำจัดลูกน้ำ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What two kinds of data do early-warning systems use to predict outbreaks? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "rainfall and temperature",
+      "temperature and rainfall"
+     ],
+     "explain": "¶6: \"early-warning systems that use rainfall and temperature data to predict outbreaks several weeks ahead\" คำถามถามชนิดของข้อมูล จึงตอบ rainfall and temperature โดยไม่ต้องใส่คำว่า data ซึ่งจะทำให้เกินสามคำ"
+    }
+   ]
+  },
+  {
+   "id": "W12",
+   "day": 16,
+   "focus": "Inference, author's purpose and tone",
+   "skill_tip_en": "For inference questions choose the option that must be true from the evidence rather than one that merely sounds sensible, and for purpose and tone questions ask why the writer included a paragraph or example and which words reveal the writer's attitude.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "AI/Technology",
+   "title": "Medicine's Newest Assistant Has an Old Problem",
+   "paragraphs": [
+    "A doctor in a busy clinic photographs a patient's mole with a smartphone, and within seconds an app reports that the mark is almost certainly harmless. For many patients, that reassurance will be accurate. For some, however, it may be far less trustworthy than it appears. Artificial intelligence promises to make diagnosis faster, cheaper and more consistent, yet a growing body of evidence suggests that these tools do not serve all patients equally well.",
+    "The root of the problem lies in how such systems learn. A skin-lesion classifier is trained on thousands of labelled photographs and becomes skilled at recognising whatever they contain. Reviews of the public image collections used to build dermatology tools have repeatedly found that only a small fraction of the pictures show darker skin. A system trained largely on light skin may therefore miss a melanoma on brown or black skin, not because it was designed to discriminate but because it was never shown enough examples.",
+    "Bias can also creep in through the choice of what an algorithm is asked to predict. A widely discussed 2019 study examined software used by American hospitals to decide which patients should receive extra support. The program used past healthcare spending as a proxy for medical need, on the reasonable-sounding assumption that sicker people cost more to treat. But because less money had historically been spent on Black patients with the same conditions, partly owing to unequal access to care, the software judged them to be healthier than they really were. Race was never one of its inputs.",
+    "Hardware is not immune either. Pulse oximeters, the small clips that estimate blood oxygen by shining light through a fingertip, have been shown to overestimate oxygen levels in people with darker skin. During the COVID-19 pandemic, when such readings helped determine who was admitted to hospital, the flaw was more than a technical footnote. As these readings are increasingly fed into automated warning systems, a small error at the bedside can be quietly multiplied.",
+    "The issue is not confined to the United States or to questions of race. Many AI products used in Asian hospitals are developed abroad, and a model trained on chest X-rays from well-equipped city hospitals may stumble when it meets images from older machines in a rural district hospital in Thailand, or patients with diseases such as tuberculosis that were rare in its training data.",
+    "None of this means that medical AI should be abandoned. It does mean that developers should build more representative datasets and report how well a tool performs for each patient group rather than simply on average. Hospitals, for their part, should test imported systems on their own patients before relying on them, and keep monitoring them afterwards. An algorithm can be enormously useful, but only if someone has checked that it works for everyone it is meant to serve."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Smartphone apps are now more reliable than doctors at judging moles.",
+      "Medical AI may treat some patients unfairly unless it is properly checked.",
+      "Hospitals in the United States have stopped using software to allocate care.",
+      "Patients with darker skin should avoid pulse oximeters and similar devices."
+     ],
+     "answer": 1,
+     "explain": "¶1 ตั้งประเด็นว่าเครื่องมือ AI \"do not serve all patients equally well\" และ ¶6 สรุปว่าต้องตรวจสอบว่า \"it works for everyone it is meant to serve\" ตัวเลือก D ผิดเพราะผู้เขียนไม่ได้ให้เลิกใช้อุปกรณ์ แต่ให้ทดสอบและแก้ไขข้อบกพร่อง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author begin the passage with the example of a skin-checking app?",
+     "options": [
+      "To show how a seemingly helpful tool may quietly mislead some patients",
+      "To explain the technical steps an app uses to classify a skin lesion",
+      "To argue that doctors should stop using smartphones in consultations",
+      "To prove that skin cancer is more common among patients with dark skin"
+     ],
+     "answer": 0,
+     "explain": "¶1: \"For some, however, it may be far less trustworthy than it appears\" ตัวอย่างแอปจึงใช้เปิดเรื่องให้เห็นปัญหาที่มองไม่เห็นของ AI ไม่ได้อธิบายขั้นตอนทางเทคนิค (B) และไม่มีข้อมูลว่ามะเร็งผิวหนังพบมากในคนผิวเข้ม (D)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, why might a skin-analysis tool miss a melanoma on darker skin?",
+     "options": [
+      "It was deliberately programmed to ignore certain skin colours.",
+      "Photographs of darker skin are harder to take with smartphones.",
+      "Few of the images used to train it showed darker skin.",
+      "Melanomas on darker skin look identical to harmless moles."
+     ],
+     "answer": 2,
+     "explain": "¶2: \"only a small fraction of the pictures show darker skin\" และระบบพลาด \"not because it was designed to discriminate but because it was never shown enough examples\" ซึ่งตัดตัวเลือก A ออกโดยตรง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'proxy' in paragraph 3 is closest in meaning to",
+     "options": [
+      "legal representative",
+      "substitute measure",
+      "accurate record",
+      "hidden payment"
+     ],
+     "answer": 1,
+     "explain": "¶3: \"used past healthcare spending as a proxy for medical need\" คือใช้ค่าใช้จ่ายเป็นตัวแทนในการวัดความจำเป็นทางการแพทย์ ตัวเลือก A เป็นความหมายของ proxy ในบริบทกฎหมายหรือการลงคะแนนแทน ซึ่งไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that",
+     "options": [
+      "the software deliberately gave Black patients lower priority",
+      "the hospitals knew about the problem before buying the program",
+      "spending less on a patient always means the patient is healthier",
+      "leaving race out of an algorithm does not guarantee fair results"
+     ],
+     "answer": 3,
+     "explain": "¶3 จบด้วย \"Race was never one of its inputs.\" ทั้งที่ซอฟต์แวร์ยังประเมินผู้ป่วยผิวดำต่ำกว่าความจริง จึงอนุมานได้ว่าการไม่ใส่ข้อมูลเชื้อชาติไม่ได้รับประกันความเป็นธรรม ตัวเลือก A ผิดเพราะความลำเอียงเกิดจากตัวแปรแทน ไม่ใช่เจตนา"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 4 about the COVID-19 pandemic?",
+     "options": [
+      "Some darker-skinned patients may have seemed less ill than they really were.",
+      "Pulse oximeters were replaced by automated systems in most hospitals.",
+      "Doctors refused to admit patients whose oxygen readings were too high.",
+      "The flaw in pulse oximeters was first discovered during the pandemic."
+     ],
+     "answer": 0,
+     "explain": "¶4: เครื่องวัด \"overestimate oxygen levels in people with darker skin\" และค่านี้ \"helped determine who was admitted to hospital\" ค่าออกซิเจนที่สูงเกินจริงจึงทำให้ผู้ป่วยบางคนดูอาการเบากว่าที่เป็น ตัวเลือก D ไม่มีหลักฐานว่าค้นพบข้อบกพร่องครั้งแรกในช่วงนั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of paragraph 5?",
+     "options": [
+      "To compare the quality of hospitals in Thailand and the United States",
+      "To show that the problem also affects imported tools used in Asia",
+      "To explain why tuberculosis is common in rural parts of Thailand",
+      "To recommend that Asian countries develop all their own AI products"
+     ],
+     "answer": 1,
+     "explain": "¶5 เปิดด้วย \"The issue is not confined to the United States or to questions of race.\" แล้วยกตัวอย่างโมเดลจากต่างประเทศที่อาจพลาดในโรงพยาบาลอำเภอของไทย ตัวเลือก D เกินกว่าที่ผู้เขียนเสนอ เพราะ ¶6 ให้ทดสอบระบบที่นำเข้า ไม่ได้ให้พัฒนาเองทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that the author believes",
+     "options": [
+      "hospitals should only buy AI systems that were developed locally",
+      "monitoring an AI system is unnecessary once it has passed testing",
+      "an AI tool that is accurate overall can still fail particular groups",
+      "average accuracy is the most useful way to report a tool's performance"
+     ],
+     "answer": 2,
+     "explain": "¶6: ผู้พัฒนาควร \"report how well a tool performs for each patient group rather than simply on average\" แสดงว่าผู้เขียนเชื่อว่าค่าเฉลี่ยรวมที่ดีอาจซ่อนผลที่แย่ในบางกลุ่ม ตัวเลือก D ตรงข้ามกับข้อความนี้ และ B ขัดกับ \"keep monitoring them afterwards\""
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward medical AI can best be described as",
+     "options": [
+      "enthusiastic and uncritical",
+      "hostile and dismissive",
+      "detached and indifferent",
+      "concerned but constructive"
+     ],
+     "answer": 3,
+     "explain": "ผู้เขียนชี้ปัญหาอย่างจริงจังแต่เสนอทางแก้ และย้ำใน ¶6: \"None of this means that medical AI should be abandoned\" จึงไม่ใช่ hostile (B) และไม่ใช่ uncritical (A) เพราะทั้งบทวิจารณ์จุดอ่อนของ AI อย่างละเอียด"
+    }
+   ]
+  },
+  {
+   "id": "W13",
+   "day": 17,
+   "focus": "Fact vs opinion, the writer's view and vocabulary in context",
+   "skill_tip_en": "Treat statements that could be checked against evidence (survey results, research findings, recommendations that exist) as facts and statements built on judgement words such as should, better, surely or more harm than good as opinions, then use those opinions to predict what the writer would agree with.",
+   "kind": "short",
+   "genre": "opinion article",
+   "domain": "Education",
+   "title": "Homework: Help or Hindrance?",
+   "paragraphs": [
+    "Every evening in homes across Thailand, a familiar scene unfolds. A seven-year-old sits at the kitchen table with a pile of worksheets, a tired parent hovers nearby, and an argument is never far away. By the time the last page is finished, it is well past the child's bedtime. I have watched this ritual for years, first as a primary school teacher and now as a parent, and I have come to a firm conclusion: for young children, most homework does more harm than good.",
+    "The research supports this view more strongly than many people realise. Large reviews of studies, some dating back to the 1980s, have found that the link between homework and achievement is weak in primary school and becomes noticeably stronger only in the later secondary years. A widely quoted rule of thumb suggests about ten minutes of homework per night for each grade level, which would mean twenty minutes for a second-grader. Yet in a survey of 800 parents in three Thai provinces last year, many reported that their young children spend more than an hour on assignments each evening.",
+    "Defenders of homework argue that it teaches discipline and responsibility. That is a fair point, but it assumes that children learn those qualities from worksheets rather than from, say, looking after a pet, helping to cook dinner or practising a musical instrument. In reality, the discipline that homework teaches is often the parent's, not the child's. When a task is too difficult to complete alone, it becomes a test of the family's resources: children whose parents have time, education or money for tutors pull further ahead, while others fall behind. Homework, in other words, can quietly widen the very gaps that schools are supposed to close.",
+    "There is also a cost that rarely appears in test scores. Childhood is short, and the hours after school are precious. Free play, physical activity and sleep are not luxuries; they are essential to healthy development. Sleep experts generally recommend nine to twelve hours a night for children aged six to twelve, a target that becomes impossible when homework stretches late into the evening.",
+    "None of this means that homework should be abolished altogether. For older students, carefully designed assignments can consolidate what has been learned in class and prepare them for independent study at university. Good homework is short, has a clear purpose and receives prompt feedback from the teacher. Busywork that is set merely because parents expect it, or because the timetable says so, should be scrapped.",
+    "For younger children, I would go further: replace worksheets with twenty minutes of reading for pleasure, ideally alongside a parent or grandparent. It costs nothing, it builds vocabulary and it turns the evening into something a family can enjoy rather than endure. Surely that is a better use of a child's evening than another page of sums."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the writer's main argument?",
+     "options": [
+      "Homework should be banned at every level of schooling.",
+      "Most homework given to young children should be cut or replaced.",
+      "Parents should hire tutors to help children finish their homework.",
+      "Homework is the best way to teach children discipline and responsibility."
+     ],
+     "answer": 1,
+     "explain": "¶1: \"for young children, most homework does more harm than good\" และ ¶6 เสนอให้ \"replace worksheets with twenty minutes of reading\" ตัวเลือก A กว้างเกินไปและขัดกับ ¶5: \"None of this means that homework should be abolished altogether\""
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'ritual' in paragraph 1 is closest in meaning to",
+     "options": [
+      "a religious ceremony",
+      "a serious argument",
+      "a regular routine",
+      "a school regulation"
+     ],
+     "answer": 2,
+     "explain": "¶1: \"I have watched this ritual for years\" — this ritual อ้างถึงฉากทำการบ้านที่เกิดขึ้น \"Every evening\" จึงหมายถึงกิจวัตรที่ทำซ้ำเป็นประจำ ตัวเลือก A เป็นความหมายตรงตัว (พิธีกรรม) ซึ่งไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements is a fact rather than an opinion?",
+     "options": [
+      "Surveyed parents said many children did over an hour of homework nightly.",
+      "For young children, most homework does more harm than good.",
+      "Homework can quietly widen the very gaps that schools are supposed to close.",
+      "Reading for pleasure is a far better use of a child's evening than sums."
+     ],
+     "answer": 0,
+     "explain": "¶2: \"in a survey of 800 parents ... many reported that their young children spend more than an hour on assignments\" เป็นผลการสำรวจที่ตรวจสอบได้ จึงเป็นข้อเท็จจริง ส่วน B, C และ D เป็นการตัดสินคุณค่าของผู้เขียน (more harm than good, better use)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, how can homework widen gaps between children?",
+     "options": [
+      "Teachers give the hardest assignments to their strongest pupils.",
+      "Pupils who look after pets have less time left for schoolwork.",
+      "Schools in wealthy areas set much more homework than other schools.",
+      "Children from better-resourced families get more help at home."
+     ],
+     "answer": 3,
+     "explain": "¶3: \"children whose parents have time, education or money for tutors pull further ahead, while others fall behind\" ตรงกับ D ตัวเลือก B ใช้คำว่า pet จาก ¶3 เป็นกับดัก แต่ผู้เขียนยกเรื่องสัตว์เลี้ยงเป็นตัวอย่างการฝึกความรับผิดชอบ ไม่ใช่สาเหตุของช่องว่าง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention looking after a pet and helping to cook dinner in paragraph 3?",
+     "options": [
+      "To suggest that children can learn discipline in other ways",
+      "To list the chores that children usually do after their homework",
+      "To show that busy families have no time for homework",
+      "To prove that musical training improves school grades"
+     ],
+     "answer": 0,
+     "explain": "¶3: ข้อโต้แย้งเรื่องวินัย \"assumes that children learn those qualities from worksheets rather than from, say, looking after a pet\" ตัวอย่างเหล่านี้แสดงว่าวินัยฝึกได้จากกิจกรรมอื่น ไม่มีข้อความว่าดนตรีทำให้เกรดดีขึ้น (D)"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements is an opinion rather than a fact?",
+     "options": [
+      "Large reviews found only a weak link between homework and achievement in primary school.",
+      "Sleep experts recommend nine to twelve hours a night for children aged six to twelve.",
+      "Busywork set merely because parents expect it should be scrapped.",
+      "A rule of thumb suggests about ten minutes of homework per grade level."
+     ],
+     "answer": 2,
+     "explain": "¶5: \"Busywork that is set merely because parents expect it ... should be scrapped\" คำว่า should แสดงข้อเสนอส่วนตัวของผู้เขียน ส่วน A, B และ D เป็นการรายงานผลการวิจัยหรือคำแนะนำที่มีอยู่จริงซึ่งตรวจสอบได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'consolidate' in paragraph 5 is closest in meaning to",
+     "options": [
+      "combine into one unit",
+      "repeat word for word",
+      "test and grade",
+      "strengthen and secure"
+     ],
+     "answer": 3,
+     "explain": "¶5: \"carefully designed assignments can consolidate what has been learned in class\" คือทำให้สิ่งที่เรียนไปแล้วแน่นและมั่นคงขึ้น ตัวเลือก A เป็นความหมายของ consolidate ในบริบทธุรกิจ (การรวมกิจการ) ซึ่งไม่เข้ากับเรื่องการเรียนรู้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The writer would most likely agree that",
+     "options": [
+      "homework for older teenagers serves no useful purpose",
+      "the amount of homework should depend on a child's age",
+      "parents should make sure every worksheet is done perfectly",
+      "test scores are the best measure of a child's development"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนคัดค้านการบ้านของเด็กเล็ก (¶1) แต่ยอมรับใน ¶5 ว่า \"For older students, carefully designed assignments can consolidate what has been learned\" จึงน่าจะเห็นด้วยว่าปริมาณการบ้านควรขึ้นกับอายุ ตัวเลือก A ขัดกับ ¶5 โดยตรง และ D ขัดกับ ¶4 ที่ว่ามีต้นทุนที่ \"rarely appears in test scores\""
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The tone of the passage is best described as",
+     "options": [
+      "firm and persuasive",
+      "neutral and impartial",
+      "bitter and sarcastic",
+      "uncertain and hesitant"
+     ],
+     "answer": 0,
+     "explain": "ผู้เขียนประกาศจุดยืนชัดเจน (¶1: \"I have come to a firm conclusion\") และปิดด้วยการโน้มน้าว \"Surely that is a better use...\" จึงไม่ใช่ neutral (B) ส่วน bitter and sarcastic (C) รุนแรงเกินไป เพราะผู้เขียนยังยอมรับฝ่ายตรงข้ามว่า \"That is a fair point\""
+    }
+   ]
+  },
+  {
+   "id": "W14",
+   "day": 20,
+   "focus": "Reading research articles: purpose, design, sample, findings, limitations and implications",
+   "skill_tip_en": "Use the section labels as a map: look in Background for the research gap and purpose, in Methods for the design and sample, in Results for the numbers and main finding, and in Discussion or Limitations for weaknesses and implications.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Public Health",
+   "title": "Village Health Volunteers and Hypertension Control in Rural Northeastern Thailand",
+   "paragraphs": [
+    "Background. Hypertension is one of the leading risk factors for stroke, heart attack and chronic kidney disease, and national surveys suggest that roughly one in four Thai adults is affected. The burden is especially heavy in rural areas, where many people with high blood pressure are unaware of their condition and many of those who are diagnosed do not achieve adequate control. Long distances to hospitals, shortages of doctors and nurses, and a traditional diet high in salt all contribute to this gap.",
+    "Thailand, however, possesses a resource that many countries lack: a network of more than one million village health volunteers, known in Thai as Or Sor Mor, who have supported primary care since the late 1970s. Volunteers traditionally assist with health promotion, disease surveillance and home visits, but their role in managing chronic disease has rarely been tested rigorously. The present study therefore aimed to evaluate whether a structured, volunteer-led programme could lower blood pressure among adults with uncontrolled hypertension in rural northeastern Thailand.",
+    "Methods. A cluster randomised trial was conducted in 24 villages in one district of a northeastern province between 2023 and 2024. Villages, rather than individuals, were randomly assigned to the intervention or control group, 12 villages in each, to prevent volunteers from sharing advice between neighbours in different arms of the study. A total of 600 adults aged 40 to 75 years with uncontrolled hypertension, defined as a blood pressure of 140/90 mmHg or higher despite treatment, were enrolled. People with severe kidney disease, a recent stroke or pregnancy were excluded.",
+    "In the intervention villages, 36 volunteers received three days of training in blood pressure measurement, medication counselling and salt reduction. Each volunteer then visited 8 to 10 participants at home every month for 12 months, measuring blood pressure with an automated device, checking that medicines were being taken as prescribed and offering practical advice on cooking with less salt, including reducing the use of pla ra, a fermented fish product common in northeastern dishes. Participants whose readings exceeded 180/110 mmHg were referred immediately to the sub-district health-promoting hospital. Control villages received usual care. The primary outcome was the change in systolic blood pressure after 12 months.",
+    "Results. Of the 600 participants, 562 (93.7 percent) completed the follow-up. Mean systolic blood pressure fell by 14.2 mmHg in the intervention group compared with 6.1 mmHg in the control group, a difference of 8.1 mmHg that was statistically significant. By the end of the study, 58 percent of participants in intervention villages had their blood pressure under control, compared with 34 percent in control villages. Self-reported medication adherence also improved more in the intervention group, and estimated daily salt intake declined modestly. No serious adverse events related to the programme were recorded.",
+    "Discussion. The reduction observed is comparable to that reported in trials of community health workers in other low- and middle-income countries and, if sustained, would be expected to lower the risk of stroke considerably. A key strength of the programme is that it builds on an existing workforce rather than creating a new one; the additional cost, mainly for training and blood pressure monitors, was estimated at about 450 baht per participant per year. Volunteers also reported that the training increased their confidence and standing in the community.",
+    "Limitations and implications. Several limitations should be noted. Neither participants nor volunteers could be blinded to group allocation, and medication adherence was self-reported, which may have exaggerated improvements. The study was carried out in a single district, so the findings may not apply to urban settings or other regions, and 12 months is too short to show effects on strokes or heart attacks. Nevertheless, the results suggest that village health volunteers could play a larger role in chronic disease care. Larger trials with longer follow-up are needed before the model is adopted nationally."
+   ],
+   "model_summary": "This trial tested whether Thailand's existing village health volunteers could help rural adults control high blood pressure. Twenty-four villages in one northeastern district were randomly allocated either to a year of monthly volunteer home visits, with support on medicines and salt, or to usual care. Systolic pressure fell about 8 mmHg more, and far more people reached target levels, in volunteer villages. Because the study was short, local and partly self-reported, larger and longer trials are still needed.",
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What was the main purpose of the study?",
+     "options": [
+      "To count how many village health volunteers work in northeastern Thailand",
+      "To test whether a volunteer-led programme could lower blood pressure",
+      "To compare the salt content of traditional dishes in rural villages",
+      "To find out why many rural people are unaware of their hypertension"
+     ],
+     "answer": 1,
+     "explain": "¶2: \"The present study therefore aimed to evaluate whether a structured, volunteer-led programme could lower blood pressure\" ตัวเลือก D เป็นปัญหาที่กล่าวไว้ในส่วน Background (¶1) ไม่ใช่วัตถุประสงค์ของการวิจัย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why do the authors state in paragraph 2 that the volunteers' role in chronic disease care has rarely been tested rigorously?",
+     "options": [
+      "To criticise the volunteers for lacking medical qualifications",
+      "To show that the volunteer network was set up only recently",
+      "To explain the gap in knowledge that the study tried to fill",
+      "To suggest that volunteers should stop making home visits"
+     ],
+     "answer": 2,
+     "explain": "¶2: \"has rarely been tested rigorously. The present study therefore aimed...\" คำว่า therefore เชื่อมช่องว่างของความรู้ (research gap) กับวัตถุประสงค์ของการวิจัย ตัวเลือก B ผิดเพราะเครือข่ายนี้มีมาตั้งแต่ \"the late 1970s\""
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What type of study design was used? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "cluster randomised trial",
+      "a cluster randomised trial",
+      "cluster randomized trial"
+     ],
+     "explain": "¶3: \"A cluster randomised trial was conducted in 24 villages\" คำว่า cluster หมายถึงการสุ่มเป็นกลุ่ม (ทั้งหมู่บ้าน) ไม่ใช่สุ่มผู้ป่วยทีละคน ซึ่งเป็นข้อมูลสำคัญที่ต้องหาในส่วน Methods"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Why were villages, rather than individual patients, randomly assigned to the two groups?",
+     "options": [
+      "To reduce the cost of training volunteers in each village",
+      "To make sure that every village received the intervention",
+      "To allow volunteers to choose which participants they visited",
+      "To stop advice from passing between neighbours in different arms"
+     ],
+     "answer": 3,
+     "explain": "¶3: สุ่มระดับหมู่บ้าน \"to prevent volunteers from sharing advice between neighbours in different arms of the study\" เพื่อกันไม่ให้ความรู้รั่วไปถึงกลุ่มควบคุม ตัวเลือก B ผิดเพราะมีเพียง 12 จาก 24 หมู่บ้านที่ได้รับโปรแกรม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which of the following people could have been enrolled in the study?",
+     "options": [
+      "A 38-year-old man whose blood pressure is 150/95 mmHg despite treatment",
+      "A 60-year-old woman whose pressure is 145/92 mmHg despite treatment",
+      "A 55-year-old man with uncontrolled hypertension and a stroke last month",
+      "A 70-year-old woman whose blood pressure is 130/80 mmHg on medication"
+     ],
+     "answer": 1,
+     "explain": "¶3: เกณฑ์คือ \"adults aged 40 to 75 years with uncontrolled hypertension, defined as a blood pressure of 140/90 mmHg or higher despite treatment\" และคัดผู้ที่มี \"a recent stroke\" ออก ตัวเลือก A อายุไม่ถึง 40, C เพิ่งเป็นโรคหลอดเลือดสมอง, D ความดันควบคุมได้แล้ว จึงเหลือ B"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which fermented fish product were participants advised to use less of? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "pla ra",
+      "plara",
+      "pla-ra"
+     ],
+     "explain": "¶4: \"reducing the use of pla ra, a fermented fish product common in northeastern dishes\" วลีหลังจุลภาคอธิบายว่า pla ra คืออะไร จึงยืนยันว่าเป็นคำตอบ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "The primary outcome of the study was the change in what? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "systolic blood pressure"
+     ],
+     "explain": "¶4: \"The primary outcome was the change in systolic blood pressure after 12 months\" ต้องตอบให้ครบว่าเป็นความดันตัวบน (systolic) การตอบเพียง blood pressure ยังไม่ตรงกับตัวแปรหลักที่ผู้วิจัยกำหนด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "By how much more did the study’s main outcome measure fall in the intervention group than in the control group?",
+     "options": [
+      "14.2 mmHg",
+      "6.1 mmHg",
+      "20.3 mmHg",
+      "8.1 mmHg"
+     ],
+     "answer": 3,
+     "explain": "¶5: \"a difference of 8.1 mmHg\" (14.2 − 6.1) ตัวเลือก A คือค่าที่ลดลงในกลุ่มทดลองเพียงกลุ่มเดียว ไม่ใช่ความแตกต่างระหว่างสองกลุ่มตามที่คำถามถาม"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Which statement best summarises the main finding of the study?",
+     "options": [
+      "The programme lowered blood pressure and improved control more than usual care did.",
+      "Most participants in both groups had their blood pressure under control after a year.",
+      "The programme reduced strokes and heart attacks in the intervention villages.",
+      "Volunteers became more confident, but blood pressure stayed the same in both groups."
+     ],
+     "answer": 0,
+     "explain": "¶5: ความดันลดลง 14.2 เทียบกับ 6.1 mmHg และควบคุมได้ \"58 percent ... compared with 34 percent\" ตัวเลือก C ผิดเพราะ ¶7 ระบุว่า \"12 months is too short to show effects on strokes or heart attacks\" ส่วน B ผิดเพราะกลุ่มควบคุมคุมได้เพียงร้อยละ 34"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to the Discussion, about how much did the programme cost per participant per year? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "450 baht",
+      "about 450 baht",
+      "450"
+     ],
+     "explain": "¶6: \"the additional cost ... was estimated at about 450 baht per participant per year\" เป็นต้นทุนเพิ่มสำหรับการอบรมและเครื่องวัดความดัน ซึ่งผู้วิจัยใช้สนับสนุนว่าโปรแกรมนี้คุ้มค่า"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Why might the improvement in medication adherence have been exaggerated?",
+     "options": [
+      "Adherence was reported by the participants themselves.",
+      "Volunteers measured adherence with automated devices.",
+      "Participants in control villages also received home visits.",
+      "Too many participants left the study before it ended."
+     ],
+     "answer": 0,
+     "explain": "¶7: \"medication adherence was self-reported, which may have exaggerated improvements\" ตัวเลือก D ผิดเพราะผู้เข้าร่วมติดตามจนครบถึงร้อยละ 93.7 (¶5) ส่วน B สับสนกับเครื่องวัดความดันอัตโนมัติใน ¶4"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "What do the authors recommend before the programme is adopted across the country?",
+     "options": [
+      "Training volunteers for a full year instead of three days",
+      "Moving the programme from villages to urban hospitals",
+      "Running larger trials that follow people for longer",
+      "Replacing volunteers with doctors in rural health centres"
+     ],
+     "answer": 2,
+     "explain": "¶7: \"Larger trials with longer follow-up are needed before the model is adopted nationally\" ตัวเลือก B เป็นกับดัก เพราะผู้วิจัยเพียงเตือนว่าผลอาจใช้ไม่ได้กับ \"urban settings\" ไม่ได้เสนอให้ย้ายโปรแกรมไปโรงพยาบาลในเมือง"
+    }
+   ]
+  },
+  {
+   "id": "W15",
+   "day": 21,
+   "focus": "Mixed skills with fast main-idea questions",
+   "skill_tip_en": "To answer main-idea questions quickly, read the first and last sentences of the passage and of each paragraph, then reject options that are too narrow (a single example or figure) or too broad (going beyond what the text says).",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Society",
+   "title": "Is Thursday the New Friday?",
+   "paragraphs": [
+    "For most of the past century, the five-day, forty-hour week has been treated as a fixed feature of working life. Yet it is a relatively recent invention. Many factory workers in the nineteenth century laboured six days a week, and the two-day weekend spread widely only in the twentieth century, after decades of campaigning by trade unions and experiments by employers who found that rested workers were more productive. Today, a growing number of organisations are asking whether the time has come to take the next step.",
+    "The model attracting most attention is often summarised as \"100-80-100\": employees receive 100 percent of their pay for working 80 percent of their previous hours, in exchange for a commitment to maintain 100 percent of their output. The idea is not simply to squeeze five days of work into four longer ones. Instead, companies are expected to cut wasted time, such as unnecessary meetings, constant email checking and poorly organised projects.",
+    "Early results have been encouraging. Public-sector trials of shorter working weeks in Iceland between 2015 and 2019, involving more than 2,500 workers, found that productivity was maintained or improved in most workplaces while staff reported less stress. In a large trial in the United Kingdom in 2022, the great majority of around 60 participating companies chose to continue with the shorter week after the six-month pilot ended. Closer to home, a software company in Bangkok with 80 employees introduced a four-day week last year and reports that staff turnover has fallen sharply.",
+    "Supporters point to benefits beyond the office. With an extra day off, employees have more time for family, exercise and rest, and some studies have recorded improvements in sleep and mental health. Employers, meanwhile, find that the promise of a shorter week helps them attract and keep talented staff in competitive labour markets. Reduced commuting may even lower carbon emissions.",
+    "Critics, however, warn that the results may not be as transferable as they appear. Companies that volunteer for trials are likely to be those already confident that the change will work. Moreover, the model fits office-based knowledge work far more easily than jobs such as nursing, teaching or retail, where output depends on someone being physically present. A hospital cannot simply close its wards on Fridays; it would need to hire more staff to cover the missing day, raising costs.",
+    "For now, the four-day week appears less like a universal solution than a promising option for particular kinds of organisations. Its success depends not on the number of days in the calendar but on whether managers are willing to rethink how work is actually done."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "The five-day week was introduced to increase factory output.",
+      "The four-day week shows promise but does not suit every workplace.",
+      "Companies in Iceland and the UK must now offer a four-day week by law.",
+      "Employees work much longer hours on each day of a four-day week."
+     ],
+     "answer": 1,
+     "explain": "¶6 สรุปว่า \"the four-day week appears less like a universal solution than a promising option for particular kinds of organisations\" ซึ่งรวมทั้งข้อดี (¶3–¶4) และข้อจำกัด (¶5) ตัวเลือก D ขัดกับ ¶2: \"not simply to squeeze five days of work into four longer ones\""
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 1 mainly about?",
+     "options": [
+      "The harsh conditions of nineteenth-century factory workers",
+      "The role of trade unions in modern workplace disputes",
+      "The idea that the five-day week is not a permanent rule",
+      "The reasons why rested workers are more productive"
+     ],
+     "answer": 2,
+     "explain": "ประโยคใจความของ ¶1 คือ \"Yet it is a relatively recent invention.\" ส่วนเรื่องคนงานโรงงานที่ทำงานหกวันเป็นเพียงหลักฐานสนับสนุน ตัวเลือก A จึงแคบเกินไป (too narrow)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what does the \"100-80-100\" model involve?",
+     "options": [
+      "Full pay for 80 percent of the hours, with output kept at 100 percent",
+      "Full output for 80 percent of the pay, with hours kept at 100 percent",
+      "Working 100 hours over 80 days for 100 percent of the usual salary",
+      "Paying 80 percent of salary while workers do 100 percent of the hours"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"employees receive 100 percent of their pay for working 80 percent of their previous hours ... maintain 100 percent of their output\" ตัวเลือก B สลับตำแหน่งค่าจ้างกับผลงาน เป็นกับดักสำหรับผู้ที่อ่านตัวเลขเร็วเกินไป"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'ones' in paragraph 2 refers to",
+     "options": [
+      "companies",
+      "days",
+      "employees",
+      "meetings"
+     ],
+     "answer": 1,
+     "explain": "¶2: \"squeeze five days of work into four longer ones\" — ones แทนคำนามพหูพจน์ที่อยู่ข้างหน้า คือ four longer days ตัวเลือก D (meetings) ปรากฏในประโยคถัดไป จึงไม่ใช่คำที่ถูกอ้างย้อนกลับ"
+    },
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is paragraph 3 mainly about?",
+     "options": [
+      "Signs from trials that the idea can work",
+      "How Iceland changed its labour laws in 2015",
+      "Why many UK companies ended their pilots",
+      "Staff turnover problems at a Bangkok firm"
+     ],
+     "answer": 0,
+     "explain": "¶3 เปิดด้วยประโยคใจความ \"Early results have been encouraging.\" แล้วยกตัวอย่างไอซ์แลนด์ สหราชอาณาจักร และกรุงเทพฯ ตัวเลือก C ตรงข้ามกับข้อความที่ว่าบริษัทส่วนใหญ่ \"chose to continue with the shorter week\""
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that the results of voluntary trials",
+     "options": [
+      "were deliberately falsified by the participating companies",
+      "may make the model look more widely suitable than it is",
+      "prove that the four-day week works best in hospitals",
+      "were ignored by critics because the samples were too small"
+     ],
+     "answer": 1,
+     "explain": "¶5: \"Companies that volunteer for trials are likely to be those already confident that the change will work\" จึงอนุมานได้ว่าผลอาจดูดีกว่าความจริงเมื่อนำไปใช้กับองค์กรทั่วไป ตัวเลือก A รุนแรงเกินไปเพราะไม่มีการกล่าวหาว่าปลอมแปลงข้อมูล"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 4 as a benefit of a four-day week?",
+     "options": [
+      "Better sleep and mental health",
+      "Easier recruitment of skilled staff",
+      "Lower carbon emissions",
+      "Higher salaries for employees"
+     ],
+     "answer": 3,
+     "explain": "¶4 กล่าวถึงการนอนและสุขภาพจิต การ \"attract and keep talented staff\" และ \"lower carbon emissions\" แต่ไม่มีเรื่องเงินเดือนสูงขึ้น ซึ่งตามโมเดลใน ¶2 ค่าจ้างคงเดิมที่ 100 เปอร์เซ็นต์"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention a hospital in paragraph 5?",
+     "options": [
+      "To praise hospitals for testing the four-day week first",
+      "To argue that nurses deserve a shorter working week",
+      "To illustrate a job where the model is harder to apply",
+      "To compare hospital costs with those of software firms"
+     ],
+     "answer": 2,
+     "explain": "¶5: \"A hospital cannot simply close its wards on Fridays\" เป็นตัวอย่างของงานที่ \"output depends on someone being physically present\" จึงใช้โมเดลนี้ได้ยาก ตัวเลือก B เป็นความเห็นที่ผู้เขียนไม่ได้แสดงไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'universal' in paragraph 6 is closest in meaning to",
+     "options": [
+      "completely new",
+      "officially approved",
+      "extremely costly",
+      "fit for all cases"
+     ],
+     "answer": 3,
+     "explain": "¶6: \"less like a universal solution than a promising option for particular kinds of organisations\" คำว่า universal ถูกวางเทียบกับ particular (เฉพาะบางกลุ่ม) จึงหมายถึงใช้ได้กับทุกกรณี"
+    }
+   ]
+  },
+  {
+   "id": "W16",
+   "day": 22,
+   "focus": "Mixed skills with emphasis on vocabulary in context",
+   "skill_tip_en": "For each vocabulary item, cover the options, reread the sentence and the one before it, predict a simple word that fits, and then choose the option closest to your prediction rather than the most familiar dictionary meaning of the word.",
+   "kind": "short",
+   "genre": "research news",
+   "domain": "Education",
+   "title": "Living With Two Languages: Inside the Bilingual Brain",
+   "paragraphs": [
+    "People who speak two languages do not simply switch one off when they use the other. According to a growing body of research, both languages remain active in the brain at the same time, competing for attention even when only one is being spoken. A new study by researchers at a university in Malaysia adds fresh detail to this picture and, its authors argue, helps explain why the effects of bilingualism on thinking have proved so difficult to pin down.",
+    "The team used functional magnetic resonance imaging (fMRI), which tracks changes in blood flow as an indicator of brain activity, to scan 140 adults while they named pictures. Half spoke both Malay and English fluently and used both every day; the rest spoke only Malay. When bilingual participants were told to name objects in one language, regions in the frontal lobe associated with attention and self-control showed increased activity, apparently to suppress the language that was not needed.",
+    "This constant juggling, the researchers suggest, may function as a kind of mental exercise. Previous studies have reported that lifelong bilinguals tend to show symptoms of dementia several years later than comparable monolinguals, a finding often explained by the idea of cognitive reserve: a brain that has been exercised more can tolerate more damage before problems become visible. \"Managing two languages every day may train the same control systems we use for many other tasks,\" said Dr. Nurul Aisyah Rahman, who led the study.",
+    "However, the evidence for a broader \"bilingual advantage\" is far from settled. Several large studies, some involving thousands of children, have failed to find that bilinguals outperform monolinguals on tests of attention and task-switching. Critics also point out that bilinguals often differ from monolinguals in other respects, such as education, income or immigration history, which can confound comparisons. In the Malaysian study, the two groups were matched for age and years of schooling, but the authors acknowledge that other differences may remain.",
+    "Perhaps the clearest message from the research is a practical one. Whether or not bilingualism sharpens general thinking skills, there is no evidence that learning a second language harms children's development, a fear that once led some teachers to discourage families from speaking their home language. For countries such as Thailand, where many children grow up speaking a regional language or dialect at home and Standard Thai at school, the findings offer reassurance that the two can coexist.",
+    "The researchers now plan to follow the same participants for five years to see whether their patterns of brain activity predict changes in memory as they age."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the passage mainly about?",
+     "options": [
+      "A study showing that bilingual people never develop dementia",
+      "New findings on bilingual brains, and the debate around them",
+      "A plan to make Malay and English official languages in Thailand",
+      "Evidence that a second language slows children's development"
+     ],
+     "answer": 1,
+     "explain": "¶1 แนะนำงานวิจัยใหม่เรื่องสองภาษาที่ทำงานพร้อมกันในสมอง และ ¶4 ระบุว่า \"the evidence for a broader 'bilingual advantage' is far from settled\" จึงครอบคลุมทั้งผลการวิจัยและข้อถกเถียง ตัวเลือก A เกินจริงเพราะ ¶3 พูดเพียงว่าอาการปรากฏ \"several years later\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what happens to the two languages of a bilingual person?",
+     "options": [
+      "Only the language being spoken is active at any time.",
+      "The second language gradually replaces the first.",
+      "Both remain active and compete for the brain's attention.",
+      "Each language is stored in a different half of the brain."
+     ],
+     "answer": 2,
+     "explain": "¶1: \"both languages remain active in the brain at the same time, competing for attention\" ตัวเลือก A ตรงข้ามกับประโยคแรกที่ว่าผู้พูดสองภาษา \"do not simply switch one off\""
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'suppress' in paragraph 2 is closest in meaning to",
+     "options": [
+      "hold back",
+      "translate",
+      "recall",
+      "reinforce"
+     ],
+     "answer": 0,
+     "explain": "¶2: สมองส่วนหน้าทำงานมากขึ้น \"to suppress the language that was not needed\" — ภาษาที่ไม่ต้องใช้จึงต้องถูกกดหรือยับยั้งไว้ ตัวเลือก D (reinforce) มีความหมายตรงข้าม คือทำให้แข็งแรงขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which of the following is true of the participants in the Malaysian study?",
+     "options": [
+      "All 140 of them spoke both Malay and English fluently.",
+      "Half of them were monolingual speakers of Malay.",
+      "They were scanned while reading English sentences aloud.",
+      "They were all older adults with early signs of dementia."
+     ],
+     "answer": 1,
+     "explain": "¶2: \"Half spoke both Malay and English fluently ...; the rest spoke only Malay\" ตัวเลือก A ผิดเพราะมีเพียงครึ่งเดียวที่พูดได้สองภาษา และ C ผิดเพราะผู้เข้าร่วม \"named pictures\" ไม่ได้อ่านประโยค"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "According to the idea of cognitive reserve, why might bilinguals show symptoms of dementia later?",
+     "options": [
+      "Their brains suffer much less physical damage as they grow older.",
+      "They are usually diagnosed by doctors who speak both languages.",
+      "They tend to have higher incomes and better access to health care.",
+      "Their brains can tolerate more damage before symptoms appear."
+     ],
+     "answer": 3,
+     "explain": "¶3: \"a brain that has been exercised more can tolerate more damage before problems become visible\" ตรงกับ D ตัวเลือก A เป็นกับดัก เพราะแนวคิดนี้ไม่ได้บอกว่าสมองเสียหายน้อยกว่า แต่บอกว่าทนความเสียหายได้มากกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'confound' in paragraph 4 is closest in meaning to",
+     "options": [
+      "support",
+      "confirm",
+      "distort",
+      "delay"
+     ],
+     "answer": 2,
+     "explain": "¶4: ความแตกต่างด้าน \"education, income or immigration history\" \"can confound comparisons\" คือทำให้การเปรียบเทียบคลาดเคลื่อน เพราะแยกไม่ออกว่าผลมาจากภาษาหรือปัจจัยอื่น ตัวเลือก B (confirm) เป็นกับดักเพราะรูปคำคล้ายกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Why did the researchers most likely match the two groups for age and years of schooling?",
+     "options": [
+      "To make the study cheaper and quicker to complete",
+      "To ensure that all participants spoke the same languages",
+      "To prove that bilinguals have more years of schooling",
+      "To limit the effect of factors other than language"
+     ],
+     "answer": 3,
+     "explain": "¶4 ชี้ว่าปัจจัยอื่น \"can confound comparisons\" แล้วกล่าวต่อว่า \"the two groups were matched for age and years of schooling\" จึงอนุมานได้ว่าต้องการลดอิทธิพลของปัจจัยอื่นนอกจากภาษา ตัวเลือก B ผิดเพราะกลุ่มหนึ่งพูดได้ภาษาเดียว"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'coexist' in paragraph 5 is closest in meaning to",
+     "options": [
+      "live side by side",
+      "replace each other",
+      "compete for space",
+      "share one teacher"
+     ],
+     "answer": 0,
+     "explain": "¶5: งานวิจัยให้ความมั่นใจว่า \"the two can coexist\" คือภาษาถิ่นที่บ้านกับภาษาไทยมาตรฐานที่โรงเรียนอยู่ร่วมกันได้ ตัวเลือก C เป็นกับดักจากคำว่า competing ใน ¶1 และ B ขัดกับคำว่า reassurance"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention Thailand in paragraph 5?",
+     "options": [
+      "To apply the findings to Thai children who speak a dialect at home",
+      "To report results from a second study carried out in Thailand",
+      "To argue that regional dialects should not be used in schools",
+      "To compare Thai brain scans with those of Malaysian adults"
+     ],
+     "answer": 0,
+     "explain": "¶5: \"For countries such as Thailand, where many children grow up speaking a regional language or dialect at home\" ผู้เขียนยกไทยเพื่อแสดงว่าข้อค้นพบนำไปใช้ได้จริง ไม่มีงานวิจัยในไทย (B) และ C ขัดกับน้ำเสียงที่ให้ \"reassurance\""
+    }
+   ]
+  },
+  {
+   "id": "W17",
+   "day": 23,
+   "focus": "Mixed skills with emphasis on inference",
+   "skill_tip_en": "For inference questions, find the sentence the question points to, ask what must also be true if that sentence is true, and reject options that go further than the evidence, contradict it or merely repeat words from the text.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Medicine",
+   "title": "The Doctor on Your Wrist",
+   "paragraphs": [
+    "Ten years ago, a device that counted steps was regarded as a gadget for fitness enthusiasts. Today, millions of people wear watches and rings that track their heart rate, sleep, blood oxygen and even the electrical activity of the heart. Manufacturers increasingly market these devices not merely as lifestyle accessories but as tools for health, and some doctors now ask patients to bring their data to appointments.",
+    "The potential benefits are real. Several smartwatches can detect an irregular heart rhythm that may indicate atrial fibrillation, a condition that often causes no symptoms but greatly increases the risk of stroke. Because it can come and go, atrial fibrillation is easily missed during a brief clinic visit, whereas a device worn around the clock may capture an episode. For people with diabetes, continuous glucose monitors, small sensors attached to the skin, have reduced the need for painful finger-prick tests and allow treatment to be adjusted in real time.",
+    "Yet the same constant monitoring can create problems. Studies of large groups of users have found that a substantial share of people who receive an irregular-rhythm alert are not found to have atrial fibrillation on further testing. Each false alarm can lead to anxiety, extra tests and appointments, adding to the workload of already busy clinics. Some doctors have begun to describe a new type of patient: the healthy person made worried by a stream of numbers they do not fully understand.",
+    "Accuracy is another concern. Most consumer devices are not approved as medical instruments, and their readings can vary with skin tone, tattoos, movement and how tightly the device is worn. The popular target of 10,000 steps a day, meanwhile, originated not in medical research but in a marketing campaign for a Japanese pedometer in the 1960s. Recent studies suggest that, for older adults in particular, the benefits of walking begin to level off at a lower number.",
+    "There are also questions about who owns the data. Information about a person's heart rate, sleep and location can reveal a great deal, and it is not always clear how companies store it or with whom they share it. In some countries, insurers have offered discounts to customers who share their activity data, raising fears that people who cannot or will not do so could eventually pay more.",
+    "None of these concerns means that wearables should be dismissed. Used thoughtfully, and interpreted with the help of a health professional, they can encourage healthier habits and catch problems early. The challenge for doctors and regulators is to make sure that the devices inform patients without overwhelming them."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Wearables can benefit health but also raise serious concerns.",
+      "Smartwatches are now accurate enough to replace visits to the doctor.",
+      "Walking 10,000 steps a day is the best way to protect the heart.",
+      "Insurance companies use wearables to raise their customers' fees."
+     ],
+     "answer": 0,
+     "explain": "¶2 เริ่มด้วย \"The potential benefits are real.\" แล้ว ¶3 เปลี่ยนทิศเป็น \"Yet the same constant monitoring can create problems\" ก่อน ¶6 จะสรุปว่าไม่ควรมองข้ามแต่ต้องใช้อย่างรอบคอบ ตัวเลือก B ขัดกับ ¶6 ที่เน้นให้ตีความ \"with the help of a health professional\""
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 1 that",
+     "options": [
+      "wearable devices are now used mainly by professional athletes",
+      "the way people view wearable devices has changed over time",
+      "doctors refuse to look at data collected by smartwatches",
+      "rings are more accurate than watches at tracking sleep"
+     ],
+     "answer": 1,
+     "explain": "¶1: \"Ten years ago, a device that counted steps was regarded as a gadget for fitness enthusiasts\" แต่ปัจจุบันถูกขาย \"as tools for health\" จึงอนุมานได้ว่ามุมมองต่ออุปกรณ์เปลี่ยนไป ตัวเลือก C ขัดกับ \"some doctors now ask patients to bring their data\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, why is atrial fibrillation easily missed in a clinic?",
+     "options": [
+      "Doctors are not trained to recognise its symptoms.",
+      "It only appears while the patient is asleep at night.",
+      "It comes and goes and may be absent during a visit.",
+      "Clinic equipment cannot measure irregular heart rhythms."
+     ],
+     "answer": 2,
+     "explain": "¶2: \"Because it can come and go, atrial fibrillation is easily missed during a brief clinic visit\" ตัวเลือก B เป็นการเดาเกินข้อมูล เพราะบทความไม่ได้บอกว่าอาการเกิดเฉพาะตอนนอนหลับ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'stream' in paragraph 3 is closest in meaning to",
+     "options": [
+      "a small river",
+      "a short list",
+      "a hidden code",
+      "a steady flow"
+     ],
+     "answer": 3,
+     "explain": "¶3: \"made worried by a stream of numbers they do not fully understand\" หมายถึงตัวเลขที่ไหลเข้ามาไม่หยุดจาก \"constant monitoring\" ตัวเลือก A เป็นความหมายตรงตัว (ลำธาร) ซึ่งไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that an irregular-rhythm alert from a smartwatch",
+     "options": [
+      "should be checked by further testing before a diagnosis",
+      "is a reliable diagnosis of atrial fibrillation on its own",
+      "usually appears only in people who are already ill",
+      "rarely causes users to feel worried about their health"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"a substantial share of people who receive an irregular-rhythm alert are not found to have atrial fibrillation on further testing\" แสดงว่าการแจ้งเตือนยังไม่ใช่การวินิจฉัยและต้องตรวจยืนยัน ตัวเลือก D ขัดกับ \"Each false alarm can lead to anxiety\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, where did the target of 10,000 steps a day come from?",
+     "options": [
+      "A long-term study of older adults' health",
+      "Guidelines written by heart specialists",
+      "Advertising for a Japanese step counter",
+      "A Japanese government fitness programme"
+     ],
+     "answer": 2,
+     "explain": "¶4: \"originated not in medical research but in a marketing campaign for a Japanese pedometer in the 1960s\" — pedometer คือเครื่องนับก้าว ตัวเลือก D ใช้คำว่า Japanese เป็นกับดัก แต่ไม่ใช่โครงการของรัฐบาล"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 4 that many older adults",
+     "options": [
+      "should walk more than 10,000 steps every day",
+      "can benefit well from fewer than 10,000 steps",
+      "gain no benefit from walking after the age of sixty",
+      "are the main buyers of Japanese step counters"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"for older adults in particular, the benefits of walking begin to level off at a lower number\" หมายความว่าได้ประโยชน์ส่วนใหญ่ก่อนถึง 10,000 ก้าว ตัวเลือก C เกินจริงเพราะบทความไม่ได้บอกว่าการเดินไม่มีประโยชน์เลย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention insurers in paragraph 5?",
+     "options": [
+      "To recommend that readers share their data for discounts",
+      "To explain how companies keep users' data safe and private",
+      "To prove that insurers have already raised prices for most",
+      "To show how personal health data could be used against some people"
+     ],
+     "answer": 3,
+     "explain": "¶5: ส่วนลดสำหรับผู้แชร์ข้อมูล \"raising fears that people who cannot or will not do so could eventually pay more\" จึงเป็นตัวอย่างความเสี่ยงของการใช้ข้อมูล ตัวเลือก C ผิดเพราะเป็นเพียงความกังวลว่า \"could eventually\" ยังไม่ได้เกิดขึ้นจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's overall attitude toward wearable health devices is best described as",
+     "options": [
+      "wholly enthusiastic",
+      "largely dismissive",
+      "cautiously positive",
+      "deeply fearful"
+     ],
+     "answer": 2,
+     "explain": "¶6: \"None of these concerns means that wearables should be dismissed. Used thoughtfully...\" ผู้เขียนยอมรับประโยชน์ แต่เตือนเรื่องความเสี่ยงตลอด ¶3–¶5 จึงเป็น cautiously positive ไม่ใช่ largely dismissive (B) หรือ wholly enthusiastic (A)"
+    }
+   ]
+  },
+  {
+   "id": "W18",
+   "day": 24,
+   "focus": "Mixed skills with emphasis on reference words",
+   "skill_tip_en": "When asked what a word such as them, those or this refers to, look back to the previous clause or sentence, find the noun or idea that matches it in number and meaning, and test your choice by putting it in place of the word.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Society",
+   "title": "A Nation of Grandparents",
+   "paragraphs": [
+    "In a village outside Roi Et, 71-year-old Bunma Srisuk rises before dawn to tend her vegetable garden, cook breakfast for her two grandchildren and walk the pair to school. Her son and daughter-in-law work in a factory near Bangkok and come home only for the Songkran holiday. Arrangements like hers, in which grandparents raise children whose parents have migrated for work, have become so common that researchers have a name for them: skipped-generation households.",
+    "Bunma's situation reflects one of the most rapid demographic transitions in the world. Thailand is widely described as one of the fastest-ageing societies in Southeast Asia, and people aged 60 and over now make up roughly a fifth of the population. Two forces lie behind this change. Thais are living considerably longer than they did half a century ago, thanks to better nutrition, sanitation and health care, and they are having far fewer children. In the 1960s, the average woman gave birth to around six children; today, the figure is well below the level of about two needed to keep a population stable.",
+    "The speed of this shift distinguishes Thailand from countries such as Japan, which had already become wealthy by the time its population aged. Economists often warn that Thailand risks growing old before it grows rich. A smaller working-age population means fewer people paying taxes and contributing to pension funds, at precisely the moment when spending on health care is expected to rise. Many older Thais, particularly those who spent their lives working in agriculture or informal jobs, have little or no pension and depend on their children or on a modest monthly government allowance.",
+    "Health is a central concern. Chronic conditions such as hypertension, diabetes and dementia become more common with age, and the number of older people who are bedridden or unable to care for themselves is projected to grow. Traditionally, such care has been provided by daughters and daughters-in-law. Yet smaller families, migration to cities and the rising number of women in paid work mean that this source of support is shrinking.",
+    "Communities have begun to respond. Many villages have elderly clubs, which organise exercise sessions, health checks and craft activities. Under a community-based long-term care scheme, trained caregivers visit dependent older people at home, while village health volunteers help to monitor their condition. Some local governments have also opened day-care centres, where older residents can spend time together while their families are at work.",
+    "Experts argue that deeper changes will be needed, from raising the retirement age and expanding savings schemes to designing homes and public transport that older people can use safely. They also stress that an ageing population is not only a burden. Many people in their sixties and seventies, like Bunma, remain active contributors to their families and communities. The challenge for Thailand is to make sure that longer lives are also healthier and more secure ones."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Grandparents raise children better than parents who work in cities.",
+      "Thailand's fast ageing poses challenges that call for new responses.",
+      "Thailand's birth rate has risen steadily since the 1960s.",
+      "Japan has coped with population ageing better than any other nation."
+     ],
+     "answer": 1,
+     "explain": "บทความเริ่มจากตัวอย่างบุญมา แล้วอธิบายว่าไทยเข้าสู่สังคมสูงวัยอย่างรวดเร็ว (¶2) ผลกระทบด้านเศรษฐกิจและการดูแล (¶3–¶4) และการรับมือ (¶5–¶6) ตัวเลือก C ตรงข้ามกับ ¶2 ที่ว่าอัตราการเกิดปัจจุบัน \"is well below the level of about two\""
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'them' in paragraph 1 refer to?",
+     "options": [
+      "Bunma's son and daughter-in-law",
+      "factories near Bangkok",
+      "the Songkran holidays",
+      "arrangements like Bunma's"
+     ],
+     "answer": 3,
+     "explain": "¶1: \"Arrangements like hers ... have become so common that researchers have a name for them: skipped-generation households\" — สิ่งที่ถูกตั้งชื่อคือรูปแบบครอบครัว (arrangements) ตัวเลือก A เป็นคำนามพหูพจน์ที่อยู่ใกล้ แต่ไม่ใช่สิ่งที่ถูกเรียกว่า households"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which two factors explain Thailand's ageing population?",
+     "options": [
+      "Longer lives and far fewer births",
+      "Migration abroad and lower incomes",
+      "Better schools and later marriage",
+      "Rising taxes and smaller pensions"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"Two forces lie behind this change. Thais are living considerably longer ... and they are having far fewer children.\" ตัวเลือก B ใช้เรื่องการย้ายถิ่นจาก ¶1 เป็นกับดัก แต่ไม่ใช่สาเหตุที่ระบุใน ¶2"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that, compared with Thailand, Japan",
+     "options": [
+      "aged more quickly than Thailand did",
+      "has a younger population than Thailand",
+      "had more wealth to cope with ageing",
+      "has no pension system for farmers"
+     ],
+     "answer": 2,
+     "explain": "¶3: ญี่ปุ่น \"had already become wealthy by the time its population aged\" ขณะที่ไทย \"risks growing old before it grows rich\" จึงอนุมานได้ว่าญี่ปุ่นมีทรัพยากรรับมือมากกว่า ตัวเลือก A ตรงข้าม เพราะความเร็วของไทยคือสิ่งที่ \"distinguishes Thailand\""
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'those' in paragraph 3 refer to?",
+     "options": [
+      "older Thais",
+      "pension funds",
+      "working-age taxpayers",
+      "economists"
+     ],
+     "answer": 0,
+     "explain": "¶3: \"Many older Thais, particularly those who spent their lives working in agriculture or informal jobs, have little or no pension\" — those เป็นกลุ่มย่อยของ older Thais ตัวเลือก C ไม่ถูกเพราะประโยคนี้พูดถึงผู้ที่ไม่มีบำนาญ ไม่ใช่คนวัยทำงานที่จ่ายภาษี"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'this' in paragraph 4 refer to?",
+     "options": [
+      "the growing number of older people who are bedridden",
+      "care given by daughters and daughters-in-law",
+      "the rising number of women who now do paid work",
+      "the migration of young people from villages to cities"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Traditionally, such care has been provided by daughters and daughters-in-law. Yet ... this source of support is shrinking.\" — this source of support จึงหมายถึงการดูแลโดยลูกสาวและลูกสะใภ้ ตัวเลือก C เป็นสาเหตุที่ทำให้แหล่งนี้ลดลง ไม่ใช่สิ่งที่ถูกอ้างถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a community response?",
+     "options": [
+      "Elderly clubs offering exercise and health checks",
+      "Home visits by trained caregivers",
+      "Free housing built for older people",
+      "Day-care centres for older residents"
+     ],
+     "answer": 2,
+     "explain": "¶5 กล่าวถึง elderly clubs, \"trained caregivers visit dependent older people at home\" และ \"day-care centres\" แต่ไม่มีที่อยู่อาศัยฟรี ส่วนการออกแบบบ้านใน ¶6 เป็นข้อเสนอของผู้เชี่ยวชาญ ไม่ใช่สิ่งที่ชุมชนทำแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'dependent' in paragraph 5 is closest in meaning to",
+     "options": [
+      "living independently",
+      "financially secure",
+      "recently retired",
+      "reliant on others"
+     ],
+     "answer": 3,
+     "explain": "¶5: \"trained caregivers visit dependent older people at home\" — ผู้สูงอายุที่ต้องมีคนไปดูแลถึงบ้านคือผู้ที่ต้องพึ่งพาผู้อื่น สอดคล้องกับ ¶4 ที่พูดถึงคนที่ \"unable to care for themselves\" ตัวเลือก A มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention Bunma again in paragraph 6?",
+     "options": [
+      "To show that older people can still contribute actively",
+      "To argue that grandparents should stop raising children",
+      "To explain why the retirement age should be raised",
+      "To give an example of a person who needs day care"
+     ],
+     "answer": 0,
+     "explain": "¶6: \"Many people in their sixties and seventies, like Bunma, remain active contributors to their families and communities\" ผู้เขียนกลับมาที่บุญมาเพื่อสนับสนุนว่าสังคมสูงวัย \"is not only a burden\" ตัวเลือก D ขัดกับ ¶1 ที่แสดงว่าเธอยังดูแลหลานได้เอง"
+    }
+   ]
+  },
+  {
+   "id": "W19",
+   "day": 27,
+   "focus": "Long-text practice: academic article with multiple-choice and short-answer questions",
+   "skill_tip_en": "With a long text, skim the first sentence of every paragraph to build a quick map of the article, then use that map to go straight to the right paragraph for each question instead of rereading the whole text.",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Environment",
+   "title": "An Invisible Ingredient: Plastic Particles in the Human Body",
+   "paragraphs": [
+    "Since mass production began in the 1950s, plastic has become one of the defining materials of modern life. Its durability, the very quality that makes it so useful, is also the source of a problem that scientists have only recently begun to appreciate. Rather than disappearing, discarded plastic breaks down into ever smaller fragments. Particles smaller than five millimetres are classed as microplastics, while those below one micrometre are usually termed nanoplastics. Over the past decade, attention has shifted from the presence of these particles in oceans and soils to a more personal question: how much of this material is inside us, and what is it doing there?",
+    "The routes of exposure are numerous. Microplastics have been detected in drinking water, seafood, salt and honey. A 2024 analysis using a laser-based imaging technique reported hundreds of thousands of plastic particles in a typical litre of bottled water, the great majority of them nanoplastics that earlier methods could not detect. Food and drink are not the only sources. Synthetic clothing sheds fibres into indoor air, and particles worn from car tyres are carried by wind and rain into the wider environment. Indoor dust, which we inhale and which young children often swallow, may be among the most important sources of all.",
+    "Once these particles enter the body, some appear to remain there. Researchers have reported microplastics in human blood, lung tissue, the placenta and breast milk, as well as in liver, kidney and brain samples collected at autopsy. Particles in the placenta are of particular concern because they suggest that exposure may begin before birth. Their presence in so many tissues indicates that at least the smallest particles can cross biological barriers once thought to keep them out, including the wall of the gut.",
+    "Whether this presence causes harm is much less clear. Laboratory studies on cells and animals have shown that plastic particles can trigger inflammation and oxidative stress, a chemical imbalance that damages cells. Plastics also contain additives such as bisphenol A and phthalates, some of which are known to interfere with hormones. Human evidence is scarcer, but it is beginning to accumulate. In one widely reported 2024 study of patients undergoing surgery to clear fatty deposits from neck arteries, those whose removed plaque contained microplastics were considerably more likely to suffer a heart attack or stroke, or to die, over the following three years.",
+    "Such findings must be interpreted with caution. An association of this kind does not prove that plastic caused the harm; people with higher exposure may differ in diet, income or occupation in ways that also affect their health. Measuring microplastics is also technically demanding. Particles are everywhere, including in laboratory air and on the equipment used to collect samples, so contamination can easily inflate results, and methods differ between laboratories, making estimates hard to compare. A widely publicised claim that the average person swallows a credit card's worth of plastic every week, for instance, has since been criticised by other researchers as a substantial overestimate.",
+    "Scientists are therefore working to standardise their techniques. Spectroscopic methods, which identify a particle's chemical make-up from the way it absorbs or scatters light, allow researchers to confirm that a fragment is plastic rather than, say, a cotton fibre. Laboratories increasingly run blank samples alongside real ones to measure background contamination, and long-term studies are being designed to link exposure to health outcomes more reliably.",
+    "In the meantime, a precautionary approach seems sensible. Individuals can reduce their exposure by not heating food in plastic containers, drinking tap water where it is safe, and ventilating and vacuuming their homes regularly. Yet individual choices can achieve only so much while plastic production continues to grow. Negotiations on a global plastics treaty, which began in 2022, have proved slow and divisive, with countries disagreeing over whether to limit production or focus on waste management. Until the science matures, plastic inside the human body is best regarded not as proof of harm, but as a warning that should not be ignored."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Microplastics in bottled water are the main cause of heart disease.",
+      "Scientists have proved that plastic particles damage the human brain.",
+      "Plastic is found widely in the body, but its harm is not yet proven.",
+      "A global treaty has successfully limited the production of plastics."
+     ],
+     "answer": 2,
+     "explain": "¶3 แสดงว่าพบอนุภาคพลาสติกในหลายเนื้อเยื่อ แต่ ¶4 เปิดว่า \"Whether this presence causes harm is much less clear\" และ ¶7 สรุปว่ายังไม่ใช่ \"proof of harm\" ตัวเลือก B ผิดเพราะงานวิจัยเพียงตรวจพบในตัวอย่างสมอง ยังไม่ได้พิสูจน์ความเสียหาย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Particles smaller than what size are classed as microplastics? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "five millimetres",
+      "5 millimetres",
+      "five millimeters",
+      "5 mm"
+     ],
+     "explain": "¶1: \"Particles smaller than five millimetres are classed as microplastics\" อย่าสับสนกับ one micrometre ซึ่งเป็นเกณฑ์ของ nanoplastics ในประโยคเดียวกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what did the 2024 analysis of bottled water find?",
+     "options": [
+      "Most particles were too small for older methods to detect.",
+      "Bottled water contained fewer particles than ordinary tap water.",
+      "Only a few dozen plastic particles were found in each litre.",
+      "Most of the particles came from tyres carried by wind and rain."
+     ],
+     "answer": 0,
+     "explain": "¶2: \"the great majority of them nanoplastics that earlier methods could not detect\" ตัวเลือก C ตรงข้ามกับ \"hundreds of thousands of plastic particles in a typical litre\" ส่วน B ผิดเพราะไม่มีการเปรียบเทียบกับน้ำประปา"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Which source of exposure may be among the most important of all? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "indoor dust",
+      "dust"
+     ],
+     "explain": "¶2: \"Indoor dust, which we inhale and which young children often swallow, may be among the most important sources of all\" อย่าตอบ synthetic clothing หรือ car tyres ซึ่งถูกกล่าวถึงก่อนหน้าแต่ไม่ได้ถูกเน้นว่าสำคัญที่สุด"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Why, according to paragraph 3, are particles found in the placenta of particular concern?",
+     "options": [
+      "They show that plastic can damage the mother's kidneys.",
+      "They prove that breast milk is the main route of exposure.",
+      "They show that babies swallow particles during delivery.",
+      "They suggest that exposure may start before birth."
+     ],
+     "answer": 3,
+     "explain": "¶3: \"Particles in the placenta are of particular concern because they suggest that exposure may begin before birth\" ตัวเลือก C เป็นกับดัก เพราะบทความไม่ได้พูดถึงการกลืนอนุภาคระหว่างคลอด และ B ใช้คำว่า breast milk จากประโยคก่อนหน้าเป็นตัวหลอก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'accumulate' in paragraph 4 is closest in meaning to",
+     "options": [
+      "disappear",
+      "build up",
+      "be rejected",
+      "become dangerous"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Human evidence is scarcer, but it is beginning to accumulate\" คำว่า but แสดงความขัดแย้งกับ scarcer (มีน้อย) จึงหมายถึงหลักฐานเริ่มสะสมมากขึ้น ตัวเลือก D หลอกด้วยภาพของการสะสมสารพิษ แต่ประโยคนี้พูดถึงหลักฐาน ไม่ใช่สารเคมี"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Besides phthalates, which plastic additive is named as able to interfere with hormones? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "bisphenol a",
+      "bpa"
+     ],
+     "explain": "¶4: \"additives such as bisphenol A and phthalates, some of which are known to interfere with hormones\" คำถามให้ยกเว้น phthalates จึงเหลือ bisphenol A"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that the 2024 artery study described in paragraph 4",
+     "options": [
+      "cannot by itself show that plastic caused the heart attacks",
+      "was rejected because its samples had been contaminated",
+      "proved that diet is the true cause of heart attacks and strokes",
+      "found no link between plastic and later health problems"
+     ],
+     "answer": 0,
+     "explain": "¶5: \"An association of this kind does not prove that plastic caused the harm\" — this kind อ้างถึงความสัมพันธ์ที่พบในงานวิจัยหลอดเลือดแดงใน ¶4 ตัวเลือก D ผิดเพราะงานนี้พบความสัมพันธ์จริง เพียงแต่ยังสรุปเป็นเหตุและผลไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the claim about a credit card's worth of plastic?",
+     "options": [
+      "To warn readers to stop eating seafood and drinking water",
+      "To show how much plastic the average person swallows weekly",
+      "To show how measurement problems can inflate estimates",
+      "To explain why credit cards are now made from plastic"
+     ],
+     "answer": 2,
+     "explain": "¶5: ข้อกล่าวอ้างนี้ \"has since been criticised by other researchers as a substantial overestimate\" และถูกยกเป็นตัวอย่าง (for instance) ในย่อหน้าที่พูดถึงปัญหาการวัด ตัวเลือก B เป็นกับดักเพราะผู้เขียนไม่ได้ยอมรับว่าตัวเลขนี้ถูกต้อง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What do laboratories increasingly run alongside real samples to measure background contamination? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "blank samples",
+      "blanks"
+     ],
+     "explain": "¶6: \"Laboratories increasingly run blank samples alongside real ones to measure background contamination\" — ones ในประโยคนี้หมายถึง samples จึงตอบ blank samples"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 7, what have countries disagreed about in the treaty negotiations?",
+     "options": [
+      "Whether microplastics should be measured in human blood",
+      "Which country should host the negotiations each year",
+      "How much individuals should pay for plastic packaging",
+      "Whether to cut production or concentrate on waste"
+     ],
+     "answer": 3,
+     "explain": "¶7: \"with countries disagreeing over whether to limit production or focus on waste management\" ตัวเลือก D ถอดความโดยใช้ cut แทน limit และ concentrate on แทน focus on"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude toward the presence of plastic in the human body can best be described as",
+     "options": [
+      "alarmed and certain of serious harm",
+      "concerned but cautious about conclusions",
+      "unconcerned because the risks are unproven",
+      "angry at scientists for exaggerating risks"
+     ],
+     "answer": 1,
+     "explain": "¶7: ผู้เขียนเห็นว่าควรมองเรื่องนี้ \"not as proof of harm, but as a warning that should not be ignored\" จึงกังวลแต่ระวังการสรุป ตัวเลือก A ผิดเพราะผู้เขียนย้ำว่ายังไม่ใช่ proof of harm และ C ขัดกับคำว่า warning"
+    }
+   ]
+  },
+  {
+   "id": "W20",
+   "day": 28,
+   "focus": "Mixed skills with NOT/EXCEPT (negative detail) questions",
+   "skill_tip_en": "For NOT or EXCEPT questions, locate each option in the text and tick off the three that are mentioned, so that the one you cannot find, or that the text contradicts, is your answer.",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "AI/Technology",
+   "title": "The Essay That Wrote Itself",
+   "paragraphs": [
+    "When a lecturer at a university in Chiang Mai marked her students' end-of-term essays last year, she noticed something odd. Many were fluent, well organised and almost free of grammatical errors, yet several cited journal articles that did not exist. The explanation soon became clear: students had used generative AI tools to write all or part of their work, and the software had invented references that looked convincing but led nowhere. Her experience is far from unique. Since chatbots able to produce essays in seconds became freely available in late 2022, universities everywhere have been forced to reconsider what counts as honest work.",
+    "The first response of many institutions was to look for a technological fix, and software that claims to detect AI-generated text was quickly adopted. However, such tools have proved unreliable. They can be fooled by simple paraphrasing, and they sometimes flag genuine human writing as machine-generated. A 2023 study found that several popular detectors frequently misclassified essays by non-native speakers of English, whose simpler vocabulary and sentence patterns resemble those typical of AI. For students in countries such as Thailand, the risk of a false accusation is therefore far from trivial.",
+    "As a result, many universities have shifted their attention from detection to assessment design. Some have reintroduced handwritten examinations or short oral examinations, in which students must explain and defend their work in person. Others ask students to submit drafts, notes and outlines, so that teachers can see how an assignment developed over time. Tasks are also being redesigned to draw on local data, recent class discussions or students' personal experience, which general-purpose AI tools find harder to imitate.",
+    "Not all educators see AI purely as a threat. A growing number argue that, since graduates will use these tools in their careers, universities should teach students to use them responsibly rather than ban them outright. In such courses, students may use AI to brainstorm ideas or check grammar, provided that they declare how they used it and take responsibility for the accuracy of the final text. \"Prohibiting the tools entirely would be like banning calculators from a statistics class,\" said one education researcher at a university in Bangkok.",
+    "Clear rules are essential to this approach. Surveys suggest that many students are genuinely unsure where the boundary lies: is it acceptable to ask a chatbot to improve the flow of a paragraph, or to summarise a reading? Without guidance, practices vary from one course to the next, and students who act in good faith can be penalised. Several Thai universities have begun issuing policies that distinguish between permitted, restricted and prohibited uses, although enforcement remains uneven.",
+    "Ultimately, the debate goes beyond cheating. It forces educators to ask what they actually want students to learn. If a task can be completed entirely by a machine, it may never have been measuring the thinking skills it was designed to assess."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "AI detectors are now accurate enough to stop most cheating.",
+      "AI is pushing universities to rethink assessment and rules.",
+      "Students in Thailand cheat more often than students elsewhere.",
+      "Universities should ban all AI tools from their campuses."
+     ],
+     "answer": 1,
+     "explain": "¶1: \"universities everywhere have been forced to reconsider what counts as honest work\" จากนั้น ¶2–¶5 อธิบายการเปลี่ยนจากการตรวจจับไปสู่การออกแบบการประเมินและการวางกฎ ตัวเลือก A ขัดกับ ¶2 ที่ว่าเครื่องตรวจ \"have proved unreliable\""
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "What made the lecturer in Chiang Mai suspicious of her students' essays?",
+     "options": [
+      "Several essays referred to articles that did not exist.",
+      "The essays contained a large number of grammar errors.",
+      "The students handed in their work after the deadline.",
+      "All of the essays were written to exactly the same length."
+     ],
+     "answer": 0,
+     "explain": "¶1: \"several cited journal articles that did not exist\" ตัวเลือก B มีความหมายตรงข้ามกับ \"almost free of grammatical errors\" ซึ่งเป็นกับดักสำหรับผู้ที่คิดว่างานที่ผิดปกติต้องมีข้อผิดพลาดมาก"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned as a problem with AI-detection software?",
+     "options": [
+      "It can be tricked by simple paraphrasing.",
+      "It may label genuine human writing as AI text.",
+      "It is too expensive for most universities to buy.",
+      "It may wrongly flag essays by non-native writers."
+     ],
+     "answer": 2,
+     "explain": "¶2 ระบุปัญหาสามข้อ ได้แก่ \"fooled by simple paraphrasing\", \"flag genuine human writing as machine-generated\" และการจัดงานของ \"non-native speakers\" ผิดประเภท แต่ไม่มีเรื่องราคา จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'trivial' in paragraph 2 is closest in meaning to",
+     "options": [
+      "minor",
+      "unusual",
+      "unfair",
+      "unexpected"
+     ],
+     "answer": 0,
+     "explain": "¶2: \"the risk of a false accusation is therefore far from trivial\" — far from trivial แปลว่าไม่ใช่เรื่องเล็กน้อย เพราะประโยคก่อนหน้าแสดงว่านักศึกษาที่ใช้ภาษาอังกฤษเป็นภาษาที่สองเสี่ยงถูกกล่าวหาผิด ตัวเลือก C (unfair) ไม่เข้ากับตรรกะ เพราะ far from unfair จะกลายเป็นว่าความเสี่ยงนี้ยุติธรรม"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "All of the following are mentioned as ways of redesigning assessment EXCEPT",
+     "options": [
+      "oral examinations in which students defend their work",
+      "submitting drafts, notes and outlines",
+      "tasks based on local data or personal experience",
+      "multiple-choice tests taken online at home"
+     ],
+     "answer": 3,
+     "explain": "¶3 กล่าวถึง \"short oral examinations\", การส่ง \"drafts, notes and outlines\" และงานที่ใช้ \"local data, recent class discussions or students' personal experience\" แต่ไม่มีข้อสอบปรนัยออนไลน์ที่บ้าน ซึ่งในความเป็นจริงยิ่งเปิดโอกาสให้ใช้ AI"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that tasks based on recent class discussions are harder for AI to imitate because",
+     "options": [
+      "such details are unlikely to be in the tools' training data",
+      "AI tools are not permitted to process any data from Thailand",
+      "class discussions are always held in languages AI cannot read",
+      "teachers check these tasks much more carefully than other work"
+     ],
+     "answer": 0,
+     "explain": "¶3: งานที่อิง \"recent class discussions or students' personal experience, which general-purpose AI tools find harder to imitate\" — คำว่า general-purpose บอกเป็นนัยว่าเครื่องมือมีแต่ความรู้ทั่วไป ไม่รู้ข้อมูลเฉพาะของชั้นเรียน ตัวเลือก B และ C เป็นข้อความเกินจริงที่ไม่มีในบทความ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the education researcher compare AI tools to calculators in paragraph 4?",
+     "options": [
+      "To suggest that AI tools, like calculators, often make errors",
+      "To argue that a total ban on a useful tool makes little sense",
+      "To show that statistics students rely heavily on AI tools",
+      "To recommend that calculators also be banned from exams"
+     ],
+     "answer": 1,
+     "explain": "¶4: \"Prohibiting the tools entirely would be like banning calculators from a statistics class\" การเปรียบเทียบนี้สนับสนุนแนวคิดให้สอนใช้อย่างรับผิดชอบ \"rather than ban them outright\" ตัวเลือก A ผิดเพราะการเปรียบเทียบไม่ได้เน้นเรื่องความผิดพลาดของเครื่องมือ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that without clear rules",
+     "options": [
+      "most students would stop using AI tools altogether",
+      "universities would be unable to buy detection software",
+      "students would be sure that summarising is allowed",
+      "lecturers might judge the same AI use differently"
+     ],
+     "answer": 3,
+     "explain": "¶5: \"Without guidance, practices vary from one course to the next\" จึงอนุมานได้ว่าการใช้ AI แบบเดียวกันอาจถูกตัดสินต่างกันในแต่ละวิชา ตัวเลือก C ตรงข้ามกับข้อความที่ว่านักศึกษา \"genuinely unsure where the boundary lies\""
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the purpose of the final paragraph?",
+     "options": [
+      "To summarise the statistics presented earlier",
+      "To call for a return to traditional handwritten exams",
+      "To raise a deeper question about assessment",
+      "To describe how AI tools will develop in the future"
+     ],
+     "answer": 2,
+     "explain": "¶6: \"the debate goes beyond cheating. It forces educators to ask what they actually want students to learn\" ย่อหน้าสุดท้ายจึงยกประเด็นขึ้นเป็นคำถามว่าการประเมินวัดอะไรกันแน่ ตัวเลือก B ผิดเพราะการสอบเขียนด้วยมือใน ¶3 เป็นเพียงหนึ่งในหลายวิธี ไม่ใช่ข้อเรียกร้องของบทสรุป"
+    }
+   ]
+  }
+ ]
+}

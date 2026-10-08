@@ -1,0 +1,982 @@
+{
+  "id": "M2",
+  "day": 42,
+  "title": "Full Mock Exam 2 — Reading",
+  "passages": [
+    {
+      "id": "M2P1",
+      "kind": "short",
+      "genre": "news report",
+      "domain": "Public Health",
+      "title": "Finger-Prick Tests Come to Neighbourhood Clinics",
+      "paragraphs": [
+        "Adults aged 35 and over in one of Thailand's largest north-eastern provinces can now have their blood sugar checked free of charge at their local community health centre. The six-month campaign, which began on Monday, aims to find people who have type 2 diabetes but are unaware of it.",
+        "The test itself takes less than five minutes. A nurse pricks the patient's finger and measures the glucose level in a single drop of blood. Anyone with a high reading is asked to return on another morning, having eaten nothing since the previous evening, for a second test that either confirms or rules out the condition.",
+        "According to the provincial health office, roughly one in three adults with diabetes in the region has never been diagnosed. Many feel perfectly well for years while raised blood sugar quietly damages their eyes, kidneys and nerves. “By the time some patients come to us, they already have complications that could have been prevented,” said Dr. Anucha Phromsri, who is coordinating the campaign.",
+        "Village health volunteers will visit homes to encourage residents to take part, paying particular attention to those who are overweight or have a family history of the disease. People whose diagnosis is confirmed will be referred to a clinic for treatment and advice on diet and exercise. Officials concede that turnout may be low during the rice-planting season, when many villagers work long hours in the fields, and some centres will therefore open on Saturday mornings as well."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Village health volunteers are being trained to diagnose and treat diabetes in people's homes.",
+            "Many adults in the north-east already suffer from preventable diabetes complications.",
+            "A province is offering free blood-sugar tests to detect diabetes that has gone unnoticed.",
+            "Diabetes patients in the province will receive free treatment at local clinics."
+          ],
+          "answer": 2,
+          "explain": "ใจความหลักคือโครงการตรวจน้ำตาลในเลือดฟรีเพื่อค้นหาผู้ที่เป็นเบาหวานโดยไม่รู้ตัว ¶1: “aims to find people who have type 2 diabetes but are unaware of it” ตัวเลือก A ผิดเพราะอาสาสมัครเพียงไปชักชวนให้มาตรวจ ไม่ได้วินิจฉัยหรือรักษาเอง ส่วน D ผิดเพราะสิ่งที่ให้บริการฟรีคือการตรวจ ไม่ใช่การรักษา"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, what happens to people whose first test gives a high reading?",
+          "options": [
+            "They come back after fasting overnight for a second test.",
+            "They are sent straight to hospital to begin treatment.",
+            "They receive advice on diet and exercise from a nurse.",
+            "They have blood taken from the arm instead of the finger."
+          ],
+          "answer": 0,
+          "explain": "¶2: “asked to return on another morning, having eaten nothing since the previous evening, for a second test” คือต้องงดอาหารข้ามคืนแล้วกลับมาตรวจซ้ำ ตัวเลือก C ผิดเพราะคำแนะนำเรื่องอาหารและการออกกำลังกายให้เฉพาะผู้ที่ได้รับการยืนยันว่าป่วยแล้วตาม ¶4"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned about the first screening test?",
+          "options": [
+            "It takes less than five minutes to complete.",
+            "It is performed by a nurse at the centre.",
+            "It requires a referral letter from a doctor.",
+            "It measures glucose in a drop of blood."
+          ],
+          "answer": 2,
+          "explain": "¶2 บอกว่าการตรวจใช้เวลาไม่ถึงห้านาทีและ “A nurse pricks the patient's finger and measures the glucose level in a single drop of blood” แต่ไม่มีตรงไหนบอกว่าต้องมีใบส่งตัวจากแพทย์ การส่งต่อ (referred) ใน ¶4 เกิดขึ้นหลังยืนยันผลแล้ว ไม่ใช่เงื่อนไขก่อนตรวจ"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'Many' in paragraph 3 refer to?",
+          "options": [
+            "officials working at the provincial health office",
+            "patients who already suffer from complications",
+            "adults who have recently had a blood test",
+            "adults with diabetes who have not been diagnosed"
+          ],
+          "answer": 3,
+          "explain": "¶3: “roughly one in three adults with diabetes in the region has never been diagnosed. Many feel perfectly well for years” คำว่า Many จึงหมายถึงผู้ใหญ่ที่เป็นเบาหวานแต่ยังไม่ได้รับการวินิจฉัย ตัวเลือก B ผิดเพราะผู้ที่มีภาวะแทรกซ้อนแล้วปรากฏในคำพูดของแพทย์ประโยคถัดไป ไม่ใช่สิ่งที่ Many อ้างถึง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 3 that",
+          "options": [
+            "most diabetes complications cannot be treated once they appear",
+            "people cannot rely on how they feel to know if they have diabetes",
+            "the provincial health office has underestimated the number of cases",
+            "diabetes damages the kidneys more often than it damages the eyes"
+          ],
+          "answer": 1,
+          "explain": "¶3: “Many feel perfectly well for years while raised blood sugar quietly damages their eyes, kidneys and nerves.” แปลว่าการรู้สึกสบายดีไม่ได้รับประกันว่าไม่เป็นเบาหวาน ตัวเลือก A ผิดเพราะแพทย์พูดเพียงว่าภาวะแทรกซ้อน “could have been prevented” ไม่ได้บอกว่ารักษาไม่ได้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 4, village health volunteers will pay particular attention to residents who",
+          "options": [
+            "are younger than 35 years of age",
+            "have already started diabetes treatment",
+            "work long hours in the rice fields",
+            "have relatives with the disease"
+          ],
+          "answer": 3,
+          "explain": "¶4: “paying particular attention to those who are overweight or have a family history of the disease” — family history คือมีญาติเป็นโรคนี้ ตัวเลือก C เป็นกับดักคำซ้ำ เพราะการทำงานในนาถูกพูดถึงเพื่ออธิบายว่าทำไมคนอาจมาตรวจน้อย ไม่ใช่กลุ่มที่อาสาสมัครเน้น"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'concede' in paragraph 4 is closest in meaning to",
+          "options": [
+            "insist",
+            "admit",
+            "regret",
+            "doubt"
+          ],
+          "answer": 1,
+          "explain": "¶4: “Officials concede that turnout may be low” concede หมายถึงยอมรับ (แม้ไม่อยากยอมรับ) ว่าอาจมีคนมาตรวจน้อย ตัวเลือก D (doubt) ให้ความหมายตรงข้าม เพราะเจ้าหน้าที่ไม่ได้สงสัย แต่ยอมรับว่าเป็นไปได้จริง"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the writer mention the rice-planting season in paragraph 4?",
+          "options": [
+            "to explain why some centres will open on Saturdays",
+            "to explain why the campaign will last for six months",
+            "to show that diabetes is more common among farmers",
+            "to suggest that villagers have little time to eat well"
+          ],
+          "answer": 0,
+          "explain": "¶4: “turnout may be low during the rice-planting season … and some centres will therefore open on Saturday mornings as well” คำว่า therefore บอกว่าฤดูปักดำคือเหตุผลของการเปิดวันเสาร์ ตัวเลือก B ผิดเพราะไม่มีการเชื่อมฤดูปักดำกับระยะเวลาหกเดือนของโครงการ"
+        }
+      ]
+    },
+    {
+      "id": "M2P2",
+      "kind": "short",
+      "genre": "news report",
+      "domain": "Environment",
+      "title": "Counting the Days Until the Rains Return",
+      "paragraphs": [
+        "For the third year in a row, farming communities across Thailand's lower north-east are facing severe water shortages as the dry season peaks. In several districts, the reservoirs that supply both households and fields now hold less than a fifth of their capacity, and officials warn that some could run dry before the monsoon arrives in late May.",
+        "To stretch the remaining supply, local authorities have introduced rationing. Piped water now reaches homes for only four hours each morning, and farmers have been asked not to plant a second rice crop. Tanker trucks deliver drinking water twice a week to villages at the far end of the supply network, where taps often run dry.",
+        "Rice growers have been hit particularly hard. Without irrigation, a dry-season crop is impossible, and many families depend on it to repay loans for seed and fertiliser. “We can survive one bad year,” said Somchai Inthawong, who farms near one of the worst-affected reservoirs. “Three in a row is something else.” Several of his neighbours' children have already left for construction jobs in Bangkok.",
+        "Yet there are also signs of adaptation. Some farmers have switched to maize, mung beans or melons, which need far less water than rice. Others have dug ponds on their land to store rain during the wet season, an approach long promoted by agricultural extension officers. In one sub-district, a cooperative of 60 households now shares a solar-powered pump that draws groundwater for drip irrigation.",
+        "Experts caution that such measures can only go so far. Rainfall in the region has become increasingly erratic, and groundwater, if pumped too heavily, may itself run short. Hydrologist Dr. Pranee Saengthong believes the long-term answer lies in basin-wide water management rather than village-by-village solutions. “Farm ponds help,” she said, “but they are no substitute for planning.”"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "title",
+          "q": "Which of the following is the best title for the passage?",
+          "options": [
+            "New Reservoirs Promise a Quick End to Rural Drought",
+            "Villages Ration Water and Adapt as Reservoirs Shrink",
+            "Rice Prices Climb as Farmers Give Up Their Second Crop",
+            "Young Villagers Leave Their Farms for Jobs in the Capital"
+          ],
+          "answer": 1,
+          "explain": "ชื่อเรื่องที่ดีต้องครอบคลุมทั้งการปันส่วนน้ำ (¶2: “local authorities have introduced rationing”) และการปรับตัว (¶4: “Yet there are also signs of adaptation.”) ตัวเลือก D แคบเกินไปเพราะการย้ายไปทำงานกรุงเทพฯ เป็นเพียงรายละเอียดเดียวใน ¶3 ส่วน C ไม่มีข้อมูลเรื่องราคาข้าวเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 1, the reservoirs in several districts",
+          "options": [
+            "hold under 20 percent of their full capacity",
+            "have lost one-fifth of their water since last year",
+            "have run completely dry for the third year running",
+            "will be refilled by the end of May at the latest"
+          ],
+          "answer": 0,
+          "explain": "¶1: “now hold less than a fifth of their capacity” คือเหลือน้อยกว่าร้อยละ 20 ของความจุ ตัวเลือก B เป็นกับดักตัวเลขที่ใช้คำว่า fifth แต่เปลี่ยนเป็นปริมาณที่ลดลง ส่วน C ผิดเพราะบทความบอกเพียงว่าบางแห่ง “could run dry” ยังไม่ได้แห้งจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'stretch' in paragraph 2 is closest in meaning to",
+          "options": [
+            "share out fairly",
+            "measure accurately",
+            "make last longer",
+            "move further"
+          ],
+          "answer": 2,
+          "explain": "¶2: “To stretch the remaining supply, local authorities have introduced rationing.” การปันส่วนมีเป้าหมายให้น้ำที่เหลือพอใช้ได้นานขึ้น ตัวเลือก A ดูเป็นไปได้เพราะการปันส่วนเกี่ยวกับการแบ่ง แต่ stretch ในบริบทนี้หมายถึงยืดให้ใช้ได้นาน ไม่ใช่แบ่งให้ยุติธรรม"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'it' in paragraph 3 refer to?",
+          "options": [
+            "irrigation",
+            "the rationing scheme",
+            "a farm loan",
+            "a dry-season crop"
+          ],
+          "answer": 3,
+          "explain": "¶3: “a dry-season crop is impossible, and many families depend on it to repay loans” ครอบครัวพึ่งรายได้จากข้าวนาปรังเพื่อใช้หนี้ ตัวเลือก A ผิดแม้ irrigation จะอยู่ใกล้คำว่า it เพราะสิ่งที่นำไปขายใช้หนี้ได้คือผลผลิต ไม่ใช่การชลประทาน"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred from Somchai Inthawong's comments in paragraph 3?",
+          "options": [
+            "Repeated dry years have exhausted families' ability to cope.",
+            "He intends to look for construction work in Bangkok.",
+            "This year's shortage is less serious than in previous years.",
+            "He holds local officials responsible for the water shortage."
+          ],
+          "answer": 0,
+          "explain": "¶3: “We can survive one bad year” และ “Three in a row is something else.” สื่อว่าแล้งปีเดียวยังพอรับมือได้ แต่สามปีติดต่อกันเกินกำลัง ตัวเลือก B ผิดเพราะคนที่ไปทำงานก่อสร้างคือลูกของเพื่อนบ้าน ไม่ใช่ตัวสมชายเอง"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a way farmers have adapted to the shortage?",
+          "options": [
+            "growing crops that need less water than rice",
+            "buying drinking water from tanker trucks",
+            "digging ponds to collect rain in the wet season",
+            "sharing a pump to irrigate crops with groundwater"
+          ],
+          "answer": 1,
+          "explain": "¶4 กล่าวถึงการเปลี่ยนพืช การขุดบ่อ และ “a cooperative of 60 households now shares a solar-powered pump” ส่วนรถบรรทุกน้ำใน ¶2 เป็นมาตรการของทางการที่นำน้ำดื่มไปส่ง ไม่ใช่การปรับตัวของเกษตรกร และไม่มีการพูดถึงการซื้อน้ำเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following statements is an opinion rather than a fact?",
+          "options": [
+            "Piped water now reaches homes for only four hours each morning.",
+            "Without irrigation, a dry-season crop is impossible.",
+            "Rainfall in the region has become increasingly erratic.",
+            "The long-term answer lies in basin-wide water management."
+          ],
+          "answer": 3,
+          "explain": "¶5: “Dr. Pranee Saengthong believes the long-term answer lies in basin-wide water management” คำว่า believes แสดงว่าเป็นความเห็นเรื่องทางออกที่ควรทำ ตัวเลือก C อาจดูเหมือนความเห็น แต่เป็นข้อเท็จจริงเรื่องรูปแบบฝนที่ตรวจสอบได้จากข้อมูล"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of paragraph 5?",
+          "options": [
+            "to describe a new technology for irrigating the rice fields",
+            "to explain why rainfall has become less predictable",
+            "to point out the limits of the local measures described",
+            "to criticise farmers for using too much groundwater"
+          ],
+          "answer": 2,
+          "explain": "¶5 เปิดด้วย “Experts caution that such measures can only go so far.” คือชี้ข้อจำกัดของวิธีปรับตัวใน ¶4 ตัวเลือก D ผิดเพราะผู้เขียนเพียงเตือนว่าน้ำบาดาลอาจหมดหากสูบมากเกินไป ไม่ได้ตำหนิเกษตรกร"
+        }
+      ]
+    },
+    {
+      "id": "M2P3",
+      "kind": "short",
+      "genre": "feature article",
+      "domain": "Education",
+      "title": "Waiting to Be Heard",
+      "paragraphs": [
+        "When Napat, a second-year engineering student, finally sought help for the anxiety that had kept him awake for most of a semester, he was told that the counselling centre's next free appointment was five weeks away. His experience is far from unusual. Universities in Thailand and elsewhere report that demand for counselling has outgrown their capacity to provide it, and month-long waiting lists are now common at examination time.",
+        "Part of this increase is welcome. Today's students are more willing than earlier generations to talk openly about depression and anxiety. Yet stigma has not disappeared. In a 2023 survey of 1,500 undergraduates at four Thai universities, almost half of those who reported significant distress had not sought help, most often because they feared being seen as weak or worried that their families would find out.",
+        "To bridge the gap, many institutions have turned to peer support. Trained student volunteers staff drop-in rooms and messaging lines, offering a sympathetic ear and referring classmates to professionals when necessary. Supporters argue that students often find it easier to confide in someone of their own age. Critics warn, however, that volunteers can be overwhelmed by the problems they encounter and must be closely supervised.",
+        "Online counselling has expanded even faster. Since the pandemic, many centres have offered video sessions and text-based chat, allowing students to seek help from their own rooms without being seen entering a counselling office. For some, this privacy is precisely what makes the first step possible. For others, a screen is a poor substitute for sitting in the same room as a counsellor.",
+        "None of these approaches, on its own, will shorten the queue. Specialists increasingly argue that mental health should be a responsibility shared across the university, with lecturers trained to recognise warning signs and assessments scheduled so that pressure is not concentrated into a few weeks. Napat did eventually receive help, and he now volunteers as a peer supporter himself. He would rather, he says, that no one else had to wait as long as he did."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Online counselling has replaced face-to-face sessions at most universities.",
+            "Stigma is the main reason why university counselling services are overloaded.",
+            "Student volunteers are more effective than professional counsellors.",
+            "Universities are trying several ways to meet rising demand for support."
+          ],
+          "answer": 3,
+          "explain": "บทความเริ่มจากปัญหา ¶1: “demand for counselling has outgrown their capacity to provide it” แล้วกล่าวถึงทางเลือกหลายแบบ ทั้งเพื่อนช่วยเพื่อนและการปรึกษาออนไลน์ ตัวเลือก B ผิดเพราะผู้เขียนมองว่าความต้องการที่เพิ่มขึ้นส่วนหนึ่งมาจากการที่นักศึกษากล้าพูดเรื่องสุขภาพจิตมากขึ้น ไม่ใช่จากการตีตรา"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the writer begin the passage with Napat's experience?",
+          "options": [
+            "to illustrate a widespread problem with a single case",
+            "to show that engineering students are especially anxious",
+            "to criticise one university for its poor management",
+            "to explain how peer support schemes first began"
+          ],
+          "answer": 0,
+          "explain": "¶1: “His experience is far from unusual.” บอกชัดว่าเรื่องของนภัสเป็นตัวอย่างของปัญหาที่พบได้ทั่วไป ตัวเลือก C ผิดเพราะผู้เขียนระบุว่ามหาวิทยาลัยหลายแห่งเจอปัญหาเดียวกัน ไม่ได้ตำหนิมหาวิทยาลัยใดโดยเฉพาะ"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to the 2023 survey, distressed students who did not seek help most often",
+          "options": [
+            "could not obtain an appointment quickly enough",
+            "feared looking weak or their families finding out",
+            "preferred to talk about their problems with friends",
+            "were unaware that counselling services existed"
+          ],
+          "answer": 1,
+          "explain": "¶2: “most often because they feared being seen as weak or worried that their families would find out” ตัวเลือก A เป็นปัญหาคิวยาวที่พูดถึงใน ¶1 แต่ไม่ใช่เหตุผลที่ผลสำรวจระบุ"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'confide' in paragraph 3 is closest in meaning to",
+          "options": [
+            "take advice",
+            "compete",
+            "open up",
+            "spend time"
+          ],
+          "answer": 2,
+          "explain": "¶3: “students often find it easier to confide in someone of their own age” confide in คือเปิดใจเล่าเรื่องส่วนตัวหรือความลับให้ฟัง ตัวเลือก A เข้ากับบริบทได้ แต่ไม่ใช่ความหมายของคำนี้ เพราะ confide คือการเล่าความรู้สึก ไม่ใช่การขอคำแนะนำ"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'they' in paragraph 3 refer to?",
+          "options": [
+            "student volunteers",
+            "critics of peer support",
+            "classmates seeking help",
+            "professional counsellors"
+          ],
+          "answer": 0,
+          "explain": "¶3: “volunteers can be overwhelmed by the problems they encounter” ผู้ที่ต้องเผชิญปัญหาเหล่านั้นคืออาสาสมัคร ตัวเลือก B ผิดแม้ Critics จะเป็นประธานของประโยค เพราะนักวิจารณ์เป็นเพียงผู้เตือน ไม่ใช่ผู้รับฟังปัญหาของเพื่อน"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a feature of online counselling?",
+          "options": [
+            "sessions conducted by video",
+            "text-based chat with a counsellor",
+            "access from students' own rooms",
+            "help available around the clock"
+          ],
+          "answer": 3,
+          "explain": "¶4: “many centres have offered video sessions and text-based chat, allowing students to seek help from their own rooms” แต่ไม่มีตรงไหนบอกว่าบริการเปิดตลอด 24 ชั่วโมง ตัวเลือก C ถูกกล่าวถึงจริงผ่านวลี from their own rooms"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'concentrated' in paragraph 5 is closest in meaning to",
+          "options": [
+            "lessened",
+            "compressed",
+            "ignored",
+            "spread out"
+          ],
+          "answer": 1,
+          "explain": "¶5: “assessments scheduled so that pressure is not concentrated into a few weeks” คือไม่ให้ความกดดันอัดแน่นรวมอยู่ในไม่กี่สัปดาห์ ตัวเลือก D (spread out) มีความหมายตรงข้าม ซึ่งเป็นสิ่งที่ผู้เชี่ยวชาญอยากให้เกิดขึ้นแทน"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What can be inferred about Napat from paragraph 5?",
+          "options": [
+            "He still has difficulty getting counselling appointments.",
+            "He regrets having sought help from the university.",
+            "His own experience influenced his decision to volunteer.",
+            "He believes volunteers should replace counsellors."
+          ],
+          "answer": 2,
+          "explain": "¶5: “He would rather, he says, that no one else had to wait as long as he did.” แสดงว่าการเคยรอคิวนานเป็นแรงจูงใจให้เขามาเป็นอาสาสมัคร ตัวเลือก A ผิดเพราะบทความบอกว่า “Napat did eventually receive help” แล้ว"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "Which of the following best describes the writer's tone in the passage?",
+          "options": [
+            "alarmed and accusing",
+            "balanced and informative",
+            "light-hearted and humorous",
+            "bitter and sarcastic"
+          ],
+          "answer": 1,
+          "explain": "ผู้เขียนให้ทั้งข้อดีและข้อจำกัด เช่น ¶4: “For some, this privacy is precisely what makes the first step possible.” คู่กับ “For others, a screen is a poor substitute” จึงเป็นน้ำเสียงที่สมดุลและให้ข้อมูล ตัวเลือก A ผิดเพราะแม้จะพูดถึงคิวยาว ผู้เขียนไม่ได้กล่าวโทษฝ่ายใด"
+        }
+      ]
+    },
+    {
+      "id": "M2P4",
+      "kind": "short",
+      "genre": "research news",
+      "domain": "Society",
+      "title": "Study Puts Ride-Hailing Under the Microscope",
+      "paragraphs": [
+        "Ride-hailing apps were once promoted as a cure for urban traffic. By making it easy to summon a car whenever one was needed, the argument went, they would persuade city dwellers to give up their own vehicles and leave roads less crowded. A new study of five large Southeast Asian cities suggests that the reality has been rather different.",
+        "Researchers at a regional transport institute combined anonymised trip records from two ride-hailing companies with GPS data from taxis, buses and private cars collected between 2017 and 2023. In the central business districts of all five cities, they found, average speeds during the evening rush hour fell by between 6 and 11 percent over the period, and ride-hailing vehicles accounted for roughly a third of the additional distance driven.",
+        "A major reason, the authors argue, is the time drivers spend on the road with no one in the back seat. After a drop-off, a driver typically cruises or waits nearby until the app assigns another trip, then heads to the next pick-up point. In the study, these empty journeys made up nearly 40 percent of all distance covered by ride-hailing vehicles.",
+        "Equally important is what passengers would otherwise have done. When the researchers surveyed 4,000 app users, only about one in five said they would have driven their own car if ride-hailing had not been available. Far more said they would have taken a bus or train, walked, or not made the trip at all. Many app journeys, in other words, do not replace car trips; they are added on top of them.",
+        "None of this means that the services offer no benefits. They have improved mobility for older people and people with disabilities, and they fill gaps late at night when public transport stops running. Shared rides, in which strangers heading the same way travel together, also reduce the number of vehicles per passenger, although they remain a small fraction of bookings.",
+        "The authors recommend congestion charges for all vehicles entering central areas at peak times, along with incentives to encourage shared trips. Dr. Kittipong Wongsa, the study's lead author, believes such measures are overdue. “Cities have spent decades trying to get people out of private cars,” he said. “It would be a pity if a new technology quietly undid that progress.”"
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Ride-hailing companies have refused to share their trip data with researchers.",
+            "Research suggests ride-hailing has added to, rather than eased, city-centre traffic.",
+            "Congestion charges have cut traffic in five large Southeast Asian cities.",
+            "Most ride-hailing passengers have given up their private cars since the apps appeared."
+          ],
+          "answer": 1,
+          "explain": "¶1: “A new study of five large Southeast Asian cities suggests that the reality has been rather different.” จากนั้น ¶2–4 ให้หลักฐานว่ารถเรียกผ่านแอปทำให้รถติดมากขึ้น ตัวเลือก D ตรงข้ามกับผลสำรวจใน ¶4 ส่วน C ผิดเพราะค่าธรรมเนียมรถติดเป็นเพียงข้อเสนอแนะ ยังไม่ได้นำมาใช้"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'summon' in paragraph 1 is closest in meaning to",
+          "options": [
+            "purchase",
+            "repair",
+            "request",
+            "share"
+          ],
+          "answer": 2,
+          "explain": "¶1: “By making it easy to summon a car whenever one was needed” summon หมายถึงเรียกให้มา ซึ่งตรงกับการเรียกรถผ่านแอป ตัวเลือก D (share) ดูเกี่ยวข้องกับการแชร์รถ แต่ไม่ใช่ความหมายของคำนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 2, average traffic speeds in the central business districts during the evening rush hour",
+          "options": [
+            "dropped by 6 to 11 percent over the study period",
+            "fell by roughly one-third between 2017 and 2023",
+            "declined by almost 40 percent in each of the five cities",
+            "rose slightly in two of the five cities studied"
+          ],
+          "answer": 0,
+          "explain": "¶2: “average speeds during the evening rush hour fell by between 6 and 11 percent over the period” ตัวเลือก B เป็นกับดักตัวเลข เพราะ “roughly a third” คือสัดส่วนของระยะทางที่เพิ่มขึ้นซึ่งมาจากรถเรียกผ่านแอป ไม่ใช่ความเร็วที่ลดลง"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "The phrase 'these empty journeys' in paragraph 3 refers to",
+          "options": [
+            "rides in which strangers share a car",
+            "bus and train trips replaced by apps",
+            "bookings cancelled before a pick-up",
+            "driving done without any passenger"
+          ],
+          "answer": 3,
+          "explain": "¶3: “the time drivers spend on the road with no one in the back seat” คือช่วงที่คนขับวนรอหรือขับไปจุดรับโดยไม่มีผู้โดยสาร ตัวเลือก A ผิดเพราะการแชร์รถกับคนแปลกหน้าอยู่ใน ¶5 และรถยังมีผู้โดยสารอยู่"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraphs 1 and 4 that early supporters of ride-hailing",
+          "options": [
+            "wrongly assumed that app trips would mostly replace car trips",
+            "expected most passengers to share rides with strangers",
+            "intended the apps to take passengers away from buses",
+            "underestimated how popular the apps would become among city dwellers"
+          ],
+          "answer": 0,
+          "explain": "¶1 ผู้สนับสนุนเชื่อว่าแอปจะ “persuade city dwellers to give up their own vehicles” แต่ ¶4 พบว่า “only about one in five said they would have driven their own car” จึงอนุมานได้ว่าพวกเขาคาดผิดว่าการเดินทางผ่านแอปจะมาแทนรถส่วนตัว ตัวเลือก C ผิดเพราะการดึงคนออกจากรถเมล์เป็นผลที่เกิดขึ้น ไม่ใช่สิ่งที่ผู้สนับสนุนตั้งใจ"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned as a source of information used in the study?",
+          "options": [
+            "trip records provided by ride-hailing firms",
+            "GPS data from buses and private vehicles",
+            "a survey of people who use the apps",
+            "video from roadside traffic cameras"
+          ],
+          "answer": 3,
+          "explain": "¶2 ระบุว่าใช้ “anonymised trip records from two ride-hailing companies with GPS data from taxis, buses and private cars” และ ¶4 มีการสำรวจผู้ใช้ 4,000 คน แต่ไม่มีการพูดถึงภาพจากกล้องจราจรเลย"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "What is the main purpose of paragraph 5?",
+          "options": [
+            "to explain why shared rides remain unpopular with users",
+            "to acknowledge some advantages of ride-hailing services",
+            "to describe the people who took part in the survey",
+            "to argue that buses and trains should run all night"
+          ],
+          "answer": 1,
+          "explain": "¶5 เปิดด้วย “None of this means that the services offer no benefits.” แล้วยกประโยชน์ เช่น ช่วยผู้สูงอายุและผู้พิการ ตัวเลือก A ผิดเพราะย่อหน้าบอกเพียงว่าการแชร์รถยังมีสัดส่วนน้อย ไม่ได้อธิบายว่าทำไมไม่เป็นที่นิยม"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "What do the authors of the study recommend?",
+          "options": [
+            "banning ride-hailing cars from city centres at rush hour",
+            "charging only ride-hailing vehicles for entering central areas",
+            "charging every vehicle that enters central areas at busy times",
+            "building new roads to carry the additional traffic"
+          ],
+          "answer": 2,
+          "explain": "¶6: “The authors recommend congestion charges for all vehicles entering central areas at peak times” คำสำคัญคือ all vehicles ตัวเลือก B จึงผิดเพราะจำกัดเฉพาะรถเรียกผ่านแอป ส่วน A เป็นการห้ามซึ่งไม่มีการเสนอ"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'overdue' in paragraph 6 is closest in meaning to",
+          "options": [
+            "too expensive",
+            "long needed",
+            "unlikely to work",
+            "too harsh"
+          ],
+          "answer": 1,
+          "explain": "¶6: “believes such measures are overdue” ประกอบกับคำพูดว่าเมืองพยายามลดรถส่วนตัวมาหลายทศวรรษ แสดงว่ามาตรการนี้ควรมีมานานแล้ว ตัวเลือก C ขัดกับทัศนคติของ Dr. Kittipong ที่สนับสนุนมาตรการนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "fact/opinion",
+          "q": "Which of the following statements is an opinion rather than a fact?",
+          "options": [
+            "It would be a pity if a new technology quietly undid that progress.",
+            "The researchers used data that had been collected between 2017 and 2023.",
+            "Ride-hailing apps were once promoted as a cure for urban traffic.",
+            "The study looked at five large cities in Southeast Asia."
+          ],
+          "answer": 0,
+          "explain": "¶6: “It would be a pity if a new technology quietly undid that progress.” เป็นการประเมินและความรู้สึกส่วนตัว (คำว่า pity) ส่วนตัวเลือก B, C และ D เป็นข้อมูลที่ตรวจสอบได้ เช่น ช่วงเก็บข้อมูลปี 2017–2023 ใน ¶2"
+        }
+      ]
+    },
+    {
+      "id": "M2P5",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "Education",
+      "title": "Early Childhood Education and Lifelong Outcomes: Reviewing the Evidence",
+      "paragraphs": [
+        "Over the past three decades, early childhood education has moved from the margins of education policy to its centre. Governments around the world have expanded publicly funded pre-primary places, and Thailand, among others, now includes the pre-school years in its policy of free basic education. The case for this investment rests on three broad claims: that the early years are a period of exceptional brain development, that good early education produces benefits lasting well into adulthood, and that these benefits outweigh the costs. This article examines each claim in turn before turning to a question that has grown more pressing as programmes have expanded: whether quality matters as much as access.",
+        "The first claim draws on developmental neuroscience. In early childhood the brain grows faster than at any later time: by around the age of five it has reached roughly nine-tenths of its adult size, and connections between nerve cells form at an extraordinary rate. Connections that are used repeatedly are strengthened, while those that are rarely used are gradually pruned, making the brain more efficient. Because this process is shaped by experience, a child's surroundings matter greatly. Responsive adults, rich spoken language and play all support healthy development, whereas chronic stress caused by neglect can disrupt it. Neuroscientists add, however, that the brain remains adaptable throughout life; the early years are better described as a sensitive period than as a window that closes for ever.",
+        "The second claim rests largely on a handful of long-running studies begun in the United States in the 1960s and 1970s. In the best known of these, children from low-income families were randomly assigned either to an intensive pre-school programme or to a control group. Classes were small, teachers were highly qualified, and some programmes included regular home visits to support parents. Crucially, researchers went on following the participants for decades, in some cases into their fifties. Compared with the control groups, those who had attended were more likely to finish secondary school and hold steady jobs, earned more, and were less likely to have been arrested or to rely on welfare.",
+        "One result initially puzzled researchers. The programmes raised children's IQ scores, but the advantage had largely vanished within a few years of starting primary school, a pattern known as fade-out. Why, then, were adult outcomes so different? The most widely accepted explanation is that the programmes also strengthened non-cognitive skills such as persistence, self-control and the ability to cooperate. Intelligence tests capture these qualities poorly, yet they shape how people fare at school, at work and in their relationships. The insight has encouraged evaluators to look beyond test scores and led designers to give greater weight to social and emotional development.",
+        "Economists have advanced the third claim most forcefully. Drawing on the long-term data, they have placed a monetary value on the programmes' effects, adding the extra taxes paid by participants who earned more to the public savings from reduced spending on the justice system, special education and welfare. Some analyses have put the annual rate of return at between 7 and 10 percent, higher than the long-run return on shares. Such figures have proved persuasive in finance ministries as well as education departments. Sceptics accept the logic but question the arithmetic. The original studies involved only a few hundred children in unusually well-funded programmes, and extrapolating their returns to entire national systems is, in the sceptics' view, a considerable leap.",
+        "As provision has grown from small experiments to national systems, the question of quality has come to dominate debate, and the record is mixed. A randomised evaluation of one state-funded pre-kindergarten programme in the United States, for instance, found that by the end of primary school, children who had attended were doing slightly worse on academic and behavioural measures than those who had not. Such findings do not show that early education is ineffective; rather, they suggest that its benefits depend on what actually happens in classrooms. Reviews of the evidence point to a consistent set of features linked to good outcomes: well-trained, adequately paid teachers who stay in their posts, small groups, warm interaction between adults and children, and learning through play rather than formal drilling in letters and numbers.",
+        "These findings are especially relevant in Southeast Asia, where pre-primary enrolment has risen rapidly but quality has not always kept pace. Many parents in the region see pre-school chiefly as preparation for primary school and expect children to read and write as early as possible, and schools competing for pupils often oblige. A 2021 observational study of 120 pre-school classrooms in north-eastern Thailand found that children spent more than half of their time in whole-class instruction, such as copying letters from the board, and less than a tenth in free play. Classes frequently exceeded 30 children, and teachers in small rural schools were less likely than those in towns to hold an early childhood qualification.",
+        "Taken together, the evidence strongly supports investment in the early years, but not the assumption that any pre-school place will deliver lifelong benefits. The gains recorded in the classic studies came from carefully designed, well-resourced programmes and are unlikely to be reproduced by provision that is crowded, poorly staffed or narrowly academic. For policymakers, this means that enrolment figures alone are a poor measure of success. Improving the training, pay and retention of teachers and monitoring what happens in classrooms may produce less visible results than opening new schools, but such measures are more likely to secure the benefits that justified expansion in the first place."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "The brain develops so quickly before five that later education matters little.",
+            "Expanding pre-school places is the cheapest way to reduce crime and welfare costs.",
+            "Early education brings lasting gains, but only when programmes are of high quality.",
+            "Long-term studies of pre-school programmes have been shown to be largely unreliable."
+          ],
+          "answer": 2,
+          "explain": "บทความสนับสนุนการลงทุนในเด็กปฐมวัยแต่เน้นว่าผลดีขึ้นอยู่กับคุณภาพ ¶8: “the evidence strongly supports investment in the early years, but not the assumption that any pre-school place will deliver lifelong benefits” ตัวเลือก A ผิดเพราะ ¶2 ระบุว่าสมองยังปรับตัวได้ตลอดชีวิต ส่วน B กล่าวเกินกว่าที่บทความสรุปไว้"
+        },
+        {
+          "type": "mc",
+          "skill": "topic",
+          "q": "What is paragraph 2 mainly about?",
+          "options": [
+            "why the early years matter for the developing brain",
+            "how neuroscientists measure the size of children's brains",
+            "the harm that neglect causes to children's later careers",
+            "the reasons why the brain stops changing after childhood"
+          ],
+          "answer": 0,
+          "explain": "¶2 เปิดด้วย “The first claim draws on developmental neuroscience.” แล้วอธิบายว่าสมองช่วงต้นชีวิตเติบโตเร็วและถูกหล่อหลอมด้วยประสบการณ์ ตัวเลือก D ผิดเพราะย่อหน้าบอกตรงข้ามว่าสมอง “remains adaptable throughout life”"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'pruned' in paragraph 2 is closest in meaning to",
+          "options": [
+            "strengthened",
+            "cut back",
+            "copied",
+            "delayed"
+          ],
+          "answer": 1,
+          "explain": "¶2: “those that are rarely used are gradually pruned, making the brain more efficient” prune คือตัดทิ้ง (เหมือนการตัดแต่งกิ่งไม้) ตัวเลือก A ให้ความหมายตรงข้าม เพราะการเสริมให้แข็งแรงเกิดกับเส้นเชื่อมที่ใช้บ่อยเท่านั้น"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 3, which of the following is true of the long-running studies?",
+          "options": [
+            "Most of the children came from middle-income families.",
+            "Participants were followed only until they left school.",
+            "The programmes had large classes in order to cut costs.",
+            "Children were assigned to each group at random."
+          ],
+          "answer": 3,
+          "explain": "¶3: “children from low-income families were randomly assigned either to an intensive pre-school programme or to a control group” ตัวเลือก B ผิดเพราะนักวิจัยติดตามผู้เข้าร่วม “for decades, in some cases into their fifties” ไม่ใช่แค่จนจบการศึกษา"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'fare' in paragraph 4 is closest in meaning to",
+          "options": [
+            "perform",
+            "pay",
+            "travel",
+            "compete"
+          ],
+          "answer": 0,
+          "explain": "¶4: “they shape how people fare at school, at work and in their relationships” fare ในที่นี้เป็นคำกริยา หมายถึงทำได้ดีหรือประสบความสำเร็จเพียงใด ตัวเลือก B และ C เป็นกับดักจากความหมายของคำนาม fare (ค่าโดยสาร) ซึ่งไม่เข้ากับบริบท"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT mentioned in paragraph 5 as a financial gain to the public from the early programmes?",
+          "options": [
+            "extra tax paid by participants who earned more",
+            "lower spending on the justice system",
+            "reduced costs for special education",
+            "smaller public spending on health care"
+          ],
+          "answer": 3,
+          "explain": "¶5 ระบุทั้ง “the extra taxes paid by participants who earned more” และการประหยัดจาก “the justice system, special education and welfare” แต่ไม่ได้พูดถึงค่าใช้จ่ายด้านสุขภาพเลย ตัวเลือก B และ C จึงถูกกล่าวถึงจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 5 that the economic analyses",
+          "options": [
+            "convinced sceptics that the original estimates were accurate",
+            "won backing from beyond the education sector",
+            "were mainly carried out by finance ministries themselves",
+            "showed that shares are a poor long-term investment"
+          ],
+          "answer": 1,
+          "explain": "¶5: “Such figures have proved persuasive in finance ministries as well as education departments.” แสดงว่าตัวเลขทางเศรษฐศาสตร์ช่วยให้ได้แรงสนับสนุนจากฝ่ายการคลังด้วย ไม่ใช่แค่ฝ่ายการศึกษา ตัวเลือก A ผิดเพราะผู้ที่ไม่เห็นด้วยยังสงสัยตัวเลขอยู่"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "The phrase 'the arithmetic' in paragraph 5 refers to",
+          "options": [
+            "the number of children in the original studies",
+            "the cost of running national pre-school systems",
+            "the calculated returns on early education",
+            "the taxes paid by former participants"
+          ],
+          "answer": 2,
+          "explain": "ก่อนหน้านั้น ¶5 กล่าวถึง “the annual rate of return at between 7 and 10 percent” ผู้ไม่เห็นด้วยยอมรับหลักคิดแต่สงสัยตัวเลขผลตอบแทนที่คำนวณได้ ตัวเลือก A เป็นเหตุผลที่ทำให้สงสัยตัวเลข (กลุ่มตัวอย่างเล็ก) ไม่ใช่สิ่งที่ the arithmetic อ้างถึง"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author mention the state-funded pre-kindergarten programme in paragraph 6?",
+          "options": [
+            "to show that scaling up does not guarantee the same gains",
+            "to prove that early education harms children's later performance",
+            "to compare American programmes with those in Thailand",
+            "to illustrate the benefits of learning through play"
+          ],
+          "answer": 0,
+          "explain": "¶6: “Such findings do not show that early education is ineffective; rather, they suggest that its benefits depend on what actually happens in classrooms.” ตัวอย่างนี้ใช้แสดงว่าการขยายโครงการไม่ได้รับประกันผลแบบการทดลองขนาดเล็ก ตัวเลือก B ผิดเพราะผู้เขียนปฏิเสธข้อสรุปนี้โดยตรง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraphs 6 and 7 that the classrooms in the 2021 study",
+          "options": [
+            "had better-qualified teachers in rural areas than in towns",
+            "produced stronger reading results than play-based classrooms",
+            "were chosen because they were known to be of poor quality",
+            "lacked several features associated with good outcomes"
+          ],
+          "answer": 3,
+          "explain": "¶6 ระบุลักษณะของโปรแกรมที่ดี เช่น กลุ่มเล็กและ “learning through play rather than formal drilling in letters and numbers” แต่ ¶7 พบว่าห้องเรียนมักมีเด็กเกิน 30 คนและเล่นอิสระไม่ถึงหนึ่งในสิบของเวลา จึงขาดคุณลักษณะสำคัญหลายข้อ ตัวเลือก A ตรงข้ามกับข้อมูลเรื่องวุฒิของครูในโรงเรียนชนบท"
+        },
+        {
+          "type": "mc",
+          "skill": "organization",
+          "q": "Which of the following best describes how the passage is organised?",
+          "options": [
+            "A single study is described in detail and then its methods are criticised.",
+            "Two opposing theories are compared and the author rejects both of them.",
+            "Three claims are examined in turn, followed by a discussion of quality.",
+            "Historical developments are presented in chronological order from the 1960s."
+          ],
+          "answer": 2,
+          "explain": "¶1 วางโครงสร้างไว้ว่า “This article examines each claim in turn before turning to a question that has grown more pressing” จากนั้น ¶2–5 พิจารณาข้ออ้างสามข้อตามลำดับ และ ¶6–8 อภิปรายเรื่องคุณภาพ ตัวเลือก D ผิดเพราะแม้จะกล่าวถึงงานวิจัยในทศวรรษ 1960 แต่บทความไม่ได้เรียงตามลำดับเวลา"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward early childhood education can best be described as",
+          "options": [
+            "enthusiastic and uncritical",
+            "supportive but cautious",
+            "sceptical and dismissive",
+            "neutral and uninterested"
+          ],
+          "answer": 1,
+          "explain": "ผู้เขียนเห็นคุณค่าของการลงทุน (¶8: “such measures are more likely to secure the benefits that justified expansion in the first place”) แต่ก็เตือนว่าผลดีไม่ได้เกิดขึ้นเองโดยอัตโนมัติ ตัวเลือก A ผิดเพราะผู้เขียนนำข้อโต้แย้งของฝ่ายที่สงสัยและผลการประเมินที่ไม่ดีมาอภิปรายด้วย"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "According to paragraph 2, the early years are better described as what? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "a sensitive period",
+            "sensitive period",
+            "sensitive periods"
+          ],
+          "explain": "¶2: “the early years are better described as a sensitive period than as a window that closes for ever” คือช่วงที่เรียนรู้บางอย่างได้ง่ายที่สุด ไม่ใช่โอกาสที่ปิดลงถาวร"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "According to paragraph 3, what did some of the programmes include in order to support parents? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "regular home visits",
+            "home visits",
+            "home visit",
+            "regular home visit"
+          ],
+          "explain": "¶3: “some programmes included regular home visits to support parents” คำตอบคือการเยี่ยมบ้านเป็นประจำ"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What name is given to the pattern in which children's early IQ gains largely disappear? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "fade-out",
+            "fade out",
+            "fadeout"
+          ],
+          "explain": "¶4: “the advantage had largely vanished within a few years of starting primary school, a pattern known as fade-out” — ชื่อเรียกปรากฏการณ์ที่ IQ ซึ่งเพิ่มขึ้นค่อย ๆ หายไป"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What kind of evaluation was carried out of the state-funded pre-kindergarten programme mentioned in paragraph 6? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "randomised evaluation",
+            "randomized evaluation",
+            "randomised",
+            "a randomised evaluation"
+          ],
+          "explain": "¶6: “A randomised evaluation of one state-funded pre-kindergarten programme in the United States” คือการประเมินแบบสุ่มเปรียบเทียบกลุ่ม"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "In the 2021 study, what kind of activity took up more than half of the children's time? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "whole-class instruction",
+            "whole class instruction"
+          ],
+          "explain": "¶7: “children spent more than half of their time in whole-class instruction, such as copying letters from the board” คือการสอนรวมทั้งชั้น ซึ่งตรงข้ามกับการเล่นอิสระที่มีไม่ถึงหนึ่งในสิบของเวลา"
+        }
+      ]
+    },
+    {
+      "id": "M2P6",
+      "kind": "long",
+      "genre": "academic article",
+      "domain": "AI/Technology",
+      "title": "Digital Traces and Disease Surveillance: An Assessment of Big Data in Epidemiology",
+      "paragraphs": [
+        "Traditional disease surveillance depends on a chain of reports. A patient visits a clinic, a doctor records a diagnosis, a laboratory confirms it, and the information passes upward through district, provincial and national authorities. The system is reasonably accurate, but it is slow: by the time an outbreak appears in official statistics, it may have been spreading for one or two weeks. The explosion of digital data over the past two decades, from internet searches and social media posts to mobile phone records and online pharmacy sales, has raised hopes of “nowcasting”, that is, estimating disease activity as it happens rather than after the fact. This article assesses the main sources and the problems that accompany them.",
+        "Efforts to obtain earlier warning signals predate big data. Since the late 1990s, many health departments have practised syndromic surveillance, monitoring indicators that appear before a formal diagnosis is made: the symptoms patients report on arrival at emergency departments, school absenteeism, or sales of over-the-counter remedies such as cough syrup and anti-diarrhoeal tablets. Such data arrive quickly and in large volumes. Their weakness is a lack of specificity. A sudden rise in sales of cough medicine might reflect an influenza outbreak, but it might equally reflect a spell of air pollution or a discount offered by a pharmacy chain. Syndromic signals are therefore best treated as prompts for investigation rather than as evidence in themselves.",
+        "A second source is mobility data. Mobile phone networks record which transmission tower each handset connects to, and many smartphone applications log location more precisely still. When aggregated across millions of users, these records reveal how populations move between neighbourhoods, cities and regions. Researchers have combined them with case reports to trace the routes by which malaria is carried from high-transmission rural areas into towns, and during the COVID-19 pandemic such data were widely used to judge whether lockdowns were actually reducing movement. Their value lies less in detecting disease directly than in showing where an infection is likely to travel next.",
+        "Internet searches have attracted the most attention. In the late 2000s, a large internet company launched a flu tracker built on a simple idea: people who fall ill often search online for their symptoms before they see a doctor. By identifying search terms whose frequency had closely followed official influenza figures in previous years, the company claimed it could estimate flu activity up to two weeks ahead of government reports. Early results were impressive, and the project was hailed as proof of what big data could achieve. Yet the tracker largely missed the first wave of a new influenza pandemic that arrived outside the usual winter season, and in one later winter its estimates were roughly double the flu-related doctor visits later recorded by official surveillance. The service was quietly withdrawn a few years later.",
+        "The most fundamental of the tracker's weaknesses was over-fitting. The model had chosen a few dozen terms from tens of millions of candidates for how well they matched a few past seasons. With so many candidates, some were bound to match by chance, and a number of the chosen terms appear to have been related to winter rather than to influenza itself; in effect, the model had partly learned the calendar. Search behaviour also shifted in ways the model could not anticipate. Alarming news coverage prompted many healthy people to search for flu symptoms, and changes to the search engine, such as automatic suggestions, altered what users typed. Critics described the episode as a case of “big data hubris”: the belief that sheer volume of data can substitute for careful measurement.",
+        "A second set of problems concerns who is represented in digital data. Internet and smartphone use remain uneven, both between and within countries. Older people, the rural poor and those with limited literacy are less likely to search online or to carry a smartphone, yet they are often at greatest risk from infectious disease. Signals drawn from digital sources may therefore be weakest precisely where they are most needed. Much of this information is, moreover, “digital exhaust”: a by-product of commercial activity rather than data collected for research. Companies can change how they gather, store or share it at any time, for reasons unrelated to public health, which makes comparisons over time hazardous.",
+        "Privacy is the third major concern. Location records are far more revealing than they appear: studies have shown that a handful of time-stamped points is often enough to single out most individuals in a supposedly anonymous dataset. Researchers and agencies have responded with several safeguards, including reporting only aggregated counts, adding carefully calibrated statistical noise, a technique known as differential privacy, and limiting how long data may be kept. Technical measures, though, cannot by themselves secure public trust. Where people suspect that health surveillance is a cover for other forms of monitoring, they may switch off location services or avoid health apps altogether, and the data on which the whole enterprise depends will deteriorate.",
+        "None of this means that big data have no place in epidemiology. Used carefully, digital signals can serve as an early alarm that prompts health workers to investigate, and mobility data can help authorities decide where to send vaccines or testing teams. The lesson of the past two decades is that such sources work best when they complement, rather than replace, traditional surveillance: models that combine search data with official case reports have generally outperformed those relying on either alone. Achieving this will require epidemiologists and data scientists to work together and to be open about their methods, their uncertainties and the limits of what their data can show."
+      ],
+      "questions": [
+        {
+          "type": "mc",
+          "skill": "main idea",
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Search data have proved more reliable than official disease reports.",
+            "Digital data can support, but not replace, traditional disease surveillance.",
+            "Privacy laws have prevented researchers from using mobile phone data.",
+            "Syndromic surveillance has largely been abandoned in favour of internet searches."
+          ],
+          "answer": 1,
+          "explain": "¶8: “such sources work best when they complement, rather than replace, traditional surveillance” ซึ่งสรุปแนวคิดที่ผู้เขียนชี้ทั้งประโยชน์และข้อจำกัดของข้อมูลดิจิทัลมาตลอดบทความ ตัวเลือก A ขัดกับกรณีเครื่องมือติดตามไข้หวัดใน ¶4 ที่ประมาณการผิดพลาดอย่างมาก"
+        },
+        {
+          "type": "mc",
+          "skill": "purpose",
+          "q": "Why does the author mention 'a discount offered by a pharmacy chain' in paragraph 2?",
+          "options": [
+            "to show that syndromic data are expensive to collect",
+            "to suggest that pharmacies should report sales more often",
+            "to explain why flu outbreaks often begin in winter",
+            "to show a rise in sales may not reflect illness"
+          ],
+          "answer": 3,
+          "explain": "¶2: “Their weakness is a lack of specificity.” ตัวอย่างส่วนลดของร้านขายยาแสดงว่ายอดขายยาแก้ไอที่เพิ่มขึ้นอาจมีสาเหตุที่ไม่เกี่ยวกับโรคเลย ตัวเลือก B ผิดเพราะผู้เขียนไม่ได้เสนอให้ร้านขายยารายงานข้อมูลถี่ขึ้น"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'aggregated' in paragraph 3 is closest in meaning to",
+          "options": [
+            "combined",
+            "encrypted",
+            "verified",
+            "sold"
+          ],
+          "answer": 0,
+          "explain": "¶3: “When aggregated across millions of users, these records reveal how populations move” คือเมื่อนำข้อมูลของคนจำนวนมากมารวมกันจึงเห็นรูปแบบการเคลื่อนที่ ตัวเลือก B (encrypted) เกี่ยวกับความเป็นส่วนตัวแต่ไม่ใช่ความหมายของคำนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "reference",
+          "q": "What does 'them' in paragraph 3 refer to?",
+          "options": [
+            "smartphone applications",
+            "transmission towers",
+            "the location records",
+            "official case reports"
+          ],
+          "answer": 2,
+          "explain": "¶3: “these records reveal how populations move … Researchers have combined them with case reports” — them คือบันทึกตำแหน่งที่ถูกนำมารวมกัน ตัวเลือก D ผิดเพราะรายงานผู้ป่วยคือสิ่งที่ถูกนำมารวม “with” ไม่ใช่สิ่งที่ them อ้างถึง"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 4, the flu tracker was based on the idea that",
+          "options": [
+            "doctors record flu diagnoses on the internet",
+            "sick people often look up symptoms before seeing a doctor",
+            "official flu figures tend to exaggerate the number of cases",
+            "flu spreads most rapidly during the winter months"
+          ],
+          "answer": 1,
+          "explain": "¶4: “people who fall ill often search online for their symptoms before they see a doctor” ตัวเลือก C ผิดเพราะเครื่องมือนี้ใช้ตัวเลขทางการเป็นเกณฑ์เทียบ ไม่ได้อ้างว่าตัวเลขทางการสูงเกินจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The phrase 'bound to' in paragraph 5 is closest in meaning to",
+          "options": [
+            "certain to",
+            "unlikely to",
+            "designed to",
+            "forced to"
+          ],
+          "answer": 0,
+          "explain": "¶5: “With so many candidates, some were bound to match by chance” เมื่อมีคำค้นนับสิบล้านคำ ย่อมแน่นอนว่าบางคำจะตรงกับข้อมูลโดยบังเอิญ ตัวเลือก D (forced to) มาจากความหมาย “ถูกผูกมัด” ของ bound ซึ่งไม่เข้ากับบริบทนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "What does the author imply by saying that the model 'had partly learned the calendar'?",
+          "options": [
+            "It could forecast the exact start of each flu season.",
+            "It relied on official reports published on fixed dates.",
+            "It was updated with new search terms once a year.",
+            "It was partly tracking the season rather than illness."
+          ],
+          "answer": 3,
+          "explain": "¶5: “a number of the chosen terms appear to have been related to winter rather than to influenza itself” แบบจำลองจึงจับรูปแบบตามฤดูกาลแทนการเจ็บป่วยจริง ตัวเลือก A ผิดเพราะผู้เขียนยกประเด็นนี้มาเป็นจุดอ่อน ไม่ใช่ความสามารถในการพยากรณ์"
+        },
+        {
+          "type": "mc",
+          "skill": "negative detail",
+          "q": "Which of the following is NOT given in paragraph 5 as a reason for the tracker's errors?",
+          "options": [
+            "terms that matched past data purely by chance",
+            "searches by healthy people alarmed by the news",
+            "a drop in the search engine's number of users",
+            "changes made to the search engine itself"
+          ],
+          "answer": 2,
+          "explain": "¶5 ระบุสาเหตุไว้สามข้อ คือคำค้นที่ตรงกับข้อมูลเก่าโดยบังเอิญ ข่าวที่ทำให้คนปกติค้นหาอาการ และ “changes to the search engine, such as automatic suggestions” แต่ไม่มีการกล่าวว่าจำนวนผู้ใช้เครื่องมือค้นหาลดลง"
+        },
+        {
+          "type": "mc",
+          "skill": "inference",
+          "q": "It can be inferred from paragraph 6 that an outbreak among elderly villagers in a poor rural area",
+          "options": [
+            "might be picked up late by digital surveillance",
+            "would be easier to detect using search data",
+            "would be unlikely to involve an infectious disease",
+            "would be reported first on social media"
+          ],
+          "answer": 0,
+          "explain": "¶6: “Signals drawn from digital sources may therefore be weakest precisely where they are most needed.” ผู้สูงอายุและคนจนในชนบทใช้อินเทอร์เน็ตน้อย การระบาดในกลุ่มนี้จึงอาจถูกตรวจพบช้า ตัวเลือก B ตรงข้ามกับเหตุผลนี้"
+        },
+        {
+          "type": "mc",
+          "skill": "detail",
+          "q": "According to paragraph 7, studies have shown that",
+          "options": [
+            "most location datasets can be made fully anonymous",
+            "a few time-stamped locations can often identify a person",
+            "people rarely switch off location services on their phones",
+            "location data are rarely shared with researchers"
+          ],
+          "answer": 1,
+          "explain": "¶7: “a handful of time-stamped points is often enough to single out most individuals in a supposedly anonymous dataset” ตัวเลือก A ตรงข้ามกับข้อความ เพราะคำว่า supposedly บอกว่าข้อมูลที่อ้างว่าไม่ระบุตัวตนนั้นไม่ได้นิรนามจริง"
+        },
+        {
+          "type": "mc",
+          "skill": "vocabulary",
+          "q": "The word 'deteriorate' in paragraph 7 is closest in meaning to",
+          "options": [
+            "become outdated",
+            "be deleted",
+            "grow more costly",
+            "get worse"
+          ],
+          "answer": 3,
+          "explain": "¶7: “the data on which the whole enterprise depends will deteriorate” หากคนปิดระบบระบุตำแหน่งหรือเลิกใช้แอป ข้อมูลจะแย่ลง ตัวเลือก B (be deleted) เกินจริง เพราะข้อมูลไม่ได้ถูกลบทิ้ง แต่มีคุณภาพและความครบถ้วนลดลง"
+        },
+        {
+          "type": "mc",
+          "skill": "tone",
+          "q": "The author's attitude toward the use of big data in epidemiology is best described as",
+          "options": [
+            "wholly enthusiastic and uncritical",
+            "openly hostile",
+            "measured and constructive",
+            "indifferent and detached"
+          ],
+          "answer": 2,
+          "explain": "ผู้เขียนวิจารณ์ข้อจำกัดหลายด้าน แต่สรุปเชิงสร้างสรรค์ใน ¶8: “None of this means that big data have no place in epidemiology.” พร้อมเสนอแนวทางการใช้อย่างระมัดระวัง ตัวเลือก B ผิดเพราะผู้เขียนยอมรับประโยชน์ เช่น การใช้เป็นสัญญาณเตือนล่วงหน้า"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What term is used in paragraph 1 for estimating disease activity as it happens? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "nowcasting",
+            "now-casting"
+          ],
+          "explain": "¶1: “has raised hopes of” ตามด้วยคำว่า nowcasting ซึ่งผู้เขียนอธิบายต่อทันทีว่า “estimating disease activity as it happens rather than after the fact”"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "Apart from patients' symptoms at emergency departments and sales of over-the-counter remedies, which indicator does syndromic surveillance monitor? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "school absenteeism",
+            "absenteeism",
+            "school absence"
+          ],
+          "explain": "¶2: “the symptoms patients report on arrival at emergency departments, school absenteeism, or sales of over-the-counter remedies” ตัวชี้วัดที่เหลือคือการขาดเรียน"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "According to the company, up to how far ahead of government reports could its tracker estimate flu activity? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "two weeks",
+            "up to two weeks",
+            "2 weeks"
+          ],
+          "explain": "¶4: “the company claimed it could estimate flu activity up to two weeks ahead of government reports” คำตอบคือเร็วกว่ารายงานของรัฐได้สูงสุดสองสัปดาห์"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What term does the author use for data that are a by-product of commercial activity? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "digital exhaust"
+          ],
+          "explain": "¶6: “a by-product of commercial activity rather than data collected for research” ผู้เขียนเรียกข้อมูลประเภทนี้ว่า digital exhaust (ไอเสียดิจิทัล)"
+        },
+        {
+          "type": "short",
+          "skill": "short answer",
+          "q": "What name is given to the technique of adding carefully calibrated statistical noise to data? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+          "answers": [
+            "differential privacy"
+          ],
+          "explain": "¶7: “adding carefully calibrated statistical noise, a technique known as differential privacy” เป็นวิธีปกป้องความเป็นส่วนตัวโดยเติมความคลาดเคลื่อนทางสถิติลงในข้อมูล"
+        }
+      ]
+    }
+  ]
+}
