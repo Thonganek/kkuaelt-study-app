@@ -108,7 +108,7 @@
    "w": "outcome",
    "pos": "n.",
    "th": "ผลลัพธ์ / ผลที่เกิดขึ้น",
-   "fam": "",
+   "fam": "outcomes (พหูพจน์) · คำใกล้เคียง: result, consequence, effect (n.)",
    "col": "health outcomes / primary outcome",
    "ex": "The primary outcome was the number of hospital readmissions within thirty days."
   },
@@ -132,7 +132,7 @@
    "w": "whereas",
    "pos": "conj.",
    "th": "ในขณะที่ / แต่ทว่า (ใช้แสดงความแตกต่าง)",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: while, whilst (conj.), by contrast / in contrast (phr.)",
    "col": "whereas others / whereas in rural areas",
    "ex": "Urban schools reported reliable internet access, whereas many rural schools had none."
   },
@@ -140,7 +140,7 @@
    "w": "nevertheless",
    "pos": "adv.",
    "th": "อย่างไรก็ตาม / ถึงกระนั้น",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: nonetheless, however, even so (adv.)",
    "col": "but nevertheless / nevertheless remains",
    "ex": "The sample was small; nevertheless, the findings offer useful insights for policymakers."
   },
@@ -148,7 +148,7 @@
    "w": "therefore",
    "pos": "adv.",
    "th": "ดังนั้น / เพราะฉะนั้น",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: thus, hence, consequently (adv.)",
    "col": "it therefore follows that / therefore necessary",
    "ex": "Vaccination rates remain low; therefore, targeted campaigns are needed in border provinces."
   },
@@ -174,7 +174,7 @@
    "w": "area",
    "pos": "n.",
    "th": "พื้นที่ / ด้าน, สาขา (ของความรู้)",
-   "fam": "",
+   "fam": "areas (พหูพจน์) · คำใกล้เคียง: region, zone (พื้นที่), field (สาขา) (n.)",
    "col": "rural area / research area",
    "ex": "Residents of rural areas often travel long distances to reach specialist hospitals."
   },
@@ -318,7 +318,7 @@
    "w": "higher education",
    "pos": "phr.",
    "th": "การศึกษาระดับอุดมศึกษา",
-   "fam": "",
+   "fam": "high (adj.), higher (adj.), educate (v.), education (n.), educational (adj.), educator (n.)",
    "col": "access to higher education / higher education institutions",
    "ex": "Access to higher education has expanded rapidly in Thailand over recent decades."
   }
@@ -400,7 +400,7 @@
    "w": "income",
    "pos": "n.",
    "th": "รายได้",
-   "fam": "",
+   "fam": "incomes (พหูพจน์), low-income / high-income (adj.)",
    "col": "low-income households / household income",
    "ex": "Children from low-income households are more likely to experience food insecurity."
   },
@@ -432,7 +432,7 @@
    "w": "issue",
    "pos": "n./v.",
    "th": "ประเด็น / ปัญหา (n.) / ออก (คำสั่ง, ประกาศ) (v.)",
-   "fam": "",
+   "fam": "issues (พหูพจน์), issued, issuing (รูปกริยา)",
    "col": "address an issue / key issue",
    "ex": "Antibiotic overuse has become a major public health issue in many countries."
   },
@@ -464,7 +464,7 @@
    "w": "particulate matter",
    "pos": "phr.",
    "th": "ฝุ่นละออง / อนุภาคแขวนลอย (เช่น PM2.5)",
-   "fam": "",
+   "fam": "particle (n.), particulate (adj./n.), matter (n.) · ย่อว่า PM (PM2.5, PM10)",
    "col": "fine particulate matter / exposure to particulate matter",
    "ex": "Long-term exposure to fine particulate matter increases the risk of heart disease."
   },
@@ -602,7 +602,7 @@
    "w": "role",
    "pos": "n.",
    "th": "บทบาท / หน้าที่",
-   "fam": "",
+   "fam": "roles (พหูพจน์), role model (n.), role-play (n./v.)",
    "col": "play a role in / key role",
    "ex": "Village health volunteers play a vital role in primary care in Thailand."
   },
@@ -618,7 +618,7 @@
    "w": "sedentary",
    "pos": "adj.",
    "th": "ที่นั่งอยู่กับที่เป็นส่วนใหญ่ / ขาดการเคลื่อนไหวร่างกาย",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: inactive (adj.) · ตรงข้าม: active, physically active (adj.)",
    "col": "sedentary lifestyle / sedentary behaviour",
    "ex": "A sedentary lifestyle increases the risk of diabetes and heart disease."
   },
@@ -756,7 +756,7 @@
    "w": "aspect",
    "pos": "n.",
    "th": "แง่มุม / ด้าน",
-   "fam": "",
+   "fam": "aspects (พหูพจน์) · คำใกล้เคียง: feature, dimension, facet (n.)",
    "col": "key aspect / various aspects of",
    "ex": "Sleep is an often neglected aspect of adolescent health and well-being."
   },
@@ -796,7 +796,7 @@
    "w": "underserved",
    "pos": "adj.",
    "th": "ที่ได้รับบริการไม่เพียงพอ / ด้อยโอกาส (ด้านบริการ)",
-   "fam": "",
+   "fam": "serve (v.), service (n.), under- (= น้อยเกินไป) · ตรงข้าม: well-served (adj.)",
    "col": "underserved communities / underserved populations",
    "ex": "Digital health tools may widen gaps if underserved communities lack internet access."
   },
@@ -958,7 +958,7 @@
    "w": "circadian rhythm",
    "pos": "phr.",
    "th": "จังหวะชีวภาพรอบวัน / นาฬิกาชีวภาพ",
-   "fam": "",
+   "fam": "circadian (adj.), rhythm (n.), rhythmic (adj.), rhythmically (adv.)",
    "col": "disrupt the circadian rhythm / circadian rhythm disorder",
    "ex": "Night-shift work can disrupt the circadian rhythm and affect metabolic health."
   },
@@ -1096,7 +1096,7 @@
    "w": "generative AI",
    "pos": "phr.",
    "th": "ปัญญาประดิษฐ์เชิงสร้างสรรค์ / เอไอที่สร้างเนื้อหาใหม่ได้",
-   "fam": "",
+   "fam": "generate (v.), generation (n.), generative (adj.) · AI = artificial intelligence (n.)",
    "col": "generative AI tools / use generative AI",
    "ex": "Many universities are revising assessment policies in response to generative AI tools."
   },
@@ -1104,7 +1104,7 @@
    "w": "chatbot",
    "pos": "n.",
    "th": "แชตบอต / โปรแกรมสนทนาอัตโนมัติ",
-   "fam": "",
+   "fam": "chat (v./n.), bot (n.), chatbots (พหูพจน์)",
    "col": "AI chatbot / chatbot responses",
    "ex": "Some clinics use a chatbot to answer common questions about appointments."
   },
@@ -1120,7 +1120,7 @@
    "w": "personalised learning",
    "pos": "phr.",
    "th": "การเรียนรู้เฉพาะบุคคล / การเรียนรู้ที่ปรับให้เหมาะกับผู้เรียนแต่ละคน",
-   "fam": "",
+   "fam": "personal (adj.), personalise (v.), personalisation (n.), personalised (adj.) · สะกดแบบ US: personalized",
    "col": "promote personalised learning / personalised learning platform",
    "ex": "Adaptive software supports personalised learning by adjusting tasks to each student's level."
   },
@@ -1290,7 +1290,7 @@
    "w": "heatwave",
    "pos": "n.",
    "th": "คลื่นความร้อน",
-   "fam": "",
+   "fam": "heat (n./v.), heated (adj.), heatwaves (พหูพจน์) · เขียนแยกได้: heat wave",
    "col": "severe heatwave / during a heatwave",
    "ex": "Elderly people living alone face the greatest risk during a severe heatwave."
   }
@@ -1356,7 +1356,7 @@
    "w": "component",
    "pos": "n.",
    "th": "องค์ประกอบ / ส่วนประกอบ",
-   "fam": "",
+   "fam": "components (พหูพจน์) · คำใกล้เคียง: element, part, constituent (n.)",
    "col": "key component / main component",
    "ex": "Nutrition education was a key component of the school health programme."
   },
@@ -1412,7 +1412,7 @@
    "w": "core",
    "pos": "n./adj.",
    "th": "แก่น / แกนกลาง (n.) / หลัก, สำคัญที่สุด (adj.)",
-   "fam": "",
+   "fam": "cores (พหูพจน์), core values / core skills (n. phr.) · คำใกล้เคียง: central, key (adj.)",
    "col": "core values / core curriculum",
    "ex": "Communication skills form a core part of the new medical curriculum."
   },
@@ -1518,7 +1518,7 @@
    "w": "ensure",
    "pos": "v.",
    "th": "ทำให้มั่นใจว่า / รับประกันว่า",
-   "fam": "",
+   "fam": "ensures, ensured, ensuring (รูปกริยา) · คำใกล้เคียง: guarantee, make sure (v.)",
    "col": "ensure that / ensure quality",
    "ex": "Researchers must ensure that participants' personal information remains strictly confidential."
   },
@@ -1534,7 +1534,7 @@
    "w": "framework",
    "pos": "n.",
    "th": "กรอบ (แนวคิด) / โครงร่าง",
-   "fam": "",
+   "fam": "frame (n./v.), frameworks (พหูพจน์) · คำใกล้เคียง: structure, model (n.)",
    "col": "conceptual framework / legal framework",
    "ex": "The study used a conceptual framework linking social factors to health behaviour."
   },
@@ -1606,7 +1606,7 @@
    "w": "completion rate",
    "pos": "phr.",
    "th": "อัตราการเรียนจบ / อัตราการสำเร็จ (หลักสูตร)",
-   "fam": "",
+   "fam": "complete (v./adj.), completion (n.), completely (adv.), incomplete (adj.)",
    "col": "low completion rate / course completion rate",
    "ex": "Online courses often have much lower completion rates than classroom-based courses."
   },
@@ -1614,7 +1614,7 @@
    "w": "digital divide",
    "pos": "phr.",
    "th": "ความเหลื่อมล้ำทางดิจิทัล",
-   "fam": "",
+   "fam": "digital (adj.), digitally (adv.), digitise (v.), divide (v./n.), division (n.)",
    "col": "bridge the digital divide / widen the digital divide",
    "ex": "The shift to online learning widened the digital divide between rich and poor students."
   }
@@ -1624,7 +1624,7 @@
    "w": "instance",
    "pos": "n.",
    "th": "ตัวอย่าง / กรณี",
-   "fam": "",
+   "fam": "instances (พหูพจน์) · สำนวน: for instance (= for example)",
    "col": "for instance / in this instance",
    "ex": "In several instances, patients stopped their medication without consulting a doctor."
   },
@@ -1744,7 +1744,7 @@
    "w": "food insecurity",
    "pos": "phr.",
    "th": "ภาวะความไม่มั่นคงทางอาหาร",
-   "fam": "",
+   "fam": "secure (adj./v.), security (n.), insecure (adj.), insecurity (n.), food-insecure (adj.)",
    "col": "household food insecurity / experience food insecurity",
    "ex": "Food insecurity among university students is more common than many people assume."
   },
@@ -1850,7 +1850,7 @@
    "w": "task",
    "pos": "n.",
    "th": "งาน / ภาระงาน / ภารกิจ",
-   "fam": "",
+   "fam": "tasks (พหูพจน์), task force (n.), multitask (v.), multitasking (n.)",
    "col": "perform a task / task-based learning",
    "ex": "AI tools can automate routine administrative tasks and free time for patient care."
   },
@@ -1866,7 +1866,7 @@
    "w": "technique",
    "pos": "n.",
    "th": "เทคนิค / วิธีการ",
-   "fam": "",
+   "fam": "technical (adj.), technically (adv.), technician (n.), techniques (พหูพจน์)",
    "col": "surgical technique / sampling technique",
    "ex": "A snowball sampling technique was used to recruit hard-to-reach participants."
   },
@@ -1906,7 +1906,7 @@
    "w": "circular economy",
    "pos": "phr.",
    "th": "เศรษฐกิจหมุนเวียน",
-   "fam": "",
+   "fam": "circle (n.), circular (adj.), circulate (v.), circulation (n.), economy (n.), economic (adj.), economist (n.)",
    "col": "transition to a circular economy / circular economy model",
    "ex": "A circular economy aims to keep materials in use for as long as possible."
   },
@@ -1914,7 +1914,7 @@
    "w": "single-use",
    "pos": "adj.",
    "th": "ใช้ครั้งเดียวทิ้ง",
-   "fam": "",
+   "fam": "single (adj.), use (v./n.) · ตรงข้าม: reusable (adj.), reuse (v./n.)",
    "col": "single-use plastics / single-use packaging",
    "ex": "Several cities have banned single-use plastic bags to reduce marine pollution."
   },
@@ -1922,7 +1922,7 @@
    "w": "landfill",
    "pos": "n.",
    "th": "หลุมฝังกลบขยะ / การฝังกลบ",
-   "fam": "",
+   "fam": "land (n.), fill (v.), landfills (พหูพจน์), landfill site (n.)",
    "col": "landfill site / send to landfill",
    "ex": "Most household waste in the province still ends up in open landfill sites."
   },
@@ -2060,7 +2060,7 @@
    "w": "despite",
    "pos": "prep.",
    "th": "แม้ว่า / ทั้ง ๆ ที่ (ตามด้วยคำนาม)",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: in spite of (prep.) · ตามด้วยประโยคใช้ although / even though (conj.)",
    "col": "despite the fact that / despite efforts to",
    "ex": "Despite widespread awareness campaigns, smoking rates among young men remain high."
   },
@@ -2068,7 +2068,7 @@
    "w": "outbreak",
    "pos": "n.",
    "th": "การระบาด (ของโรค) / การปะทุ",
-   "fam": "",
+   "fam": "break out (phr. v.), outbreaks (พหูพจน์)",
    "col": "disease outbreak / outbreak of",
    "ex": "An outbreak of food poisoning affected more than fifty students at the dormitory."
   },
@@ -2150,7 +2150,7 @@
    "w": "goal",
    "pos": "n.",
    "th": "เป้าหมาย",
-   "fam": "",
+   "fam": "goals (พหูพจน์), goal-oriented (adj.) · คำใกล้เคียง: aim, objective, target (n.)",
    "col": "achieve a goal / long-term goal",
    "ex": "The long-term goal of the programme is to eliminate malaria from border areas."
   },
@@ -2166,7 +2166,7 @@
    "w": "hence",
    "pos": "adv.",
    "th": "ดังนั้น / ด้วยเหตุนี้",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: therefore, thus, consequently (adv.)",
    "col": "hence the need for / and hence",
    "ex": "The sample was drawn from one hospital; hence, the results may not generalise."
   },
@@ -2312,7 +2312,7 @@
    "w": "output",
    "pos": "n.",
    "th": "ผลผลิต / ผลลัพธ์ที่ได้ออกมา",
-   "fam": "",
+   "fam": "outputs (พหูพจน์), output (v.) · ตรงข้าม: input (n./v.)",
    "col": "research output / economic output",
    "ex": "Longer working hours do not necessarily lead to higher economic output."
   },
@@ -2320,7 +2320,7 @@
    "w": "overall",
    "pos": "adj./adv.",
    "th": "โดยรวม / ทั้งหมด",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: in general, on the whole, generally (adv.)",
    "col": "overall effect / overall, the results",
    "ex": "Overall, the programme reduced hospital admissions by about fifteen percent."
   },
@@ -2344,7 +2344,7 @@
    "w": "phase",
    "pos": "n./v.",
    "th": "ระยะ / ขั้น (n.) / ทยอยดำเนินการ (phase in/out) (v.)",
-   "fam": "",
+   "fam": "phases (พหูพจน์), phased (adj.), phase in / phase out (phr. v.)",
    "col": "phase III trial / phase out",
    "ex": "The vaccine is currently being tested in a phase three clinical trial."
   },
@@ -2466,7 +2466,7 @@
    "w": "series",
    "pos": "n.",
    "th": "ชุด / ลำดับ / อนุกรม",
-   "fam": "",
+   "fam": "serial (adj.), serially (adv.) · series ใช้รูปเดียวกันทั้งเอกพจน์และพหูพจน์",
    "col": "a series of / time series",
    "ex": "The team conducted a series of workshops with village health volunteers."
   },
@@ -2482,7 +2482,7 @@
    "w": "status",
    "pos": "n.",
    "th": "สถานะ / ภาวะ",
-   "fam": "",
+   "fam": "statuses (พหูพจน์) · สำนวน: health status, socio-economic status, status quo",
    "col": "socioeconomic status / health status",
    "ex": "Socioeconomic status strongly predicts access to quality healthcare and education."
   },
@@ -2578,7 +2578,7 @@
    "w": "health literacy",
    "pos": "phr.",
    "th": "ความรอบรู้ด้านสุขภาพ",
-   "fam": "",
+   "fam": "healthy (adj.), healthily (adv.), literate (adj.), literacy (n.), illiterate (adj.), illiteracy (n.)",
    "col": "low health literacy / improve health literacy",
    "ex": "Patients with low health literacy often misunderstand dosage instructions on medicine labels."
   },
@@ -2586,7 +2586,7 @@
    "w": "workforce",
    "pos": "n.",
    "th": "กำลังแรงงาน / บุคลากร",
-   "fam": "",
+   "fam": "work (v./n.), worker (n.), force (n./v.) · คำใกล้เคียง: labour force, staff (n.)",
    "col": "health workforce / skilled workforce",
    "ex": "An ageing workforce will place additional pressure on pension and health systems."
   }
@@ -2628,7 +2628,7 @@
    "w": "clause",
    "pos": "n.",
    "th": "อนุประโยค / มาตรา, ข้อ (ในสัญญา, กฎหมาย)",
-   "fam": "",
+   "fam": "clauses (พหูพจน์) · main clause / subordinate clause / relative clause (n. phr.)",
    "col": "relative clause / confidentiality clause",
    "ex": "A confidentiality clause in the agreement protects participants' personal data."
   },
@@ -2724,7 +2724,7 @@
    "w": "randomised controlled trial",
    "pos": "phr.",
    "th": "การทดลองแบบสุ่มที่มีกลุ่มควบคุม",
-   "fam": "",
+   "fam": "random (adj.), randomly (adv.), randomise (v.), randomisation (n.), control (v./n.), controlled (adj.), trial (n.) · ย่อว่า RCT",
    "col": "conduct a randomised controlled trial / evidence from randomised controlled trials",
    "ex": "A randomised controlled trial compared the new drug with a placebo."
   },
@@ -2732,7 +2732,7 @@
    "w": "cohort",
    "pos": "n.",
    "th": "กลุ่มประชากรที่ติดตามศึกษา / รุ่น (นักศึกษา)",
-   "fam": "",
+   "fam": "cohorts (พหูพจน์), cohort study (n. phr.)",
    "col": "cohort study / birth cohort",
    "ex": "A large cohort of nurses was followed for twenty years to study diet."
   },
@@ -2740,7 +2740,7 @@
    "w": "baseline",
    "pos": "n.",
    "th": "ค่าพื้นฐาน / ข้อมูลตั้งต้น (ก่อนเริ่มการทดลอง)",
-   "fam": "",
+   "fam": "base (n./v.), basic (adj.), baseline data / baseline survey (n. phr.)",
    "col": "at baseline / baseline data",
    "ex": "Participants' weight was measured at baseline and again after six months."
   },
@@ -2758,7 +2758,7 @@
    "w": "entity",
    "pos": "n.",
    "th": "หน่วยงาน / สิ่งที่มีตัวตนแยกต่างหาก / นิติบุคคล",
-   "fam": "",
+   "fam": "entities (พหูพจน์) · คำใกล้เคียง: body, organisation, unit (n.)",
    "col": "separate entity / legal entity",
    "ex": "The research centre operates as a separate legal entity from the university."
   },
@@ -2886,7 +2886,7 @@
    "w": "well-being",
    "pos": "n.",
    "th": "ความเป็นอยู่ที่ดี / สุขภาวะ",
-   "fam": "",
+   "fam": "well (adv./adj.), being (n.) · สะกดได้ทั้ง well-being และ wellbeing",
    "col": "mental well-being / promote well-being",
    "ex": "Spending time in green spaces has clear benefits for mental well-being."
   },
@@ -2902,7 +2902,7 @@
    "w": "work-life balance",
    "pos": "phr.",
    "th": "ความสมดุลระหว่างงานกับชีวิตส่วนตัว",
-   "fam": "",
+   "fam": "work (n./v.), life (n.), live (v.), balance (n./v.), balanced (adj.), imbalance (n.)",
    "col": "achieve a work-life balance / poor work-life balance",
    "ex": "Flexible schedules can help nurses achieve a better work-life balance."
   },
@@ -2984,7 +2984,7 @@
    "w": "perspective",
    "pos": "n.",
    "th": "มุมมอง / ทัศนะ",
-   "fam": "",
+   "fam": "perspectives (พหูพจน์) · คำใกล้เคียง: viewpoint, point of view, standpoint (n.)",
    "col": "from the perspective of / a broader perspective",
    "ex": "Interviews captured the perspectives of both patients and their family caregivers."
   },
@@ -3024,7 +3024,7 @@
    "w": "ratio",
    "pos": "n.",
    "th": "อัตราส่วน",
-   "fam": "",
+   "fam": "ratios (พหูพจน์) · คำใกล้เคียง: proportion, rate (n.)",
    "col": "nurse-to-patient ratio / odds ratio",
    "ex": "A low nurse-to-patient ratio is associated with better patient safety."
   },
@@ -3040,7 +3040,7 @@
    "w": "firmly believe",
    "pos": "phr.",
    "th": "เชื่ออย่างหนักแน่น / เชื่อมั่นอย่างยิ่ง",
-   "fam": "",
+   "fam": "firm (adj.), firmly (adv.), believe (v.), belief (n.), believable (adj.)",
    "col": "I firmly believe that / firmly believe in",
    "ex": "I firmly believe that governments should make healthy food more affordable."
   },
@@ -3048,7 +3048,7 @@
    "w": "in my view",
    "pos": "phr.",
    "th": "ในความคิดเห็นของข้าพเจ้า / ในมุมมองของผม (ดิฉัน)",
-   "fam": "",
+   "fam": "view (n./v.), viewpoint (n.) · คำใกล้เคียง: in my opinion, from my perspective (phr.)",
    "col": "In my view, + clause / in my view, it is essential that",
    "ex": "In my view, online learning cannot fully replace face-to-face teaching."
   },
@@ -3064,7 +3064,7 @@
    "w": "it is often argued that",
    "pos": "phr.",
    "th": "มักมีการโต้แย้งว่า / มีผู้กล่าวอยู่บ่อยครั้งว่า",
-   "fam": "",
+   "fam": "argue (v.), argument (n.), arguable (adj.), arguably (adv.)",
    "col": "It is often argued that ..., but / although it is often argued that",
    "ex": "It is often argued that smartphones make students less able to concentrate."
   },
@@ -3072,7 +3072,7 @@
    "w": "it is widely believed that",
    "pos": "phr.",
    "th": "เป็นที่เชื่อกันอย่างกว้างขวางว่า",
-   "fam": "",
+   "fam": "wide (adj.), widely (adv.), widen (v.), believe (v.), belief (n.)",
    "col": "It is widely believed that ...; however, / although it is widely believed that",
    "ex": "It is widely believed that a university degree guarantees a well-paid job."
   }

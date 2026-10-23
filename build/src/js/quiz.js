@@ -269,7 +269,7 @@ function testResults(tid) {
   <div class="result"><div class="big">${st.score}/${st.total}</div><div><b>${pct(st.score, st.total)}%</b><div class="small muted">${used != null ? 'ใช้เวลา ≈ ' + used + ' นาที · ' : ''}ส่งเมื่อ ${new Date(st.at).toLocaleString('th-TH')}</div></div><span class="spacer"></span><a class="btn" href="#/day/${t.day}">กลับ Day ${t.day}</a>${tid.startsWith('M') ? `<a class="btn pri" href="#/day/${t.day}/essay">ต่อ Writing 60 นาที ${ico('arrowr')}</a>` : ''}<button class="btn sm" data-act="resetQuiz" data-key="${esc(key)}">${ico('retry')} ทำใหม่</button></div>
   <h3>ผลแยกทักษะ (เรียงจากอ่อนสุด)</h3><div class="row small">${skillTable(qz.questions, st)}</div>
   <h3>ผลแยก passage</h3><div class="tablewrap"><table class="t"><tr><th></th><th>บทอ่าน</th><th>คะแนน</th><th>%</th><th></th></tr>${rows}</table></div>
-  <p class="small muted">ข้อที่ผิดถูกเพิ่มเข้า “สมุดข้อผิดพลาด” อัตโนมัติ — ทำซ้ำได้ในวันอาทิตย์และวันที่ 44</p></div>`;
+  <p class="small muted">ข้อที่ผิดถูกเพิ่มเข้า “สมุดข้อผิดพลาด” อัตโนมัติ — ทำซ้ำได้ในวันอาทิตย์ (Day 9, 16, 23, 30, 37) และ Day 41</p></div>`;
   t.passages.forEach((pid, i) => {
     const qs = DATA.passages[pid].questions.map((x, j) => Q[pid + '.' + (j + 1)]);
     h += `<div class="card" id="rev-${pid}"><details class="more" ${i === 0 ? '' : ''}><summary>Passage ${i + 1}: ${esc(DATA.passages[pid].title)} — ${qs.filter(q => isRight(q, st.ans[q.id], st.ov)).length}/${qs.length}</summary>${renderPassage(pid)}</details><div class="qlist">${qs.map((q, j) => renderQ(key, q, off + j + 1, st)).join('')}</div></div>`;

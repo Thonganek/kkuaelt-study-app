@@ -57,6 +57,8 @@ D[23]['error'] = _fix(D[23]['error'], [('วันที่ 5 และ 12', '�
 D[31]['task']['prompt'] = _fix(D[31]['task']['prompt'], [('วันที่ 33', 'วันที่ 30')])
 D[31]['task']['steps'] = [_fix(s, [('วันที่ 33', 'วันที่ 30')]) if 'วันที่ 33' in s else s for s in D[31]['task']['steps']]
 D[41]['task']['steps'][0] = _fix(D[41]['task']['steps'][0], [('วันที่ 41–43', 'วันที่ 38–40')])
+assert D[42]['task']['compare'] == ''
+D[42]['task']['compare'] = 'เทียบ thesis + outline กับ “Outline 4 ย่อหน้า” ของโจทย์เดียวกันใน Writing Studio → คลังหัวข้อ'
 for n, x in D.items():
     if x.get('review'):
         x['review']['days'] = [d - SHIFT for d in x['review']['days'] if d - SHIFT >= 1]

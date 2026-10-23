@@ -94,11 +94,12 @@ for d in D['days']:
     rows.append([d['d'], d['date'], d['wd'], PH[d['phase']]['name'], d['title'], ' / '.join(read_items(d)), vocab(d), reading(d), writing(d), exams(d), d['minutes']])
 with open(OUTDIR / 'KKU-AELT_42_Day_Plan.csv', 'w', encoding='utf-8-sig', newline='') as f:
     w = csv.writer(f)
-    w.writerow(['Day', 'วันที่', 'วัน', 'ช่วง', 'หัวข้อ', 'อ่านอะไร (เลขหน้าหนังสือ / PDF)', 'ศัพท์', 'Reading', 'Writing / Grammar', 'ข้อสอบวันนี้', 'นาที'])
-    w.writerows(rows)
+    w.writerow(['Day', 'วันที่ (แผนเดิม)', 'วัน', 'ช่วง', 'หัวข้อ', 'อ่านอะไร (เลขหน้าหนังสือ / PDF)', 'ศัพท์', 'Reading', 'Writing / Grammar', 'ข้อสอบวันนี้', 'นาที', 'ทำเสร็จแล้ว (ติ๊ก)'])
+    w.writerows([r + [''] for r in rows])
 
 md = ['# ตารางอ่าน KKU-AELT 42 วัน (Day 1–42)', '',
       '10 ต.ค. – 20 พ.ย. 2569 · วันสอบเป้าหมาย เสาร์ 21 พ.ย. 2569 (ตามที่กำหนด) — **ตรวจวันสอบจริง:** ปฏิทิน KKU-AELT PBT 2569 ระบุรอบพฤศจิกายน = เสาร์ 14 พ.ย. 2569 (ดูแผนย่อในแอป → คู่มือ → ข้อมูลข้อสอบ)', '',
+      'ไม่ต้องทำตรงวันที่: วันที่ในตารางเป็นแผนเดิม ทำ Day ไหนเสร็จก็ติ๊ก ☐ → ☑ แล้วทำ Day ถัดไป (ในแอปติ๊กได้ที่หน้า “ที่ต้องทำ” — แอปจะแบ่ง Day ที่เหลือให้พอดีกับวันสอบ)', '',
       'กิจวัตร: จ.–ศ. คำศัพท์ 15 → Reading 40 → Writing/Grammar 30 → สมุดข้อผิด 5 นาที (บางวันในสัปดาห์แรก ๆ 100–110 นาที เพราะรวมเนื้อหาของ 7–9 ต.ค. ไว้) · เสาร์ Reading Test 120 นาที · อาทิตย์ Writing 60 นาที + ทวนข้อผิดของสัปดาห์ · 16–18 พ.ย. Full Mock 3 ชั่วโมง', '']
 for p in D['phases']:
     md.append(f"## {p['name']} — {p['th']} ({p['range']}, Day {p['days'][0]}–{p['days'][1]})")
@@ -106,6 +107,7 @@ for p in D['phases']:
     md.append('')
     for d in [x for x in D['days'] if x['phase'] == p['id']]:
         md.append(f"### Day {d['d']} · {d['wd']} {d['dateTh']} — {d['title']} ({d['minutes']} นาที)")
+        md.append('- [ ] **ทำเสร็จแล้ว**')
         md.append('- **อ่านอะไร:**')
         md += [f'  - {x}' for x in read_items(d)]
         md.append(f'- **ศัพท์:** {vocab(d)}')

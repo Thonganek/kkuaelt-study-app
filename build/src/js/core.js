@@ -41,7 +41,7 @@ const WORD = Object.fromEntries(ALLWORDS.map(w => [w.w, w]));
 /* ---------- state ---------- */
 function defaultState() {
   return { v: 2, done: {}, quiz: {}, essays: {}, notes: {}, vstat: {}, resolved: {}, retry: {}, timers: {}, ui: {},
-    settings: { font: 'm', theme: 'light', ai: 1, bright: 1, exam: DATA.meta.examDate }, plan42: 1 };
+    settings: { font: 'm', theme: 'light', ai: 1, bright: 1, exam: DATA.meta.examDate, dayMode: 'progress' }, plan42: 1 };
 }
 let storageOK = true;
 let S = (() => {
@@ -96,8 +96,14 @@ function wc(t) { const m = String(t || '').trim().match(/[A-Za-z0-9][A-Za-z0-9'�
 function pct(a, b) { return b ? Math.round(100 * a / b) : 0; }
 function dayDate(n) { const x = new Date(START); x.setDate(x.getDate() + n - 1); return x; }
 function todayDate() { const n = new Date(); return new Date(n.getFullYear(), n.getMonth(), n.getDate()); }
-function todayNum() { const diff = Math.round((todayDate() - START) / 86400000) + 1; return Math.min(NDAYS, Math.max(1, diff)); }
-function rawTodayNum() { return Math.round((todayDate() - START) / 86400000) + 1; }
+// "today" is the first day that is not finished yet (progress mode, the default), or the calendar day
+// counted from Day 1 = 10 Oct (calendar mode, the original behaviour; ⚙ settings)
+function calendarMode() { return S.settings.dayMode === 'calendar'; }
+function calRawNum() { return Math.round((todayDate() - START) / 86400000) + 1; }
+function curDay() { const x = DAYS.find(x => !dayProgress(x.d).done); return x ? x.d : NDAYS; }
+function allDaysDone() { return DAYS.every(x => dayProgress(x.d).done); }
+function todayNum() { return calendarMode() ? Math.min(NDAYS, Math.max(1, calRawNum())) : curDay(); }
+function rawTodayNum() { return calendarMode() ? calRawNum() : allDaysDone() ? NDAYS + 1 : curDay(); }
 function examDate() { return new Date((S.settings.exam || DATA.meta.examDate) + 'T00:00:00'); }
 function daysToExam() { return Math.round((examDate() - todayDate()) / 86400000); }
 const TH_M = ['ม.ค.', 'ก.พ.', 'มี.ค.', 'เม.ย.', 'พ.ค.', 'มิ.ย.', 'ก.ค.', 'ส.ค.', 'ก.ย.', 'ต.ค.', 'พ.ย.', 'ธ.ค.'];
@@ -177,3 +183,24 @@ function blockAuto(d, k) {
 function blockDone(d, k) { const m = S.done[d] && S.done[d][k]; if (m === true || m === false) return m; return blockAuto(d, k); }
 function dayProgress(d) { const bl = DAY(d).blocks; const n = bl.filter(b => blockDone(d, b.k)).length; return { n, total: bl.length, done: n === bl.length }; }
 ACT.toggleBlock = el => { const d = +el.dataset.d, k = el.dataset.k; S.done[d] = S.done[d] || {}; S.done[d][k] = !blockDone(d, k); save(); render(true); };
+function remainMin(d) { return DAY(d).blocks.filter(b => !blockDone(d, b.k)).reduce((s, b) => s + b.min, 0); }
+// mark a whole day finished / not finished. "Not finished" drops the manual ticks (steps the app detects stay done)
+// and, if the automatic checks alone would still count the day as complete, sets every step to not done.
+function setDayDone(d, on) {
+  const bl = DAY(d).blocks;
+  if (on) { S.done[d] = Object.fromEntries(bl.map(b => [b.k, true])); return; }
+  const m = S.done[d] || {}; bl.forEach(b => { if (m[b.k] === true) delete m[b.k]; }); S.done[d] = m;
+  if (dayProgress(d).done) bl.forEach(b => { m[b.k] = false; });
+}
+ACT.dayDone = el => {
+  const d = +el.dataset.d, on = el.dataset.on === '1';
+  if (!on && !confirm(`ยกเลิกสถานะ “เสร็จแล้ว” ของ Day ${d}?`)) return;
+  setDayDone(d, on); save(); render(true); toast(on ? `Day ${d} ทำเสร็จแล้ว ✓` : `Day ${d} กลับเป็น “ยังไม่เสร็จ”`);
+};
+ACT.markUpTo = () => {
+  const n = +(($('#upto') || {}).value) || 0; if (!n) return;
+  const todo = DAYS.filter(x => x.d <= n && !dayProgress(x.d).done);
+  if (!todo.length) { toast(`Day 1–${n} เสร็จครบแล้ว`); return; }
+  if (!confirm(`ทำเครื่องหมายว่า Day 1–${n} ทำเสร็จแล้ว? (มี ${todo.length} Day ที่ยังไม่เสร็จในช่วงนี้)`)) return;
+  todo.forEach(x => setDayDone(x.d, true)); save(); render(true); toast(`Day 1–${n} ทำเสร็จแล้ว ✓`);
+};

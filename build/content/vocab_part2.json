@@ -4,7 +4,7 @@
    "w": "revenue",
    "pos": "n.",
    "th": "รายได้ (ของรัฐ, องค์กร) / รายรับ",
-   "fam": "",
+   "fam": "revenues (พหูพจน์) · คำใกล้เคียง: income, earnings (n.)",
    "col": "tax revenue / generate revenue",
    "ex": "Revenue from tobacco taxes is used to fund health promotion programmes nationwide."
   },
@@ -76,7 +76,7 @@
    "w": "version",
    "pos": "n.",
    "th": "ฉบับ / รูปแบบ, เวอร์ชัน",
-   "fam": "",
+   "fam": "versions (พหูพจน์) · คำใกล้เคียง: edition, form, variant (n.)",
    "col": "an updated version / a shortened version",
    "ex": "A shortened version of the questionnaire was used to reduce participant fatigue."
   },
@@ -84,7 +84,7 @@
    "w": "welfare",
    "pos": "n.",
    "th": "สวัสดิการ / ความเป็นอยู่ที่ดี",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · สำนวน: social welfare, animal welfare, welfare state (n. phr.)",
    "col": "social welfare / animal welfare",
    "ex": "Social welfare programmes help protect low-income families from catastrophic health expenses."
   },
@@ -124,7 +124,7 @@
    "w": "moreover",
    "pos": "adv.",
    "th": "ยิ่งไปกว่านั้น / นอกจากนี้",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: furthermore, in addition, besides (adv.)",
    "col": "Moreover, + clause / ...; moreover, ...",
    "ex": "Regular exercise lowers blood pressure; moreover, it improves mood and sleep quality."
   },
@@ -132,7 +132,7 @@
    "w": "in addition",
    "pos": "phr.",
    "th": "นอกจากนี้ / เพิ่มเติมจาก (in addition to)",
-   "fam": "",
+   "fam": "add (v.), addition (n.), additional (adj.), additionally (adv.)",
    "col": "In addition, + clause / in addition to + noun/V-ing",
    "ex": "In addition to lowering costs, telemedicine saves patients long journeys to hospital."
   },
@@ -140,7 +140,7 @@
    "w": "for instance",
    "pos": "phr.",
    "th": "ตัวอย่างเช่น / ยกตัวอย่างเช่น",
-   "fam": "",
+   "fam": "instance (n.), instances (พหูพจน์) · คำใกล้เคียง: for example, such as",
    "col": "For instance, + clause / ..., for instance, ...",
    "ex": "Some foods contain hidden salt; instant noodles, for instance, are extremely high in sodium."
   },
@@ -148,7 +148,7 @@
    "w": "as a result",
    "pos": "phr.",
    "th": "ผลที่ตามมาคือ / ด้วยเหตุนี้ / เป็นผลให้ (as a result of = เป็นผลมาจาก)",
-   "fam": "",
+   "fam": "result (n./v.), resultant (adj.), result in (= ทำให้เกิด) / result from (= เป็นผลจาก) (phr. v.)",
    "col": "As a result, + clause / as a result of + noun",
    "ex": "Many clinics closed during the floods; as a result, vaccination rates fell sharply."
   },
@@ -156,7 +156,7 @@
    "w": "thus",
    "pos": "adv.",
    "th": "ดังนั้น / ด้วยเหตุนี้ / ด้วยวิธีนี้",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: therefore, hence, consequently (adv.)",
    "col": "..., thus + V-ing / and thus",
    "ex": "Handwashing removes most germs, thus reducing the spread of diarrhoeal disease in schools."
   }
@@ -246,7 +246,7 @@
    "w": "display",
    "pos": "v./n.",
    "th": "แสดง / จัดแสดง (v.) / การแสดง, สิ่งที่จัดแสดง (n.)",
-   "fam": "",
+   "fam": "displays (พหูพจน์), displayed (adj.) · คำใกล้เคียง: show, exhibit (v.)",
    "col": "display symptoms / displayed in Table 1",
    "ex": "Baseline characteristics of the participants are displayed in Table 1."
   },
@@ -262,7 +262,7 @@
    "w": "domain",
    "pos": "n.",
    "th": "ขอบเขต, ด้าน / สาขา (ความรู้) / องค์ประกอบย่อย (ของแบบวัด)",
-   "fam": "",
+   "fam": "domains (พหูพจน์) · คำใกล้เคียง: field, area, sphere (n.)",
    "col": "public domain / cognitive domain",
    "ex": "The quality-of-life scale measures four domains: physical, psychological, social and environmental."
   },
@@ -286,7 +286,7 @@
    "w": "ageing population",
    "pos": "phr.",
    "th": "ประชากรสูงวัย / สังคมผู้สูงอายุ",
-   "fam": "",
+   "fam": "age (n./v.), ageing / aging (n./adj.), aged (adj.), populate (v.), population (n.), populous (adj.)",
    "col": "a rapidly ageing population / cope with an ageing population",
    "ex": "Thailand's rapidly ageing population will place heavy demands on long-term care services."
   },
@@ -294,7 +294,7 @@
    "w": "life expectancy",
    "pos": "phr.",
    "th": "อายุคาดเฉลี่ย / อายุขัยเฉลี่ย",
-   "fam": "",
+   "fam": "life (n.), live (v.), expect (v.), expectation (n.), expectancy (n.), expectant (adj.)",
    "col": "life expectancy at birth / increase life expectancy",
    "ex": "Life expectancy at birth has risen steadily thanks to better nutrition and sanitation."
   },
@@ -328,7 +328,7 @@
    "w": "estate",
    "pos": "n.",
    "th": "ที่ดิน, อสังหาริมทรัพย์ / ทรัพย์สิน, มรดก / หมู่บ้าน, นิคม (housing/industrial estate)",
-   "fam": "",
+   "fam": "estates (พหูพจน์), real estate (n.), estate agent (n.)",
    "col": "real estate / housing estate",
    "ex": "Residents of low-cost housing estates often have limited access to green space."
   },
@@ -368,7 +368,7 @@
    "w": "fee",
    "pos": "n.",
    "th": "ค่าธรรมเนียม / ค่าบริการ / ค่าเล่าเรียน (tuition fees)",
-   "fam": "",
+   "fam": "fees (พหูพจน์), tuition fees (n. phr.), fee-paying (adj.)",
    "col": "tuition fees / user fees",
    "ex": "Removing user fees greatly increased clinic attendance among the poorest households."
   },
@@ -384,7 +384,7 @@
    "w": "furthermore",
    "pos": "adv.",
    "th": "นอกจากนี้ / ยิ่งไปกว่านั้น",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: moreover, in addition, additionally (adv.)",
    "col": "Furthermore, + clause / ...; furthermore, ...",
    "ex": "The drug is inexpensive; furthermore, it can be stored without refrigeration."
   },
@@ -448,7 +448,7 @@
    "w": "sodium",
    "pos": "n.",
    "th": "โซเดียม",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำที่เกี่ยวข้อง: salt (n.), salty (adj.), low-sodium (adj.)",
    "col": "sodium intake / high-sodium diet",
    "ex": "Reducing daily sodium intake can lower blood pressure in people with hypertension."
   },
@@ -480,7 +480,7 @@
    "w": "surveillance camera",
    "pos": "phr.",
    "th": "กล้องวงจรปิด / กล้องเฝ้าระวัง",
-   "fam": "",
+   "fam": "surveil (v.), surveillance (n.), camera (n.) · คำใกล้เคียง: CCTV camera, security camera",
    "col": "install surveillance cameras / surveillance camera footage",
    "ex": "Installing surveillance cameras in public spaces raises concerns about personal privacy."
   }
@@ -498,7 +498,7 @@
    "w": "input",
    "pos": "n./v.",
    "th": "ข้อมูลป้อนเข้า / ความคิดเห็น, ส่วนร่วม (n.) / ป้อนข้อมูล (v.)",
-   "fam": "",
+   "fam": "inputs (พหูพจน์), inputting, input / inputted (รูปกริยา) · ตรงข้าม: output",
    "col": "input from stakeholders / data input",
    "ex": "The guidelines were revised with input from nurses, patients and community leaders."
   },
@@ -522,7 +522,7 @@
    "w": "interval",
    "pos": "n.",
    "th": "ช่วง (เวลา) / ระยะห่าง / ช่วง (ความเชื่อมั่น)",
-   "fam": "",
+   "fam": "intervals (พหูพจน์), at regular intervals (phr.), confidence interval (n. phr.)",
    "col": "at regular intervals / confidence interval",
    "ex": "Blood samples were collected at six-month intervals over a two-year period."
   },
@@ -578,7 +578,7 @@
    "w": "overseas",
    "pos": "adj./adv.",
    "th": "ต่างประเทศ / โพ้นทะเล",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: abroad (adv.), foreign (adj.)",
    "col": "overseas students / study overseas",
    "ex": "Nurses who trained overseas may need extra support to adapt to local practices."
   },
@@ -610,7 +610,7 @@
    "w": "in conclusion",
    "pos": "phr.",
    "th": "โดยสรุป / กล่าวโดยสรุป",
-   "fam": "",
+   "fam": "conclude (v.), conclusion (n.), conclusive (adj.), conclusively (adv.)",
    "col": "In conclusion, + clause / In conclusion, I believe that ...",
    "ex": "In conclusion, the benefits of a sugar tax clearly outweigh its drawbacks."
   },
@@ -618,7 +618,7 @@
    "w": "to sum up",
    "pos": "phr.",
    "th": "สรุปได้ว่า / โดยสรุป",
-   "fam": "",
+   "fam": "sum (n./v.), summary (n.), summarise (v.) · คำใกล้เคียง: in summary, in short",
    "col": "To sum up, + clause / To sum up, it is clear that ...",
    "ex": "To sum up, schools should play a central role in preventing childhood obesity."
   },
@@ -626,7 +626,7 @@
    "w": "undoubtedly",
    "pos": "adv.",
    "th": "อย่างไม่ต้องสงสัย / อย่างแน่นอน",
-   "fam": "",
+   "fam": "doubt (n./v.), doubtful (adj.), undoubted (adj.), doubtless (adv.)",
    "col": "Undoubtedly, + clause / will undoubtedly + V",
    "ex": "Undoubtedly, smartphones have changed the way students access information."
   },
@@ -634,7 +634,7 @@
    "w": "outweigh",
    "pos": "v.",
    "th": "มีน้ำหนัก (มีความสำคัญ) มากกว่า / มากกว่า",
-   "fam": "",
+   "fam": "weigh (v.), weight (n.), outweighs, outweighed (รูปกริยา)",
    "col": "the benefits outweigh the risks / far outweigh",
    "ex": "For most adults, the benefits of vaccination far outweigh the small risk of side effects."
   },
@@ -642,7 +642,7 @@
    "w": "on balance",
    "pos": "phr.",
    "th": "เมื่อชั่งน้ำหนักทุกด้านแล้ว / โดยรวมแล้ว",
-   "fam": "",
+   "fam": "balance (n./v.), balanced (adj.), imbalance (n.)",
    "col": "On balance, + clause / On balance, I believe that ...",
    "ex": "On balance, the advantages of online medical consultations seem greater than the risks."
   }
@@ -668,7 +668,7 @@
    "w": "scope",
    "pos": "n.",
    "th": "ขอบเขต / โอกาส, ช่องทาง (scope for)",
-   "fam": "",
+   "fam": "scopes (พหูพจน์) · คำใกล้เคียง: range, extent (n.)",
    "col": "beyond the scope of / scope for improvement",
    "ex": "A detailed cost analysis was beyond the scope of the present study."
   },
@@ -740,7 +740,7 @@
    "w": "aid",
    "pos": "n./v.",
    "th": "ความช่วยเหลือ / อุปกรณ์ช่วย (n.) / ช่วยเหลือ (v.)",
-   "fam": "",
+   "fam": "aids (n. พหูพจน์), aided (adj.), first aid (n.), hearing aid (n.)",
    "col": "first aid / foreign aid",
    "ex": "Teachers trained in first aid can respond quickly to injuries at school."
   },
@@ -748,7 +748,7 @@
    "w": "channel",
    "pos": "n./v.",
    "th": "ช่องทาง (n.) / ส่งผ่าน, ทุ่มเท (ทรัพยากร) ไปที่ (v.)",
-   "fam": "",
+   "fam": "channels (พหูพจน์), channelled / channeled, channelling (รูปกริยา)",
    "col": "communication channel / channel funds into",
    "ex": "Social media has become a key channel for spreading public health messages."
   },
@@ -796,7 +796,7 @@
    "w": "paramount",
    "pos": "adj.",
    "th": "สำคัญที่สุด / สำคัญยิ่ง",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: supreme, foremost (adj.), of the utmost importance (phr.)",
    "col": "of paramount importance / safety is paramount",
    "ex": "In clinical research, the safety of participants is of paramount importance."
   },
@@ -822,7 +822,7 @@
    "w": "comprise",
    "pos": "v.",
    "th": "ประกอบด้วย / ประกอบขึ้นเป็น",
-   "fam": "",
+   "fam": "comprises, comprised, comprising (รูปกริยา) · คำใกล้เคียง: consist of, be made up of",
    "col": "be comprised of / comprise mainly",
    "ex": "Women comprised nearly seventy percent of the nursing workforce surveyed."
   },
@@ -838,7 +838,7 @@
    "w": "contrary",
    "pos": "adj./n.",
    "th": "ตรงกันข้าม / ขัดแย้ง (contrary to = ตรงข้ามกับ, ขัดกับ)",
-   "fam": "",
+   "fam": "contrarily (adv.) · สำนวน: contrary to (= ขัดกับ), on the contrary (= ตรงกันข้ามเลย)",
    "col": "contrary to expectations / contrary to popular belief",
    "ex": "Contrary to expectations, screen time was not associated with poorer sleep in teenagers."
   },
@@ -854,7 +854,7 @@
    "w": "decade",
    "pos": "n.",
    "th": "ทศวรรษ (ช่วงเวลา 10 ปี)",
-   "fam": "",
+   "fam": "decades (พหูพจน์), decadal (adj.)",
    "col": "over the past decade / in recent decades",
    "ex": "Obesity rates among Thai children have doubled over the past two decades."
   },
@@ -950,7 +950,7 @@
    "w": "morale",
    "pos": "n.",
    "th": "ขวัญกำลังใจ",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · ระวังสับสนกับ moral (adj./n.) = ศีลธรรม, morality (n.)",
    "col": "low morale / boost staff morale",
    "ex": "Chronic understaffing has led to low morale on many hospital wards."
   },
@@ -958,7 +958,7 @@
    "w": "turnover",
    "pos": "n.",
    "th": "อัตราการลาออก (ของบุคลากร) / การหมุนเวียน / ยอดขาย",
-   "fam": "",
+   "fam": "turn over (phr. v.) · สำนวน: staff turnover, high / low turnover (n. phr.)",
    "col": "staff turnover / high turnover rate",
    "ex": "High staff turnover disrupts continuity of care and raises training costs."
   },
@@ -1096,7 +1096,7 @@
    "w": "admittedly",
    "pos": "adv.",
    "th": "ต้องยอมรับว่า / จริงอยู่ว่า (ใช้ยอมรับข้อด้อยก่อนแย้ง)",
-   "fam": "",
+   "fam": "admit (v.), admission (n.), admitted (adj.), admittance (n.)",
    "col": "Admittedly, ...; however, ... / admittedly + adj.",
    "ex": "Admittedly, the new screening programme is costly; however, early detection saves lives."
   },
@@ -1104,7 +1104,7 @@
    "w": "granted that",
    "pos": "phr.",
    "th": "ถึงแม้ว่า / ยอมรับว่า ... ก็จริง (แต่)",
-   "fam": "",
+   "fam": "grant (v./n.), granted (adj.) · สำนวน: take sth for granted (= มองข้ามความสำคัญ)",
    "col": "Granted that + clause, ... / Granted that this is true, ...",
    "ex": "Granted that online classes are convenient, they still limit practical clinical training."
   },
@@ -1112,7 +1112,7 @@
    "w": "critics argue",
    "pos": "phr.",
    "th": "ผู้วิพากษ์วิจารณ์ (ฝ่ายคัดค้าน) โต้แย้งว่า",
-   "fam": "",
+   "fam": "critic (n.), criticise (v.), criticism (n.), critical (adj.), critically (adv.), argue (v.), argument (n.)",
    "col": "Critics argue that + clause / Some critics argue that ...",
    "ex": "Critics argue that sugar taxes place an unfair burden on low-income households."
   },
@@ -1120,7 +1120,7 @@
    "w": "it is true that",
    "pos": "phr.",
    "th": "เป็นความจริงที่ว่า / จริงอยู่ที่ว่า (ใช้ยอมรับก่อนโต้แย้ง)",
-   "fam": "",
+   "fam": "true (adj.), truly (adv.), truth (n.), truthful (adj.)",
    "col": "It is true that ..., but ... / While it is true that ...",
    "ex": "It is true that vaccines can cause side effects, but serious reactions are rare."
   },
@@ -1128,7 +1128,7 @@
    "w": "on the contrary",
    "pos": "phr.",
    "th": "ในทางตรงกันข้าม / ตรงกันข้ามเลย (ใช้ปฏิเสธข้อความก่อนหน้า)",
-   "fam": "",
+   "fam": "contrary (adj./n.), contrarily (adv.) · ต่างจาก in contrast / by contrast (= เปรียบเทียบความต่าง)",
    "col": "On the contrary, + clause / ...; on the contrary, ...",
    "ex": "Screen time did not improve learning; on the contrary, it reduced students' concentration."
   }
@@ -1186,7 +1186,7 @@
    "w": "release",
    "pos": "v./n.",
    "th": "ปล่อย, ปลดปล่อย (สาร) / เผยแพร่ (v.) / การปล่อย, การเผยแพร่ (n.)",
-   "fam": "",
+   "fam": "releases, released, releasing (รูปกริยา), press release (n.)",
    "col": "release a report / the release of toxins",
    "ex": "Factories that release untreated waste into rivers threaten the health of nearby communities."
   },
@@ -1218,7 +1218,7 @@
    "w": "somewhat",
    "pos": "adv.",
    "th": "ค่อนข้าง / บ้าง, อยู่บ้าง",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: rather, slightly (adv.), to some extent (phr.)",
    "col": "somewhat lower / somewhat surprisingly",
    "ex": "Response rates were somewhat lower among men than among women."
   },
@@ -1258,7 +1258,7 @@
    "w": "play a crucial role in",
    "pos": "phr.",
    "th": "มีบทบาทสำคัญยิ่งใน",
-   "fam": "",
+   "fam": "crucial (adj.), crucially (adv.), role (n.) · คำใกล้เคียง: play a key / vital role in",
    "col": "... play(s) a crucial role in + noun/V-ing / could play a crucial role in",
    "ex": "Community health volunteers play a crucial role in detecting disease outbreaks early."
   },
@@ -1266,7 +1266,7 @@
    "w": "have a profound impact on",
    "pos": "phr.",
    "th": "มีผลกระทบอย่างลึกซึ้ง (รุนแรง) ต่อ",
-   "fam": "",
+   "fam": "profound (adj.), profoundly (adv.), impact (n./v.), impactful (adj.)",
    "col": "... can have a profound impact on + noun / has had a profound impact on",
    "ex": "Childhood poverty can have a profound impact on brain development and later health."
   },
@@ -1274,7 +1274,7 @@
    "w": "raise awareness of",
    "pos": "phr.",
    "th": "สร้างความตระหนักรู้เกี่ยวกับ",
-   "fam": "",
+   "fam": "aware (adj.), awareness (n.), unaware (adj.), raise (v.)",
    "col": "raise awareness of + noun / campaigns to raise awareness of",
    "ex": "Schools can raise awareness of mental health through regular classroom discussions."
   },
@@ -1282,7 +1282,7 @@
    "w": "take measures to",
    "pos": "phr.",
    "th": "ใช้มาตรการเพื่อ / ดำเนินการเพื่อ",
-   "fam": "",
+   "fam": "measure (n./v.), measurable (adj.), measurement (n.) · คำใกล้เคียง: take steps to",
    "col": "take measures to + V / Governments should take measures to ...",
    "ex": "Governments must take measures to protect outdoor workers from extreme heat."
   },
@@ -1290,7 +1290,7 @@
    "w": "address the issue of",
    "pos": "phr.",
    "th": "แก้ไข (จัดการกับ) ปัญหาเรื่อง",
-   "fam": "",
+   "fam": "address (v./n.), issue (n./v.) · คำใกล้เคียง: tackle, deal with (v.)",
    "col": "address the issue of + noun / effectively address the issue of",
    "ex": "Universities need to address the issue of rising stress among first-year students."
   }
@@ -1412,7 +1412,7 @@
    "w": "chart",
    "pos": "n./v.",
    "th": "แผนภูมิ / ตาราง (n.) / บันทึก, ติดตาม (ความก้าวหน้า) (v.)",
-   "fam": "",
+   "fam": "charts (พหูพจน์), charted (adj.), uncharted (adj.) = ยังไม่มีใครสำรวจ",
    "col": "bar chart / chart progress",
    "ex": "The bar chart compares obesity rates across five age groups."
   },
@@ -1420,7 +1420,7 @@
    "w": "biodiversity",
    "pos": "n.",
    "th": "ความหลากหลายทางชีวภาพ",
-   "fam": "",
+   "fam": "diverse (adj.), diversity (n.), diversify (v.), biological (adj.) · bio- = ชีวภาพ",
    "col": "loss of biodiversity / protect biodiversity",
    "ex": "Loss of biodiversity can increase the risk of new diseases spreading from animals."
   },
@@ -1436,7 +1436,7 @@
    "w": "universal coverage",
    "pos": "phr.",
    "th": "หลักประกันสุขภาพถ้วนหน้า / การครอบคลุมถ้วนหน้า",
-   "fam": "",
+   "fam": "universe (n.), universal (adj.), universally (adv.), cover (v.), coverage (n.)",
    "col": "achieve universal coverage / universal coverage scheme",
    "ex": "Universal coverage has reduced the number of families pushed into poverty by illness."
   },
@@ -1452,7 +1452,7 @@
    "w": "food waste",
    "pos": "phr.",
    "th": "ขยะอาหาร / อาหารเหลือทิ้ง",
-   "fam": "",
+   "fam": "waste (n./v.), wasteful (adj.), wastage (n.)",
    "col": "reduce food waste / household food waste",
    "ex": "Restaurants can reduce food waste by offering smaller portions at lower prices."
   }
@@ -1470,7 +1470,7 @@
    "w": "commodity",
    "pos": "n.",
    "th": "สินค้าโภคภัณฑ์ / สินค้า (พื้นฐาน)",
-   "fam": "",
+   "fam": "commodities (พหูพจน์), commodify (v.)",
    "col": "commodity prices / basic commodities",
    "ex": "Rising commodity prices have made rice and cooking oil less affordable for poor families."
   },
@@ -1494,7 +1494,7 @@
    "w": "contemporary",
    "pos": "adj./n.",
    "th": "ร่วมสมัย / ปัจจุบัน (adj.) / ผู้ที่อยู่ร่วมสมัย (n.)",
-   "fam": "",
+   "fam": "contemporaries (n. พหูพจน์) · คำใกล้เคียง: modern, current, present-day (adj.)",
    "col": "contemporary society / contemporary issues",
    "ex": "Loneliness has become one of the most serious problems in contemporary society."
   },
@@ -1518,7 +1518,7 @@
    "w": "currency",
    "pos": "n.",
    "th": "สกุลเงิน / การเป็นที่ยอมรับแพร่หลาย (ของแนวคิด)",
-   "fam": "",
+   "fam": "currencies (พหูพจน์), current (adj.), currently (adv.)",
    "col": "local currency / gain currency",
    "ex": "Costs were converted into a single currency to allow comparison between countries."
   },
@@ -1582,7 +1582,7 @@
    "w": "vaccine hesitancy",
    "pos": "phr.",
    "th": "ความลังเลที่จะรับวัคซีน",
-   "fam": "",
+   "fam": "vaccine (n.), vaccinate (v.), vaccination (n.), hesitate (v.), hesitant (adj.), hesitancy / hesitation (n.)",
    "col": "address vaccine hesitancy / rising vaccine hesitancy",
    "ex": "Vaccine hesitancy among parents has contributed to recent measles outbreaks."
   },
@@ -1606,7 +1606,7 @@
    "w": "herd immunity",
    "pos": "phr.",
    "th": "ภูมิคุ้มกันหมู่",
-   "fam": "",
+   "fam": "immune (adj.), immunity (n.), immunise (v.), immunisation (n.), herd (n.)",
    "col": "achieve herd immunity / herd immunity threshold",
    "ex": "High vaccination coverage is needed to achieve herd immunity against measles."
   },
@@ -1614,7 +1614,7 @@
    "w": "side effect",
    "pos": "phr.",
    "th": "ผลข้างเคียง / อาการข้างเคียง",
-   "fam": "",
+   "fam": "side effects (พหูพจน์), effect (n.), effective (adj.) · คำใกล้เคียง: adverse effect",
    "col": "common side effects / serious side effects",
    "ex": "Mild fever and a sore arm are common side effects after vaccination."
   }
@@ -1632,7 +1632,7 @@
    "w": "guideline",
    "pos": "n.",
    "th": "แนวทาง (ปฏิบัติ) / ข้อแนะนำ",
-   "fam": "",
+   "fam": "guide (n./v.), guidance (n.), guidelines (พหูพจน์)",
    "col": "clinical practice guidelines / follow guidelines",
    "ex": "Doctors were reminded to follow national guidelines when prescribing antibiotics for children."
   },
@@ -1640,7 +1640,7 @@
    "w": "highlight",
    "pos": "v./n.",
    "th": "เน้น, ชี้ให้เห็น (v.) / ส่วนที่โดดเด่น (n.)",
-   "fam": "",
+   "fam": "highlights (n. พหูพจน์), highlighted, highlighting (รูปกริยา), highlighter (n.)",
    "col": "highlight the need for / highlight the importance of",
    "ex": "These findings highlight the need for better mental health support in schools."
   },
@@ -1672,7 +1672,7 @@
    "w": "infrastructure",
    "pos": "n.",
    "th": "โครงสร้างพื้นฐาน",
-   "fam": "",
+   "fam": "structure (n./v.), structural (adj.), infrastructural (adj.)",
    "col": "health infrastructure / digital infrastructure",
    "ex": "Poor digital infrastructure limits the use of telemedicine in mountainous districts."
   },
@@ -1720,7 +1720,7 @@
    "w": "offset",
    "pos": "v./n.",
    "th": "ชดเชย, หักกลบ (v.) / สิ่งชดเชย (n.)",
-   "fam": "",
+   "fam": "offsets, offsetting (รูปกริยา; อดีต = offset), carbon offset (n.)",
    "col": "offset the cost / carbon offset",
    "ex": "Savings from fewer hospital admissions could offset the cost of the screening programme."
   },
@@ -1744,7 +1744,7 @@
    "w": "indispensable",
    "pos": "adj.",
    "th": "ขาดไม่ได้ / จำเป็นอย่างยิ่ง",
-   "fam": "",
+   "fam": "dispense (v.), dispensable (adj.), indispensability (n.)",
    "col": "indispensable to / an indispensable tool",
    "ex": "Smartphones have become indispensable tools for both teaching and learning."
   },
@@ -1768,7 +1768,7 @@
    "w": "standardised test",
    "pos": "phr.",
    "th": "แบบทดสอบมาตรฐาน",
-   "fam": "",
+   "fam": "standard (n./adj.), standardise (v.), standardisation (n.), test (n./v.)",
    "col": "standardised test scores / rely on standardised tests",
    "ex": "Standardised test scores may not reflect students' creativity or practical skills."
   },
@@ -1866,7 +1866,7 @@
    "w": "thereby",
    "pos": "adv.",
    "th": "ด้วยเหตุนั้น / โดยวิธีนั้น, จึง",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: thus, as a result · มักตามด้วย V-ing เช่น thereby reducing costs",
    "col": "..., thereby + V-ing / thereby reducing",
    "ex": "The city planted more trees, thereby lowering summer temperatures in crowded neighbourhoods."
   },
@@ -1890,7 +1890,7 @@
    "w": "via",
    "pos": "prep.",
    "th": "ผ่าน / โดยทาง / โดยใช้",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: through, by means of (prep.)",
    "col": "via the internet / transmitted via",
    "ex": "Questionnaires were distributed via email to all registered nurses in the province."
   },
@@ -1906,7 +1906,7 @@
    "w": "lifelong learning",
    "pos": "phr.",
    "th": "การเรียนรู้ตลอดชีวิต",
-   "fam": "",
+   "fam": "life (n.), lifelong (adj.), learn (v.), learner (n.), learning (n.)",
    "col": "promote lifelong learning / a culture of lifelong learning",
    "ex": "Lifelong learning helps older workers keep their skills relevant in a changing economy."
   },
@@ -1922,7 +1922,7 @@
    "w": "self-paced",
    "pos": "adj.",
    "th": "ที่ผู้เรียนกำหนดจังหวะการเรียนเอง",
-   "fam": "",
+   "fam": "pace (n./v.), self- (= ด้วยตนเอง) · คำใกล้เคียง: self-directed, self-study",
    "col": "self-paced learning / a self-paced course",
    "ex": "Self-paced courses suit busy health workers who cannot attend fixed classes."
   },
@@ -1956,7 +1956,7 @@
    "w": "widespread",
    "pos": "adj.",
    "th": "แพร่หลาย / กว้างขวาง",
-   "fam": "",
+   "fam": "wide (adj.), widely (adv.), spread (v./n.)",
    "col": "widespread use / widespread concern",
    "ex": "The widespread use of antibiotics in farming has accelerated drug resistance."
   },
@@ -2004,7 +2004,7 @@
    "w": "behalf",
    "pos": "n.",
    "th": "ในนามของ, แทน (on behalf of)",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · ใช้ในสำนวน on behalf of / on sb’s behalf เท่านั้น",
    "col": "on behalf of / act on behalf of",
    "ex": "Parents gave consent on behalf of children under the age of eighteen."
   },
@@ -2092,7 +2092,7 @@
    "w": "interpersonal",
    "pos": "adj.",
    "th": "ระหว่างบุคคล",
-   "fam": "",
+   "fam": "person (n.), personal (adj.), interpersonally (adv.) · inter- = ระหว่าง",
    "col": "interpersonal skills / interpersonal relationships",
    "ex": "Strong interpersonal skills are essential for doctors who deliver bad news to families."
   },
@@ -2166,7 +2166,7 @@
    "w": "duration",
    "pos": "n.",
    "th": "ระยะเวลา",
-   "fam": "",
+   "fam": "durations (พหูพจน์) · รากเดียวกับ durable (adj.), durability (n.)",
    "col": "duration of treatment / short duration",
    "ex": "The average duration of hospital stay fell from seven days to four."
   },
@@ -2238,7 +2238,7 @@
    "w": "job satisfaction",
    "pos": "phr.",
    "th": "ความพึงพอใจในงาน",
-   "fam": "",
+   "fam": "satisfy (v.), satisfaction (n.), satisfied (adj.), satisfying / satisfactory (adj.), dissatisfaction (n.)",
    "col": "high job satisfaction / improve job satisfaction",
    "ex": "Job satisfaction among primary care nurses was strongly linked to supportive management."
   },
@@ -2262,7 +2262,7 @@
    "w": "career advancement",
    "pos": "phr.",
    "th": "ความก้าวหน้าในอาชีพ",
-   "fam": "",
+   "fam": "advance (v./n.), advanced (adj.), advancement (n.), career (n.)",
    "col": "opportunities for career advancement / limited career advancement",
    "ex": "Limited opportunities for career advancement drive many nurses to leave the public sector."
   }
@@ -2312,7 +2312,7 @@
    "w": "military",
    "pos": "adj./n.",
    "th": "ทางทหาร (adj.) / กองทัพ, ทหาร (n.)",
-   "fam": "",
+   "fam": "militarily (adv.), militarise (v.), militia (n.)",
    "col": "military service / military hospital",
    "ex": "Military hospitals sometimes provide emergency care to civilians during natural disasters."
   },
@@ -2360,7 +2360,7 @@
    "w": "portion",
    "pos": "n.",
    "th": "ส่วน / สัดส่วน / ปริมาณอาหาร (ต่อจาน)",
-   "fam": "",
+   "fam": "portions (พหูพจน์), portion size (n. phr.) · คำใกล้เคียง: proportion, share (n.)",
    "col": "portion size / a large portion of",
    "ex": "Larger portion sizes in restaurants have contributed to rising rates of obesity."
   },
@@ -2368,7 +2368,7 @@
    "w": "preliminary",
    "pos": "adj.",
    "th": "เบื้องต้น / ขั้นต้น",
-   "fam": "",
+   "fam": "preliminaries (n. พหูพจน์) · คำใกล้เคียง: initial, early, preparatory (adj.)",
    "col": "preliminary results / preliminary study",
    "ex": "Preliminary results suggest that the app may help users reduce their alcohol intake."
   },
@@ -2376,7 +2376,7 @@
    "w": "protocol",
    "pos": "n.",
    "th": "ระเบียบวิธี, โครงร่าง (การวิจัย) / ระเบียบปฏิบัติ, แนวปฏิบัติ",
-   "fam": "",
+   "fam": "protocols (พหูพจน์) · คำใกล้เคียง: procedure, guideline (n.)",
    "col": "study protocol / treatment protocol",
    "ex": "The study protocol was approved by the university's human research ethics committee."
   },
@@ -2408,7 +2408,7 @@
    "w": "citizen science",
    "pos": "phr.",
    "th": "วิทยาศาสตร์ภาคพลเมือง (การวิจัยที่ประชาชนทั่วไปมีส่วนร่วม)",
-   "fam": "",
+   "fam": "citizen (n.), citizenship (n.), science (n.), scientist (n.), scientific (adj.)",
    "col": "a citizen science project / take part in citizen science",
    "ex": "In one citizen science project, villagers recorded local air quality using low-cost sensors."
   },
@@ -2474,7 +2474,7 @@
    "w": "route",
    "pos": "n.",
    "th": "เส้นทาง / ช่องทาง (การให้ยา, การแพร่เชื้อ)",
-   "fam": "",
+   "fam": "routes (พหูพจน์), route (v.), en route (adv.)",
    "col": "route of administration / route of transmission",
    "ex": "In emergencies, the drug is usually given by the intravenous route."
   },
@@ -2482,7 +2482,7 @@
    "w": "scenario",
    "pos": "n.",
    "th": "สถานการณ์ (สมมติ) / ฉากทัศน์",
-   "fam": "",
+   "fam": "scenarios (พหูพจน์), worst-case scenario (n. phr.)",
    "col": "worst-case scenario / a likely scenario",
    "ex": "In the worst-case scenario, hospitals could run out of intensive care beds."
   },
@@ -2530,7 +2530,7 @@
    "w": "trigger",
    "pos": "v./n.",
    "th": "กระตุ้น, ก่อให้เกิด (v.) / ตัวกระตุ้น (n.)",
-   "fam": "",
+   "fam": "triggers, triggered, triggering (รูปกริยา)",
    "col": "trigger an attack / common triggers",
    "ex": "Dust, smoke and cold air can trigger asthma attacks in sensitive children."
   },
@@ -2554,7 +2554,7 @@
    "w": "face-to-face",
    "pos": "adj./adv.",
    "th": "แบบตัวต่อตัว / แบบพบหน้ากัน",
-   "fam": "",
+   "fam": "face (n./v.) · ตรงข้าม: online, remote (adj.)",
    "col": "face-to-face classes / meet face-to-face",
    "ex": "Many students still prefer face-to-face classes for practical clinical subjects."
   },
@@ -2604,7 +2604,7 @@
    "w": "adjacent",
    "pos": "adj.",
    "th": "ติดกัน / ใกล้เคียง, อยู่ข้างเคียง",
-   "fam": "",
+   "fam": "adjacency (n.) · คำใกล้เคียง: neighbouring (adj.), next to (prep.)",
    "col": "adjacent to / adjacent areas",
    "ex": "Families living adjacent to busy roads were exposed to higher levels of pollution."
   },
@@ -2612,7 +2612,7 @@
    "w": "albeit",
    "pos": "conj.",
    "th": "แม้ว่า / ถึงแม้จะ (ใช้นำวลีสั้นๆ)",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: although, even though (conj.)",
    "col": "albeit + adj./adv. / albeit with + noun",
    "ex": "Vaccination rates improved, albeit slowly, after the campaign was launched."
   },
@@ -2628,7 +2628,7 @@
    "w": "collapse",
    "pos": "v./n.",
    "th": "ล่มสลาย / ทรุดตัว, ล้มลง (หมดสติ) (v.) / การล่มสลาย (n.)",
-   "fam": "",
+   "fam": "collapsed (adj.), collapsible (adj.)",
    "col": "economic collapse / on the verge of collapse",
    "ex": "Several health systems came close to collapse during the worst months of the pandemic."
   },
@@ -2636,7 +2636,7 @@
    "w": "colleague",
    "pos": "n.",
    "th": "เพื่อนร่วมงาน",
-   "fam": "",
+   "fam": "colleagues (พหูพจน์), collegial (adj.)",
    "col": "senior colleagues / colleagues and I",
    "ex": "Junior doctors often turn to senior colleagues for advice on difficult cases."
   },
@@ -2676,7 +2676,7 @@
    "w": "encounter",
    "pos": "v./n.",
    "th": "เผชิญ, พบ (v.) / การพบ, การเผชิญ (n.)",
-   "fam": "",
+   "fam": "encounters (n. พหูพจน์), encountered, encountering (รูปกริยา)",
    "col": "encounter difficulties / clinical encounter",
    "ex": "International students often encounter language barriers when using local health services."
   },
@@ -2692,7 +2692,7 @@
    "w": "forthcoming",
    "pos": "adj.",
    "th": "ที่กำลังจะมาถึง / (ข้อมูล, ความช่วยเหลือ) ที่จะได้รับ / เต็มใจให้ข้อมูล",
-   "fam": "",
+   "fam": "come forth (phr. v.) · คำใกล้เคียง: upcoming (adj.)",
    "col": "a forthcoming report / forthcoming election",
    "ex": "Details of the new policy will be explained in a forthcoming report."
   },
@@ -2708,7 +2708,7 @@
    "w": "integrity",
    "pos": "n.",
    "th": "ความซื่อสัตย์, ความซื่อตรง / ความสมบูรณ์ครบถ้วน (ของข้อมูล)",
-   "fam": "",
+   "fam": "รากเดียวกับ integral (adj.), integrate (v.), integration (n.)",
    "col": "research integrity / data integrity",
    "ex": "Fabricating data is a serious breach of research integrity."
   },
@@ -2716,7 +2716,7 @@
    "w": "language acquisition",
    "pos": "phr.",
    "th": "การรับภาษา / การเรียนรู้ภาษา",
-   "fam": "",
+   "fam": "acquire (v.), acquisition (n.), acquired (adj.), language (n.), linguistic (adj.)",
    "col": "second language acquisition / the process of language acquisition",
    "ex": "Early exposure to rich conversation supports language acquisition in young children."
   },
@@ -2732,7 +2732,7 @@
    "w": "interdisciplinary",
    "pos": "adj.",
    "th": "สหวิทยาการ",
-   "fam": "",
+   "fam": "discipline (n.), disciplinary (adj.), multidisciplinary (adj.)",
    "col": "interdisciplinary research / an interdisciplinary approach",
    "ex": "Tackling obesity requires interdisciplinary research involving doctors, economists and urban planners."
   },
@@ -2740,7 +2740,7 @@
    "w": "content-based",
    "pos": "adj.",
    "th": "ที่ยึดเนื้อหาเป็นหลัก (สอนภาษาผ่านเนื้อหาวิชา)",
-   "fam": "",
+   "fam": "content (n.), base (n./v.), based on (phr.)",
    "col": "content-based instruction / content-based learning",
    "ex": "Content-based instruction teaches English through subjects such as science and health."
   },
@@ -2774,7 +2774,7 @@
    "w": "levy",
    "pos": "n./v.",
    "th": "ภาษี, การจัดเก็บ (n.) / จัดเก็บ (ภาษี) (v.)",
-   "fam": "",
+   "fam": "levies (n./v.), levied (รูปกริยา)",
    "col": "impose a levy on / levy a tax",
    "ex": "A levy on sugary drinks could raise funds for school nutrition programmes."
   },
@@ -2782,7 +2782,7 @@
    "w": "likewise",
    "pos": "adv.",
    "th": "เช่นเดียวกัน / ในทำนองเดียวกัน",
-   "fam": "",
+   "fam": "like (prep./adj.), alike (adj./adv.) · คำใกล้เคียง: similarly, in the same way",
    "col": "Likewise, + clause / do likewise",
    "ex": "Smoking harms the lungs; likewise, heavy drinking damages the liver over time."
   },
@@ -2790,7 +2790,7 @@
    "w": "nonetheless",
    "pos": "adv.",
    "th": "อย่างไรก็ตาม / ถึงกระนั้น",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: nevertheless, however, even so (adv.)",
    "col": "...; nonetheless, ... / but nonetheless",
    "ex": "The effect was small; nonetheless, it could benefit millions at the population level."
   },
@@ -2798,7 +2798,7 @@
    "w": "notwithstanding",
    "pos": "prep./adv.",
    "th": "แม้จะมี / ทั้งๆ ที่ / ถึงอย่างไรก็ดี",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: despite, in spite of (prep.)",
    "col": "notwithstanding these limitations / notwithstanding the fact that",
    "ex": "Notwithstanding these limitations, the study provides useful evidence for local planners."
   },
@@ -2806,7 +2806,7 @@
    "w": "ongoing",
    "pos": "adj.",
    "th": "ที่ดำเนินอยู่ / ต่อเนื่อง",
-   "fam": "",
+   "fam": "go on (phr. v.) · คำใกล้เคียง: continuing, current (adj.)",
    "col": "ongoing research / ongoing support",
    "ex": "Patients recovering from stroke need ongoing support from families and therapists."
   },
@@ -2830,7 +2830,7 @@
    "w": "pose",
    "pos": "v.",
    "th": "ก่อให้เกิด (ความเสี่ยง, ปัญหา) / ตั้ง (คำถาม)",
-   "fam": "",
+   "fam": "poses, posed, posing (รูปกริยา) · สำนวน: pose a risk / threat / challenge",
    "col": "pose a threat / pose a question",
    "ex": "Rising temperatures pose a serious threat to the health of outdoor workers."
   },
@@ -2846,7 +2846,7 @@
    "w": "so-called",
    "pos": "adj.",
    "th": "ที่เรียกกันว่า (บางครั้งแฝงความไม่เชื่อถือ)",
-   "fam": "",
+   "fam": "call (v.), called (adj.)",
    "col": "so-called experts / the so-called + noun",
    "ex": "So-called detox teas have no proven health benefits and may cause dehydration."
   },
@@ -2862,7 +2862,7 @@
    "w": "undergo",
    "pos": "v.",
    "th": "ได้รับ (การผ่าตัด, การตรวจ) / ผ่าน (การเปลี่ยนแปลง)",
-   "fam": "",
+   "fam": "undergoes, underwent, undergone (รูปกริยา)",
    "col": "undergo surgery / undergo change",
    "ex": "All participants underwent a full medical examination before joining the exercise programme."
   },
@@ -2870,7 +2870,7 @@
    "w": "whereby",
    "pos": "adv.",
    "th": "ซึ่ง (โดยวิธีนั้น) / ที่ทำให้ (ใช้อธิบายระบบ, กระบวนการ)",
-   "fam": "",
+   "fam": "ไม่มีรูปคำอื่น · คำใกล้เคียง: by which, through which",
    "col": "a system whereby / a process whereby",
    "ex": "The hospital introduced a system whereby nurses can order basic tests directly."
   },
@@ -2886,7 +2886,7 @@
    "w": "critical thinking",
    "pos": "phr.",
    "th": "การคิดเชิงวิพากษ์ / การคิดอย่างมีวิจารณญาณ",
-   "fam": "",
+   "fam": "critic (n.), criticise (v.), criticism (n.), critical (adj.), critically (adv.), think (v.), thinker (n.)",
    "col": "develop critical thinking / critical thinking skills",
    "ex": "Problem-based learning helps medical students develop critical thinking skills."
   },
@@ -2894,7 +2894,7 @@
    "w": "academic integrity",
    "pos": "phr.",
    "th": "ความซื่อสัตย์ทางวิชาการ",
-   "fam": "",
+   "fam": "academy (n.), academic (adj./n.), academically (adv.), integrity (n.)",
    "col": "uphold academic integrity / a breach of academic integrity",
    "ex": "Universities are updating their academic integrity policies to address the use of AI tools."
   },
@@ -2902,7 +2902,7 @@
    "w": "digital literacy",
    "pos": "phr.",
    "th": "การรู้ดิจิทัล / ความรู้เท่าทันดิจิทัล",
-   "fam": "",
+   "fam": "digital (adj.), digitally (adv.), literate (adj.), literacy (n.), illiteracy (n.)",
    "col": "improve digital literacy / digital literacy skills",
    "ex": "Older adults with limited digital literacy may struggle to book appointments online."
   },

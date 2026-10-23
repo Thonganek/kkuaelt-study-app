@@ -20,7 +20,7 @@ with sync_playwright() as pw:
         for i, hr in enumerate(hrefs):
             pg.evaluate(f"location.hash='{hr}'"); pg.wait_for_timeout(25)
             if pg.locator('.blockhead').count() != 1 or pg.locator('.stepper a.on').count() != 1: errs.append(f'day {d} step {i}: block view missing')
-            t = pg.inner_text('#main')
+            t = pg.inner_text('#main').replace('undefined (adj.)', '')  # word family of "define", not a JS leak
             for bad in ('แสดงส่วนนี้ไม่ได้', 'ไม่พบชุดคำถาม', 'ยังไม่มีบทอ่าน', 'ยังไม่มีบทเรียน', 'ยังไม่มีข้อสอบ', 'undefined', 'NaN'):
                 if bad in t:
                     errs.append(f'day {d} step {i}: {bad}')

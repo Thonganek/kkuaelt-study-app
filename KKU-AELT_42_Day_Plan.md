@@ -2,12 +2,15 @@
 
 10 ต.ค. – 20 พ.ย. 2569 · วันสอบเป้าหมาย เสาร์ 21 พ.ย. 2569 (ตามที่กำหนด) — **ตรวจวันสอบจริง:** ปฏิทิน KKU-AELT PBT 2569 ระบุรอบพฤศจิกายน = เสาร์ 14 พ.ย. 2569 (ดูแผนย่อในแอป → คู่มือ → ข้อมูลข้อสอบ)
 
+ไม่ต้องทำตรงวันที่: วันที่ในตารางเป็นแผนเดิม ทำ Day ไหนเสร็จก็ติ๊ก ☐ → ☑ แล้วทำ Day ถัดไป (ในแอปติ๊กได้ที่หน้า “ที่ต้องทำ” — แอปจะแบ่ง Day ที่เหลือให้พอดีกับวันสอบ)
+
 กิจวัตร: จ.–ศ. คำศัพท์ 15 → Reading 40 → Writing/Grammar 30 → สมุดข้อผิด 5 นาที (บางวันในสัปดาห์แรก ๆ 100–110 นาที เพราะรวมเนื้อหาของ 7–9 ต.ค. ไว้) · เสาร์ Reading Test 120 นาที · อาทิตย์ Writing 60 นาที + ทวนข้อผิดของสัปดาห์ · 16–18 พ.ย. Full Mock 3 ชั่วโมง
 
 ## Diagnostic — วัดระดับ + ปูพื้น Grammar (10–12 ต.ค., Day 1–3)
 เป้าหมาย: ทดสอบ Reading + Writing เพื่อหาจุดอ่อน ทบทวน Grammar ที่จำเป็น และเริ่มศัพท์ Academic
 
 ### Day 1 · เสาร์ 10 ต.ค. 2569 — เปิดตัว + Reading Test 1 — Diagnostic เต็มรูปแบบ (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: คู่มือในแอป → “ข้อมูลข้อสอบ” + “กลยุทธ์ทำข้อสอบ 120 นาที” (10 นาที)
   - All that IELTS หน้า 206–210 (PDF 212–216): ภาพรวมรูปแบบคำถาม Reading + Tips ของ John (อ่านเร็ว ๆ ไม่ต้องจำ)
@@ -19,6 +22,7 @@
 - **สมุดข้อผิดพลาด:** จดคะแนน Diagnostic: Reading Test 1 __/69 + ทักษะที่ผิดมากที่สุด 2 อันดับ และ passage ที่ใช้เวลามากเกินไป
 
 ### Day 2 · อาทิตย์ 11 ต.ค. 2569 — Writing Diagnostic 60 นาที + Grammar Diagnostic (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Aelt Writing 0421.pdf หน้า 1–3: ก่อนเขียน: หัวข้อ Writing 15 ข้อ (เลข 1–16 ไม่มีข้อ 12; หลายข้อระบุว่าเป็นข้อสอบจริงปี 2020–2021) + Tips “Writing ชอบออกแนวการศึกษา ตาม TREND”
   - Opinion_Essay_Guide.docx: ส่วนที่ 1: โครงสร้าง Opinion Essay 4 ย่อหน้า + เทคนิคสำคัญ (อ่านให้จบ)
@@ -32,6 +36,7 @@
 - **สมุดข้อผิดพลาด:** จาก checklist: ข้อผิดที่เจอบ่อยที่สุดใน essay นี้ 3 อย่าง + คะแนน Grammar G01 __/15 และหัวข้อที่ผิด
 
 ### Day 3 · จันทร์ 12 ต.ค. 2569 — วิเคราะห์ผล Diagnostic + Articles/Prepositions (100 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 380–383 (PDF 386–389): ภาคผนวก I: ทบทวนข้อ 3 (Article) และข้อ 5 (Preposition)
   - Improved_Opinion_Essays.docx: “สรุปหลักการปรับปรุงสำคัญ (เพื่อให้ได้ 80+)” 6 ข้อ
@@ -46,6 +51,7 @@
 เป้าหมาย: Main idea, Topic, Supporting details, Reference, Context clues
 
 ### Day 4 · อังคาร 13 ต.ค. 2569 — Previewing + Topic vs Main idea + Thesis & Relative clauses (110 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Image (1).pdf หน้า 1: ตัวอย่าง essay “Big salary is much more important than job satisfaction” (291 คำ) — อ่านแล้ววิเคราะห์โครงสร้าง
   - Improved_Opinion_Essays.docx: Essay 1 (Big salary): เทียบ “พี่เขียนเอง” กับฉบับปรับปรุง + “จุดที่ปรับปรุง” 6 ข้อ
@@ -58,6 +64,7 @@
 - **สมุดข้อผิดพลาด:** จด 1 ย่อหน้าที่ตอบ main idea ผิด: ทำไมตัวเลือกที่เลือก “แคบไป/กว้างไป”
 
 ### Day 5 · พุธ 14 ต.ค. 2569 — Implied main idea & Best title + Passive voice (100 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 223–226 (PDF 229–232): แบบฝึก Heading “Onyx” Q1–4 (ทำจริง 8 นาที) + เฉลยหน้า 225–226
   - All that IELTS หน้า 90–92 (PDF 94–96): แบบฝึกเขียนประโยค 10 ข้อ (ทำข้อ 3 = passive) + ประโยคคำตอบตัวอย่าง
@@ -68,6 +75,7 @@
 - **สมุดข้อผิดพลาด:** จดชื่อเรื่อง (title) ที่เลือกผิดและเหตุผลว่าทำไมตัวเลือกนั้นแคบ/กว้างเกินไป
 
 ### Day 6 · พฤหัสบดี 15 ต.ค. 2569 — Supporting details + Connectors (100 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 226–230 (PDF 232–236): Matching A/B: “Orinoco River”, “Louis Pasteur” (ทำจริง) + เฉลยหน้า 229–230
   - All that IELTS หน้า 26–30 (PDF 28–32): การเชื่อมระหว่าง/ภายในย่อหน้า + ตาราง Transitional words ที่ใช้บ่อย (เลือกจำ 2 คำต่อหน้าที่)
@@ -78,6 +86,7 @@
 - **สมุดข้อผิดพลาด:** จดคำเชื่อมที่ใช้ผิดหน้าที่ (เช่น ใช้ however แทน but) พร้อมประโยคแก้ · จดประโยค fragment หรือ run-on ที่ตัวเองเคยเขียน 2 ประโยค พร้อมฉบับแก้
 
 ### Day 7 · ศุกร์ 16 ต.ค. 2569 — Reference words + Pronoun agreement (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 34 (PDF 36): ไวยากรณ์ห้ามผิดข้อ v: ใช้สรรพนามผิด (the individual → their)
   - All that IELTS หน้า 67–68 (PDF 69–72): เครื่องหมายวรรคตอน: full stop, comma, semicolon, apostrophe
@@ -88,6 +97,7 @@
 - **สมุดข้อผิดพลาด:** จดคำถาม reference ที่ผิด: คำอ้างอิง → สิ่งที่เลือก → คำตอบจริง
 
 ### Day 8 · เสาร์ 17 ต.ค. 2569 — Reading Test 2 (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: ทบทวน “แผนเวลา 120 นาที” ในคู่มือ
   - ในแอป: หลังสอบ: เทียบกราฟทักษะกับ Test 1 ในหน้า “สถิติ”
@@ -98,6 +108,7 @@
 - **สมุดข้อผิดพลาด:** เปรียบเทียบกับ Test 1: ทักษะไหนดีขึ้น / แย่ลง
 
 ### Day 9 · อาทิตย์ 18 ต.ค. 2569 — Writing 60 นาที (ข้อสอบจริง R2) + ทบทวนสัปดาห์ (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Opinion_Essay_Guide.docx: ทวน “เทคนิคสำคัญที่ต้องจำ” (ส่วนที่ 1) ก่อนเขียน 3 นาที
   - All that IELTS หน้า 380–383 (PDF 386–389): ภาคผนวก I: Checklist ตรวจงาน (หลังเขียน)
@@ -108,6 +119,7 @@
 - **สมุดข้อผิดพลาด:** ข้อผิดใน essay ที่ซ้ำกับวันที่ 2 (ถ้ามี) และวิธีป้องกัน
 
 ### Day 10 · จันทร์ 19 ต.ค. 2569 — Context clues + Word forms (100 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 210–215 (PDF 216–221): TFNG: “ความหมายต้องตรงกัน 100%” + ทักษะ 16 ข้อ (ฝึกจับ paraphrase/synonym)
   - All that IELTS หน้า 32–33 (PDF 34–35): 50 วลีใช้บ่อยใน Writing (achieve, allocate, contribute to, cope with …)
@@ -122,6 +134,7 @@
 เป้าหมาย: Skimming, Scanning, Inference, Vocabulary in context, Academic passages
 
 ### Day 11 · อังคาร 20 ต.ค. 2569 — Skimming & Paragraph function + Comparison (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 217–220 (PDF 223–226): แบบฝึก TFNG: “Mars – the Red Planet”, “Taste” (skim หาตำแหน่งก่อนตอบ) + เฉลย
   - All that IELTS หน้า 65–66 (PDF 67–68): E. การเปรียบเทียบ (while, but, however, more than, in contrast)
@@ -134,6 +147,7 @@
 - **สมุดข้อผิดพลาด:** จดย่อหน้าที่ตอบ “purpose of paragraph” ผิด และหน้าที่ที่ถูกต้อง
 
 ### Day 12 · พุธ 21 ต.ค. 2569 — Scanning + Short answer + Numbers (100 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 232–236 (PDF 238–242): No More Than Three Words: “The Neanderthals”, “The Orient Express” + เฉลย (ตรงกับ short answer ของ KKU)
   - All that IELTS หน้า 149–158 (PDF 153–162): ภาษาบรรยายตัวเลข/แนวโน้ม (increase, decline, fluctuate, level off + ตารางคำบุพบท) — อ่านเฉพาะตารางคำ
@@ -144,6 +158,7 @@
 - **สมุดข้อผิดพลาด:** จดคำตอบสั้นที่ผิดเพราะสะกด/เกินจำนวนคำ/ใช้คำไม่ตรงบทความ
 
 ### Day 13 · พฤหัสบดี 22 ต.ค. 2569 — Inference, Purpose & Tone + Hedging (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 242–246 (PDF 248–252): Multiple Choice: เคล็ดลับ + แบบฝึก “Orinoco River”, “Freezing rain” + เฉลย
   - All that IELTS หน้า 36–37 (PDF 38–39): ตัวอย่าง Band 8: ใช้ may / can เพื่อไม่ฟันธงเกินไป
@@ -154,6 +169,7 @@
 - **สมุดข้อผิดพลาด:** จดข้อ inference ที่ผิดเพราะ “เดาเกิน” — คำไหนในตัวเลือกที่แรงกว่าบทความ (always / all / only)
 
 ### Day 14 · ศุกร์ 23 ต.ค. 2569 — Fact vs Opinion + Concession (105 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 76–78 (PDF 80–82): สำนวนเปิดย่อหน้าฝ่ายไม่เห็นด้วย (Those against the idea of …, However, these arguments miss …)
   - All that IELTS หน้า 29 (PDF 31): คำเชื่อมแสดงการยอมรับ: Even though / Although / In spite of / Despite
@@ -164,6 +180,7 @@
 - **สมุดข้อผิดพลาด:** จดประโยคในบทความที่เข้าใจผิดว่าเป็น fact ทั้งที่เป็น opinion (ดูคำว่า should, I believe, arguably)
 
 ### Day 15 · เสาร์ 24 ต.ค. 2569 — Reading Test 3 (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: ทบทวนสรุปกลยุทธ์ทุกทักษะในคู่มือ (5 นาที)
   - ในแอป: หลังสอบ: ดูกราฟทักษะ เทียบ Test 1–3
@@ -174,6 +191,7 @@
 - **สมุดข้อผิดพลาด:** passage ที่ใช้เวลาเกิน 15 นาที (สั้น) หรือ 35 นาที (ยาว) และสาเหตุ
 
 ### Day 16 · อาทิตย์ 25 ต.ค. 2569 — Writing 60 นาที (ข้อสอบจริง R14) + ทบทวนสัปดาห์ (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 61–64 (PDF 63–66): Tips ระหว่างเขียน A–D: จำประโยคเปิดย่อหน้า + ตัวอย่างต้องเป็นรูปธรรม
   - All that IELTS หน้า 380–383 (PDF 386–389): Checklist ตรวจงาน (หลังเขียน)
@@ -184,6 +202,7 @@
 - **สมุดข้อผิดพลาด:** ตัวอย่างใน essay เป็นรูปธรรมพอหรือยัง (มีใคร/ที่ไหน/ผลอะไร)?
 
 ### Day 17 · จันทร์ 26 ต.ค. 2569 — อ่านบทความวิจัย + Noun phrases (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 236–240 (PDF 242–246): Summary completion: “Global warming…”, “Role of an architect” + เฉลย
   - All that IELTS หน้า 86–87 (PDF 90–91): Participle: N + V-ing / N + V3 (ทำประโยควิชาการให้กระชับ)
@@ -197,6 +216,7 @@
 เป้าหมาย: Sentence → Topic sentence → Supporting ideas → Conclusion
 
 ### Day 18 · อังคาร 27 ต.ค. 2569 — Sentence types + Reading ผสม (หนังสือ Passage 1) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 64–65 (PDF 66–67): ประโยคความรวม/ความซ้อน “When S V, S V as S V”
   - All that IELTS หน้า 84 (PDF 88): สรุป 8 โครงสร้างไวยากรณ์ทำคะแนนสูง (อ่านกรอบสรุป)
@@ -208,6 +228,7 @@
 - **สมุดข้อผิดพลาด:** ประโยคยาวที่เขียนแล้วกลายเป็น run-on — เขียนฉบับแก้
 
 ### Day 19 · พุธ 28 ต.ค. 2569 — Introduction & Thesis (เริ่มประกอบ essay R4) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 42–49 (PDF 44–51): โครงสร้างบทนำ: general statement → support → issue (paraphrase) → thesis + pattern ฉุกเฉิน
   - All that IELTS หน้า 72–74 (PDF 76–78): สำนวนขึ้นบทนำ + ประโยคใจความหลัก
@@ -219,6 +240,7 @@
 - **สมุดข้อผิดพลาด:** บทนำมีคำที่ลอกจากโจทย์กี่คำ? เปลี่ยนเป็น paraphrase
 
 ### Day 20 · พฤหัสบดี 29 ต.ค. 2569 — Topic sentence + Supporting ideas (Body 1 ของ R4) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 49–53 (PDF 51–55): Body: topic sentence + supporting sentences + สูตร EEEE (Explanation, Evidence, Example, Effect)
   - All that IELTS หน้า 74–78 (PDF 78–82): Magic Words ที่ใช้เริ่มเนื้อหา (ฝ่ายเห็นด้วย / ไม่เห็นด้วย)
@@ -230,6 +252,7 @@
 - **สมุดข้อผิดพลาด:** ประโยคใน Body 1 ที่ไม่เกี่ยวกับ topic sentence (ลบทิ้ง)
 
 ### Day 21 · ศุกร์ 30 ต.ค. 2569 — Brainstorming + Body 2 ของ R4 (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 57–60 (PDF 59–62): Tips ก่อนเขียน: เข้าใจโจทย์ 20 วินาที → Brainstorm 1–2 นาที (ขอบเขต ตัวเอง/ครอบครัว/ประเทศ/มนุษยชาติ) → Organising
   - All that IELTS หน้า 384–397 (PDF 390–403): ภาคผนวก II Power Essay Brainstorming: อ่านหัวข้อแบบ Agree/Disagree #2, #7, #9, #10, #14, #15, #17, #18, #25, #27
@@ -241,6 +264,7 @@
 - **สมุดข้อผิดพลาด:** ไอเดียที่ “นอกโจทย์” (ตอบคนละคำถาม) จากการ brainstorm วันนี้
 
 ### Day 22 · เสาร์ 31 ต.ค. 2569 — Reading Test 4 (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: ทวนแผนเวลา
   - ในแอป: หลังสอบ: เทียบกราฟทักษะ Test 1–4
@@ -251,6 +275,7 @@
 - **สมุดข้อผิดพลาด:** ทักษะที่ยังผิดซ้ำตั้งแต่ Test 1 (ถ้ามี) → แผนแก้
 
 ### Day 23 · อาทิตย์ 1 พ.ย. 2569 — Writing 60 นาที (ข้อสอบจริง R6) + ทบทวนสัปดาห์ (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 42–55 (PDF 44–57): ทวนโครงสร้าง Intro–Body–Conclusion ก่อนเขียน 3 นาที
   - All that IELTS หน้า 380–383 (PDF 386–389): Checklist ตรวจงาน
@@ -261,6 +286,7 @@
 - **สมุดข้อผิดพลาด:** เทียบ essay วันนี้กับวันที่ 2 และ 9: ดีขึ้นด้านไหน
 
 ### Day 24 · จันทร์ 2 พ.ย. 2569 — Conclusion + ประกอบ essay R4 เต็มเรื่อง (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 54–55 (PDF 56–57): การเขียนบทสรุป: วิธีสรุป 1 (ความเห็น + สรุปประเด็น) / วิธีสรุป 2 (ความเห็น + ข้อเสนอ)
   - All that IELTS หน้า 79–82 (PDF 83–86): สำนวนจบเนื้อหา + คำที่ปรากฏบ่อยใน Essay
@@ -275,6 +301,7 @@
 เป้าหมาย: Opinion writing, coherence/cohesion, connectors, grammar correction
 
 ### Day 25 · อังคาร 3 พ.ย. 2569 — Opinion essay 6.0 vs 7.0 + ข้อผิดที่คนไทยพบบ่อย (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 94–105 (PDF 98–109): Day 6: เขียน Agree/Disagree ระดับ 6.0 (จำกัดจำนวนรถในเมือง) vs 7.0 (ย้ายออกจากบ้านหลังจบ ม.ปลาย) ทีละ Step
 - **ศัพท์:** 23 คำใหม่: recover, reveal, scope, subsidy, trace, transform, transport, underlie, utilise, adapt, advocate, aid, channel, chemical, classic, substantial, compelling, undeniable, paramount, detrimental, diagnose, algorithm, chronic
@@ -284,6 +311,7 @@
 - **สมุดข้อผิดพลาด:** ข้อผิดแบบ “คนไทย” ที่เจอในงานตัวเอง (เช่น I am agree, there have, ขาด -s)
 
 ### Day 26 · พุธ 4 พ.ย. 2569 — Coherence & Cohesion (จบ R10) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 26–31 (PDF 28–33): ทวน: การเชื่อมระหว่างย่อหน้า / ภายในย่อหน้า / ตารางคำเชื่อม
   - Opinion_Essay_Guide.docx: “คำเชื่อม (Cohesive devices): ใช้ให้หลากหลาย อย่าใช้ซ้ำ” + ศัพท์ 50 คำข้อ 21–46
@@ -294,6 +322,7 @@
 - **สมุดข้อผิดพลาด:** คำเชื่อมที่ใช้ซ้ำมากที่สุดใน essay และคำแทน 2 คำ
 
 ### Day 27 · พฤหัสบดี 5 พ.ย. 2569 — Counterpoint โดยไม่เสียจุดยืน (เริ่ม R11) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Improved_Opinion_Essays.docx: Essay 4 (Telling the truth): บทวิเคราะห์ “ไม่ได้เลือกจุดยืนชัดเจน” — อ่านข้อ 1 Task Response
   - All that IELTS หน้า 118–126 (PDF 122–130): Day 8: ข้อดี/ข้อเสียของการท่อง Pattern + Pattern บทนำ/เนื้อหา (ใช้เป็นโครง ไม่ใช่ท่องทั้งก้อน)
@@ -304,6 +333,7 @@
 - **สมุดข้อผิดพลาด:** ประโยคใน essay ที่ทำให้จุดยืน “ไม่ชัด” (ลบหรือเขียนใหม่)
 
 ### Day 28 · ศุกร์ 6 พ.ย. 2569 — Lexical resource: Collocation + Formal style (จบ R11) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Improved_Opinion_Essays.docx: ตาราง “ประโยคที่เขียน | ปัญหา | ที่ควรเขียน” 14 รายการ (Essay 4) + หลักข้อ 3 “คำศัพท์หลากหลาย ไม่ซ้ำ”
   - All that IELTS หน้า 31–33 (PDF 33–35): Lexical Resource (6.0 vs 8.0) + ห้ามใช้คำกำกวม a lot of / very / something / good
@@ -314,6 +344,7 @@
 - **สมุดข้อผิดพลาด:** collocation ผิดที่เจอในงานตัวเอง (เช่น make a crime → commit a crime)
 
 ### Day 29 · เสาร์ 7 พ.ย. 2569 — Reading Test 5 (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: ทวนแผนเวลา
   - ในแอป: หลังสอบ: เทียบกราฟทักษะ Test 1–5
@@ -324,6 +355,7 @@
 - **สมุดข้อผิดพลาด:** ข้อที่ผิดเพราะ “รีบ” vs “ไม่รู้ศัพท์” vs “ตีความผิด” — นับแต่ละแบบ
 
 ### Day 30 · อาทิตย์ 8 พ.ย. 2569 — Writing 60 นาที (ข้อสอบจริง R9) + ทบทวนสัปดาห์ (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 126–132 (PDF 130–136): Day 8 body patterns ตามธีม (สุขภาพ สิ่งแวดล้อม เศรษฐกิจ …) — ใช้เป็นคลังไอเดีย
   - All that IELTS หน้า 380–383 (PDF 386–389): Checklist ตรวจงาน
@@ -334,6 +366,7 @@
 - **สมุดข้อผิดพลาด:** ส่วนที่ใช้เวลามากที่สุดตอนเขียน (วางแผน/เขียน/ตรวจ) และวิธีลดเวลา
 
 ### Day 31 · จันทร์ 9 พ.ย. 2569 — Grammar correction intensive (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Improved_Opinion_Essays.docx: ต้นฉบับ “พี่เขียนเอง” ของ Essay 5 (Skills vs Degree): หาข้อผิดเองก่อน แล้วค่อยอ่าน “วิเคราะห์ปัญหาของต้นฉบับ”
   - All that IELTS หน้า 68–70 (PDF 72–74): Check Test ระดับ 5.5: ดูการแก้แต่ละจุดพร้อมเลขข้อ checklist
@@ -348,6 +381,7 @@
 เป้าหมาย: Reading จับเวลา + Writing จับเวลา
 
 ### Day 32 · อังคาร 10 พ.ย. 2569 — Integration 1: Reading จับเวลา + Essay 40 นาที (R13) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 126–132 (PDF 130–136): Day 8 body patterns: หัวข้อการศึกษา/ผลกระทบต่อผู้อื่น — คลังไอเดีย (อ่านหลังเขียน)
 - **ศัพท์:** 20 คำใหม่: fluctuate, guideline, highlight, implicit, induce, inevitable, infrastructure, inspect, intense, manipulate, minimise, nuclear, offset, practitioner, predominant, indispensable, rigorous, meritocracy, standardised test, holistic
@@ -357,6 +391,7 @@
 - **สมุดข้อผิดพลาด:** เวลา Reading จริงต่อบท: ___ / ___ นาที
 
 ### Day 33 · พุธ 11 พ.ย. 2569 — Integration 2: Long text 30 นาที + Essay 40 นาที (R15) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 389 (PDF 395): ภาคผนวก II #12 (ทำงาน part-time ระหว่างเรียน) — ไอเดียเรื่องผลกระทบต่อชีวิตนักศึกษา
   - Opinion_Essay_Guide.docx: Essay 1 “Technology and Stress” — ดูวิธีเขียนเหตุผลด้านสุขภาพจิต
@@ -367,6 +402,7 @@
 - **สมุดข้อผิดพลาด:** short answer ที่ผิด: เกินจำนวนคำ? สะกด? ใช้คำไม่ตรง?
 
 ### Day 34 · พฤหัสบดี 12 พ.ย. 2569 — Integration 3: 2 short texts + Essay 40 นาที (R16) (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 61–64 (PDF 63–66): Tips A–C: ประโยคเปิดย่อหน้า + คำศัพท์สำคัญเฉพาะตัว (อ่านก่อนเขียน 3 นาที)
 - **ศัพท์:** 20 คำใหม่: visual, widespread, accommodate, analogy, anticipate, assure, attain, behalf, bulk, cease, coherent, coincide, commence, compatible, concurrent, collaboration, synergy, autonomy, interpersonal, delegate
@@ -376,6 +412,7 @@
 - **สมุดข้อผิดพลาด:** ประโยคที่เขียนตามโจทย์ผิดไวยากรณ์ (ลอกโจทย์) — แก้ให้ถูก
 
 ### Day 35 · ศุกร์ 13 พ.ย. 2569 — Integration 4: Long text + Essay 40 นาที (R7) เทียบตัวอย่างจริง (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - Image (1).pdf หน้า 1: หลังเขียน: ตัวอย่าง “Big salary…” (291 คำ)
   - Improved_Opinion_Essays.docx: หลังเขียน: Essay 1 ฉบับปรับปรุง + จุดที่ปรับปรุง
@@ -386,6 +423,7 @@
 - **สมุดข้อผิดพลาด:** 5 จุดที่ตัวอย่างดีกว่างานของเรา (collocation / ตัวอย่าง / คำเชื่อม)
 
 ### Day 36 · เสาร์ 14 พ.ย. 2569 — Reading Test 6 (ชุดสุดท้ายก่อน Mock) (150 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ก่อนสอบ: ทวนแผนเวลา + ข้อควรระวังในคู่มือ
   - ในแอป: หลังสอบ: เทียบกราฟ Test 1–6
@@ -396,6 +434,7 @@
 - **สมุดข้อผิดพลาด:** สรุป 3 กลยุทธ์ที่จะใช้ใน Mock (เช่น ข้ามข้อยากก่อน, ตอบ short answer ทันที)
 
 ### Day 37 · อาทิตย์ 15 พ.ย. 2569 — Writing 60 นาที (ข้อสอบจริง R8) + ทบทวนสัปดาห์ (95 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - All that IELTS หน้า 380–383 (PDF 386–389): Checklist 3 นาทีสุดท้าย (ท่องให้ได้ 10 ข้อ)
   - ในแอป: คู่มือ → Template essay + คำเชื่อม (ทวน 5 นาที)
@@ -409,6 +448,7 @@
 เป้าหมาย: จำลองสอบเต็มชุด 3 ชั่วโมง (Reading 120 + Writing 60) 3 ครั้ง
 
 ### Day 38 · จันทร์ 16 พ.ย. 2569 — Full Mock 1 (Reading 120 + Writing 60) (215 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: ห้ามเปิดเอกสารระหว่างสอบ — หลังสอบอ่านเฉลย + ดูผลแยกทักษะ
 - **ศัพท์:** 20 คำใหม่: refine, relax, restrain, revolution, rigid, route, scenario, sphere, subordinate, supplement, suspend, temporary, trigger, unify, violate, face-to-face, flexibility, interaction, convenience, distraction
@@ -418,6 +458,7 @@
 - **สมุดข้อผิดพลาด:** จุดที่ “หมดแรง/เสียสมาธิ” ช่วงไหนของ 3 ชั่วโมง และวิธีแก้
 
 ### Day 39 · อังคาร 17 พ.ย. 2569 — Full Mock 2 (Reading 120 + Writing 60) (215 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: หลังสอบ: เทียบผล Mock 1 กับ Mock 2
 - **ศัพท์:** 20 คำใหม่: vision, adjacent, albeit, assemble, collapse, colleague, compile, conceive, convince, depress, encounter, enormous, forthcoming, incline, integrity, language acquisition, immersion, interdisciplinary, content-based, bilingual
@@ -427,6 +468,7 @@
 - **สมุดข้อผิดพลาด:** สิ่งที่ทำได้ดีขึ้นจาก Mock 1 และสิ่งที่ยังพลาด
 
 ### Day 40 · พุธ 18 พ.ย. 2569 — Full Mock 3 (Reading 120 + Writing 60 หัวข้อใหม่) (215 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: หลังสอบ: สรุปผล 3 Mock ในหน้า “สถิติ”
 - **ศัพท์:** 20 คำใหม่: intrinsic, invoke, levy, likewise, nonetheless, notwithstanding, ongoing, panel, persist, pose, reluctance, so-called, straightforward, undergo, whereby, automation, critical thinking, academic integrity, digital literacy, over-reliance
@@ -439,6 +481,7 @@
 เป้าหมาย: ทบทวนเฉพาะข้อผิดพลาด + Vocabulary
 
 ### Day 41 · พฤหัสบดี 19 พ.ย. 2569 — Error Review — ปิดจุดอ่อน (90 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: สมุดข้อผิดพลาด: ทำ “ทำซ้ำข้อที่ผิด” ให้ครบอย่างน้อย 30 ข้อ
   - All that IELTS หน้า 380–383 (PDF 386–389): Checklist 10 ข้อ (รอบสุดท้าย)
@@ -453,6 +496,7 @@
 เป้าหมาย: ไม่ทำข้อสอบหนัก ทบทวน template + คำศัพท์ แล้วพัก
 
 ### Day 42 · ศุกร์ 20 พ.ย. 2569 — Light Review — ทบทวนเบา ๆ แล้วพัก (45 นาที)
+- [ ] **ทำเสร็จแล้ว**
 - **อ่านอะไร:**
   - ในแอป: คู่มือ → “Checklist วันสอบ” (สิ่งที่ต้องเตรียม + แผนเวลา)
   - Opinion_Essay_Guide.docx: ตัวอย่าง Essay ที่ชอบที่สุด 1 เรื่อง (อ่านเพื่อความมั่นใจ ไม่ต้องท่อง)

@@ -67,8 +67,10 @@ function dayBanners(d) {
   if (d === 36 || d === 32) h += `<div class="banner warn">${ico('alert')}<span>ปฏิทิน PBT 2569 ของศูนย์ฯ ระบุสอบรอบพฤศจิกายน <b>เสาร์ 14 พ.ย.</b> — ถ้าวันสอบจริงของคุณคือ 14 พ.ย. ให้ดู “แผนย่อ” ใน <a href="#/guide/exam">คู่มือ → ข้อมูลข้อสอบ</a></span></div>`;
   return h;
 }
+function dayMark(d) { const p = dayProgress(d); return p.done ? '✓' : p.n ? '◐' : '○'; }
 function daySwitch(d) {
-  const opts = DAYS.map(x => `<option value="${x.d}" ${x.d === d ? 'selected' : ''}>Day ${x.d} · ${x.dateTh} — ${x.title}</option>`).join('');
+  const cal = calendarMode();
+  const opts = DAYS.map(x => `<option value="${x.d}" ${x.d === d ? 'selected' : ''}>${cal ? `Day ${x.d} · ${x.dateTh} — ${x.title}` : `${dayMark(x.d)} Day ${x.d} — ${x.title}`}</option>`).join('');
   return `<div class="dayswitch noprint"><button class="iconbtn" data-act="go" data-href="#/day/${Math.max(1, d - 1)}" ${d === 1 ? 'disabled' : ''} aria-label="วันก่อนหน้า">${ico('arrowl')}</button><select data-chg="pickDay" aria-label="เลือกวัน">${opts}</select><button class="iconbtn" data-act="go" data-href="#/day/${Math.min(NDAYS, d + 1)}" ${d === NDAYS ? 'disabled' : ''} aria-label="วันถัดไป">${ico('arrowr')}</button></div>`;
 }
 function progressRing(n, total, id) {
@@ -157,11 +159,19 @@ function heroStats(d) {
   h += cell('list', 'ข้อสอบวันนี้', tq, 'ข้อ', sets.length ? 100 * dn / sets.length : 0, `ส่งแล้ว ${dn} / ${sets.length} ชุด`);
   return `<div class="hero-stats" aria-label="เป้าหมายวันนี้">${h}</div>`;
 }
+// whole-day status: tick = every step done; when finished, the same button undoes it
+function dayToggle(d, pr) {
+  pr = pr || dayProgress(d);
+  return pr.done ? `<button class="btn sm good daytog" data-act="dayDone" data-d="${d}" data-on="0" title="กดเพื่อยกเลิกสถานะเสร็จ">${ico('check')} Day ${d} เสร็จแล้ว</button>`
+    : `<button class="btn sm daytog" data-act="dayDone" data-d="${d}" data-on="1" title="ติ๊กว่าทำครบทุกขั้นของ Day ${d} แล้ว">${ico('check')} ทำเสร็จทั้งวัน</button>`;
+}
 function viewDayBento(d) {
   const day = DAY(d); const pr = dayProgress(d); const ph = PHASE[day.phase]; const tn = todayNum(); const isToday = d === tn;
   const nb = nextBlock(d); const n = daysToExam(); const ex = examDate();
-  const doneDays = DAYS.filter(x => dayProgress(x.d).done).length;
-  let h = `<div class="dashwrap"><div class="pagehead"><div><div class="eyebrow">${isToday ? 'วันนี้ · ' : ''}${esc(day.wd)} ${esc(day.dateTh)}</div><h1>${isToday ? 'แผนวันนี้' : d < tn ? 'ย้อนดู Day ' + d : 'ดูล่วงหน้า Day ' + d}</h1></div><div class="row noprint">${isToday ? '' : `<a class="btn sm" href="#/today">${ico('target')} กลับวันนี้ · Day ${tn}</a>`}${daySwitch(d)}</div></div>`;
+  const doneDays = DAYS.filter(x => dayProgress(x.d).done).length; const cal = calendarMode();
+  const eyebrow = cal ? `${isToday ? 'วันนี้ · ' : ''}${esc(day.wd)} ${esc(day.dateTh)}`
+    : `${isToday ? 'วันนี้ทำ · ' : ''}Day ${d}/${NDAYS} · ${pr.done ? 'เสร็จแล้ว' : pr.n ? `ทำแล้ว ${pr.n}/${pr.total} ขั้น` : 'ยังไม่เริ่ม'}<span class="eb-plan"> · แผนเดิม ${esc(day.wd)} ${esc(day.dateTh)}</span>`;
+  let h = `<div class="dashwrap"><div class="pagehead"><div><div class="eyebrow">${eyebrow}</div><h1>${isToday ? 'แผนวันนี้' : d < tn ? 'ย้อนดู Day ' + d : 'ดูล่วงหน้า Day ' + d}</h1></div><div class="row noprint">${isToday ? '' : `<a class="btn sm" href="#/today">${ico('target')} ${cal ? 'กลับวันนี้' : 'ไปวันที่ต้องทำ'} · Day ${tn}</a>`}${dayToggle(d, pr)}${daySwitch(d)}</div></div>`;
   h += dayBanners(d);
   h += `<div class="dash">`;
   // hero: what today is about + the numbers to hit
@@ -170,7 +180,7 @@ function viewDayBento(d) {
   <h2 class="hero-title">${esc(day.title)}</h2>
   <p class="hero-goal">${esc(day.goal)}</p>
   ${heroStats(d)}
-  ${nb ? `<a class="hero-cta" href="${blockHref(d, nb.k)}">${ico('play')} ${pr.n ? 'ทำต่อ' : 'เริ่มเลย'}: ${esc(DATA.blockInfo[nb.k][0])} ${ico('arrowr')}</a>` : d < NDAYS ? `<a class="hero-cta" href="#/day/${d + 1}">${ico('check')} ครบแล้ว · ไป Day ${d + 1} ${ico('arrowr')}</a>` : `<span class="hero-cta">${ico('spark')} ครบ ${NDAYS} วัน</span>`}
+  ${nb ? `<a class="hero-cta" href="${blockHref(d, nb.k)}">${ico('play')} ${pr.n ? 'ทำต่อ' : 'เริ่มเลย'}: ${esc(DATA.blockInfo[nb.k][0])} ${ico('arrowr')}</a>` : (cal ? d < NDAYS : !allDaysDone()) ? `<a class="hero-cta" href="#/day/${cal ? d + 1 : tn}">${ico('check')} ครบแล้ว · ไป Day ${cal ? d + 1 : tn} ${ico('arrowr')}</a>` : `<span class="hero-cta">${ico('spark')} ครบ ${NDAYS} วัน</span>`}
   </section>`;
   // middle: countdown/progress + the day's steps
   h += `<div class="dcol"><div class="tile statpair"><div class="sp"><div class="tile-label">${ico('flag')} นับถอยหลังวันสอบ</div><div class="stat-num">${n > 0 ? n : n === 0 ? '0' : '—'}<small> วัน</small></div><div class="sub small">${n > 0 ? 'สอบ ' + thDate(ex, true) : n === 0 ? 'วันนี้วันสอบ — สู้ ๆ' : 'ผ่านวันสอบแล้ว'}</div></div><div class="sp"><div class="tile-label">${ico('chart')} ความคืบหน้า</div><div class="ringwrap">${progressRing(pr.n, pr.total, 'rg' + d)}<div><b>${pr.done ? 'ครบแล้ว' : 'เหลือ ' + (pr.total - pr.n) + ' ขั้น'}</b><div class="sub small">แผน ${doneDays}/${NDAYS} วัน</div></div></div></div></div>`;
@@ -198,17 +208,17 @@ function viewBlock(d, k) {
   return h;
 }
 function runway(d) {
-  const tn = rawTodayNum(); let cells = '';
+  const tn = rawTodayNum(); const cal = calendarMode(); let cells = '';
   for (const x of DAYS) {
     const pr = dayProgress(x.d);
     const cls = ['rw', x.type === 'test' ? 'test' : x.type === 'mock' ? 'mock' : x.type === 'sunday' ? 'sun' : '', pr.done ? 'done' : '', x.d === d ? 'cur' : '', x.d === tn ? 'today' : ''].filter(Boolean).join(' ');
-    cells += `<a class="${cls}" href="#/day/${x.d}" title="Day ${x.d} · ${esc(x.wd)} ${esc(x.dateTh)} · ${esc(x.title)}" aria-label="Day ${x.d}"></a>`;
+    cells += `<a class="${cls}" href="#/day/${x.d}" title="Day ${x.d} · ${cal ? esc(x.wd) + ' ' + esc(x.dateTh) : pr.done ? 'เสร็จแล้ว' : pr.n + '/' + pr.total + ' ขั้น'} · ${esc(x.title)}" aria-label="Day ${x.d}"></a>`;
   }
   const ex = examDate();
   const lab = (n, txt, end) => `<span style="grid-column:${end ? (n - 5) + ' / ' + (n + 1) : n + ' / span 7'};${end ? 'text-align:right' : ''}">${txt}</span>`;
   return `<div class="runway"><div class="rw-head"><div class="tile-label">${ico('calendar')} เส้นทาง ${NDAYS} วัน</div><div class="rw-legend"><span><i style="background:var(--sky)"></i>Reading Test</span><span><i style="background:var(--teal)"></i>Mock</span><span><i style="background:var(--emerald)"></i>Essay วันอาทิตย์</span><span><i style="background:var(--surface-3)"></i>วันธรรมดา</span></div></div>
   <div class="rw-track" style="--n:${NDAYS}">${cells}<span class="rw-flag">${ico('flag')}<span>สอบ ${ex.getDate()} ${TH_M[ex.getMonth()]}</span></span></div>
-  <div class="rw-scale" style="--n:${NDAYS}">${[1, 15, 29].map(n => lab(n, shortDate(n))).join('')}${lab(NDAYS, shortDate(NDAYS), true)}</div></div>`;
+  <div class="rw-scale" style="--n:${NDAYS}">${[1, 15, 29].map(n => lab(n, cal ? shortDate(n) : 'Day ' + n)).join('')}${lab(NDAYS, cal ? shortDate(NDAYS) : 'Day ' + NDAYS, true)}</div></div>`;
 }
 function shortDate(n) { const x = dayDate(n); return x.getDate() + ' ' + TH_M[x.getMonth()]; }
 INP.pickDay = el => { location.hash = '#/day/' + el.value; };
@@ -234,7 +244,7 @@ ACT.fcMode = el => { S.ui.fcMode = S.ui.fcMode === el.dataset.key ? null : el.da
 function secVocab(d) {
   const words = (DATA.vocab[d] || []).map(w => Object.assign({ day: d }, w)); if (!words.length) return '<p class="muted">วันนี้ไม่มีคำใหม่</p>';
   const key = 'vd' + d; const fcOn = S.ui.fcMode === key;
-  let h = `<div class="row noprint" style="margin-bottom:10px"><button class="btn sm" data-act="hideTh">${S.ui.hideTh ? ico('eye') + ' แสดงความหมาย' : ico('eyeoff') + ' ซ่อนความหมาย (ทดสอบตัวเอง)'}</button><button class="btn sm" data-act="fcMode" data-key="${key}">${fcOn ? ico('grid') + ' กลับไปแบบรายการ' : ico('cards') + ' โหมดบัตรคำ'}</button><span class="small muted">${ico('star')} = ยังจำไม่ได้ (จะถูกดึงมาทวนวันอาทิตย์และวันที่ 44)</span></div>`;
+  let h = `<div class="row noprint" style="margin-bottom:10px"><button class="btn sm" data-act="hideTh">${S.ui.hideTh ? ico('eye') + ' แสดงความหมาย' : ico('eyeoff') + ' ซ่อนความหมาย (ทดสอบตัวเอง)'}</button><button class="btn sm" data-act="fcMode" data-key="${key}">${fcOn ? ico('grid') + ' กลับไปแบบรายการ' : ico('cards') + ' โหมดบัตรคำ'}</button><span class="small muted">${ico('star')} = ยังจำไม่ได้ (จะถูกดึงมาทวนวันอาทิตย์ — Day 9, 16, 23, 30, 37 — และ Day 41)</span></div>`;
   h += fcOn ? flashcards(key, words) : `<div class="vgrid ${S.ui.hideTh ? 'hideth' : ''}">${words.map(vcard).join('')}</div>`;
   h += `<h3>Quiz คำศัพท์ (20 ข้อ: แปลความหมาย / เลือกคำ / เติมคำในประโยค)</h3>` + renderQuiz('V:' + d);
   return h;

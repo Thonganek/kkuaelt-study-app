@@ -16,6 +16,76 @@ function readingShort(day) {
 }
 function vocabShort(d) { const n = DAY(d).newWords; return n ? n + ' คำใหม่' : 'ทวน ' + reviewWords(d).all.length + ' คำ'; }
 
+/* ---------- to-do: tick finished days, list what is left, split the rest up to the exam ---------- */
+const TH_WD_S = ['อา.', 'จ.', 'อ.', 'พ.', 'พฤ.', 'ศ.', 'ส.'];
+const TYPE_SHORT = { weekday: 'วันธรรมดา', integration: 'จับเวลา', test: 'Test', sunday: 'Essay', mock: 'Mock', review: 'Review', light: 'Light' };
+function chkBtn(d, p) { return `<button class="chkbtn ${p.done ? 'on' : ''}" data-act="dayDone" data-d="${d}" data-on="${p.done ? 0 : 1}" aria-pressed="${p.done}" title="${p.done ? 'เสร็จแล้ว — กดเพื่อยกเลิก' : 'ยังไม่เสร็จ — กดเพื่อติ๊กว่าเสร็จ'}" aria-label="Day ${d} ${p.done ? 'เสร็จแล้ว' : 'ยังไม่เสร็จ'}">${ico('check')}</button>`; }
+function dayGrid() {
+  const tn = rawTodayNum();
+  return `<div class="dgrid">${DAYS.map(x => {
+    const p = dayProgress(x.d); const cls = ['dg', p.done ? 'done' : p.n ? 'part' : '', x.d === tn ? 'cur' : ''].filter(Boolean).join(' ');
+    return `<div class="${cls}"><a class="dg-link" href="#/day/${x.d}" title="Day ${x.d} · ${esc(x.title)}"><small>Day</small><b>${x.d}</b><span class="dg-ty">${esc(TYPE_SHORT[x.type])}</span><span class="dg-pr">${p.done ? 'เสร็จแล้ว' : p.n + '/' + p.total + ' ขั้น'}</span></a>${chkBtn(x.d, p)}<i class="dg-bar" style="width:${pct(p.n, p.total)}%"></i></div>`;
+  }).join('')}</div><div class="dg-legend small"><span><i class="lg done"></i>เสร็จแล้ว</span><span><i class="lg part"></i>ทำไปบางขั้น</span><span><i class="lg"></i>ยังไม่เริ่ม</span><span><i class="lg cur"></i>Day ที่ต้องทำต่อ</span></div>`;
+}
+// suggested split of the unfinished days over the days left before the exam (a hint only - nothing is locked to a date)
+function catchUp() {
+  const N = daysToExam(); const left = DAYS.filter(x => !dayProgress(x.d).done).map(x => ({ d: x.d, min: remainMin(x.d) }));
+  const out = { N, left, slots: [] }; if (N <= 0 || !left.length) return out;
+  const work = left.slice();
+  const last = work.length > 1 && work[work.length - 1].d === NDAYS && N > 1 ? work.pop() : null; // Light Review stays the day before the exam
+  const M = last ? N - 1 : N; let i = 0;
+  for (let s = 0; s < M && i < work.length; s++) {
+    const slotsLeft = M - s;
+    if (work.length - i <= slotsLeft) { out.slots.push({ off: s, days: [work[i++]] }); continue; }
+    const target = work.slice(i).reduce((a, x) => a + x.min, 0) / slotsLeft;
+    const days = [work[i++]]; let sum = days[0].min;
+    while (i < work.length && (s === M - 1 || sum + work[i].min <= target * 1.15)) { sum += work[i].min; days.push(work[i++]); }
+    out.slots.push({ off: s, days });
+  }
+  if (last) out.slots.push({ off: N - 1, days: [last] });
+  return out;
+}
+function todoDay(x, cur) {
+  const day = DAY(x.d); const p = dayProgress(x.d);
+  return `<div class="todo-day ${x.d === cur ? 'cur' : ''}"><div class="td-head"><a class="td-title" href="#/day/${x.d}"><span class="td-n">Day ${x.d}</span><b>${esc(day.title)}</b></a><span class="chip">${esc(TYPE_TH[day.type])}</span><span class="small muted">เหลือ ${p.total - p.n}/${p.total} ขั้น · ≈ ${x.min} นาที</span><span class="spacer"></span>${dayToggle(x.d, p)}</div>
+  <div class="td-steps">${day.blocks.map(b => blockDone(x.d, b.k) ? `<span class="chip ok">${ico('check')} ${esc(DATA.blockInfo[b.k][0])}</span>` : `<a class="chip acc" href="${blockHref(x.d, b.k)}">${esc(DATA.blockInfo[b.k][0])} · ${b.min} นาที ${ico('arrowr')}</a>`).join('')}</div></div>`;
+}
+function viewTodo() {
+  const cal = calendarMode(); const cd = curDay(); const all = allDaysDone();
+  const doneN = DAYS.filter(x => dayProgress(x.d).done).length;
+  const cu = catchUp(); const left = cu.left; const N = cu.N; const ex = examDate();
+  const steps = left.reduce((s, x) => s + DAY(x.d).blocks.filter(b => !blockDone(x.d, b.k)).length, 0);
+  const mins = left.reduce((s, x) => s + x.min, 0);
+  let h = `<div class="card"><div class="row"><div><div class="daynum">ไม่ผูกกับวันที่ · ทำเสร็จเมื่อไรก็ติ๊ก</div><h1>ที่ต้องทำ</h1></div><span class="spacer"></span>${all ? `<span class="chip ok">${ico('spark')} ครบทั้ง ${NDAYS} Day แล้ว</span>` : `<a class="btn pri" href="#/day/${cd}">${ico('play')} ทำต่อ: Day ${cd} — ${esc(DAY(cd).title)}</a>`}</div>
+  <p class="muted">${cal ? `ตอนนี้หน้า “วันนี้” นับตามวันที่ปฏิทิน (Day 1 = 10 ต.ค.) — เปลี่ยนเป็นนับตามความคืบหน้าได้ที่ <a href="#/settings">⚙ ตั้งค่า</a>` : 'หน้า “วันนี้” จะเปิด Day แรกที่ยังไม่เสร็จให้เอง — ติ๊กว่า Day ไหนทำเสร็จแล้วด้านล่าง ขั้นที่ทำในแอป (ส่ง quiz / ส่งข้อสอบ / เขียนงาน / จดบันทึก) ระบบนับให้อัตโนมัติ'}</p>
+  <div class="grid g4" style="margin-top:10px">
+    <div class="kpi"><div class="v">${doneN}/${NDAYS}</div><div class="l">Day ที่ทำเสร็จแล้ว</div><progress max="${NDAYS}" value="${doneN}"></progress></div>
+    <div class="kpi"><div class="v">${left.length}</div><div class="l">Day ที่ยังต้องทำ · ${steps} ขั้น</div></div>
+    <div class="kpi"><div class="v">${Math.round(mins / 6) / 10}<small> ชม.</small></div><div class="l">เวลาที่ยังต้องใช้โดยประมาณ (${mins} นาที)</div></div>
+    <div class="kpi"><div class="v">${N > 0 ? N : '—'}<small> วัน</small></div><div class="l">${N > 0 ? `ก่อนสอบ ${esc(thDate(ex, true))}${left.length ? ` · เฉลี่ย ≈ ${Math.ceil(mins / N)} นาที/วัน` : ''}` : 'ผ่านวันสอบแล้ว — ตั้งวันสอบใหม่ได้ใน ⚙ ตั้งค่า'}</div></div>
+  </div></div>`;
+  const upto = Math.max(1, cd - 1);
+  h += `<div class="card"><div class="row"><h2 style="margin:0">เลือกสถานะแต่ละวัน</h2><span class="spacer"></span><label class="small row" style="gap:6px">ทำเสร็จแล้วตั้งแต่ Day 1 ถึง <select id="upto" class="sel">${DAYS.map(x => `<option value="${x.d}" ${x.d === upto ? 'selected' : ''}>Day ${x.d}</option>`).join('')}</select></label><button class="btn sm" data-act="markUpTo">${ico('check')} ติ๊กเสร็จทั้งช่วง</button></div>
+  <p class="small muted">กดปุ่ม ✓ ของแต่ละช่องเพื่อสลับ “เสร็จแล้ว / ยังไม่เสร็จ” · กดที่ตัวเลขเพื่อเปิด Day นั้น · 1 แถว = 1 สัปดาห์ของแผน (Reading Test → Essay → 5 วันธรรมดา)</p>${dayGrid()}</div>`;
+  if (left.length) {
+    const first = left.slice(0, 7), rest = left.slice(7);
+    h += `<div class="card"><h2>งานที่ยังต้องทำ (${left.length} Day)</h2><p class="small muted">เรียงตาม Day · ขั้นสีฟ้ากดเพื่อเริ่มทำได้ทันที · ขั้นสีเขียวทำแล้ว</p>${first.map(x => todoDay(x, cd)).join('')}${rest.length ? `<details class="more"><summary>ดูอีก ${rest.length} Day (Day ${rest[0].d}–${rest[rest.length - 1].d})</summary>${rest.map(x => todoDay(x, cd)).join('')}</details>` : ''}</div>`;
+  }
+  if (N > 0 && left.length) {
+    const behind = left.length > N;
+    const rows = cu.slots.map(s => {
+      const dt = todayDate(); dt.setDate(dt.getDate() + s.off); const m = s.days.reduce((a, x) => a + x.min, 0);
+      return `<tr class="${s.off === 0 ? 'today' : ''}"><td class="nowrap">${TH_WD_S[dt.getDay()]} ${dt.getDate()} ${TH_M[dt.getMonth()]}${s.off === 0 ? ' <span class="chip acc">วันนี้</span>' : ''}</td><td>${s.days.map(x => `<a href="#/day/${x.d}">Day ${x.d}</a> <span class="small muted">${esc(TYPE_SHORT[DAY(x.d).type])}</span>`).join(' + ')}</td><td>${m}</td></tr>`;
+    }).join('');
+    h += `<div class="card"><h2>แบ่ง Day ที่เหลือให้ทันวันสอบ</h2><p>${behind
+      ? `เหลือ <b>${left.length} Day</b> แต่มีเวลา <b>${N} วัน</b> ก่อนสอบ ${esc(thDate(ex, true))} — ต้องทำเฉลี่ยวันละ ${(left.length / N).toFixed(1)} Day (≈ ${Math.ceil(mins / N)} นาที/วัน) ตารางด้านล่างรวมวันให้ตามเวลาของขั้นที่ยังไม่ได้ทำ`
+      : `เหลือ <b>${left.length} Day</b> ใน <b>${N} วัน</b> ก่อนสอบ ${esc(thDate(ex, true))} — ทำวันละ 1 Day ก็ทัน${N > left.length ? ` และยังมีวันว่าง ${N - left.length} วัน ไว้ทวนข้อผิด/ศัพท์หรือพัก` : ''}`}</p>
+    ${behind ? `<div class="callout warn small"><b>ถ้าเวลาไม่พอจริง ๆ ให้ทำตามลำดับนี้ก่อน:</b> ① Reading Test / Full Mock (ฝึกทำ 120 นาทีต่อเนื่อง) ② Essay 60 นาทีวันอาทิตย์ ③ Reading รายวัน + Grammar quiz ④ คำศัพท์ (ทำ quiz หรือบัตรคำเร็ว ๆ) ⑤ งานเขียนย่อยวันธรรมดา — และติ๊ก “เสร็จ” เฉพาะขั้นที่ทำจริง ตารางนี้จะได้คำนวณถูก</div>` : ''}
+    <details class="more" ${behind ? 'open' : ''}><summary>ตัวอย่างการแบ่งรายวัน (${cu.slots.length} วัน)</summary><div class="tablewrap"><table class="t plan"><tr><th>วันที่</th><th>ทำ Day</th><th>นาที</th></tr>${rows}</table></div><p class="small muted">เป็นข้อเสนอแนะ ไม่ได้ล็อกวัน — ทำเร็วหรือช้ากว่านี้ได้ ตารางคำนวณใหม่ทุกครั้งที่สถานะเปลี่ยน · เปลี่ยนวันสอบได้ที่ <a href="#/settings">⚙ ตั้งค่า</a></p></details></div>`;
+  }
+  return h;
+}
+
 /* ---------- plan ---------- */
 function viewPlan() {
   const tn = rawTodayNum(); const f = S.ui.planF || 'all';
@@ -28,11 +98,11 @@ function viewPlan() {
     <div class="kpi"><div class="v">${DAYS.filter(d => d.essay || (d.task && d.task.kind === 'essay')).length + 3}</div><div class="l">Essay เต็ม (+ งานเขียนย่อทุกวัน)</div></div>
   </div></div>`;
   h += `<div class="card"><h2>กิจวัตรประจำวัน</h2><div class="tablewrap"><table class="t"><tr><th>วัน</th><th>ลำดับ (นาที)</th><th>รวม</th></tr>
-  <tr><td>จันทร์–ศุกร์</td><td>คำศัพท์ 15 → Reading 40 → Writing/Grammar 30 → สมุดข้อผิดพลาด 5 <span class="muted">(10–13 พ.ย.: ศัพท์ 10 → Reading จับเวลา 30 → Essay จับเวลา 40 → ข้อผิด 10)</span></td><td>90</td></tr>
-  <tr><td>เสาร์</td><td>Reading Test เต็มชุด 120 → คำศัพท์ 15 → ตรวจผล 15</td><td>150</td></tr>
-  <tr><td>อาทิตย์</td><td>Writing จับเวลา 60 → ทำซ้ำข้อผิดของสัปดาห์ 20 → ทวนศัพท์ 15</td><td>95</td></tr>
-  <tr><td>16–18 พ.ย.</td><td>Full Mock: Reading 120 → Writing 60 → ตรวจผล 20 → คำศัพท์ 15</td><td>215</td></tr>
-  <tr><td>19 พ.ย. / 20 พ.ย.</td><td>Error Review 90 นาที / Light Review 45 นาทีแล้วพัก</td><td></td></tr></table></div></div>`;
+  <tr><td>จันทร์–ศุกร์ <span class="small muted">(วันธรรมดา)</span></td><td>คำศัพท์ 15 → Reading 40 → Writing/Grammar 30 → สมุดข้อผิดพลาด 5 <span class="muted">(10–13 พ.ย. = Day 32–35: ศัพท์ 10 → Reading จับเวลา 30 → Essay จับเวลา 40 → ข้อผิด 10)</span></td><td>90</td></tr>
+  <tr><td>เสาร์ <span class="small muted">(Day ${DAYS.filter(x => x.type === 'test').map(x => x.d).join(', ')})</span></td><td>Reading Test เต็มชุด 120 → คำศัพท์ 15 → ตรวจผล 15</td><td>150</td></tr>
+  <tr><td>อาทิตย์ <span class="small muted">(Day ${DAYS.filter(x => x.type === 'sunday').map(x => x.d).join(', ')})</span></td><td>Writing จับเวลา 60 → ทำซ้ำข้อผิดของสัปดาห์ 20 → ทวนศัพท์ 15</td><td>95</td></tr>
+  <tr><td>16–18 พ.ย. <span class="small muted">(Day 38–40)</span></td><td>Full Mock: Reading 120 → Writing 60 → ตรวจผล 20 → คำศัพท์ 15</td><td>215</td></tr>
+  <tr><td>19 พ.ย. / 20 พ.ย. <span class="small muted">(Day 41 / 42)</span></td><td>Error Review 90 นาที / Light Review 45 นาทีแล้วพัก</td><td></td></tr></table></div>${calendarMode() ? '' : '<p class="small muted">วันที่ในตารางเป็นแผนเดิม — แอปนับ Day ตามความคืบหน้า ทำ Day ไหนเสร็จก็ติ๊กในคอลัมน์ “สถานะ” หรือหน้า <a href="#/todo">ที่ต้องทำ</a></p>'}</div>`;
   h += `<div class="card"><h2>ช่วงการเรียน</h2><div class="tablewrap"><table class="t"><tr><th>ช่วง</th><th>วันที่</th><th>Day</th><th>เป้าหมาย</th></tr>${PHASES.map(p => `<tr><td>${phaseChip(p.id)} ${esc(p.th)}</td><td>${esc(p.range)}</td><td>${p.days[0]}${p.days[1] !== p.days[0] ? '–' + p.days[1] : ''}</td><td>${esc(p.goal)}</td></tr>`).join('')}<tr><td><span class="chip no">สอบ</span></td><td>21 พ.ย.</td><td>—</td><td>Reading → Writing (ตรวจวันสอบจริง: ปฏิทินศูนย์ฯ ระบุรอบ พ.ย. = 14 พ.ย.)</td></tr></table></div></div>`;
   // calendar
   const calStart = new Date(2026, 9, 5); let cal = ['จ', 'อ', 'พ', 'พฤ', 'ศ', 'ส', 'อา'].map(x => `<div class="hd">${x}</div>`).join('');
@@ -43,22 +113,23 @@ function viewPlan() {
     else if (dt.toISOString && dt.getMonth() === 10 && dt.getDate() === 21) cal += `<div class="cell exam"><span class="dn">สอบ</span><span class="dd">21 พ.ย.</span><span>เป้าหมาย</span></div>`;
     else cal += `<div class="cell empty"><span class="dd">${dt.getDate()} ${TH_M[dt.getMonth()]}</span>${dt.getMonth() === 10 && dt.getDate() === 14 ? '<span class="tiny">รอบ PBT ศูนย์ฯ</span>' : ''}</div>`;
   }
-  h += `<div class="card noprint"><h2>ปฏิทิน</h2><div class="cal">${cal}</div><p class="small muted">สีแถบล่าง = ช่วงการเรียน · พื้นเขียว = ทำครบ · กรอบน้ำเงิน = วันนี้</p></div>`;
+  if (calendarMode()) h += `<div class="card noprint"><h2>ปฏิทิน</h2><div class="cal">${cal}</div><p class="small muted">สีแถบล่าง = ช่วงการเรียน · พื้นเขียว = ทำครบ · กรอบน้ำเงิน = วันนี้</p></div>`;
+  else h += `<div class="card noprint"><h2>สถานะรายวัน</h2>${dayGrid()}<details class="more"><summary>ปฏิทินตามแผนเดิม (10 ต.ค.–20 พ.ย.)</summary><div class="cal">${cal}</div><p class="small muted">สีแถบล่าง = ช่วงการเรียน · พื้นเขียว = ทำครบ · กรอบน้ำเงิน = Day ที่ต้องทำต่อ</p></details></div>`;
   // table
   const fb = [['all', 'ทั้งหมด']].concat(PHASES.map(p => [p.id, p.name]));
   h += `<div class="card"><h2>ตารางรายวัน</h2><div class="filters noprint">${fb.map(([k, l]) => `<button class="${f === k ? 'on' : ''}" data-act="planF" data-f="${k}">${esc(l)}</button>`).join('')}</div>
-  <div class="tablewrap"><table class="t plan"><tr><th>Day / วันที่</th><th>หัวข้อ</th><th>อ่านอะไร (เลขหน้าในหนังสือ)</th><th>ศัพท์</th><th>Reading</th><th>Writing</th><th>ข้อสอบวันนี้</th><th>นาที</th><th>สถานะ</th></tr>`;
+  <div class="tablewrap"><table class="t plan"><tr><th>Day / วันที่${calendarMode() ? '' : ' (แผนเดิม)'}</th><th>หัวข้อ</th><th>อ่านอะไร (เลขหน้าในหนังสือ)</th><th>ศัพท์</th><th>Reading</th><th>Writing</th><th>ข้อสอบวันนี้</th><th>นาที</th><th>สถานะ</th></tr>`;
   DAYS.filter(d => f === 'all' || d.phase === f).forEach(d => {
     const pr = dayProgress(d.d);
-    h += `<tr class="${d.d === tn ? 'today' : ''} ${pr.done ? 'done' : ''}"><td><a class="daylink" href="#/day/${d.d}">Day ${d.d}</a><div class="small">${esc(d.wd)} ${esc(d.dateTh)}</div>${phaseChip(d.phase)}</td><td><b>${esc(d.title)}</b></td><td><ul style="margin:0;padding-left:1rem">${d.read.map(it => `<li>${esc(shortRead(it))}</li>`).join('')}</ul></td><td>${esc(vocabShort(d.d))}</td><td>${esc(readingShort(d))}</td><td>${esc(taskShort(d))}${d.grams.map(id => DATA.grammar[id] ? `<div class="small muted">Grammar: ${esc(DATA.grammar[id].title_th)}</div>` : '').join('')}</td><td class="small">${esc(examShort(d.d))}</td><td>${d.minutes}</td><td>${pr.n}/${pr.total}</td></tr>`;
+    h += `<tr class="${d.d === tn ? 'today' : ''} ${pr.done ? 'done' : ''}"><td><a class="daylink" href="#/day/${d.d}">Day ${d.d}</a><div class="small">${esc(d.wd)} ${esc(d.dateTh)}</div>${phaseChip(d.phase)}</td><td><b>${esc(d.title)}</b></td><td><ul style="margin:0;padding-left:1rem">${d.read.map(it => `<li>${esc(shortRead(it))}</li>`).join('')}</ul></td><td>${esc(vocabShort(d.d))}</td><td>${esc(readingShort(d))}</td><td>${esc(taskShort(d))}${d.grams.map(id => DATA.grammar[id] ? `<div class="small muted">Grammar: ${esc(DATA.grammar[id].title_th)}</div>` : '').join('')}</td><td class="small">${esc(examShort(d.d))}</td><td>${d.minutes}</td><td class="nowrap">${pr.n}/${pr.total} ${chkBtn(d.d, pr)}</td></tr>`;
   });
   h += `</table></div></div>`;
   return h;
 }
 ACT.planF = el => { S.ui.planF = el.dataset.f; save(); render(true); };
 ACT.csv = () => {
-  const rows = [['Day', 'วันที่', 'วัน', 'ช่วง', 'หัวข้อ', 'อ่านอะไร', 'ศัพท์', 'Reading', 'Writing', 'Grammar', 'ข้อสอบวันนี้', 'นาที']];
-  DAYS.forEach(d => rows.push([d.d, d.date, d.wd, PHASE[d.phase].name, d.title, d.read.map(shortRead).join(' | '), vocabShort(d.d), readingShort(d), taskShort(d), d.grams.map(id => DATA.grammar[id] ? DATA.grammar[id].title_th : id).join(' + '), examShort(d.d), d.minutes]));
+  const rows = [['Day', 'วันที่', 'วัน', 'ช่วง', 'หัวข้อ', 'อ่านอะไร', 'ศัพท์', 'Reading', 'Writing', 'Grammar', 'ข้อสอบวันนี้', 'นาที', 'สถานะ']];
+  DAYS.forEach(d => { const p = dayProgress(d.d); rows.push([d.d, d.date, d.wd, PHASE[d.phase].name, d.title, d.read.map(shortRead).join(' | '), vocabShort(d.d), readingShort(d), taskShort(d), d.grams.map(id => DATA.grammar[id] ? DATA.grammar[id].title_th : id).join(' + '), examShort(d.d), d.minutes, p.done ? 'เสร็จแล้ว' : `ยังไม่เสร็จ (${p.n}/${p.total})`]); });
   download('KKU-AELT_42_Day_Plan.csv', '﻿' + rows.map(r => r.map(c => '"' + String(c).replace(/"/g, '""') + '"').join(',')).join('\r\n'), 'text/csv');
 };
 
@@ -181,6 +252,8 @@ function viewSettings() {
   const st = S.settings; const ex = st.exam;
   return `<div class="card"><h1>ตั้งค่าและสำรองข้อมูล</h1>
   <h3>วันสอบของฉัน (ใช้กับตัวนับถอยหลัง)</h3><div class="row">${[['2026-11-21', 'เสาร์ 21 พ.ย. 2569 (ตามแผน)'], ['2026-11-14', 'เสาร์ 14 พ.ย. 2569 (ปฏิทิน PBT ศูนย์ฯ)'], ['2026-12-12', 'เสาร์ 12 ธ.ค. 2569']].map(([v, l]) => `<button class="btn sm ${ex === v ? 'pri' : ''}" data-act="setExam" data-v="${v}">${l}</button>`).join('')}<input type="date" value="${esc(ex)}" data-chg="examDate" style="padding:6px;border-radius:8px;border:1px solid var(--line-2);background:var(--surface)"></div>
+  <h3>วิธีนับ “วันนี้”</h3><div class="row">${[['progress', 'ตามความคืบหน้า (ไม่ผูกวันที่)'], ['calendar', 'ตามวันที่ปฏิทิน (Day 1 = 10 ต.ค.)']].map(([v, l]) => `<button class="btn sm ${(st.dayMode === 'calendar' ? 'calendar' : 'progress') === v ? 'pri' : ''}" data-act="setDayMode" data-v="${v}">${l}</button>`).join('')}</div>
+  <p class="small muted">ตามความคืบหน้า: หน้า “วันนี้” เปิด Day แรกที่ยังทำไม่เสร็จ ทำช้าหรือเร็วกว่าแผนก็ได้ ติ๊กว่า Day ไหนเสร็จแล้วได้ที่หน้า <a href="#/todo">ที่ต้องทำ</a> · ตามวันที่ปฏิทิน: แบบเดิม Day ตรงกับวันที่ (เสาร์ 10 ต.ค. 2569 = Day 1)</p>
   <h3>ธีม</h3><div class="row">${[['light', 'Iron Man · สว่าง'], ['dark', 'JARVIS HUD · มืด']].map(([v, l]) => `<button class="btn sm ${(st.theme === 'dark' ? 'dark' : 'light') === v ? 'pri' : ''}" data-act="setTheme" data-v="${v}">${l}</button>`).join('')}</div>
   <h3>ขนาดตัวอักษร</h3><div class="row">${[['s', 'เล็ก'], ['m', 'ปกติ'], ['l', 'ใหญ่'], ['xl', 'ใหญ่มาก']].map(([v, l]) => `<button class="btn sm ${st.font === v ? 'pri' : ''}" data-act="setFont" data-v="${v}">${l}</button>`).join('')}</div>
   <h3>สำรอง / กู้คืน</h3><p class="small muted">ข้อมูลทั้งหมด (คำตอบ งานเขียน บันทึก ดาวคำศัพท์) เก็บในเบราว์เซอร์นี้เท่านั้น ถ้าเปลี่ยนเครื่อง/เบราว์เซอร์ หรือล้างข้อมูลเบราว์เซอร์ ข้อมูลจะหาย — สำรองเป็นไฟล์ JSON สัปดาห์ละครั้ง</p>
@@ -237,6 +310,7 @@ function startNet() {
   requestAnimationFrame(frame);
 }
 ACT.setExam = el => { S.settings.exam = el.dataset.v; save(); render(true); };
+ACT.setDayMode = el => { S.settings.dayMode = el.dataset.v === 'calendar' ? 'calendar' : 'progress'; save(); render(true); toast(el.dataset.v === 'calendar' ? 'นับวันตามวันที่ปฏิทิน' : 'นับวันตามความคืบหน้า — วันนี้ = Day ' + todayNum()); };
 INP.examDate = el => { if (el.value) { S.settings.exam = el.value; save(); render(true); } };
 ACT.setTheme = el => { S.settings.theme = el.dataset.v === 'dark' ? 'dark' : 'light'; applySettings(); save(); render(true); };
 ACT.setFont = el => { S.settings.font = el.dataset.v; applySettings(); save(); render(true); };
@@ -245,7 +319,7 @@ INP.restore = el => { const f = el.files && el.files[0]; if (!f) return; const r
 ACT.resetAll = () => { if (!confirm('ลบคำตอบ งานเขียน และบันทึกทั้งหมด?')) return; if (!confirm('ยืนยันอีกครั้ง — ลบแล้วกู้คืนไม่ได้ (ยกเว้นมีไฟล์สำรอง)')) return; S = defaultState(); save(true); applySettings(); render(); };
 
 function viewMore() {
-  const tiles = [['#/writing', 'pen', 'Writing Studio', 'งานเขียนทั้งหมด คลังหัวข้อ ตัวอย่าง'], ['#/stats', 'chart', 'สถิติ', 'คะแนน Test/Mock และทักษะ'], ['#/guide', 'book', 'คู่มือ', 'ข้อมูลข้อสอบ กลยุทธ์ template checklist'], ['#/settings', 'gear', 'ตั้งค่า', 'วันสอบ ธีม ขนาดตัวอักษร สำรองข้อมูล']];
+  const tiles = [['#/todo', 'list', 'ที่ต้องทำ', 'ติ๊กว่า Day ไหนเสร็จแล้ว ดูงานที่ยังค้าง'], ['#/writing', 'pen', 'Writing Studio', 'งานเขียนทั้งหมด คลังหัวข้อ ตัวอย่าง'], ['#/stats', 'chart', 'สถิติ', 'คะแนน Test/Mock และทักษะ'], ['#/guide', 'book', 'คู่มือ', 'ข้อมูลข้อสอบ กลยุทธ์ template checklist'], ['#/settings', 'gear', 'ตั้งค่า', 'วันสอบ ธีม ขนาดตัวอักษร สำรองข้อมูล']];
   return `<div class="card"><h1>เมนู</h1><div class="grid g2">${tiles.map(([hr, ic, t, d]) => `<a class="kpi menu-tile" href="${hr}">${ico(ic)}<span><b>${t}</b><span class="small muted" style="display:block">${d}</span></span></a>`).join('')}</div></div>`;
 }
 
@@ -258,6 +332,7 @@ function render(keep) {
   try {
     switch (r.view) {
       case 'today': html = viewDay(todayNum(), r.a); break;
+      case 'todo': html = viewTodo(); break;
       case 'day': html = viewDay(+r.a || 1, r.b); break;
       case 'plan': html = viewPlan(); break;
       case 'vocab': html = viewVocab(); break;
@@ -300,7 +375,7 @@ function updateCountdown() {
   $('#countdown').innerHTML = n > 0 ? `<span class="pulse"></span>T–<b>${n}</b> วัน<span class="cd-date"> · สอบ ${ex.getDate()} ${TH_M[ex.getMonth()]}</span>` : n === 0 ? '<span class="pulse"></span><b>วันนี้วันสอบ</b>' : 'ผ่านวันสอบแล้ว';
   const sc = $('#sideCard'); if (!sc) return;
   const dd = DAYS.filter(x => dayProgress(x.d).done).length; const tn = todayNum(); const pr = dayProgress(tn);
-  sc.innerHTML = `<div class="lbl">นับถอยหลังวันสอบ</div><div class="big">${n > 0 ? n + ' <small style="font-size:1rem;font-weight:500">วัน</small>' : n === 0 ? 'วันนี้!' : '—'}</div><div class="lbl">${thDate(ex, true)}</div><div class="bar"><i style="width:${pct(dd, NDAYS)}%"></i></div><div class="lbl">ทำครบ ${dd}/${NDAYS} วัน · วันนี้ ${pr.n}/${pr.total} ขั้น</div>`;
+  sc.innerHTML = `<div class="lbl">นับถอยหลังวันสอบ</div><div class="big">${n > 0 ? n + ' <small style="font-size:1rem;font-weight:500">วัน</small>' : n === 0 ? 'วันนี้!' : '—'}</div><div class="lbl">${thDate(ex, true)}</div><div class="bar"><i style="width:${pct(dd, NDAYS)}%"></i></div><div class="lbl">ทำครบ ${dd}/${NDAYS} วัน · ${calendarMode() ? `วันนี้ ${pr.n}/${pr.total} ขั้น` : allDaysDone() ? 'ครบทุก Day' : `ต่อที่ Day ${tn} (${pr.n}/${pr.total} ขั้น)`}</div>`;
 }
 
 window.addEventListener('hashchange', () => render());
