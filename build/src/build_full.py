@@ -187,6 +187,9 @@ rep('รวมวันละ 20–23 คำ</p>', 'รวมวันละ 20�
 rep("[['all', 'ทั้งหมด'], ['star', 'ติดดาว'], ['known', 'จำได้แล้ว'], ['new', 'ยังไม่ระบุ']].map(([k, l]) => `<button class=\"${f === k",
     "[['all', 'ทั้งหมด'], ['avl', 'Academic +300'], ['star', 'ติดดาว'], ['known', 'จำได้แล้ว'], ['new', 'ยังไม่ระบุ']].map(([k, l]) => `<button class=\"${f === k")
 rep('(เป้า 740)</div><progress max="740"', '(เป้า ${ALLWORDS.length})</div><progress max="${ALLWORDS.length}"')
+# Band grading under every full essay, and a Writing test tab in Writing Studio (build/src/js/writing_grade.js)
+rep("${ico('download')} .txt</button></div>`;", "${ico('download')} .txt</button></div>${short ? '' : gradeBox(key)}`;")
+rep("['models', 'ตัวอย่างจากเอกสารของคุณ']]", "['models', 'ตัวอย่างจากเอกสารของคุณ'], ['test', 'ข้อสอบ Writing · ตรวจ Band']]")
 # Writing Studio opens any essay topic, including the Band 7 prompts BE1-BE5
 rep("tab.startsWith('R')", "!!DATA.essays[tab]", 3)
 # Band 7 mocks (AM1, AM2) behave like the original mocks
@@ -201,7 +204,8 @@ rep("— ${esc(e.stance_reason_th)}</p>` : ''}",
     "— ${esc(e.stance_reason_th)}</p>` : ''}${e.band7_th ? `<p class=\"small\"><b>ทำไมตัวอย่างนี้อยู่ระดับ Band 7</b></p>"
     "<ul class=\"small\">${e.band7_th.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}")
 assert js.rstrip().endswith('boot();')
-js = js.rstrip()[:-len('boot();')] + '\n' + (HERE / 'js' / 'full_course.js').read_text(encoding='utf-8') + '\nboot();\n'
+js = js.rstrip()[:-len('boot();')] + '\n' + '\n'.join(
+    (HERE / 'js' / name).read_text(encoding='utf-8') for name in ('full_course.js', 'writing_grade.js')) + '\nboot();\n'
 
 html = (HERE / 'template.html').read_text(encoding='utf-8')
 html = html.replace('<title>KKU-AELT 42 วัน</title>', '<title>KKU-AELT 60 Day · Band 7</title>')
