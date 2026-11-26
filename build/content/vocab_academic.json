@@ -1,0 +1,2702 @@
+[
+ {
+  "w": "account for",
+  "pos": "phr. v.",
+  "th": "อธิบาย (สาเหตุ) / คิดเป็น (สัดส่วน) / เป็นสาเหตุของ",
+  "fam": "accountable (adj.), accountability (n.)",
+  "col": "account for the difference / account for 30 per cent of",
+  "ex": "Chronic diseases now account for more than 70 per cent of all deaths in many middle-income countries.",
+  "src": "AVL"
+ },
+ {
+  "w": "affirm",
+  "pos": "v.",
+  "th": "ยืนยัน / แสดงการสนับสนุนอย่างหนักแน่น",
+  "fam": "affirmation (n.), affirmative (adj.)",
+  "col": "affirm the importance of / affirm a commitment",
+  "ex": "The new policy affirms the government's commitment to providing free and equal access to primary education for all children.",
+  "src": "AVL"
+ },
+ {
+  "w": "aggravate",
+  "pos": "v.",
+  "th": "ทำให้แย่ลง / ทำให้รุนแรงขึ้น",
+  "fam": "aggravation (n.), aggravating (adj.)",
+  "col": "aggravate the problem / aggravate symptoms",
+  "ex": "Poor air quality in large cities can aggravate respiratory conditions such as asthma, particularly among children and older adults.",
+  "src": "AVL"
+ },
+ {
+  "w": "align",
+  "pos": "v.",
+  "th": "ทำให้สอดคล้อง / ปรับให้ตรงกัน",
+  "fam": "alignment (n.), aligned (adj.)",
+  "col": "align with goals / closely aligned",
+  "ex": "Universities are under pressure to align their curricula with the skills that employers in the digital economy actually need.",
+  "src": "AVL"
+ },
+ {
+  "w": "alleviate",
+  "pos": "v.",
+  "th": "บรรเทา / ทำให้ลดลง",
+  "fam": "alleviation (n.)",
+  "col": "alleviate poverty / alleviate symptoms",
+  "ex": "Expanding community health services could help alleviate the pressure on overcrowded hospitals in rapidly ageing societies.",
+  "src": "AVL"
+ },
+ {
+  "w": "amplify",
+  "pos": "v.",
+  "th": "ขยาย / ทำให้เพิ่มขึ้นหรือรุนแรงขึ้น",
+  "fam": "amplification (n.), amplifier (n.)",
+  "col": "amplify the effect / amplify voices",
+  "ex": "Social media algorithms may amplify misleading health information, making it spread faster than reliable advice from medical experts.",
+  "src": "AVL"
+ },
+ {
+  "w": "articulate",
+  "pos": "v.",
+  "th": "แสดงออกหรืออธิบายได้อย่างชัดเจน / ถ่ายทอดความคิดเป็นคำพูด",
+  "fam": "articulation (n.), articulate (adj.), articulately (adv.)",
+  "col": "articulate a vision / clearly articulate",
+  "ex": "Students who can clearly articulate their ideas in writing tend to perform better in university assessments across all disciplines.",
+  "src": "AVL"
+ },
+ {
+  "w": "ascertain",
+  "pos": "v.",
+  "th": "ตรวจสอบให้แน่ชัด / ค้นหาข้อเท็จจริง",
+  "fam": "ascertainable (adj.), ascertainment (n.)",
+  "col": "ascertain whether / ascertain the cause",
+  "ex": "Further research is needed to ascertain whether the benefits of the new teaching method last beyond the first year.",
+  "src": "AVL"
+ },
+ {
+  "w": "ascribe",
+  "pos": "v.",
+  "th": "ระบุว่า (สาเหตุ) มาจาก / ถือว่าเป็นคุณสมบัติของ",
+  "fam": "ascription (n.), ascribable (adj.)",
+  "col": "ascribe something to / ascribe importance to",
+  "ex": "Researchers ascribe the decline in teenage smoking largely to higher tobacco taxes and stricter advertising regulations.",
+  "src": "AVL"
+ },
+ {
+  "w": "attest",
+  "pos": "v.",
+  "th": "ยืนยัน / เป็นหลักฐานแสดงว่า",
+  "fam": "attestation (n.), attested (adj.)",
+  "col": "attest to the importance of / attest to the effectiveness of",
+  "ex": "Numerous studies attest to the positive effects of regular exercise on both physical health and mental well-being in older adults.",
+  "src": "AVL"
+ },
+ {
+  "w": "augment",
+  "pos": "v.",
+  "th": "เพิ่ม / เสริมให้มากขึ้น",
+  "fam": "augmentation (n.), augmented (adj.)",
+  "col": "augment income / augmented reality",
+  "ex": "Many retired people take part-time jobs to augment their pensions as the cost of living continues to rise.",
+  "src": "AVL"
+ },
+ {
+  "w": "characterise",
+  "pos": "v.",
+  "th": "เป็นลักษณะเด่นของ / บรรยายลักษณะว่า",
+  "fam": "characteristic (n., adj.), characterisation (n.), character (n.)",
+  "col": "characterised by / characterise as",
+  "ex": "The modern labour market is characterised by short-term contracts, remote work and a growing reliance on digital skills.",
+  "src": "AVL"
+ },
+ {
+  "w": "coexist",
+  "pos": "v.",
+  "th": "อยู่ร่วมกัน / ดำรงอยู่ควบคู่กัน",
+  "fam": "coexistence (n.), coexistent (adj.)",
+  "col": "coexist peacefully / coexist with",
+  "ex": "In many cities, traditional markets continue to coexist with large supermarkets and fast-growing online shopping platforms.",
+  "src": "AVL"
+ },
+ {
+  "w": "comply",
+  "pos": "v.",
+  "th": "ปฏิบัติตาม (กฎ ข้อบังคับ) / ทำตามข้อกำหนด",
+  "fam": "compliance (n.), compliant (adj.)",
+  "col": "comply with regulations / fail to comply",
+  "ex": "Factories that fail to comply with environmental regulations may face heavy fines or even be forced to close.",
+  "src": "AVL"
+ },
+ {
+  "w": "consolidate",
+  "pos": "v.",
+  "th": "ทำให้มั่นคงแข็งแรงขึ้น / รวมเข้าด้วยกัน",
+  "fam": "consolidation (n.), consolidated (adj.)",
+  "col": "consolidate knowledge / consolidate power",
+  "ex": "Regular review sessions help students consolidate what they have learned and transfer it into long-term memory.",
+  "src": "AVL"
+ },
+ {
+  "w": "corroborate",
+  "pos": "v.",
+  "th": "ยืนยัน (ด้วยหลักฐานเพิ่มเติม) / สนับสนุนข้อค้นพบ",
+  "fam": "corroboration (n.), corroborative (adj.)",
+  "col": "corroborate the findings / corroborating evidence",
+  "ex": "The results of the second survey corroborate earlier findings that online learning increases feelings of isolation among first-year students.",
+  "src": "AVL"
+ },
+ {
+  "w": "critique",
+  "pos": "v.",
+  "th": "วิพากษ์วิจารณ์ / วิเคราะห์ประเมินเชิงวิจารณ์",
+  "fam": "critique (n.), critical (adj.), criticism (n.), critic (n.)",
+  "col": "critique an argument / critique the methodology",
+  "ex": "Students are expected to critique the methodology of published studies rather than simply summarising their main findings.",
+  "src": "AVL"
+ },
+ {
+  "w": "culminate",
+  "pos": "v.",
+  "th": "สิ้นสุดลงด้วย / ถึงจุดสูงสุด",
+  "fam": "culmination (n.)",
+  "col": "culminate in / culminating in",
+  "ex": "Years of public campaigns against plastic waste culminated in a nationwide ban on single-use plastic bags.",
+  "src": "AVL"
+ },
+ {
+  "w": "curtail",
+  "pos": "v.",
+  "th": "ลดทอน / จำกัด / ตัดทอน",
+  "fam": "curtailment (n.)",
+  "col": "curtail spending / curtail freedom",
+  "ex": "Governments may need to curtail the use of private cars in city centres to meet their carbon reduction targets.",
+  "src": "AVL"
+ },
+ {
+  "w": "deem",
+  "pos": "v.",
+  "th": "ถือว่า / เห็นว่า / พิจารณาว่า",
+  "fam": "deemed (adj.)",
+  "col": "deem necessary / deemed appropriate",
+  "ex": "Some food additives once deemed safe have since been banned after new research revealed links to serious health problems.",
+  "src": "AVL"
+ },
+ {
+  "w": "delineate",
+  "pos": "v.",
+  "th": "อธิบายอย่างละเอียดชัดเจน / กำหนดขอบเขต",
+  "fam": "delineation (n.)",
+  "col": "clearly delineate / delineate the boundaries",
+  "ex": "The report clearly delineates the responsibilities of schools, parents and local authorities in protecting children's online safety.",
+  "src": "AVL"
+ },
+ {
+  "w": "deploy",
+  "pos": "v.",
+  "th": "นำมาใช้งาน / ติดตั้งใช้งาน / ส่ง (กำลังคน) ไปปฏิบัติงาน",
+  "fam": "deployment (n.)",
+  "col": "deploy technology / deploy resources",
+  "ex": "Hospitals are beginning to deploy artificial intelligence tools to detect early signs of cancer in medical images.",
+  "src": "AVL"
+ },
+ {
+  "w": "depict",
+  "pos": "v.",
+  "th": "แสดงภาพ / พรรณนา",
+  "fam": "depiction (n.)",
+  "col": "depict as / accurately depict",
+  "ex": "The graph depicts a steady rise in the proportion of people aged over sixty-five between 1990 and 2020.",
+  "src": "AVL"
+ },
+ {
+  "w": "deteriorate",
+  "pos": "v.",
+  "th": "เสื่อมลง / แย่ลง",
+  "fam": "deterioration (n.), deteriorating (adj.)",
+  "col": "deteriorate rapidly / deteriorating health",
+  "ex": "Without regular maintenance, public infrastructure such as roads and bridges can deteriorate rapidly and become dangerous for users.",
+  "src": "AVL"
+ },
+ {
+  "w": "disclose",
+  "pos": "v.",
+  "th": "เปิดเผย (ข้อมูล) / แจ้งให้ทราบ",
+  "fam": "disclosure (n.)",
+  "col": "disclose information / disclose personal data",
+  "ex": "Technology companies are increasingly required to disclose how they collect and use their customers' personal data.",
+  "src": "AVL"
+ },
+ {
+  "w": "discern",
+  "pos": "v.",
+  "th": "แยกแยะ / มองออก / รับรู้ได้",
+  "fam": "discernible (adj.), discerning (adj.), discernment (n.)",
+  "col": "discern a pattern / difficult to discern",
+  "ex": "Young children often find it difficult to discern the difference between advertising and genuine content on video-sharing platforms.",
+  "src": "AVL"
+ },
+ {
+  "w": "disseminate",
+  "pos": "v.",
+  "th": "เผยแพร่ / กระจาย (ข้อมูล ความรู้)",
+  "fam": "dissemination (n.)",
+  "col": "disseminate information / disseminate research findings",
+  "ex": "Public health agencies used text messages and social media to disseminate accurate information quickly during the pandemic.",
+  "src": "AVL"
+ },
+ {
+  "w": "elaborate",
+  "pos": "v.",
+  "th": "อธิบายเพิ่มเติมอย่างละเอียด / ขยายความ",
+  "fam": "elaboration (n.), elaborate (adj.), elaborately (adv.)",
+  "col": "elaborate on / elaborate further",
+  "ex": "In the body paragraphs, writers should elaborate on each main point with relevant examples and supporting evidence.",
+  "src": "AVL"
+ },
+ {
+  "w": "elicit",
+  "pos": "v.",
+  "th": "กระตุ้นให้เกิด (การตอบสนอง) / ดึง (ข้อมูล คำตอบ) ออกมา",
+  "fam": "elicitation (n.)",
+  "col": "elicit a response / elicit information",
+  "ex": "The questionnaire was designed to elicit honest responses from employees about their levels of stress at work.",
+  "src": "AVL"
+ },
+ {
+  "w": "embody",
+  "pos": "v.",
+  "th": "เป็นรูปธรรมของ / สะท้อน (แนวคิด คุณค่า)",
+  "fam": "embodiment (n.), embodied (adj.)",
+  "col": "embody values / embody the principle",
+  "ex": "The new national curriculum embodies the principle that every child should have equal opportunities to develop their potential.",
+  "src": "AVL"
+ },
+ {
+  "w": "embrace",
+  "pos": "v.",
+  "th": "ยอมรับ (แนวคิด การเปลี่ยนแปลง) / นำมาใช้อย่างเต็มใจ",
+  "fam": "embrace (n.)",
+  "col": "embrace change / embrace new technology",
+  "ex": "Older workers who embrace new technology are more likely to remain employed as workplaces become increasingly digital.",
+  "src": "AVL"
+ },
+ {
+  "w": "encompass",
+  "pos": "v.",
+  "th": "ครอบคลุม / รวมถึง",
+  "fam": "all-encompassing (adj.)",
+  "col": "encompass a wide range of / encompass all aspects",
+  "ex": "Public health today encompasses a wide range of issues, from infectious disease control to mental health and nutrition.",
+  "src": "AVL"
+ },
+ {
+  "w": "endorse",
+  "pos": "v.",
+  "th": "สนับสนุน / รับรอง / เห็นชอบ",
+  "fam": "endorsement (n.)",
+  "col": "endorse a policy / publicly endorse",
+  "ex": "Several medical associations have endorsed the proposal to introduce a tax on sugary drinks to reduce childhood obesity.",
+  "src": "AVL"
+ },
+ {
+  "w": "entail",
+  "pos": "v.",
+  "th": "ทำให้ต้องมี / เกี่ยวข้องกับ / ก่อให้เกิด (ผลตามมา)",
+  "fam": "entailment (n.)",
+  "col": "entail risks / entail costs",
+  "ex": "Moving to a fully online system of education would entail significant costs for training teachers and upgrading equipment.",
+  "src": "AVL"
+ },
+ {
+  "w": "envisage",
+  "pos": "v.",
+  "th": "คาดการณ์ / มองเห็นภาพ (ในอนาคต) / วาดภาพไว้",
+  "fam": "envision (v.), envisaged (adj.)",
+  "col": "envisage a future / it is envisaged that",
+  "ex": "Urban planners envisage a future in which most city residents travel by public transport, bicycle or on foot.",
+  "src": "AVL"
+ },
+ {
+  "w": "exacerbate",
+  "pos": "v.",
+  "th": "ทำให้รุนแรงขึ้น / ทำให้แย่ลง",
+  "fam": "exacerbation (n.)",
+  "col": "exacerbate the problem / exacerbate inequality",
+  "ex": "Rising housing costs have exacerbated inequality, as young people on low incomes struggle to afford homes in major cities.",
+  "src": "AVL"
+ },
+ {
+  "w": "exemplify",
+  "pos": "v.",
+  "th": "เป็นตัวอย่างของ / แสดงให้เห็นด้วยตัวอย่าง",
+  "fam": "example (n.), exemplary (adj.), exemplification (n.)",
+  "col": "exemplify the trend / best exemplified by",
+  "ex": "Finland's education system exemplifies how investing in highly qualified teachers can produce strong results for all students.",
+  "src": "AVL"
+ },
+ {
+  "w": "expedite",
+  "pos": "v.",
+  "th": "เร่ง / ทำให้เร็วขึ้น",
+  "fam": "expeditious (adj.), expeditiously (adv.)",
+  "col": "expedite the process / expedite approval",
+  "ex": "Digital application systems can expedite the process of approving building permits and reduce opportunities for corruption.",
+  "src": "AVL"
+ },
+ {
+  "w": "extrapolate",
+  "pos": "v.",
+  "th": "อนุมาน / คาดการณ์จากข้อมูลที่มีอยู่",
+  "fam": "extrapolation (n.)",
+  "col": "extrapolate from data / extrapolate the results",
+  "ex": "It is risky to extrapolate from a small sample of urban schools to the national student population as a whole.",
+  "src": "AVL"
+ },
+ {
+  "w": "foster",
+  "pos": "v.",
+  "th": "ส่งเสริม / บ่มเพาะ / สนับสนุนให้เกิด",
+  "fam": "fostering (n.), foster (adj.)",
+  "col": "foster creativity / foster cooperation",
+  "ex": "Group projects can foster cooperation and communication skills that are highly valued by employers in the modern workplace.",
+  "src": "AVL"
+ },
+ {
+  "w": "gauge",
+  "pos": "v.",
+  "th": "ประเมิน / วัด",
+  "fam": "gauge (n.)",
+  "col": "gauge public opinion / difficult to gauge",
+  "ex": "Researchers conducted an online survey to gauge public opinion on the use of facial recognition technology in schools.",
+  "src": "AVL"
+ },
+ {
+  "w": "govern",
+  "pos": "v.",
+  "th": "ควบคุม / กำกับ / ปกครอง",
+  "fam": "government (n.), governance (n.), governing (adj.)",
+  "col": "govern the use of / rules governing",
+  "ex": "Clear international rules are needed to govern the use of artificial intelligence in healthcare and financial services.",
+  "src": "AVL"
+ },
+ {
+  "w": "hamper",
+  "pos": "v.",
+  "th": "ขัดขวาง / เป็นอุปสรรค",
+  "fam": "unhampered (adj.)",
+  "col": "hamper progress / hamper efforts",
+  "ex": "A shortage of qualified nurses continues to hamper efforts to improve care for elderly patients in rural areas.",
+  "src": "AVL"
+ },
+ {
+  "w": "hinder",
+  "pos": "v.",
+  "th": "ขัดขวาง / ถ่วง / ทำให้ล่าช้า",
+  "fam": "hindrance (n.)",
+  "col": "hinder development / hinder progress",
+  "ex": "Limited internet access in remote villages may hinder students' ability to complete online assignments and access learning resources.",
+  "src": "AVL"
+ },
+ {
+  "w": "impede",
+  "pos": "v.",
+  "th": "ขัดขวาง / กีดขวาง",
+  "fam": "impediment (n.)",
+  "col": "impede progress / impede growth",
+  "ex": "Complex bureaucratic procedures can impede the growth of small businesses and discourage young people from becoming entrepreneurs.",
+  "src": "AVL"
+ },
+ {
+  "w": "instil",
+  "pos": "v.",
+  "th": "ปลูกฝัง / บ่มเพาะ (ค่านิยม นิสัย)",
+  "fam": "instillation (n.)",
+  "col": "instil values / instil confidence",
+  "ex": "Schools play a key role in instilling healthy eating habits and positive attitudes towards exercise in children from an early age.",
+  "src": "AVL"
+ },
+ {
+  "w": "juxtapose",
+  "pos": "v.",
+  "th": "นำมาวางเทียบเคียงกัน / วางคู่กันเพื่อเปรียบเทียบ",
+  "fam": "juxtaposition (n.)",
+  "col": "juxtapose with / juxtapose two views",
+  "ex": "The article juxtaposes the experiences of rural and urban students to highlight inequalities in access to quality education.",
+  "src": "AVL"
+ },
+ {
+  "w": "mandate",
+  "pos": "v.",
+  "th": "กำหนดให้ต้อง / บังคับ (ตามกฎหมาย) / มอบอำนาจ",
+  "fam": "mandate (n.), mandatory (adj.)",
+  "col": "mandate that / legally mandated",
+  "ex": "Several countries now mandate that large companies publish annual reports on their greenhouse gas emissions and climate risks.",
+  "src": "AVL"
+ },
+ {
+  "w": "mobilise",
+  "pos": "v.",
+  "th": "ระดม (กำลัง ทรัพยากร) / เคลื่อนกำลัง",
+  "fam": "mobilisation (n.)",
+  "col": "mobilise resources / mobilise support",
+  "ex": "Local communities mobilised volunteers and resources to clean up rivers polluted by industrial and household waste.",
+  "src": "AVL"
+ },
+ {
+  "w": "necessitate",
+  "pos": "v.",
+  "th": "ทำให้จำเป็นต้อง / ต้องอาศัย",
+  "fam": "necessity (n.), necessary (adj.), necessarily (adv.)",
+  "col": "necessitate changes / necessitate further research",
+  "ex": "The rapid ageing of the population will necessitate major changes to pension systems and long-term care services.",
+  "src": "AVL"
+ },
+ {
+  "w": "negotiate",
+  "pos": "v.",
+  "th": "เจรจา / ต่อรอง",
+  "fam": "negotiation (n.), negotiator (n.), negotiable (adj.)",
+  "col": "negotiate an agreement / negotiate with",
+  "ex": "Trade unions negotiated an agreement that allows employees to work from home for up to three days per week.",
+  "src": "AVL"
+ },
+ {
+  "w": "nurture",
+  "pos": "v.",
+  "th": "บ่มเพาะ / เลี้ยงดู / ส่งเสริมให้เติบโต",
+  "fam": "nurture (n.), nurturing (adj.)",
+  "col": "nurture talent / nurture creativity",
+  "ex": "Teachers who nurture curiosity in the classroom help students develop a lifelong interest in learning and research.",
+  "src": "AVL"
+ },
+ {
+  "w": "obscure",
+  "pos": "v.",
+  "th": "บดบัง / ทำให้คลุมเครือ / ทำให้มองไม่เห็น",
+  "fam": "obscure (adj.), obscurity (n.)",
+  "col": "obscure the fact that / obscure the truth",
+  "ex": "Average income figures can obscure the fact that many households in the region still live below the poverty line.",
+  "src": "AVL"
+ },
+ {
+  "w": "outline",
+  "pos": "v.",
+  "th": "สรุปประเด็นหลัก / อธิบายโดยสังเขป / ร่างโครง",
+  "fam": "outline (n.)",
+  "col": "outline the main points / briefly outline",
+  "ex": "The first section of the report outlines the main causes of youth unemployment and proposes several practical solutions.",
+  "src": "AVL"
+ },
+ {
+  "w": "outperform",
+  "pos": "v.",
+  "th": "ทำได้ดีกว่า / มีผลงานเหนือกว่า",
+  "fam": "perform (v.), performance (n.)",
+  "col": "outperform competitors / consistently outperform",
+  "ex": "In the study, students who learned in small groups consistently outperformed those taught through traditional lectures.",
+  "src": "AVL"
+ },
+ {
+  "w": "oversee",
+  "pos": "v.",
+  "th": "ควบคุมดูแล / กำกับดูแล",
+  "fam": "overseer (n.), oversight (n.)",
+  "col": "oversee the implementation / oversee operations",
+  "ex": "An independent committee was established to oversee the implementation of the new environmental protection policy.",
+  "src": "AVL"
+ },
+ {
+  "w": "perpetuate",
+  "pos": "v.",
+  "th": "ทำให้คงอยู่ต่อไป / สืบทอด (ปัญหา ความเชื่อ)",
+  "fam": "perpetuation (n.), perpetual (adj.)",
+  "col": "perpetuate stereotypes / perpetuate inequality",
+  "ex": "Critics argue that some AI hiring tools perpetuate gender stereotypes because they are trained on biased historical data.",
+  "src": "AVL"
+ },
+ {
+  "w": "pinpoint",
+  "pos": "v.",
+  "th": "ระบุได้อย่างแม่นยำ / ชี้ชัด",
+  "fam": "pinpoint (adj.), pinpoint (n.)",
+  "col": "pinpoint the cause / difficult to pinpoint",
+  "ex": "Scientists have not yet been able to pinpoint the exact cause of the sharp decline in bee populations.",
+  "src": "AVL"
+ },
+ {
+  "w": "posit",
+  "pos": "v.",
+  "th": "ตั้งสมมติฐานว่า / เสนอ (แนวคิด) ว่า",
+  "fam": "posited (adj.)",
+  "col": "posit that / posit a theory",
+  "ex": "Some researchers posit that excessive screen time reduces children's attention span, although the evidence remains inconclusive.",
+  "src": "AVL"
+ },
+ {
+  "w": "postulate",
+  "pos": "v.",
+  "th": "ตั้งสมมติฐาน / สันนิษฐานว่า",
+  "fam": "postulate (n.), postulation (n.)",
+  "col": "postulate that / postulate a link",
+  "ex": "Early studies postulated a direct link between social media use and depression among teenagers, but later findings were mixed.",
+  "src": "AVL"
+ },
+ {
+  "w": "precipitate",
+  "pos": "v.",
+  "th": "เร่งให้เกิดขึ้น (อย่างฉับพลัน) / เป็นชนวนให้เกิด",
+  "fam": "precipitation (n.), precipitate (adj.)",
+  "col": "precipitate a crisis / precipitate a decline",
+  "ex": "The sudden closure of the region's largest factory precipitated a sharp rise in local unemployment and poverty.",
+  "src": "AVL"
+ },
+ {
+  "w": "preclude",
+  "pos": "v.",
+  "th": "ขัดขวาง / ทำให้เป็นไปไม่ได้ / ตัดโอกาส",
+  "fam": "preclusion (n.)",
+  "col": "preclude the possibility / preclude someone from",
+  "ex": "A physical disability should not preclude anyone from accessing higher education or pursuing a professional career.",
+  "src": "AVL"
+ },
+ {
+  "w": "presuppose",
+  "pos": "v.",
+  "th": "สันนิษฐานไว้ก่อน / ต้องมี...เป็นพื้นฐาน",
+  "fam": "presupposition (n.)",
+  "col": "presuppose that / presuppose knowledge",
+  "ex": "Online courses often presuppose that all learners have reliable internet access and the skills to study independently.",
+  "src": "AVL"
+ },
+ {
+  "w": "proliferate",
+  "pos": "v.",
+  "th": "แพร่หลายอย่างรวดเร็ว / เพิ่มจำนวนอย่างรวดเร็ว",
+  "fam": "proliferation (n.)",
+  "col": "rapidly proliferate / proliferate online",
+  "ex": "Fake news websites have proliferated in recent years, making it harder for citizens to identify trustworthy sources of information.",
+  "src": "AVL"
+ },
+ {
+  "w": "prompt",
+  "pos": "v.",
+  "th": "กระตุ้นให้ / ทำให้เกิด / เป็นเหตุให้",
+  "fam": "prompt (adj.), promptly (adv.), prompt (n.)",
+  "col": "prompt concern / prompt a debate",
+  "ex": "Rising rates of obesity among children have prompted many schools to remove sugary drinks from their canteens.",
+  "src": "AVL"
+ },
+ {
+  "w": "propagate",
+  "pos": "v.",
+  "th": "เผยแพร่ / แพร่กระจาย / ขยายพันธุ์",
+  "fam": "propagation (n.), propaganda (n.)",
+  "col": "propagate ideas / propagate misinformation",
+  "ex": "Automated accounts are often used to propagate misinformation about vaccines across social media platforms during public health emergencies.",
+  "src": "AVL"
+ },
+ {
+  "w": "quantify",
+  "pos": "v.",
+  "th": "วัดเป็นปริมาณ / ประเมินเชิงปริมาณ",
+  "fam": "quantity (n.), quantitative (adj.), quantifiable (adj.), quantification (n.)",
+  "col": "difficult to quantify / quantify the impact",
+  "ex": "It is difficult to quantify the long-term benefits of early childhood education, but most studies suggest they are substantial.",
+  "src": "AVL"
+ },
+ {
+  "w": "reconcile",
+  "pos": "v.",
+  "th": "ทำให้สอดคล้องกัน / ประนีประนอม / คืนดี",
+  "fam": "reconciliation (n.), irreconcilable (adj.)",
+  "col": "reconcile economic growth with / reconcile differences",
+  "ex": "Developing countries face the challenge of reconciling rapid economic growth with the need to protect the natural environment.",
+  "src": "AVL"
+ },
+ {
+  "w": "rectify",
+  "pos": "v.",
+  "th": "แก้ไขให้ถูกต้อง / ปรับปรุงให้ดีขึ้น",
+  "fam": "rectification (n.)",
+  "col": "rectify the situation / rectify the problem",
+  "ex": "The government has promised to rectify the shortage of teachers in rural schools by offering higher salaries and housing.",
+  "src": "AVL"
+ },
+ {
+  "w": "refute",
+  "pos": "v.",
+  "th": "หักล้าง / โต้แย้ง (ด้วยหลักฐาน)",
+  "fam": "refutation (n.), irrefutable (adj.)",
+  "col": "refute the claim / refute an argument",
+  "ex": "Large-scale studies involving millions of children have firmly refuted the claim that vaccines cause autism.",
+  "src": "AVL"
+ },
+ {
+  "w": "reiterate",
+  "pos": "v.",
+  "th": "ย้ำ / กล่าวซ้ำ",
+  "fam": "reiteration (n.)",
+  "col": "reiterate the importance of / reiterate a point",
+  "ex": "In the conclusion, writers should reiterate their main argument without simply copying sentences from the introduction.",
+  "src": "AVL"
+ },
+ {
+  "w": "render",
+  "pos": "v.",
+  "th": "ทำให้ (กลายเป็น) / ให้ (ความช่วยเหลือ บริการ)",
+  "fam": "rendering (n.), rendition (n.)",
+  "col": "render obsolete / render assistance",
+  "ex": "Advances in automation could render many routine office jobs obsolete within the next two decades.",
+  "src": "AVL"
+ },
+ {
+  "w": "replicate",
+  "pos": "v.",
+  "th": "ทำซ้ำ (การทดลอง) / ลอกแบบ",
+  "fam": "replication (n.), replicable (adj.)",
+  "col": "replicate the findings / replicate a study",
+  "ex": "Other research teams have been unable to replicate the findings, raising doubts about the reliability of the original study.",
+  "src": "AVL"
+ },
+ {
+  "w": "retrieve",
+  "pos": "v.",
+  "th": "ค้นคืน / ดึง (ข้อมูล) กลับมา / เรียกคืน",
+  "fam": "retrieval (n.), retrievable (adj.)",
+  "col": "retrieve information / retrieve data",
+  "ex": "Testing yourself regularly, rather than rereading notes, strengthens the brain's ability to retrieve information quickly during examinations.",
+  "src": "AVL"
+ },
+ {
+  "w": "scrutinise",
+  "pos": "v.",
+  "th": "ตรวจสอบอย่างละเอียดถี่ถ้วน / พิจารณาอย่างพินิจพิเคราะห์",
+  "fam": "scrutiny (n.)",
+  "col": "closely scrutinise / scrutinise the data",
+  "ex": "Journal reviewers carefully scrutinise the data and methods of each study before it is accepted for publication.",
+  "src": "AVL"
+ },
+ {
+  "w": "signify",
+  "pos": "v.",
+  "th": "หมายถึง / บ่งชี้ / แสดงถึง",
+  "fam": "significance (n.), significant (adj.), signification (n.)",
+  "col": "signify a change / signify that",
+  "ex": "The sharp fall in birth rates signifies a major shift in attitudes towards marriage and family life.",
+  "src": "AVL"
+ },
+ {
+  "w": "stem from",
+  "pos": "phr. v.",
+  "th": "เกิดจาก / มีที่มาจาก",
+  "fam": "—",
+  "col": "stem from a lack of / problems stem from",
+  "ex": "Many health problems among office workers stem from long hours of sitting and a lack of regular physical activity.",
+  "src": "AVL"
+ },
+ {
+  "w": "stipulate",
+  "pos": "v.",
+  "th": "กำหนด (เป็นเงื่อนไข) / ระบุไว้ (ในกฎหมาย ข้อตกลง)",
+  "fam": "stipulation (n.)",
+  "col": "stipulate that / clearly stipulated",
+  "ex": "The new law stipulates that all employees must receive at least ten days of paid annual leave each year.",
+  "src": "AVL"
+ },
+ {
+  "w": "streamline",
+  "pos": "v.",
+  "th": "ปรับให้กระชับและมีประสิทธิภาพ / ทำให้คล่องตัวขึ้น",
+  "fam": "streamlined (adj.)",
+  "col": "streamline the process / streamline operations",
+  "ex": "Many hospitals have used digital records to streamline administrative processes and reduce waiting times for patients.",
+  "src": "AVL"
+ },
+ {
+  "w": "substantiate",
+  "pos": "v.",
+  "th": "พิสูจน์ / ยืนยันด้วยหลักฐาน",
+  "fam": "substantiation (n.), unsubstantiated (adj.)",
+  "col": "substantiate a claim / substantiate with evidence",
+  "ex": "In an opinion essay, you should substantiate each claim with relevant examples, statistics or findings from research.",
+  "src": "AVL"
+ },
+ {
+  "w": "supersede",
+  "pos": "v.",
+  "th": "แทนที่ / เข้ามาแทน (สิ่งเก่า)",
+  "fam": "supersession (n.), superseded (adj.)",
+  "col": "supersede the old system / be superseded by",
+  "ex": "Paper-based medical records are gradually being superseded by electronic systems that can be shared between hospitals.",
+  "src": "AVL"
+ },
+ {
+  "w": "uphold",
+  "pos": "v.",
+  "th": "รักษาไว้ / ยึดถือ / ธำรงไว้",
+  "fam": "upholder (n.)",
+  "col": "uphold the law / uphold standards",
+  "ex": "Universities must uphold high standards of academic integrity, especially as AI writing tools become widely available to students.",
+  "src": "AVL"
+ },
+ {
+  "w": "warrant",
+  "pos": "v.",
+  "th": "สมควรได้รับ / เป็นเหตุอันสมควรให้",
+  "fam": "warrant (n.), unwarranted (adj.), warranty (n.)",
+  "col": "warrant further investigation / warrant attention",
+  "ex": "The unexpected rise in childhood allergies over the past decade warrants further investigation into possible environmental causes.",
+  "src": "AVL"
+ },
+ {
+  "w": "yield",
+  "pos": "v.",
+  "th": "ให้ผล / ก่อให้เกิด / ยอมจำนน",
+  "fam": "yield (n.)",
+  "col": "yield results / yield benefits",
+  "ex": "The pilot programme yielded promising results, with participants reporting lower stress levels and improved sleep after eight weeks.",
+  "src": "AVL"
+ },
+ {
+  "w": "compromise",
+  "pos": "v.",
+  "th": "ทำให้เสียหายหรือลดทอน (คุณภาพ ความปลอดภัย) / ประนีประนอม",
+  "fam": "compromise (n.), compromising (adj.), uncompromising (adj.)",
+  "col": "compromise safety / compromise quality",
+  "ex": "Cutting the education budget too sharply could compromise the quality of teaching and learning in public schools.",
+  "src": "AVL"
+ },
+ {
+  "w": "curb",
+  "pos": "v.",
+  "th": "ควบคุม / จำกัด / ยับยั้ง",
+  "fam": "curb (n.)",
+  "col": "curb emissions / curb spending",
+  "ex": "Many cities have introduced congestion charges to curb traffic and reduce air pollution in their central business districts.",
+  "src": "AVL"
+ },
+ {
+  "w": "embark on",
+  "pos": "phr. v.",
+  "th": "เริ่มต้น (สิ่งใหม่ที่สำคัญ) / ลงมือทำ",
+  "fam": "embarkation (n.)",
+  "col": "embark on a career / embark on a project",
+  "ex": "More adults are choosing to embark on a second career in their fifties as people live and work longer.",
+  "src": "AVL"
+ },
+ {
+  "w": "emulate",
+  "pos": "v.",
+  "th": "เลียนแบบ (เพื่อให้ได้ดีเท่า) / ถือเป็นแบบอย่าง",
+  "fam": "emulation (n.)",
+  "col": "emulate the success of / try to emulate",
+  "ex": "Several Asian countries have tried to emulate the success of Singapore's education system by investing heavily in teacher training.",
+  "src": "AVL"
+ },
+ {
+  "w": "enact",
+  "pos": "v.",
+  "th": "ตรา (กฎหมาย) / บัญญัติ / นำไปปฏิบัติ",
+  "fam": "enactment (n.)",
+  "col": "enact legislation / enact a law",
+  "ex": "The government enacted legislation requiring all new buildings to meet strict energy efficiency standards by the end of the decade.",
+  "src": "AVL"
+ },
+ {
+  "w": "enrich",
+  "pos": "v.",
+  "th": "ทำให้สมบูรณ์ขึ้น / เพิ่มคุณค่า",
+  "fam": "enrichment (n.), enriched (adj.), rich (adj.)",
+  "col": "enrich the learning experience / enrich lives",
+  "ex": "Study-abroad programmes can enrich students' learning experience by exposing them to different cultures, languages and ways of thinking.",
+  "src": "AVL"
+ },
+ {
+  "w": "exert",
+  "pos": "v.",
+  "th": "ใช้ (อำนาจ อิทธิพล แรงกดดัน) / ออกแรง",
+  "fam": "exertion (n.)",
+  "col": "exert influence / exert pressure",
+  "ex": "Large technology companies exert considerable influence over the way young people form opinions and consume news.",
+  "src": "AVL"
+ },
+ {
+  "w": "forge",
+  "pos": "v.",
+  "th": "สร้าง (ความสัมพันธ์ ความร่วมมือ) ให้มั่นคง / ปลอมแปลง",
+  "fam": "forgery (n.), forged (adj.)",
+  "col": "forge partnerships / forge links",
+  "ex": "Universities are forging partnerships with local industries to ensure that graduates have the practical skills employers require.",
+  "src": "AVL"
+ },
+ {
+  "w": "harness",
+  "pos": "v.",
+  "th": "นำ (พลังงาน ทรัพยากร) มาใช้ประโยชน์ / ควบคุมเพื่อใช้งาน",
+  "fam": "harness (n.)",
+  "col": "harness solar energy / harness the power of",
+  "ex": "Countries with abundant sunshine are well placed to harness solar energy and reduce their dependence on fossil fuels.",
+  "src": "AVL"
+ },
+ {
+  "w": "safeguard",
+  "pos": "v.",
+  "th": "ปกป้อง / คุ้มครอง",
+  "fam": "safeguard (n.), safe (adj.), safety (n.)",
+  "col": "safeguard privacy / safeguard the environment",
+  "ex": "Stronger data protection laws are needed to safeguard users' privacy as more personal information is collected by apps.",
+  "src": "AVL"
+ },
+ {
+  "w": "surpass",
+  "pos": "v.",
+  "th": "เหนือกว่า / แซงหน้า / เกิน",
+  "fam": "unsurpassed (adj.)",
+  "col": "surpass expectations / surpass the target",
+  "ex": "In several countries, the number of people aged over sixty-five has already surpassed the number of children under fifteen.",
+  "src": "AVL"
+ },
+ {
+  "w": "transcend",
+  "pos": "v.",
+  "th": "ก้าวข้าม / อยู่เหนือ (ขอบเขต ข้อจำกัด)",
+  "fam": "transcendence (n.), transcendent (adj.)",
+  "col": "transcend borders / transcend cultural differences",
+  "ex": "Environmental problems such as air pollution and climate change transcend national borders and require international cooperation.",
+  "src": "AVL"
+ },
+ {
+  "w": "underpin",
+  "pos": "v.",
+  "th": "เป็นรากฐานของ / ค้ำจุน (ทฤษฎี ข้อโต้แย้ง)",
+  "fam": "underpinning (n.)",
+  "col": "underpin the theory / underpin economic growth",
+  "ex": "Strong basic literacy and numeracy skills underpin success in almost every area of further education and employment.",
+  "src": "AVL"
+ },
+ {
+  "w": "undermine",
+  "pos": "v.",
+  "th": "บ่อนทำลาย / ทำให้อ่อนแอลง",
+  "fam": "undermining (n.)",
+  "col": "undermine confidence / undermine efforts",
+  "ex": "The spread of false health claims online can undermine public trust in doctors and official vaccination programmes.",
+  "src": "AVL"
+ },
+ {
+  "w": "underscore",
+  "pos": "v.",
+  "th": "เน้นย้ำ / ชี้ให้เห็นความสำคัญ",
+  "fam": "underscore (n.)",
+  "col": "underscore the need for / underscore the importance of",
+  "ex": "The findings underscore the need for earlier mental health support for university students during their first year of study.",
+  "src": "AVL"
+ },
+ {
+  "w": "verify",
+  "pos": "v.",
+  "th": "ตรวจสอบความถูกต้อง / พิสูจน์ยืนยัน",
+  "fam": "verification (n.), verifiable (adj.)",
+  "col": "verify information / verify the accuracy",
+  "ex": "Students should learn to verify information from online sources before using it as evidence in their academic writing.",
+  "src": "AVL"
+ },
+ {
+  "w": "accelerate",
+  "pos": "v.",
+  "th": "เร่ง / ทำให้เร็วขึ้น",
+  "fam": "acceleration (n.), accelerated (adj.)",
+  "col": "accelerate growth / accelerate the process",
+  "ex": "Government investment in renewable energy could accelerate the transition away from fossil fuels over the next decade.",
+  "src": "AVL"
+ },
+ {
+  "w": "accrue",
+  "pos": "v.",
+  "th": "สะสม / เพิ่มพูนขึ้น (เช่น ผลประโยชน์ ดอกเบี้ย)",
+  "fam": "accrual (n.), accrued (adj.)",
+  "col": "benefits accrue / accrue interest",
+  "ex": "The health benefits of regular exercise accrue gradually, so older adults should be encouraged to remain active throughout later life.",
+  "src": "AVL"
+ },
+ {
+  "w": "bolster",
+  "pos": "v.",
+  "th": "เสริมสร้าง / สนับสนุนให้แข็งแกร่งขึ้น",
+  "fam": "bolster (n.), bolstered (adj.)",
+  "col": "bolster confidence / bolster the argument",
+  "ex": "Findings from several large-scale studies bolster the argument that early childhood education improves long-term academic achievement.",
+  "src": "AVL"
+ },
+ {
+  "w": "circumvent",
+  "pos": "v.",
+  "th": "หลีกเลี่ยง / หาทางเลี่ยง (กฎหรือข้อจำกัด)",
+  "fam": "circumvention (n.)",
+  "col": "circumvent regulations / circumvent restrictions",
+  "ex": "Some technology companies have been accused of using complex legal structures to circumvent data protection regulations in different countries.",
+  "src": "AVL"
+ },
+ {
+  "w": "confront",
+  "pos": "v.",
+  "th": "เผชิญหน้า / รับมือกับ (ปัญหา)",
+  "fam": "confrontation (n.), confrontational (adj.)",
+  "col": "confront a problem / confront challenges",
+  "ex": "Many developing nations must confront the dual challenge of reducing poverty while protecting their natural environment from degradation.",
+  "src": "AVL"
+ },
+ {
+  "w": "contest",
+  "pos": "v.",
+  "th": "โต้แย้ง / คัดค้าน / แข่งขันชิง",
+  "fam": "contest (n.), contested (adj.), contestable (adj.)",
+  "col": "contest a claim / hotly contested",
+  "ex": "Several economists have contested the claim that raising the minimum wage inevitably leads to higher unemployment among young workers.",
+  "src": "AVL"
+ },
+ {
+  "w": "convey",
+  "pos": "v.",
+  "th": "ถ่ายทอด / สื่อ (ความหมาย ข้อมูล)",
+  "fam": "conveyance (n.), conveyor (n.)",
+  "col": "convey information / convey a message",
+  "ex": "Public health campaigns must convey complex scientific information in simple language that people from all backgrounds can understand.",
+  "src": "AVL"
+ },
+ {
+  "w": "deplete",
+  "pos": "v.",
+  "th": "ทำให้ร่อยหรอ / ทำให้หมดไป",
+  "fam": "depletion (n.), depleted (adj.)",
+  "col": "deplete natural resources / deplete groundwater",
+  "ex": "Intensive farming practices have severely depleted soil nutrients, forcing farmers to rely increasingly on expensive chemical fertilisers.",
+  "src": "AVL"
+ },
+ {
+  "w": "deter",
+  "pos": "v.",
+  "th": "ยับยั้ง / ป้องปราม / ทำให้ไม่กล้าทำ",
+  "fam": "deterrent (n., adj.), deterrence (n.)",
+  "col": "deter crime / deter people from doing something",
+  "ex": "Higher taxes on cigarettes have been shown to deter young people from taking up smoking in the first place.",
+  "src": "AVL"
+ },
+ {
+  "w": "dictate",
+  "pos": "v.",
+  "th": "กำหนด / ชี้ขาด / สั่งการ",
+  "fam": "dictation (n.), dictator (n.), dictates (n.)",
+  "col": "dictate terms / be dictated by circumstances",
+  "ex": "In many families, financial circumstances rather than personal interest still dictate which university subjects young people choose to study.",
+  "src": "AVL"
+ },
+ {
+  "w": "discard",
+  "pos": "v.",
+  "th": "ทิ้ง / ละทิ้ง / เลิกใช้",
+  "fam": "discard (n.), discarded (adj.)",
+  "col": "discard waste / discard a theory",
+  "ex": "Millions of tonnes of electronic devices are discarded every year, releasing toxic substances into soil and water supplies.",
+  "src": "AVL"
+ },
+ {
+  "w": "endeavour",
+  "pos": "v.",
+  "th": "พยายาม / มุ่งมั่น (ทำ)",
+  "fam": "endeavour (n.)",
+  "col": "endeavour to achieve / endeavour to ensure",
+  "ex": "Universities should endeavour to ensure that students from low-income families have equal access to scholarships and academic support.",
+  "src": "AVL"
+ },
+ {
+  "w": "eradicate",
+  "pos": "v.",
+  "th": "กำจัดให้หมดสิ้น / ขจัด",
+  "fam": "eradication (n.)",
+  "col": "eradicate poverty / eradicate disease",
+  "ex": "Global vaccination programmes successfully eradicated smallpox, demonstrating what international cooperation in public health can achieve with sufficient funding.",
+  "src": "AVL"
+ },
+ {
+  "w": "escalate",
+  "pos": "v.",
+  "th": "ทวีความรุนแรง / เพิ่มขึ้นอย่างรวดเร็ว / บานปลาย",
+  "fam": "escalation (n.), escalating (adj.)",
+  "col": "costs escalate / escalate rapidly",
+  "ex": "Healthcare costs are likely to escalate as the population ages and demand for long-term care continues to rise.",
+  "src": "AVL"
+ },
+ {
+  "w": "evoke",
+  "pos": "v.",
+  "th": "กระตุ้น (ความรู้สึก ความทรงจำ) / ทำให้นึกถึง",
+  "fam": "evocation (n.), evocative (adj.)",
+  "col": "evoke memories / evoke a response",
+  "ex": "Advertisements that evoke strong emotional responses are often more effective at changing consumer behaviour than those presenting statistics.",
+  "src": "AVL"
+ },
+ {
+  "w": "exaggerate",
+  "pos": "v.",
+  "th": "พูดเกินจริง / ขยายความเกินจริง",
+  "fam": "exaggeration (n.), exaggerated (adj.)",
+  "col": "grossly exaggerate / exaggerate the risks",
+  "ex": "Critics argue that media reports often exaggerate the risks of artificial intelligence while ignoring its potential benefits for society.",
+  "src": "AVL"
+ },
+ {
+  "w": "generalise",
+  "pos": "v.",
+  "th": "สรุปเป็นการทั่วไป / สรุปโดยรวม",
+  "fam": "generalisation (n.), generalisable (adj.), general (adj.)",
+  "col": "generalise the findings / difficult to generalise",
+  "ex": "Because the study involved only fifty participants from one city, its findings cannot easily be generalised to the wider population.",
+  "src": "AVL"
+ },
+ {
+  "w": "heighten",
+  "pos": "v.",
+  "th": "เพิ่มระดับ / ทำให้สูงขึ้นหรือรุนแรงขึ้น",
+  "fam": "heightened (adj.), height (n.)",
+  "col": "heighten awareness / heighten the risk",
+  "ex": "Social media campaigns have heightened public awareness of plastic pollution, prompting many consumers to choose reusable products instead.",
+  "src": "AVL"
+ },
+ {
+  "w": "illuminate",
+  "pos": "v.",
+  "th": "ทำให้กระจ่าง / อธิบายให้ชัดเจน / ส่องสว่าง",
+  "fam": "illumination (n.), illuminating (adj.)",
+  "col": "illuminate the issue / help illuminate",
+  "ex": "Long-term studies of ageing populations can illuminate how lifestyle factors influence memory and cognitive decline in later life.",
+  "src": "AVL"
+ },
+ {
+  "w": "incur",
+  "pos": "v.",
+  "th": "ต้องรับภาระ (ค่าใช้จ่าย หนี้ ความเสียหาย) / ก่อให้เกิดแก่ตนเอง",
+  "fam": "incurred (adj.)",
+  "col": "incur costs / incur debt",
+  "ex": "Many students incur substantial debts during their university studies, which may delay major life decisions such as buying a home.",
+  "src": "AVL"
+ },
+ {
+  "w": "invalidate",
+  "pos": "v.",
+  "th": "ทำให้เป็นโมฆะ / หักล้าง / ทำให้ไม่น่าเชื่อถือ",
+  "fam": "invalid (adj.), invalidation (n.), validity (n.)",
+  "col": "invalidate the results / invalidate a claim",
+  "ex": "A small error in the sampling procedure could invalidate the results of an otherwise carefully designed medical study.",
+  "src": "AVL"
+ },
+ {
+  "w": "jeopardise",
+  "pos": "v.",
+  "th": "ทำให้ตกอยู่ในอันตราย / เป็นภัยต่อ / ทำให้เสี่ยง",
+  "fam": "jeopardy (n.)",
+  "col": "jeopardise health / jeopardise the future",
+  "ex": "Excessive screen time may jeopardise children's sleep quality and, consequently, their concentration and performance at school.",
+  "src": "AVL"
+ },
+ {
+  "w": "magnify",
+  "pos": "v.",
+  "th": "ขยาย / ทำให้รุนแรงหรือใหญ่ขึ้น",
+  "fam": "magnification (n.), magnitude (n.)",
+  "col": "magnify the problem / magnify the effect",
+  "ex": "Economic inequality can magnify the impact of natural disasters, as poorer communities have fewer resources to recover quickly.",
+  "src": "AVL"
+ },
+ {
+  "w": "neglect",
+  "pos": "v.",
+  "th": "ละเลย / ไม่เอาใจใส่",
+  "fam": "neglect (n.), neglected (adj.), negligent (adj.)",
+  "col": "neglect one's health / long neglected",
+  "ex": "Employees who work excessively long hours often neglect their physical health, increasing their risk of chronic illness later on.",
+  "src": "AVL"
+ },
+ {
+  "w": "outsource",
+  "pos": "v.",
+  "th": "จ้างหน่วยงานภายนอก / ว่าจ้างบุคคลภายนอกให้ทำงาน",
+  "fam": "outsourcing (n.), outsourced (adj.)",
+  "col": "outsource production / outsource jobs overseas",
+  "ex": "Many firms now outsource customer service to other countries, a practice that has reduced costs but also eliminated local jobs.",
+  "src": "AVL"
+ },
+ {
+  "w": "pervade",
+  "pos": "v.",
+  "th": "แผ่ซ่าน / แทรกซึมไปทั่ว",
+  "fam": "pervasive (adj.), pervasiveness (n.)",
+  "col": "pervade every aspect of / pervade society",
+  "ex": "Digital technology now pervades almost every aspect of daily life, from banking and shopping to education and healthcare.",
+  "src": "AVL"
+ },
+ {
+  "w": "prevail",
+  "pos": "v.",
+  "th": "มีอยู่ทั่วไป / แพร่หลาย / มีชัย",
+  "fam": "prevalent (adj.), prevalence (n.), prevailing (adj.)",
+  "col": "the prevailing view / common sense prevails",
+  "ex": "Despite growing evidence to the contrary, the belief that older workers are less productive continues to prevail in many workplaces.",
+  "src": "AVL"
+ },
+ {
+  "w": "prolong",
+  "pos": "v.",
+  "th": "ยืดเวลา / ทำให้ยาวนานขึ้น",
+  "fam": "prolonged (adj.), prolongation (n.)",
+  "col": "prolong life / prolonged exposure",
+  "ex": "Advances in medical technology have prolonged life expectancy, but they have also raised questions about quality of life in old age.",
+  "src": "AVL"
+ },
+ {
+  "w": "remedy",
+  "pos": "v.",
+  "th": "แก้ไข / เยียวยา",
+  "fam": "remedy (n.), remedial (adj.)",
+  "col": "remedy the situation / remedy a problem",
+  "ex": "Governments must take urgent action to remedy the shortage of qualified teachers in rural schools across the country.",
+  "src": "AVL"
+ },
+ {
+  "w": "revitalise",
+  "pos": "v.",
+  "th": "ฟื้นฟู / ทำให้กลับมามีชีวิตชีวา",
+  "fam": "revitalisation (n.), vital (adj.)",
+  "col": "revitalise the economy / revitalise urban areas",
+  "ex": "Investment in public transport and green spaces can help revitalise declining city centres and attract new businesses.",
+  "src": "AVL"
+ },
+ {
+  "w": "segregate",
+  "pos": "v.",
+  "th": "แยก / แบ่งแยก (ออกเป็นกลุ่ม)",
+  "fam": "segregation (n.), segregated (adj.)",
+  "col": "segregate waste / racially segregated",
+  "ex": "Households in the city are now required to segregate their waste into recyclable, organic and general categories before collection.",
+  "src": "AVL"
+ },
+ {
+  "w": "simplify",
+  "pos": "v.",
+  "th": "ทำให้ง่ายขึ้น",
+  "fam": "simplification (n.), simple (adj.), simplistic (adj.)",
+  "col": "simplify the process / greatly simplify",
+  "ex": "Online platforms have greatly simplified the process of applying for government services, saving citizens considerable time and money.",
+  "src": "AVL"
+ },
+ {
+  "w": "stimulate",
+  "pos": "v.",
+  "th": "กระตุ้น / ส่งเสริมให้เกิด",
+  "fam": "stimulation (n.), stimulus (n.), stimulating (adj.)",
+  "col": "stimulate economic growth / stimulate demand",
+  "ex": "Interactive learning activities stimulate students' curiosity and encourage them to think critically rather than simply memorise facts.",
+  "src": "AVL"
+ },
+ {
+  "w": "suppress",
+  "pos": "v.",
+  "th": "ระงับ / กดไว้ / ปราบปราม",
+  "fam": "suppression (n.), suppressant (n.)",
+  "col": "suppress the immune system / suppress information",
+  "ex": "Chronic stress can suppress the immune system, making individuals more vulnerable to infections and slowing recovery from illness.",
+  "src": "AVL"
+ },
+ {
+  "w": "tolerate",
+  "pos": "v.",
+  "th": "ทนได้ / อดทนต่อ / ยอมรับได้",
+  "fam": "tolerance (n.), tolerant (adj.), tolerable (adj.)",
+  "col": "tolerate discrimination / well tolerated",
+  "ex": "Most patients tolerated the new medication well, with only a small minority reporting mild side effects during the trial.",
+  "src": "AVL"
+ },
+ {
+  "w": "unveil",
+  "pos": "v.",
+  "th": "เปิดเผย / เปิดตัว",
+  "fam": "unveiling (n.)",
+  "col": "unveil a plan / unveil a new policy",
+  "ex": "The ministry unveiled a national strategy to integrate artificial intelligence into secondary school curricula by the end of the decade.",
+  "src": "AVL"
+ },
+ {
+  "w": "abundance",
+  "pos": "n.",
+  "th": "ความอุดมสมบูรณ์ / ปริมาณมากมาย",
+  "fam": "abundant (adj.), abundantly (adv.), abound (v.)",
+  "col": "an abundance of / in abundance",
+  "ex": "Students today have access to an abundance of online information, but they need strong skills to evaluate its reliability.",
+  "src": "AVL"
+ },
+ {
+  "w": "adversity",
+  "pos": "n.",
+  "th": "ความยากลำบาก / ความทุกข์ยาก / เคราะห์ร้าย",
+  "fam": "adverse (adj.), adversely (adv.)",
+  "col": "overcome adversity / in the face of adversity",
+  "ex": "Research suggests that children who receive strong family support are better able to overcome adversity and succeed academically.",
+  "src": "AVL"
+ },
+ {
+  "w": "agenda",
+  "pos": "n.",
+  "th": "วาระ / ประเด็นที่ต้องดำเนินการ / แผนงาน",
+  "fam": "—",
+  "col": "political agenda / high on the agenda",
+  "ex": "Climate change has moved high on the political agenda as extreme weather events become more frequent and more costly.",
+  "src": "AVL"
+ },
+ {
+  "w": "anomaly",
+  "pos": "n.",
+  "th": "ความผิดปกติ / สิ่งที่ผิดแผกไปจากปกติ",
+  "fam": "anomalous (adj.), anomalously (adv.)",
+  "col": "statistical anomaly / detect anomalies",
+  "ex": "Researchers initially dismissed the unusual temperature readings as an anomaly, but further data confirmed a long-term warming trend.",
+  "src": "AVL"
+ },
+ {
+  "w": "benchmark",
+  "pos": "n.",
+  "th": "เกณฑ์มาตรฐาน / มาตรฐานอ้างอิงสำหรับเปรียบเทียบ",
+  "fam": "benchmark (v.), benchmarking (n.)",
+  "col": "set a benchmark / international benchmark",
+  "ex": "International test scores are often used as a benchmark for comparing the quality of education systems across different countries.",
+  "src": "AVL"
+ },
+ {
+  "w": "breakthrough",
+  "pos": "n.",
+  "th": "ความก้าวหน้าครั้งสำคัญ / การค้นพบครั้งสำคัญ",
+  "fam": "break through (phr. v.)",
+  "col": "major breakthrough / scientific breakthrough",
+  "ex": "The development of mRNA vaccines was hailed as a major breakthrough that could transform the prevention of many infectious diseases.",
+  "src": "AVL"
+ },
+ {
+  "w": "by-product",
+  "pos": "n.",
+  "th": "ผลพลอยได้ / ผลที่เกิดขึ้นตามมา",
+  "fam": "product (n.), produce (v.)",
+  "col": "harmful by-product / an unintended by-product",
+  "ex": "Air pollution is an unfortunate by-product of rapid industrialisation, particularly in cities that rely heavily on coal-fired power.",
+  "src": "AVL"
+ },
+ {
+  "w": "causation",
+  "pos": "n.",
+  "th": "ความเป็นเหตุเป็นผล / การเป็นสาเหตุ",
+  "fam": "cause (n., v.), causal (adj.), causality (n.)",
+  "col": "correlation and causation / establish causation",
+  "ex": "Although the two variables are strongly related, researchers warn that correlation does not necessarily imply causation in this case.",
+  "src": "AVL"
+ },
+ {
+  "w": "cohesion",
+  "pos": "n.",
+  "th": "ความเป็นน้ำหนึ่งใจเดียวกัน / ความเชื่อมโยงกัน (ในงานเขียน)",
+  "fam": "cohesive (adj.), cohere (v.), coherent (adj.)",
+  "col": "social cohesion / cohesion and coherence",
+  "ex": "Community centres and public parks play an important role in strengthening social cohesion among residents of diverse backgrounds.",
+  "src": "AVL"
+ },
+ {
+  "w": "consensus",
+  "pos": "n.",
+  "th": "ฉันทามติ / ความเห็นพ้องต้องกัน",
+  "fam": "consensual (adj.)",
+  "col": "reach a consensus / scientific consensus",
+  "ex": "There is now a broad scientific consensus that human activity is the main driver of recent global warming.",
+  "src": "AVL"
+ },
+ {
+  "w": "correlation",
+  "pos": "n.",
+  "th": "ความสัมพันธ์ (เชิงสถิติ) / สหสัมพันธ์",
+  "fam": "correlate (v.), correlated (adj.), correlational (adj.)",
+  "col": "strong correlation / positive correlation between",
+  "ex": "The study found a strong positive correlation between hours of sleep and students' performance on mathematics tests.",
+  "src": "AVL"
+ },
+ {
+  "w": "counterpart",
+  "pos": "n.",
+  "th": "คู่เทียบ / บุคคลหรือสิ่งที่มีฐานะเทียบเท่ากัน",
+  "fam": "—",
+  "col": "their male counterparts / urban counterparts",
+  "ex": "Students in rural areas often have fewer learning resources than their urban counterparts, which contributes to gaps in achievement.",
+  "src": "AVL"
+ },
+ {
+  "w": "deficiency",
+  "pos": "n.",
+  "th": "ภาวะขาด (สารอาหาร) / ความบกพร่อง",
+  "fam": "deficient (adj.), deficit (n.)",
+  "col": "vitamin deficiency / iron deficiency",
+  "ex": "Vitamin D deficiency is surprisingly common among office workers who spend most of their daylight hours indoors.",
+  "src": "AVL"
+ },
+ {
+  "w": "deficit",
+  "pos": "n.",
+  "th": "การขาดดุล / ส่วนที่ขาด / ภาวะพร่อง",
+  "fam": "deficient (adj.), deficiency (n.)",
+  "col": "budget deficit / trade deficit",
+  "ex": "Rising pension costs could widen the government's budget deficit unless the retirement age is gradually increased.",
+  "src": "AVL"
+ },
+ {
+  "w": "discourse",
+  "pos": "n.",
+  "th": "วาทกรรม / การอภิปรายถกเถียง / ข้อเขียนหรือถ้อยความ",
+  "fam": "discursive (adj.), discourse (v.)",
+  "col": "public discourse / academic discourse",
+  "ex": "Misinformation spread through social media has made public discourse on vaccination increasingly polarised in recent years.",
+  "src": "AVL"
+ },
+ {
+  "w": "discrepancy",
+  "pos": "n.",
+  "th": "ความไม่สอดคล้องกัน / ความแตกต่างที่ไม่ควรมี",
+  "fam": "discrepant (adj.)",
+  "col": "significant discrepancy / discrepancy between",
+  "ex": "The report highlighted a significant discrepancy between the number of graduates and the number of skilled jobs available.",
+  "src": "AVL"
+ },
+ {
+  "w": "disposition",
+  "pos": "n.",
+  "th": "อุปนิสัย / ความโน้มเอียง / แนวโน้ม",
+  "fam": "dispose (v.), disposed (adj.), predisposition (n.)",
+  "col": "natural disposition / a disposition to do something",
+  "ex": "Some psychologists believe that a person's disposition towards risk-taking is shaped by both genetic factors and early experiences.",
+  "src": "AVL"
+ },
+ {
+  "w": "efficacy",
+  "pos": "n.",
+  "th": "ประสิทธิผล / ความสามารถในการให้ผลตามที่ต้องการ",
+  "fam": "efficacious (adj.), self-efficacy (n.)",
+  "col": "efficacy of the vaccine / clinical efficacy",
+  "ex": "Clinical trials are designed to test the efficacy and safety of new drugs before they are approved for public use.",
+  "src": "AVL"
+ },
+ {
+  "w": "equilibrium",
+  "pos": "n.",
+  "th": "ภาวะสมดุล / ดุลยภาพ",
+  "fam": "equilibrate (v.)",
+  "col": "reach equilibrium / ecological equilibrium",
+  "ex": "The introduction of invasive species can disturb the natural equilibrium of an ecosystem, threatening native plants and animals.",
+  "src": "AVL"
+ },
+ {
+  "w": "equity",
+  "pos": "n.",
+  "th": "ความเป็นธรรม / ความเสมอภาค / ส่วนของผู้ถือหุ้น",
+  "fam": "equitable (adj.), equitably (adv.), inequity (n.)",
+  "col": "social equity / equity in education",
+  "ex": "Policymakers must consider equity when designing healthcare reforms, ensuring that low-income groups are not left without adequate care.",
+  "src": "AVL"
+ },
+ {
+  "w": "excerpt",
+  "pos": "n.",
+  "th": "ข้อความที่คัดมา / บทคัดตัดตอน",
+  "fam": "excerpt (v.), excerpted (adj.)",
+  "col": "a short excerpt / an excerpt from",
+  "ex": "Students were asked to read an excerpt from a research article and summarise the author's main argument in their own words.",
+  "src": "AVL"
+ },
+ {
+  "w": "hallmark",
+  "pos": "n.",
+  "th": "ลักษณะเด่น / เครื่องหมายแสดงคุณลักษณะเฉพาะ",
+  "fam": "hallmark (v.)",
+  "col": "the hallmark of / bear the hallmarks of",
+  "ex": "Critical thinking and independent research are often regarded as the hallmarks of a high-quality university education.",
+  "src": "AVL"
+ },
+ {
+  "w": "inequality",
+  "pos": "n.",
+  "th": "ความเหลื่อมล้ำ / ความไม่เท่าเทียม",
+  "fam": "unequal (adj.), unequally (adv.), equality (n.)",
+  "col": "income inequality / reduce inequality",
+  "ex": "Many economists argue that unequal access to quality education is a major cause of income inequality in developing countries.",
+  "src": "AVL"
+ },
+ {
+  "w": "magnitude",
+  "pos": "n.",
+  "th": "ขนาด / ความรุนแรง / ระดับความสำคัญ",
+  "fam": "magnify (v.), magnification (n.)",
+  "col": "the magnitude of the problem / order of magnitude",
+  "ex": "Few governments fully understood the magnitude of the challenge posed by population ageing until healthcare costs began to rise.",
+  "src": "AVL"
+ },
+ {
+  "w": "misconception",
+  "pos": "n.",
+  "th": "ความเข้าใจผิด / ความเชื่อที่ผิด",
+  "fam": "misconceive (v.), misconceived (adj.)",
+  "col": "a common misconception / popular misconception",
+  "ex": "A common misconception is that antibiotics can cure viral infections such as the common cold or influenza.",
+  "src": "AVL"
+ },
+ {
+  "w": "momentum",
+  "pos": "n.",
+  "th": "แรงผลักดัน / แรงขับเคลื่อน",
+  "fam": "—",
+  "col": "gain momentum / lose momentum",
+  "ex": "The movement to ban single-use plastics has gained momentum as more consumers demand environmentally friendly alternatives.",
+  "src": "AVL"
+ },
+ {
+  "w": "nuance",
+  "pos": "n.",
+  "th": "ความแตกต่างเล็กน้อย / ความละเอียดอ่อน (ของความหมาย)",
+  "fam": "nuanced (adj.)",
+  "col": "subtle nuance / cultural nuances",
+  "ex": "Machine translation tools have improved rapidly, yet they still struggle to capture the cultural nuances of everyday language.",
+  "src": "AVL"
+ },
+ {
+  "w": "onset",
+  "pos": "n.",
+  "th": "การเริ่มต้น / การเริ่มเกิด (โดยเฉพาะโรค)",
+  "fam": "—",
+  "col": "the onset of the disease / early onset",
+  "ex": "Regular physical and mental activity may delay the onset of dementia among older adults by several years.",
+  "src": "AVL"
+ },
+ {
+  "w": "paradox",
+  "pos": "n.",
+  "th": "ความย้อนแย้ง / ปฏิทรรศน์",
+  "fam": "paradoxical (adj.), paradoxically (adv.)",
+  "col": "an apparent paradox / the paradox of",
+  "ex": "One paradox of modern technology is that social media connects billions of people, yet many users report feeling increasingly lonely.",
+  "src": "AVL"
+ },
+ {
+  "w": "premise",
+  "pos": "n.",
+  "th": "ข้อตั้ง / สมมติฐานเบื้องต้น",
+  "fam": "premised (adj.)",
+  "col": "the basic premise / on the premise that",
+  "ex": "The policy is based on the premise that financial incentives will encourage more people to switch to electric vehicles.",
+  "src": "AVL"
+ },
+ {
+  "w": "prerequisite",
+  "pos": "n.",
+  "th": "สิ่งที่จำเป็นต้องมีก่อน / เงื่อนไขเบื้องต้น / วิชาบังคับก่อน",
+  "fam": "requisite (adj., n.), require (v.)",
+  "col": "a prerequisite for / an essential prerequisite",
+  "ex": "A stable internet connection has become a prerequisite for effective online learning, yet many rural households still lack one.",
+  "src": "AVL"
+ },
+ {
+  "w": "proponent",
+  "pos": "n.",
+  "th": "ผู้สนับสนุน / ผู้เสนอ (แนวคิด)",
+  "fam": "propose (v.), proposal (n.)",
+  "col": "a leading proponent / proponents argue that",
+  "ex": "Proponents of a four-day working week argue that it improves employee well-being without reducing overall productivity.",
+  "src": "AVL"
+ },
+ {
+  "w": "provision",
+  "pos": "n.",
+  "th": "การจัดหา / การจัดให้มี / บทบัญญัติ (ในกฎหมาย)",
+  "fam": "provide (v.), provider (n.), provisional (adj.)",
+  "col": "the provision of services / healthcare provision",
+  "ex": "The provision of free school meals has been linked to improved attendance and concentration among children from low-income families.",
+  "src": "AVL"
+ },
+ {
+  "w": "reciprocity",
+  "pos": "n.",
+  "th": "การตอบแทนซึ่งกันและกัน / ความเป็นต่างตอบแทน",
+  "fam": "reciprocal (adj.), reciprocate (v.), reciprocally (adv.)",
+  "col": "the principle of reciprocity / mutual reciprocity",
+  "ex": "International trade agreements are usually built on reciprocity, with each country reducing tariffs in exchange for similar concessions.",
+  "src": "AVL"
+ },
+ {
+  "w": "repercussion",
+  "pos": "n.",
+  "th": "ผลกระทบที่ตามมา (มักเป็นผลเสีย)",
+  "fam": "—",
+  "col": "serious repercussions / have repercussions for",
+  "ex": "Rising sea levels could have serious economic repercussions for coastal cities that depend heavily on tourism and fishing.",
+  "src": "AVL"
+ },
+ {
+  "w": "sampling",
+  "pos": "n.",
+  "th": "การสุ่มตัวอย่าง / การเลือกกลุ่มตัวอย่าง",
+  "fam": "sample (n., v.)",
+  "col": "random sampling / sampling method",
+  "ex": "Random sampling helps ensure that survey results accurately reflect the opinions of the entire population rather than a narrow group.",
+  "src": "AVL"
+ },
+ {
+  "w": "scarcity",
+  "pos": "n.",
+  "th": "ความขาดแคลน / ภาวะหายาก",
+  "fam": "scarce (adj.), scarcely (adv.)",
+  "col": "water scarcity / resource scarcity",
+  "ex": "Water scarcity is expected to affect billions of people by 2050 as climate change alters global rainfall patterns.",
+  "src": "AVL"
+ },
+ {
+  "w": "setback",
+  "pos": "n.",
+  "th": "อุปสรรค / ความล้มเหลวหรือถดถอยชั่วคราว",
+  "fam": "set back (phr. v.)",
+  "col": "a major setback / suffer a setback",
+  "ex": "The pandemic was a serious setback for education, as millions of students lost months of classroom learning.",
+  "src": "AVL"
+ },
+ {
+  "w": "stakeholder",
+  "pos": "n.",
+  "th": "ผู้มีส่วนได้ส่วนเสีย",
+  "fam": "stake (n.)",
+  "col": "key stakeholders / consult stakeholders",
+  "ex": "Successful education reform requires the cooperation of all stakeholders, including teachers, parents, students and local government officials.",
+  "src": "AVL"
+ },
+ {
+  "w": "stance",
+  "pos": "n.",
+  "th": "จุดยืน / ท่าที",
+  "fam": "stand (v., n.)",
+  "col": "take a stance / a firm stance on",
+  "ex": "In an opinion essay, writers should state their stance clearly in the introduction and support it with relevant evidence.",
+  "src": "AVL"
+ },
+ {
+  "w": "synthesis",
+  "pos": "n.",
+  "th": "การสังเคราะห์ / การประมวลรวม",
+  "fam": "synthesise (v.), synthetic (adj.)",
+  "col": "a synthesis of research / protein synthesis",
+  "ex": "A synthesis of previous studies suggests that mindfulness training can significantly reduce stress levels among university students.",
+  "src": "AVL"
+ },
+ {
+  "w": "threshold",
+  "pos": "n.",
+  "th": "เกณฑ์ขั้นต่ำ / ระดับเริ่มต้น / ธรณีประตู",
+  "fam": "—",
+  "col": "income threshold / reach a threshold",
+  "ex": "Families whose income falls below a certain threshold are entitled to financial assistance for their children's education.",
+  "src": "AVL"
+ },
+ {
+  "w": "trade-off",
+  "pos": "n.",
+  "th": "การแลกได้แลกเสีย / การยอมเสียสิ่งหนึ่งเพื่อได้อีกสิ่งหนึ่ง",
+  "fam": "trade off (phr. v.)",
+  "col": "a trade-off between / make trade-offs",
+  "ex": "Policymakers often face a difficult trade-off between promoting economic growth and protecting the natural environment.",
+  "src": "AVL"
+ },
+ {
+  "w": "trajectory",
+  "pos": "n.",
+  "th": "แนวโน้มการเปลี่ยนแปลง / เส้นทาง / วิถี",
+  "fam": "—",
+  "col": "career trajectory / upward trajectory",
+  "ex": "Early access to quality education can shape a child's entire career trajectory and future earning potential.",
+  "src": "AVL"
+ },
+ {
+  "w": "catalyst",
+  "pos": "n.",
+  "th": "ตัวเร่ง / ปัจจัยกระตุ้นให้เกิดการเปลี่ยนแปลง",
+  "fam": "catalyse (v.), catalytic (adj.)",
+  "col": "act as a catalyst / a catalyst for change",
+  "ex": "The pandemic acted as a catalyst for remote working, permanently changing how many companies organise their employees.",
+  "src": "AVL"
+ },
+ {
+  "w": "dilemma",
+  "pos": "n.",
+  "th": "ภาวะกลืนไม่เข้าคายไม่ออก / ทางเลือกที่ยากลำบาก",
+  "fam": "—",
+  "col": "an ethical dilemma / face a dilemma",
+  "ex": "The use of AI in medical diagnosis raises an ethical dilemma about who is responsible when a machine makes an error.",
+  "src": "AVL"
+ },
+ {
+  "w": "drawback",
+  "pos": "n.",
+  "th": "ข้อเสีย / ข้อด้อย",
+  "fam": "draw back (phr. v.)",
+  "col": "a major drawback / benefits and drawbacks",
+  "ex": "One major drawback of online learning is the lack of face-to-face interaction between students and their teachers.",
+  "src": "AVL"
+ },
+ {
+  "w": "efficiency",
+  "pos": "n.",
+  "th": "ประสิทธิภาพ",
+  "fam": "efficient (adj.), efficiently (adv.), inefficiency (n.)",
+  "col": "energy efficiency / improve efficiency",
+  "ex": "Improving the energy efficiency of buildings is one of the most cost-effective ways to reduce carbon emissions.",
+  "src": "AVL"
+ },
+ {
+  "w": "enterprise",
+  "pos": "n.",
+  "th": "กิจการ / วิสาหกิจ / ความกล้าริเริ่ม",
+  "fam": "entrepreneur (n.), enterprising (adj.)",
+  "col": "small and medium-sized enterprises / private enterprise",
+  "ex": "Small and medium-sized enterprises employ a large proportion of the workforce but often struggle to adopt new digital technologies.",
+  "src": "AVL"
+ },
+ {
+  "w": "expenditure",
+  "pos": "n.",
+  "th": "รายจ่าย / การใช้จ่าย",
+  "fam": "expend (v.), expense (n.), expensive (adj.)",
+  "col": "public expenditure / healthcare expenditure",
+  "ex": "Public expenditure on healthcare is projected to rise sharply as the proportion of elderly citizens continues to grow.",
+  "src": "AVL"
+ },
+ {
+  "w": "footprint",
+  "pos": "n.",
+  "th": "ร่องรอยผลกระทบ (ต่อสิ่งแวดล้อม) / รอยเท้า",
+  "fam": "—",
+  "col": "carbon footprint / environmental footprint",
+  "ex": "Individuals can reduce their carbon footprint by using public transport, eating less meat and buying locally produced goods.",
+  "src": "AVL"
+ },
+ {
+  "w": "governance",
+  "pos": "n.",
+  "th": "การกำกับดูแล / ธรรมาภิบาล / การบริหารปกครอง",
+  "fam": "govern (v.), government (n.), governor (n.)",
+  "col": "good governance / corporate governance",
+  "ex": "Good governance and transparent decision-making are essential if public trust in government institutions is to be restored.",
+  "src": "AVL"
+ },
+ {
+  "w": "inclusion",
+  "pos": "n.",
+  "th": "การรวมเข้าไว้ / การมีส่วนร่วมโดยไม่แบ่งแยก",
+  "fam": "include (v.), inclusive (adj.), inclusively (adv.)",
+  "col": "social inclusion / the inclusion of",
+  "ex": "Schools are increasingly promoting the inclusion of students with disabilities in mainstream classrooms rather than in separate institutions.",
+  "src": "AVL"
+ },
+ {
+  "w": "intake",
+  "pos": "n.",
+  "th": "ปริมาณที่ได้รับ (อาหาร สาร) / จำนวนรับเข้า (นักศึกษา)",
+  "fam": "take in (phr. v.)",
+  "col": "daily intake / sugar intake",
+  "ex": "Health experts recommend that adults limit their daily sugar intake to reduce the risk of obesity and type 2 diabetes.",
+  "src": "AVL"
+ },
+ {
+  "w": "legacy",
+  "pos": "n.",
+  "th": "มรดก / สิ่งที่ตกทอด / ผลที่หลงเหลือไว้",
+  "fam": "—",
+  "col": "a lasting legacy / leave a legacy",
+  "ex": "The industrial pollution of the twentieth century has left a toxic legacy that continues to affect soil and water quality today.",
+  "src": "AVL"
+ },
+ {
+  "w": "limitation",
+  "pos": "n.",
+  "th": "ข้อจำกัด",
+  "fam": "limit (v., n.), limited (adj.), unlimited (adj.)",
+  "col": "limitations of the study / acknowledge limitations",
+  "ex": "One limitation of the study is that it relied on self-reported data, which may not accurately reflect participants' actual behaviour.",
+  "src": "AVL"
+ },
+ {
+  "w": "longevity",
+  "pos": "n.",
+  "th": "การมีอายุยืน / ความยืนยาว",
+  "fam": "long-lived (adj.)",
+  "col": "increased longevity / human longevity",
+  "ex": "Increased longevity means that many people will spend more years in retirement, placing pressure on pension systems worldwide.",
+  "src": "AVL"
+ },
+ {
+  "w": "milestone",
+  "pos": "n.",
+  "th": "หมุดหมายสำคัญ / เหตุการณ์สำคัญ",
+  "fam": "—",
+  "col": "a major milestone / developmental milestones",
+  "ex": "Learning to read is an important developmental milestone that lays the foundation for success in all other school subjects.",
+  "src": "AVL"
+ },
+ {
+  "w": "mindset",
+  "pos": "n.",
+  "th": "กรอบความคิด / วิธีคิด / ทัศนคติ",
+  "fam": "mind (n.), like-minded (adj.)",
+  "col": "a growth mindset / change one's mindset",
+  "ex": "Teachers who encourage a growth mindset help students view mistakes as opportunities for learning rather than signs of failure.",
+  "src": "AVL"
+ },
+ {
+  "w": "outlook",
+  "pos": "n.",
+  "th": "มุมมอง / ทัศนคติ / แนวโน้มในอนาคต",
+  "fam": "look out (phr. v.)",
+  "col": "a positive outlook / economic outlook",
+  "ex": "Older adults with a positive outlook on ageing tend to live longer and recover more quickly from illness.",
+  "src": "AVL"
+ },
+ {
+  "w": "outset",
+  "pos": "n.",
+  "th": "การเริ่มต้น / ตอนแรก",
+  "fam": "set out (phr. v.)",
+  "col": "at the outset / from the outset",
+  "ex": "Researchers should clearly define their objectives from the outset to avoid collecting large amounts of irrelevant data.",
+  "src": "AVL"
+ },
+ {
+  "w": "pitfall",
+  "pos": "n.",
+  "th": "หลุมพราง / ข้อผิดพลาดที่มักเกิดขึ้น",
+  "fam": "—",
+  "col": "a common pitfall / avoid pitfalls",
+  "ex": "A common pitfall in essay writing is presenting opinions as facts without supporting them with reliable evidence.",
+  "src": "AVL"
+ },
+ {
+  "w": "predicament",
+  "pos": "n.",
+  "th": "สถานการณ์ลำบาก / สภาพที่ยุ่งยาก",
+  "fam": "—",
+  "col": "a difficult predicament / financial predicament",
+  "ex": "Many young graduates find themselves in a predicament, needing work experience to get a job but unable to gain it without one.",
+  "src": "AVL"
+ },
+ {
+  "w": "propensity",
+  "pos": "n.",
+  "th": "แนวโน้ม / ความโน้มเอียง",
+  "fam": "—",
+  "col": "a propensity to save / a high propensity for",
+  "ex": "Studies show that individuals with higher levels of education have a greater propensity to save for retirement.",
+  "src": "AVL"
+ },
+ {
+  "w": "quota",
+  "pos": "n.",
+  "th": "โควตา / จำนวนหรือสัดส่วนที่กำหนดไว้",
+  "fam": "quotas (n. pl.), quota system (n.)",
+  "col": "impose a quota / gender quota",
+  "ex": "Some universities have introduced a quota system to increase the number of students admitted from rural areas.",
+  "src": "AVL"
+ },
+ {
+  "w": "ramification",
+  "pos": "n.",
+  "th": "ผลกระทบสืบเนื่อง / ผลที่ตามมา (มักไม่คาดคิด)",
+  "fam": "ramify (v.), ramified (adj.)",
+  "col": "serious ramifications / economic ramifications",
+  "ex": "The ramifications of an ageing population for pension systems and healthcare budgets are only beginning to be understood.",
+  "src": "AVL"
+ },
+ {
+  "w": "realm",
+  "pos": "n.",
+  "th": "ขอบเขต / แวดวง / อาณาเขต",
+  "fam": "realms (n. pl.)",
+  "col": "in the realm of / the realm of possibility",
+  "ex": "Artificial intelligence, once confined to the realm of science fiction, is now widely used in medical diagnosis and education.",
+  "src": "AVL"
+ },
+ {
+  "w": "recession",
+  "pos": "n.",
+  "th": "ภาวะเศรษฐกิจถดถอย / การถดถอย",
+  "fam": "recede (v.), recessionary (adj.)",
+  "col": "economic recession / enter a recession",
+  "ex": "During the global recession, youth unemployment rose sharply, forcing many graduates to accept temporary or low-paid jobs.",
+  "src": "AVL"
+ },
+ {
+  "w": "residue",
+  "pos": "n.",
+  "th": "สารตกค้าง / ส่วนที่เหลืออยู่ / กาก",
+  "fam": "residual (adj.), residually (adv.)",
+  "col": "pesticide residues / chemical residue",
+  "ex": "Researchers detected pesticide residues on nearly a third of the vegetables sampled from local markets across the province.",
+  "src": "AVL"
+ },
+ {
+  "w": "spectrum",
+  "pos": "n.",
+  "th": "ช่วงกว้าง / ขอบเขตที่ครอบคลุม / สเปกตรัม",
+  "fam": "spectra (n. pl.), spectral (adj.)",
+  "col": "a broad spectrum of / across the political spectrum",
+  "ex": "The survey included participants from across the socioeconomic spectrum to ensure that the findings were representative of the population.",
+  "src": "AVL"
+ },
+ {
+  "w": "subset",
+  "pos": "n.",
+  "th": "กลุ่มย่อย / เซตย่อย",
+  "fam": "set (n.), subgroup (n.)",
+  "col": "a small subset of / a subset of data",
+  "ex": "Only a small subset of patients experienced side effects, suggesting that the new vaccine is generally safe for adults.",
+  "src": "AVL"
+ },
+ {
+  "w": "tendency",
+  "pos": "n.",
+  "th": "แนวโน้ม / ความโน้มเอียง",
+  "fam": "tend (v.), tendentious (adj.)",
+  "col": "a growing tendency / a tendency to",
+  "ex": "There is a growing tendency among young adults to rely on social media rather than newspapers for daily news.",
+  "src": "AVL"
+ },
+ {
+  "w": "testimony",
+  "pos": "n.",
+  "th": "คำให้การ / หลักฐานยืนยัน / ประจักษ์พยาน",
+  "fam": "testify (v.), testimonial (n.)",
+  "col": "bear testimony to / expert testimony",
+  "ex": "The rapid recovery of the coral reef is testimony to the effectiveness of the government's marine protection programme.",
+  "src": "AVL"
+ },
+ {
+  "w": "attrition",
+  "pos": "n.",
+  "th": "การลดลงของจำนวน (เช่น การลาออก การออกกลางคัน) / การบั่นทอน",
+  "fam": "attritional (adj.), attrit (v.)",
+  "col": "attrition rate / staff attrition",
+  "ex": "The study suffered from high attrition, with nearly 30 per cent of participants dropping out before the final follow-up.",
+  "src": "AVL"
+ },
+ {
+  "w": "demographic",
+  "pos": "adj.",
+  "th": "ด้านประชากร / เกี่ยวกับประชากรศาสตร์",
+  "fam": "demography (n.), demographics (n.), demographically (adv.)",
+  "col": "demographic change / demographic data",
+  "ex": "Demographic change, particularly falling birth rates, will place enormous pressure on Thailand's workforce over the next two decades.",
+  "src": "AVL"
+ },
+ {
+  "w": "dichotomy",
+  "pos": "n.",
+  "th": "การแบ่งเป็นสองขั้ว / ความแตกต่างแบบตรงข้ามกัน",
+  "fam": "dichotomous (adj.), dichotomise (v.)",
+  "col": "a false dichotomy / the dichotomy between",
+  "ex": "Many experts argue that the dichotomy between economic growth and environmental protection is a false one.",
+  "src": "AVL"
+ },
+ {
+  "w": "entitlement",
+  "pos": "n.",
+  "th": "สิทธิ (ที่พึงได้รับ) / สิทธิประโยชน์",
+  "fam": "entitle (v.), entitled (adj.)",
+  "col": "welfare entitlement / sense of entitlement",
+  "ex": "As life expectancy rises, governments are reconsidering pension entitlements to keep social security systems financially sustainable.",
+  "src": "AVL"
+ },
+ {
+  "w": "heterogeneity",
+  "pos": "n.",
+  "th": "ความหลากหลาย / ความไม่เป็นเนื้อเดียวกัน",
+  "fam": "heterogeneous (adj.), homogeneity (n.)",
+  "col": "considerable heterogeneity / heterogeneity among",
+  "ex": "The meta-analysis found considerable heterogeneity among the studies, making it difficult to draw firm conclusions about the treatment.",
+  "src": "AVL"
+ },
+ {
+  "w": "intersection",
+  "pos": "n.",
+  "th": "จุดตัด / จุดบรรจบ / ทางแยก",
+  "fam": "intersect (v.), intersecting (adj.)",
+  "col": "at the intersection of / the intersection between",
+  "ex": "Her research lies at the intersection of public health and technology, examining how mobile apps can encourage healthier lifestyles.",
+  "src": "AVL"
+ },
+ {
+  "w": "mobility",
+  "pos": "n.",
+  "th": "การเคลื่อนย้าย / ความคล่องตัว / การเลื่อนสถานะทางสังคม",
+  "fam": "mobile (adj.), mobilise (v.)",
+  "col": "social mobility / labour mobility",
+  "ex": "Access to higher education remains one of the most important drivers of social mobility in developing countries.",
+  "src": "AVL"
+ },
+ {
+  "w": "observation",
+  "pos": "n.",
+  "th": "การสังเกต / ข้อสังเกต",
+  "fam": "observe (v.), observational (adj.), observer (n.)",
+  "col": "careful observation / based on observation",
+  "ex": "Classroom observation revealed that students participated more actively when teachers used group discussion rather than lectures.",
+  "src": "AVL"
+ },
+ {
+  "w": "proxy",
+  "pos": "n.",
+  "th": "ตัวแทน / ตัวชี้วัดแทน",
+  "fam": "proxies (n. pl.)",
+  "col": "a proxy for / proxy measure",
+  "ex": "Household income is often used as a proxy for socioeconomic status in studies of educational achievement.",
+  "src": "AVL"
+ },
+ {
+  "w": "scrutiny",
+  "pos": "n.",
+  "th": "การตรวจสอบอย่างละเอียด / การพิจารณาอย่างถี่ถ้วน",
+  "fam": "scrutinise (v.)",
+  "col": "close scrutiny / under scrutiny",
+  "ex": "Technology companies are coming under increasing scrutiny over how they collect and use their customers' personal data.",
+  "src": "AVL"
+ },
+ {
+  "w": "scepticism",
+  "pos": "n.",
+  "th": "ความกังขา / ความไม่เชื่อถือ",
+  "fam": "sceptic (n.), sceptical (adj.), sceptically (adv.)",
+  "col": "widespread scepticism / scepticism about",
+  "ex": "Despite growing evidence of its benefits, there is still widespread scepticism about the safety of genetically modified food.",
+  "src": "AVL"
+ },
+ {
+  "w": "solidarity",
+  "pos": "n.",
+  "th": "ความสมานฉันท์ / ความเป็นน้ำหนึ่งใจเดียวกัน",
+  "fam": "solidary (adj.), solid (adj.)",
+  "col": "social solidarity / show solidarity with",
+  "ex": "During the pandemic, many communities showed remarkable solidarity by delivering food and medicine to elderly neighbours living alone.",
+  "src": "AVL"
+ },
+ {
+  "w": "tenet",
+  "pos": "n.",
+  "th": "หลักการสำคัญ / หลักความเชื่อ",
+  "fam": "tenets (n. pl.)",
+  "col": "a central tenet / a basic tenet of",
+  "ex": "A central tenet of modern education is that students learn best when they actively participate in solving real problems.",
+  "src": "AVL"
+ },
+ {
+  "w": "adverse",
+  "pos": "adj.",
+  "th": "ที่เป็นผลเสีย / ไม่พึงประสงค์ / ในทางลบ",
+  "fam": "adversely (adv.), adversity (n.)",
+  "col": "adverse effects / adverse impact",
+  "ex": "Prolonged exposure to air pollution has adverse effects on children's lung development, according to a recent study.",
+  "src": "AVL"
+ },
+ {
+  "w": "applicable",
+  "pos": "adj.",
+  "th": "ที่นำไปใช้ได้ / ที่ใช้บังคับได้",
+  "fam": "apply (v.), application (n.), applicability (n.)",
+  "col": "applicable to / widely applicable",
+  "ex": "The researchers cautioned that their findings may not be applicable to older adults, as all participants were university students.",
+  "src": "AVL"
+ },
+ {
+  "w": "conducive",
+  "pos": "adj.",
+  "th": "ที่เอื้อต่อ / ที่ส่งเสริมให้เกิด",
+  "fam": "conduce (v.), conduciveness (n.)",
+  "col": "conducive to learning / conducive environment",
+  "ex": "A quiet, well-lit classroom with good ventilation is far more conducive to learning than a crowded and noisy one.",
+  "src": "AVL"
+ },
+ {
+  "w": "credible",
+  "pos": "adj.",
+  "th": "น่าเชื่อถือ",
+  "fam": "credibility (n.), credibly (adv.), incredible (adj.)",
+  "col": "credible evidence / credible source",
+  "ex": "Students should learn how to distinguish credible sources from misleading information when researching topics online.",
+  "src": "AVL"
+ },
+ {
+  "w": "decisive",
+  "pos": "adj.",
+  "th": "ที่ชี้ขาด / เด็ดขาด / ที่มีผลตัดสิน",
+  "fam": "decide (v.), decision (n.), decisively (adv.)",
+  "col": "decisive role / decisive action",
+  "ex": "Governments must take decisive action to reduce carbon emissions if global temperature targets are to be met.",
+  "src": "AVL"
+ },
+ {
+  "w": "discernible",
+  "pos": "adj.",
+  "th": "ที่สังเกตเห็นได้ / ที่แยกแยะได้",
+  "fam": "discern (v.), discernibly (adv.), discernment (n.)",
+  "col": "no discernible difference / discernible effect",
+  "ex": "The study found no discernible difference in test scores between students who studied online and those taught face to face.",
+  "src": "AVL"
+ },
+ {
+  "w": "drastic",
+  "pos": "adj.",
+  "th": "รุนแรง / อย่างมาก / อย่างฉับพลัน",
+  "fam": "drastically (adv.)",
+  "col": "drastic measures / drastic reduction",
+  "ex": "Without drastic cuts in plastic use, the amount of waste entering the oceans is expected to double by 2040.",
+  "src": "AVL"
+ },
+ {
+  "w": "feasible",
+  "pos": "adj.",
+  "th": "เป็นไปได้ / ที่ทำได้จริง",
+  "fam": "feasibility (n.), feasibly (adv.)",
+  "col": "economically feasible / technically feasible",
+  "ex": "Switching entirely to renewable energy may not be economically feasible for many developing countries in the short term.",
+  "src": "AVL"
+ },
+ {
+  "w": "fragile",
+  "pos": "adj.",
+  "th": "เปราะบาง / บอบบาง",
+  "fam": "fragility (n.)",
+  "col": "fragile ecosystem / fragile economy",
+  "ex": "Mangrove forests are fragile ecosystems that can be severely damaged by coastal development and rising sea levels.",
+  "src": "AVL"
+ },
+ {
+  "w": "legitimate",
+  "pos": "adj.",
+  "th": "ชอบธรรม / ถูกต้องตามกฎหมาย / สมเหตุสมผล",
+  "fam": "legitimacy (n.), legitimately (adv.), legitimise (v.)",
+  "col": "legitimate concern / legitimate reason",
+  "ex": "Parents have legitimate concerns about the amount of time their children spend on smartphones and social media.",
+  "src": "AVL"
+ },
+ {
+  "w": "notable",
+  "pos": "adj.",
+  "th": "โดดเด่น / น่าสังเกต / น่าจดจำ",
+  "fam": "notably (adv.), note (v.)",
+  "col": "a notable exception / a notable increase",
+  "ex": "One notable finding of the survey was that older workers were more willing to learn new digital skills than expected.",
+  "src": "AVL"
+ },
+ {
+  "w": "novel",
+  "pos": "adj.",
+  "th": "ใหม่ / แปลกใหม่ / ไม่เคยมีมาก่อน",
+  "fam": "novelty (n.)",
+  "col": "novel approach / novel coronavirus",
+  "ex": "The researchers developed a novel approach to detecting early signs of dementia using voice recordings and machine learning.",
+  "src": "AVL"
+ },
+ {
+  "w": "optimal",
+  "pos": "adj.",
+  "th": "ดีที่สุด / เหมาะสมที่สุด",
+  "fam": "optimum (n./adj.), optimise (v.), optimisation (n.)",
+  "col": "optimal conditions / optimal level",
+  "ex": "Sleep experts suggest that seven to nine hours per night is optimal for adults' physical and mental health.",
+  "src": "AVL"
+ },
+ {
+  "w": "pivotal",
+  "pos": "adj.",
+  "th": "สำคัญยิ่ง / เป็นหัวใจหลัก / เป็นจุดเปลี่ยน",
+  "fam": "pivot (n./v.)",
+  "col": "pivotal role / pivotal moment",
+  "ex": "Teachers play a pivotal role in helping students develop the critical thinking skills needed in the modern workplace.",
+  "src": "AVL"
+ },
+ {
+  "w": "plausible",
+  "pos": "adj.",
+  "th": "น่าเชื่อ / ฟังขึ้น / มีเหตุผล",
+  "fam": "plausibility (n.), plausibly (adv.), implausible (adj.)",
+  "col": "plausible explanation / highly plausible",
+  "ex": "One plausible explanation for the decline in reading habits is the rapid growth of short-form video platforms.",
+  "src": "AVL"
+ },
+ {
+  "w": "pertinent",
+  "pos": "adj.",
+  "th": "ที่เกี่ยวข้องโดยตรง / ตรงประเด็น",
+  "fam": "pertinence (n.), pertain (v.)",
+  "col": "pertinent to / pertinent information",
+  "ex": "The committee requested all pertinent data before deciding whether to fund the expansion of the rural health programme.",
+  "src": "AVL"
+ },
+ {
+  "w": "prominent",
+  "pos": "adj.",
+  "th": "โดดเด่น / มีชื่อเสียง / สำคัญ",
+  "fam": "prominence (n.), prominently (adv.)",
+  "col": "prominent role / prominent figure",
+  "ex": "Social media has come to play a prominent role in shaping public opinion on environmental and health issues.",
+  "src": "AVL"
+ },
+ {
+  "w": "prone to",
+  "pos": "adj. phr.",
+  "th": "มีแนวโน้มที่จะ (เกิดสิ่งไม่ดี) / เสี่ยงต่อ",
+  "fam": "proneness (n.), accident-prone (adj.)",
+  "col": "prone to error / prone to flooding",
+  "ex": "Low-lying coastal cities are increasingly prone to flooding as a result of rising sea levels and heavier rainfall.",
+  "src": "AVL"
+ },
+ {
+  "w": "prudent",
+  "pos": "adj.",
+  "th": "รอบคอบ / สุขุม / ระมัดระวัง",
+  "fam": "prudence (n.), prudently (adv.)",
+  "col": "prudent approach / it would be prudent to",
+  "ex": "Given the uncertain long-term effects, it would be prudent to limit young children's daily exposure to digital screens.",
+  "src": "AVL"
+ },
+ {
+  "w": "reciprocal",
+  "pos": "adj.",
+  "th": "ซึ่งกันและกัน / ที่ตอบแทนกัน",
+  "fam": "reciprocate (v.), reciprocity (n.), reciprocally (adv.)",
+  "col": "reciprocal relationship / reciprocal agreement",
+  "ex": "Researchers observed a reciprocal relationship between poor sleep and anxiety, with each condition tending to worsen the other.",
+  "src": "AVL"
+ },
+ {
+  "w": "robust",
+  "pos": "adj.",
+  "th": "แข็งแกร่ง / มั่นคง / หนักแน่นน่าเชื่อถือ",
+  "fam": "robustness (n.), robustly (adv.)",
+  "col": "robust evidence / robust economy",
+  "ex": "There is robust evidence that early childhood education improves children's long-term academic and employment outcomes.",
+  "src": "AVL"
+ },
+ {
+  "w": "salient",
+  "pos": "adj.",
+  "th": "เด่นชัด / สำคัญ / ที่เป็นประเด็นหลัก",
+  "fam": "salience (n.)",
+  "col": "salient features / salient point",
+  "ex": "The report summarises the salient points of the debate over whether artificial intelligence will replace human teachers.",
+  "src": "AVL"
+ },
+ {
+  "w": "skewed",
+  "pos": "adj.",
+  "th": "บิดเบือน / เอนเอียง / ไม่สมดุล",
+  "fam": "skew (v./n.), skewness (n.)",
+  "col": "skewed results / heavily skewed towards",
+  "ex": "The survey results were skewed because most respondents were young urban residents with regular internet access.",
+  "src": "AVL"
+ },
+ {
+  "w": "sophisticated",
+  "pos": "adj.",
+  "th": "ซับซ้อน / ก้าวหน้า / ล้ำสมัย",
+  "fam": "sophistication (n.), unsophisticated (adj.)",
+  "col": "sophisticated technology / highly sophisticated",
+  "ex": "Increasingly sophisticated AI systems are now able to diagnose certain skin cancers as accurately as experienced doctors.",
+  "src": "AVL"
+ },
+ {
+  "w": "sporadic",
+  "pos": "adj.",
+  "th": "ประปราย / เป็นครั้งคราว / ไม่สม่ำเสมอ",
+  "fam": "sporadically (adv.)",
+  "col": "sporadic cases / sporadic outbreaks",
+  "ex": "Although only sporadic cases of the disease have been reported, health officials are monitoring the situation closely.",
+  "src": "AVL"
+ },
+ {
+  "w": "stringent",
+  "pos": "adj.",
+  "th": "เข้มงวด",
+  "fam": "stringency (n.), stringently (adv.)",
+  "col": "stringent regulations / stringent standards",
+  "ex": "Stringent regulations on vehicle emissions have significantly improved air quality in several major European cities.",
+  "src": "AVL"
+ },
+ {
+  "w": "subtle",
+  "pos": "adj.",
+  "th": "ละเอียดอ่อน / แนบเนียน / สังเกตได้ยาก",
+  "fam": "subtlety (n.), subtly (adv.)",
+  "col": "subtle difference / subtle changes",
+  "ex": "Brain scans revealed subtle changes in memory function among participants who regularly slept fewer than six hours a night.",
+  "src": "AVL"
+ },
+ {
+  "w": "superficial",
+  "pos": "adj.",
+  "th": "ผิวเผิน / ตื้นเขิน",
+  "fam": "superficially (adv.), superficiality (n.)",
+  "col": "superficial understanding / superficial similarity",
+  "ex": "Critics argue that memorising facts for exams leads only to a superficial understanding of complex scientific concepts.",
+  "src": "AVL"
+ },
+ {
+  "w": "systematic",
+  "pos": "adj.",
+  "th": "เป็นระบบ / มีแบบแผน",
+  "fam": "system (n.), systematically (adv.), systematise (v.)",
+  "col": "systematic review / systematic approach",
+  "ex": "A systematic review of forty studies concluded that mindfulness programmes can reduce stress among healthcare workers.",
+  "src": "AVL"
+ },
+ {
+  "w": "tangible",
+  "pos": "adj.",
+  "th": "ที่จับต้องได้ / เป็นรูปธรรม",
+  "fam": "tangibly (adv.), intangible (adj.)",
+  "col": "tangible benefits / tangible results",
+  "ex": "Community recycling schemes can bring tangible benefits, such as cleaner streets and lower waste disposal costs.",
+  "src": "AVL"
+ },
+ {
+  "w": "tentative",
+  "pos": "adj.",
+  "th": "เบื้องต้น / ยังไม่แน่นอน / ชั่วคราว",
+  "fam": "tentatively (adv.), tentativeness (n.)",
+  "col": "tentative conclusion / tentative evidence",
+  "ex": "The findings are still tentative, and further research with larger samples is needed before firm conclusions can be drawn.",
+  "src": "AVL"
+ },
+ {
+  "w": "viable",
+  "pos": "adj.",
+  "th": "ที่เป็นไปได้ / ใช้การได้จริง / อยู่รอดได้",
+  "fam": "viability (n.)",
+  "col": "viable alternative / economically viable",
+  "ex": "Electric buses are becoming a viable alternative to diesel vehicles in many Asian cities with serious air pollution problems.",
+  "src": "AVL"
+ },
+ {
+  "w": "vital",
+  "pos": "adj.",
+  "th": "สำคัญยิ่ง / จำเป็นอย่างยิ่ง",
+  "fam": "vitality (n.), vitally (adv.)",
+  "col": "vital role / it is vital that",
+  "ex": "It is vital that governments invest in digital literacy so that older citizens are not excluded from online services.",
+  "src": "AVL"
+ },
+ {
+  "w": "comparable",
+  "pos": "adj.",
+  "th": "ที่เทียบเคียงได้ / ใกล้เคียงกัน",
+  "fam": "compare (v.), comparison (n.), comparably (adv.)",
+  "col": "comparable to / comparable data",
+  "ex": "Well-designed online courses can produce learning outcomes comparable to those of traditional face-to-face classroom teaching.",
+  "src": "AVL"
+ },
+ {
+  "w": "compulsory",
+  "pos": "adj.",
+  "th": "ภาคบังคับ / ที่ถูกบังคับ",
+  "fam": "compel (v.), compulsion (n.), compulsorily (adv.)",
+  "col": "compulsory education / compulsory subject",
+  "ex": "Some educators argue that coding should become a compulsory subject in secondary schools to prepare students for future jobs.",
+  "src": "AVL"
+ },
+ {
+  "w": "essentially",
+  "pos": "adv.",
+  "th": "โดยพื้นฐาน / โดยแก่นแท้ / โดยหลักแล้ว",
+  "fam": "essence (n.), essential (adj.)",
+  "col": "essentially the same / essentially different",
+  "ex": "The two treatments were essentially the same in effectiveness, but the second was considerably cheaper to provide.",
+  "src": "AVL"
+ },
+ {
+  "w": "exclusively",
+  "pos": "adv.",
+  "th": "โดยเฉพาะเท่านั้น / แต่เพียงอย่างเดียว",
+  "fam": "exclude (v.), exclusive (adj.), exclusion (n.)",
+  "col": "almost exclusively / focus exclusively on",
+  "ex": "Earlier studies focused almost exclusively on urban populations, overlooking the health needs of people living in rural areas.",
+  "src": "AVL"
+ },
+ {
+  "w": "incremental",
+  "pos": "adj.",
+  "th": "ที่ค่อยเป็นค่อยไป / ทีละขั้น / ที่เพิ่มขึ้นทีละน้อย",
+  "fam": "increment (n.), incrementally (adv.)",
+  "col": "incremental change / incremental improvement",
+  "ex": "Rather than dramatic reforms, the ministry favoured incremental changes to the national curriculum over several years.",
+  "src": "AVL"
+ },
+ {
+  "w": "inferior",
+  "pos": "adj.",
+  "th": "ด้อยกว่า / คุณภาพต่ำกว่า",
+  "fam": "inferiority (n.)",
+  "col": "inferior to / inferior quality",
+  "ex": "Some employers still regard online degrees as inferior to qualifications earned through traditional university study.",
+  "src": "AVL"
+ },
+ {
+  "w": "intricate",
+  "pos": "adj.",
+  "th": "ซับซ้อน / ประณีต / ยุ่งยาก",
+  "fam": "intricacy (n.), intricately (adv.)",
+  "col": "intricate relationship / intricate network",
+  "ex": "Scientists are only beginning to understand the intricate relationship between gut bacteria and mental health.",
+  "src": "AVL"
+ },
+ {
+  "w": "invaluable",
+  "pos": "adj.",
+  "th": "มีค่าอย่างยิ่ง / ประเมินค่ามิได้",
+  "fam": "value (n./v.), valuable (adj.)",
+  "col": "invaluable resource / invaluable experience",
+  "ex": "Internships provide students with invaluable experience that helps them make the transition from university to work.",
+  "src": "AVL"
+ },
+ {
+  "w": "longitudinal",
+  "pos": "adj.",
+  "th": "ระยะยาว (ติดตามกลุ่มเดิมต่อเนื่อง) / เชิงตามยาว",
+  "fam": "longitudinally (adv.), longitude (n.)",
+  "col": "longitudinal study / longitudinal data",
+  "ex": "A longitudinal study following 5,000 children for twenty years found that early reading habits predicted later academic success.",
+  "src": "AVL"
+ },
+ {
+  "w": "multifaceted",
+  "pos": "adj.",
+  "th": "หลายแง่มุม / หลายมิติ",
+  "fam": "facet (n.)",
+  "col": "multifaceted problem / multifaceted approach",
+  "ex": "Obesity is a multifaceted problem that requires changes in diet, physical activity, urban planning and public policy.",
+  "src": "AVL"
+ },
+ {
+  "w": "negligible",
+  "pos": "adj.",
+  "th": "เล็กน้อยมาก / น้อยจนไม่ต้องคำนึงถึง",
+  "fam": "negligibly (adv.), neglect (v.)",
+  "col": "negligible effect / negligible risk",
+  "ex": "The study concluded that the risk of serious side effects from the vaccine was negligible compared with its benefits.",
+  "src": "AVL"
+ },
+ {
+  "w": "obsolete",
+  "pos": "adj.",
+  "th": "ล้าสมัย / เลิกใช้แล้ว",
+  "fam": "obsolescence (n.), obsolescent (adj.)",
+  "col": "become obsolete / obsolete technology",
+  "ex": "As automation spreads, many routine jobs may become obsolete, requiring workers to retrain for entirely new roles.",
+  "src": "AVL"
+ },
+ {
+  "w": "peripheral",
+  "pos": "adj.",
+  "th": "รอบนอก / ชายขอบ / ไม่ใช่ประเด็นหลัก",
+  "fam": "periphery (n.), peripherally (adv.)",
+  "col": "peripheral issue / peripheral areas",
+  "ex": "Residents of peripheral areas often have limited access to hospitals, specialist medical care and reliable public transport.",
+  "src": "AVL"
+ },
+ {
+  "w": "preferable",
+  "pos": "adj.",
+  "th": "ที่ดีกว่า / น่าเลือกมากกว่า",
+  "fam": "prefer (v.), preference (n.), preferably (adv.)",
+  "col": "preferable to / it is preferable to",
+  "ex": "Many experts believe that preventing disease through healthy lifestyles is preferable to treating it after it develops.",
+  "src": "AVL"
+ },
+ {
+  "w": "preventive",
+  "pos": "adj.",
+  "th": "ที่ป้องกัน / เชิงป้องกัน",
+  "fam": "prevent (v.), prevention (n.), preventable (adj.)",
+  "col": "preventive measures / preventive medicine",
+  "ex": "Investing in preventive healthcare, such as regular screenings, can reduce long-term medical costs for ageing societies.",
+  "src": "AVL"
+ },
+ {
+  "w": "problematic",
+  "pos": "adj.",
+  "th": "ที่เป็นปัญหา / ยุ่งยาก / น่ากังขา",
+  "fam": "problem (n.), problematically (adv.), problematise (v.)",
+  "col": "highly problematic / problematic behaviour",
+  "ex": "Relying solely on exam scores to evaluate teachers is problematic because it ignores many other aspects of good teaching.",
+  "src": "AVL"
+ },
+ {
+  "w": "quantitative",
+  "pos": "adj.",
+  "th": "เชิงปริมาณ",
+  "fam": "quantity (n.), quantify (v.), quantitatively (adv.)",
+  "col": "quantitative data / quantitative research",
+  "ex": "The researchers combined quantitative data from questionnaires with in-depth interviews to better understand teachers' workload.",
+  "src": "AVL"
+ },
+ {
+  "w": "redundant",
+  "pos": "adj.",
+  "th": "ซ้ำซ้อน / เกินความจำเป็น / ถูกเลิกจ้าง (เพราะตำแหน่งไม่จำเป็นอีกต่อไป)",
+  "fam": "redundancy (n.), redundantly (adv.)",
+  "col": "made redundant / redundant information",
+  "ex": "Thousands of factory workers were made redundant after the company replaced its assembly lines with industrial robots.",
+  "src": "AVL"
+ },
+ {
+  "w": "relatively",
+  "pos": "adv.",
+  "th": "ค่อนข้าง / โดยเปรียบเทียบ",
+  "fam": "relative (adj./n.), relate (v.), relativity (n.)",
+  "col": "relatively small / relatively few",
+  "ex": "Relatively few studies have examined the long-term effects of remote work on employees' mental health and wellbeing.",
+  "src": "AVL"
+ },
+ {
+  "w": "respectively",
+  "pos": "adv.",
+  "th": "ตามลำดับ",
+  "fam": "respective (adj.)",
+  "col": "X and Y respectively / rose by X and Y respectively",
+  "ex": "Unemployment rates among graduates and non-graduates were 4 per cent and 9 per cent respectively in 2023, according to official data.",
+  "src": "AVL"
+ },
+ {
+  "w": "simultaneously",
+  "pos": "adv.",
+  "th": "พร้อมกัน / ในเวลาเดียวกัน",
+  "fam": "simultaneous (adj.), simultaneity (n.)",
+  "col": "occur simultaneously / simultaneously increase",
+  "ex": "Many students attempt to study and check their phones simultaneously, which significantly reduces their concentration and memory.",
+  "src": "AVL"
+ },
+ {
+  "w": "socioeconomic",
+  "pos": "adj.",
+  "th": "ทางเศรษฐกิจและสังคม",
+  "fam": "socioeconomically (adv.)",
+  "col": "socioeconomic status / socioeconomic background",
+  "ex": "Children from lower socioeconomic backgrounds are less likely to attend university, even when their academic results are similar.",
+  "src": "AVL"
+ },
+ {
+  "w": "subjective",
+  "pos": "adj.",
+  "th": "เชิงอัตวิสัย / ขึ้นอยู่กับความเห็นส่วนบุคคล",
+  "fam": "subjectively (adv.), subjectivity (n.)",
+  "col": "subjective judgement / highly subjective",
+  "ex": "Measuring happiness is difficult because it depends largely on subjective judgements rather than objective indicators.",
+  "src": "AVL"
+ },
+ {
+  "w": "superior",
+  "pos": "adj.",
+  "th": "เหนือกว่า / ดีกว่า",
+  "fam": "superiority (n.)",
+  "col": "superior to / superior performance",
+  "ex": "The new teaching method proved superior to traditional lectures in improving first-year students' problem-solving skills.",
+  "src": "AVL"
+ },
+ {
+  "w": "susceptible",
+  "pos": "adj.",
+  "th": "อ่อนไหวต่อ / เสี่ยงต่อ / ได้รับผลกระทบง่าย",
+  "fam": "susceptibility (n.)",
+  "col": "susceptible to infection / highly susceptible",
+  "ex": "Older adults are more susceptible to heatstroke, especially during prolonged heatwaves in densely populated urban areas.",
+  "src": "AVL"
+ },
+ {
+  "w": "ubiquitous",
+  "pos": "adj.",
+  "th": "มีอยู่ทั่วไป / แพร่หลายไปทุกหนแห่ง",
+  "fam": "ubiquity (n.), ubiquitously (adv.)",
+  "col": "become ubiquitous / ubiquitous technology",
+  "ex": "Smartphones have become ubiquitous, raising concerns about their impact on children's attention spans and sleep.",
+  "src": "AVL"
+ },
+ {
+  "w": "unanimous",
+  "pos": "adj.",
+  "th": "เป็นเอกฉันท์",
+  "fam": "unanimity (n.), unanimously (adv.)",
+  "col": "unanimous decision / unanimous agreement",
+  "ex": "The university council reached a unanimous decision to ban single-use plastic bags across the entire campus.",
+  "src": "AVL"
+ },
+ {
+  "w": "versatile",
+  "pos": "adj.",
+  "th": "ใช้งานได้หลากหลาย / มีความสามารถรอบด้าน",
+  "fam": "versatility (n.)",
+  "col": "versatile tool / highly versatile",
+  "ex": "Artificial intelligence is a versatile tool that can be applied to tasks ranging from language translation to drug discovery.",
+  "src": "AVL"
+ },
+ {
+  "w": "peer-reviewed",
+  "pos": "adj.",
+  "th": "ที่ผ่านการประเมินโดยผู้ทรงคุณวุฒิ",
+  "fam": "peer review (n.), peer-review (v.)",
+  "col": "peer-reviewed journal / peer-reviewed research",
+  "ex": "The findings, published in a peer-reviewed journal, suggest that urban green spaces improve residents' mental wellbeing.",
+  "src": "AVL"
+ },
+ {
+  "w": "cost-effective",
+  "pos": "adj.",
+  "th": "คุ้มค่า / คุ้มทุน",
+  "fam": "cost-effectiveness (n.), cost-effectively (adv.)",
+  "col": "cost-effective way / highly cost-effective",
+  "ex": "Vaccination programmes are one of the most cost-effective ways of reducing healthcare spending in the long term.",
+  "src": "AVL"
+ },
+ {
+  "w": "large-scale",
+  "pos": "adj.",
+  "th": "ขนาดใหญ่ / ในวงกว้าง",
+  "fam": "scale (n.), small-scale (adj.)",
+  "col": "large-scale study / large-scale production",
+  "ex": "A large-scale study involving over 100,000 adults linked high sugar consumption to an increased risk of heart disease.",
+  "src": "AVL"
+ },
+ {
+  "w": "well-established",
+  "pos": "adj.",
+  "th": "เป็นที่ยอมรับอย่างกว้างขวาง / ได้รับการยืนยันแน่ชัดแล้ว / มั่นคง",
+  "fam": "establish (v.), establishment (n.), established (adj.)",
+  "col": "well-established fact / well-established link",
+  "ex": "It is a well-established fact that regular exercise reduces the risk of heart disease, diabetes and depression.",
+  "src": "AVL"
+ },
+ {
+  "w": "appraise",
+  "pos": "v.",
+  "th": "ประเมิน / ประเมินค่า",
+  "fam": "appraisal (n.), appraiser (n.)",
+  "col": "critically appraise / appraise the evidence",
+  "ex": "Students must learn to critically appraise research findings rather than simply accepting the conclusions reported in the media.",
+  "src": "AVL"
+ },
+ {
+  "w": "calibrate",
+  "pos": "v.",
+  "th": "ปรับเทียบ (มาตรฐาน) / ปรับให้แม่นยำหรือเหมาะสม",
+  "fam": "calibration (n.), calibrated (adj.)",
+  "col": "calibrate instruments / carefully calibrated",
+  "ex": "All air-quality sensors were calibrated before the study to ensure that pollution measurements were accurate and comparable.",
+  "src": "AVL"
+ },
+ {
+  "w": "contingent",
+  "pos": "adj.",
+  "th": "ขึ้นอยู่กับ / มีเงื่อนไข",
+  "fam": "contingency (n.)",
+  "col": "contingent on / contingent upon",
+  "ex": "Continued funding for the project is contingent on the research team publishing its initial results within two years.",
+  "src": "AVL"
+ },
+ {
+  "w": "degrade",
+  "pos": "v.",
+  "th": "ทำให้เสื่อมโทรม / ย่อยสลาย / ลดคุณภาพ",
+  "fam": "degradation (n.), degradable (adj.), biodegradable (adj.)",
+  "col": "degrade the environment / degrade naturally",
+  "ex": "Plastic bags can take hundreds of years to degrade, causing long-term damage to soil and marine ecosystems.",
+  "src": "AVL"
+ },
+ {
+  "w": "dissent",
+  "pos": "n.",
+  "th": "ความเห็นแย้ง / การไม่เห็นด้วย",
+  "fam": "dissent (v.), dissenter (n.), dissenting (adj.)",
+  "col": "voice dissent / political dissent",
+  "ex": "Healthy academic debate requires that dissent be welcomed rather than suppressed, even when it challenges established theories.",
+  "src": "AVL"
+ },
+ {
+  "w": "elucidate",
+  "pos": "v.",
+  "th": "อธิบายให้กระจ่าง / ทำให้ชัดเจน",
+  "fam": "elucidation (n.)",
+  "col": "elucidate the mechanism / further elucidate",
+  "ex": "Further research is needed to elucidate the mechanisms by which chronic stress increases the risk of heart disease.",
+  "src": "AVL"
+ },
+ {
+  "w": "empower",
+  "pos": "v.",
+  "th": "เสริมพลัง / ให้อำนาจ / ทำให้มีความสามารถ",
+  "fam": "empowerment (n.), empowered (adj.), empowering (adj.)",
+  "col": "empower women / empower communities",
+  "ex": "Microfinance schemes aim to empower women in rural areas by giving them access to small loans for starting businesses.",
+  "src": "AVL"
+ },
+ {
+  "w": "exponential",
+  "pos": "adj.",
+  "th": "แบบทวีคูณ / อย่างก้าวกระโดด / เชิงเลขชี้กำลัง",
+  "fam": "exponentially (adv.), exponent (n.)",
+  "col": "exponential growth / exponential increase",
+  "ex": "The exponential growth of online data has created new challenges for governments seeking to protect personal privacy.",
+  "src": "AVL"
+ },
+ {
+  "w": "fallacy",
+  "pos": "n.",
+  "th": "ความเชื่อที่ผิด / ตรรกะวิบัติ / ความเข้าใจผิด",
+  "fam": "fallacious (adj.), fallaciously (adv.)",
+  "col": "a common fallacy / logical fallacy",
+  "ex": "It is a common fallacy that older people cannot learn new technology; studies show they adapt well with proper support.",
+  "src": "AVL"
+ },
+ {
+  "w": "fragment",
+  "pos": "n.",
+  "th": "ชิ้นส่วน / เศษ / ส่วนย่อย",
+  "fam": "fragment (v.), fragmentation (n.), fragmented (adj.)",
+  "col": "small fragments / fragments of",
+  "ex": "Scientists found tiny fragments of plastic in drinking water samples collected from cities on five different continents.",
+  "src": "AVL"
+ },
+ {
+  "w": "imperative",
+  "pos": "adj.",
+  "th": "จำเป็นอย่างยิ่ง / เร่งด่วน (ต้องทำ)",
+  "fam": "imperative (n.), imperatively (adv.)",
+  "col": "it is imperative that / moral imperative",
+  "ex": "It is imperative that governments act quickly to reduce greenhouse gas emissions before climate damage becomes irreversible.",
+  "src": "AVL"
+ },
+ {
+  "w": "impetus",
+  "pos": "n.",
+  "th": "แรงผลักดัน / แรงกระตุ้น",
+  "fam": "impetuses (n. pl.)",
+  "col": "provide an impetus / give new impetus to",
+  "ex": "The pandemic provided a strong impetus for schools to adopt online learning platforms and digital teaching tools.",
+  "src": "AVL"
+ },
+ {
+  "w": "inception",
+  "pos": "n.",
+  "th": "การเริ่มต้น / การก่อตั้ง / จุดเริ่มต้น",
+  "fam": "incept (v., rare)",
+  "col": "since its inception / from its inception",
+  "ex": "Since its inception in 2002, the universal healthcare scheme has greatly reduced medical costs for low-income Thai families.",
+  "src": "AVL"
+ }
+]
