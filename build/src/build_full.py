@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Build the full self-paced course: the 42-day plan without dates or time limits,
-plus 300 extra academic words (build/content/vocab_academic.json).
+"""Build the 60-day self-paced KKU-AELT course aimed at Band 7.
+
+Days 1-40 come from the 42-day plan (without dates or time limits), Days 41-58 are the
+Band 7 stage (build/content/band7/ + 300 academic words), Days 59-60 are the final review.
 
 Run from any directory: python build/src/build_full.py
 The output KKU-AELT_Full_Course.html is the page served on GitHub Pages.
@@ -11,13 +13,15 @@ import re
 import sys
 from pathlib import Path
 
+import band7
+
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent.parent
 SOURCE = ROOT / 'KKU-AELT_42_Day_Study_Plan_Original.html'
 ACADEMIC = HERE.parent / 'content' / 'vocab_academic.json'
 OUT = ROOT / 'KKU-AELT_Full_Course.html'
 PLAN_ID = 'kkuaelt-full'
-VOCAB_REVISION = 'academic-300-v1'
+VOCAB_REVISION = 'band7-60-v1'
 
 original = SOURCE.read_text(encoding='utf-8')
 match = re.search(r'<script id="study-data" type="application/json">(.*?)</script>', original, re.S)
@@ -26,7 +30,6 @@ data = json.loads(match.group(1))
 days = data['days']
 assert len(days) == 42
 
-# ---------------- 300 academic words, spread over the vocabulary days ----------------
 academic = json.loads(ACADEMIC.read_text(encoding='utf-8'))
 old_words = {w['w'].lower() for ws in data['vocab'].values() for w in ws}
 assert len(academic) == 300, len(academic)
@@ -35,30 +38,6 @@ assert not old_words & {w['w'].lower() for w in academic}, old_words & {w['w'].l
 for w in academic:
     assert all(w.get(k) for k in ('w', 'pos', 'th', 'fam', 'col', 'ex')), w
     w['src'] = 'AVL'
-vocab_days = sorted(data['vocab'], key=int)
-light = {str(d) for d in data['meta'].get('lightVocabDays', [])}
-capacity = {d: 8 if d in light else 9 for d in vocab_days}
-assert sum(capacity.values()) == 300, sum(capacity.values())
-added = {d: [] for d in vocab_days}
-i = 0
-for w in academic:  # round-robin so each day mixes verbs, nouns and adjectives
-    while len(added[vocab_days[i % len(vocab_days)]]) >= capacity[vocab_days[i % len(vocab_days)]]:
-        i += 1
-    added[vocab_days[i % len(vocab_days)]].append(w)
-    i += 1
-for d in vocab_days:
-    data['vocab'][d].extend(added[d])
-total_words = sum(len(v) for v in data['vocab'].values())
-assert total_words == 1040, total_words
-for day in days:
-    n = len(data['vocab'].get(str(day['d']), []))
-    if 'newWords' in day or n:
-        day['newWords'] = n
-    if n:
-        for b in day['blocks']:
-            if b['k'] == 'vocab':
-                b['min'] += 5  # about nine more words to learn
-    day['minutes'] = sum(b['min'] for b in day['blocks'])
 
 # ---------------- no dates, no time limits ----------------
 PHASE_TH = {p['id']: p['th'] for p in data['phases']}
@@ -130,6 +109,11 @@ if '--show-changes' in sys.argv[1:]:
     for a, b in changed:
         print('-', a, '\n+', b)
 
+# ---------------- 60 days: Band 7 stage on Days 41-58 ----------------
+days = band7.assemble(data, academic, untime)
+total_words = sum(len(v) for v in data['vocab'].values())
+assert len(days) == 60 and total_words == 1040, (len(days), total_words)
+
 data['blockInfo']['test'][0] = 'Reading Test เต็มชุด'
 data['blockInfo']['test'][1] = 'ทำข้อสอบเต็ม 6 passages / 69 ข้อ ไม่จำกัดเวลา มีนาฬิกาบอกเวลาที่ใช้ ห้ามดูเฉลยระหว่างทำ'
 data['blockInfo']['essay'][0] = 'Writing Essay เต็ม'
@@ -139,14 +123,16 @@ data['blockInfo']['vocab'][1] = data['blockInfo']['vocab'][1].replace('Quiz 20 �
 exam = data['guide']['exam']['blocks']
 data['guide']['exam']['blocks'] = [b for b in exam if 'วันสอบของคุณ' not in b.get('h', '') and 'แผนย่อ' not in b.get('h', '')]
 data['guide']['exam']['blocks'].insert(0, dict(
-    h='หลักสูตรเต็ม ไม่จำกัดเวลา',
-    p=f'ทำ Day 1–42 ตามลำดับได้ตามจังหวะของตัวเอง ไม่ผูกกับวันที่และไม่มีวันหมดเขต ข้อสอบและแบบฝึกไม่ตัดเวลาหรือส่งอัตโนมัติ '
-      f'มีนาฬิกาจับเวลาให้ดูว่าใช้เวลาไปเท่าไร (หยุดพักได้) · คำศัพท์รวม {total_words} คำ = AWL และศัพท์หัวข้อ 740 คำ '
-      '+ Academic Vocabulary เพิ่ม 300 คำ · บทอ่าน 85 บท · Grammar 30 บท · Reading Test 6 ชุด · Full Mock 3 ชุด · '
+    h='หลักสูตร 60 Day เป้าหมาย Band 7 · ไม่จำกัดเวลา',
+    p='KKU-AELT ประเมินผลเป็น 7 ระดับ หลักสูตรนี้ตั้งเป้าที่ Band 7 ซึ่งเป็นระดับสูงสุด · Day 1–37 ปูพื้นฐานและกลยุทธ์ · '
+      'Day 38–40 Full Mock 3 ชุดเป็นจุดวัดผลก่อนเข้าช่วง Band 7 · Day 41–58 ช่วง Band 7: Reading Test ระดับยาก 3 ชุด, '
+      'Band 7 Mock 2 ชุด, บทอ่านยากรายวัน 10 บท, Grammar ขั้นสูง 5 บท, Essay โจทย์ใหม่ 5 เรื่องพร้อมตัวอย่างระดับ Band 7 '
+      f'และ Academic Vocabulary 300 คำ · Day 59–60 ทบทวนข้อผิดและทบทวนเบา ๆ · คำศัพท์รวม {total_words} คำ · '
+      'ทำตามจังหวะของตัวเอง ไม่ผูกกับวันที่ ข้อสอบไม่ตัดเวลาและไม่ส่งอัตโนมัติ มีนาฬิกาบอกเวลาที่ใช้ · '
       'เวลาที่เห็นในแผนเป็นค่าประมาณ ส่วนแผนเวลาในคู่มือคือเวลาของวันสอบจริง'))
 
 data['meta'].update(planId=PLAN_ID, vocabRevision=VOCAB_REVISION, academicWords=len(academic),
-                    totalWords=total_words, built='2026-11-26')
+                    totalWords=total_words, built='2026-11-26', target='Band 7')
 
 # ---------------- app code ----------------
 js = '\n'.join((HERE / 'js' / name).read_text(encoding='utf-8')
@@ -192,23 +178,37 @@ rep('ขั้น ${i + 1}/${day.blocks.length} · ${b.min} นาที', 'ข�
 rep('${ico(\'clock\')} ${task.minutes} นาที</span>', '${ico(\'clock\')} ≈ ${task.minutes} นาที</span>')
 # the hero no longer counts down to an exam date
 rep("""<div class="tile-label">${ico('flag')} นับถอยหลังวันสอบ</div><div class="stat-num">${n > 0 ? n : n === 0 ? '0' : '—'}<small> วัน</small></div><div class="sub small">${n > 0 ? 'สอบ ' + thDate(ex, true) : n === 0 ? 'วันนี้วันสอบ — สู้ ๆ' : 'ผ่านวันสอบแล้ว'}</div>""",
-    """<div class="tile-label">${ico('flag')} หลักสูตรเต็ม</div><div class="stat-num">${doneDays}<small> / ${NDAYS} Day</small></div><div class="sub small">ไม่จำกัดเวลา · ทำตามจังหวะของตัวเอง</div>""")
+    """<div class="tile-label">${ico('flag')} เป้าหมาย Band 7</div><div class="stat-num">${doneDays}<small> / ${NDAYS} Day</small></div><div class="sub small">ไม่จำกัดเวลา · ทำตามจังหวะของตัวเอง</div>""")
 rep('<span class="eb-plan"> · แผนเดิม ${esc(day.wd)} ${esc(day.dateTh)}</span>', '<span class="eb-plan"> · ${esc(day.dateTh)}</span>')
 # vocabulary counts
 rep('Quiz คำศัพท์ (20 ข้อ:', 'Quiz คำศัพท์ (${words.length} ข้อ:')
 rep('<h1>คลังคำศัพท์ 740 คำ</h1>', '<h1>คลังคำศัพท์ ${ALLWORDS.length} คำ</h1>')
-rep('รวมวันละ 20–23 คำ</p>', 'รวมวันละ 20–23 คำ + Academic Vocabulary เพิ่มวันละ 8–9 คำ (รวม ${DATA.meta.academicWords} คำ) · กรองเฉพาะชุดใหม่ได้ด้วยปุ่ม “Academic +300”</p>')
+rep('รวมวันละ 20–23 คำ</p>', 'รวมวันละ 20–23 คำ · ช่วง Band 7 (Day 41–58) = Academic Vocabulary ${DATA.meta.academicWords} คำ วันละ 20 คำ · กรองเฉพาะชุดนี้ได้ด้วยปุ่ม “Academic +300”</p>')
 rep("[['all', 'ทั้งหมด'], ['star', 'ติดดาว'], ['known', 'จำได้แล้ว'], ['new', 'ยังไม่ระบุ']].map(([k, l]) => `<button class=\"${f === k",
     "[['all', 'ทั้งหมด'], ['avl', 'Academic +300'], ['star', 'ติดดาว'], ['known', 'จำได้แล้ว'], ['new', 'ยังไม่ระบุ']].map(([k, l]) => `<button class=\"${f === k")
 rep('(เป้า 740)</div><progress max="740"', '(เป้า ${ALLWORDS.length})</div><progress max="${ALLWORDS.length}"')
+# Writing Studio opens any essay topic, including the Band 7 prompts BE1-BE5
+rep("tab.startsWith('R')", "!!DATA.essays[tab]", 3)
+# Band 7 mocks (AM1, AM2) behave like the original mocks
+rep("tid.startsWith('M')", r"/^A?M\d/.test(tid)", 2)
+# review days are no longer fixed at Day 9, 16, 23, 30, 37 and 41
+SUNDAYS = "${DAYS.filter(x => x.type === 'sunday').map(x => x.d).join(', ')}"
+REVIEW = "${DAYS.filter(x => x.type === 'review').map(x => x.d).join(', ')}"
+rep('(Day 9, 16, 23, 30, 37) และ Day 41', f'(Day {SUNDAYS}) และ Day {REVIEW}')
+rep('— Day 9, 16, 23, 30, 37 — และ Day 41', f'— Day {SUNDAYS} — และ Day {REVIEW}')
+# essays written for the Band 7 stage explain what makes the model a Band 7 answer
+rep("— ${esc(e.stance_reason_th)}</p>` : ''}",
+    "— ${esc(e.stance_reason_th)}</p>` : ''}${e.band7_th ? `<p class=\"small\"><b>ทำไมตัวอย่างนี้อยู่ระดับ Band 7</b></p>"
+    "<ul class=\"small\">${e.band7_th.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}")
 assert js.rstrip().endswith('boot();')
 js = js.rstrip()[:-len('boot();')] + '\n' + (HERE / 'js' / 'full_course.js').read_text(encoding='utf-8') + '\nboot();\n'
 
 html = (HERE / 'template.html').read_text(encoding='utf-8')
-html = html.replace('<title>KKU-AELT 42 วัน</title>', '<title>KKU-AELT หลักสูตรเต็ม</title>')
+html = html.replace('<title>KKU-AELT 42 วัน</title>', '<title>KKU-AELT 60 Day · Band 7</title>')
 html = html.replace('ตารางอ่าน KKU-AELT 42 วัน (10 ต.ค.–20 พ.ย. 2569) พร้อมข้อสอบทุกวัน คำศัพท์ 740 คำ',
-                    f'หลักสูตร KKU-AELT เต็ม 42 Day ไม่จำกัดเวลา พร้อมข้อสอบ คำศัพท์ {total_words} คำ')
-html = html.replace('ตาราง 42 วัน', 'หลักสูตร 42 Day').replace('10 ต.ค.–20 พ.ย. 2569', 'ไม่จำกัดเวลา')
+                    f'หลักสูตร KKU-AELT 60 Day เป้าหมาย Band 7 ไม่จำกัดเวลา พร้อมข้อสอบ 14 ชุด คำศัพท์ {total_words} คำ')
+html = html.replace('ตาราง 42 วัน', 'หลักสูตร 60 Day').replace('10 ต.ค.–20 พ.ย. 2569', 'ไม่จำกัดเวลา')
+html = html.replace('<span>42</span>', '<span>60</span>').replace('42-Day Study Studio', '60-Day · Band 7')
 html = html.replace('__CSS__', (HERE / 'style.css').read_text(encoding='utf-8'))
 html = html.replace('__DATA__', json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c'))
 html = html.replace('__JS__', js)

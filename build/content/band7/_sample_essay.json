@@ -1,0 +1,117 @@
+{
+ "id": "R13",
+ "prompt": "National university entrance examination should be abolished.",
+ "prompt_fixed": "The national university entrance examination should be abolished. Do you agree or disagree?",
+ "th_explain": "โจทย์ถามว่าควรยกเลิกการสอบคัดเลือกเข้ามหาวิทยาลัยระดับชาติหรือไม่ ในบริบทไทยคือการสอบส่วนกลางในระบบ TCAS เช่น TGAT/TPAT และ A-Level คำสำคัญคือ abolish (ยกเลิก) ซึ่งต่างจาก reform (ปรับปรุง) ถ้าเลือก Disagree ต้องยืนยันว่าควรคงการสอบไว้ และใช้แนวคิด 'ปรับปรุงแทนการยกเลิก' เป็นข้อหักล้างได้ แต่อย่าเขียนจนดูเหมือนเห็นด้วยกับการยกเลิก กับดักคือเขียนแต่เรื่องความเครียดของนักเรียนโดยไม่พูดถึงความยุติธรรมในการคัดเลือก โจทย์ต้นฉบับขาด article (The national...) จึงไม่ควรลอกมาใช้ตรงๆ",
+ "keywords": [
+  {
+   "en": "entrance examination",
+   "th": "การสอบคัดเลือกเข้าศึกษาต่อ"
+  },
+  {
+   "en": "abolish",
+   "th": "ยกเลิก"
+  },
+  {
+   "en": "standardised test",
+   "th": "แบบทดสอบมาตรฐาน"
+  },
+  {
+   "en": "admission",
+   "th": "การรับเข้าศึกษา"
+  },
+  {
+   "en": "transparent",
+   "th": "โปร่งใส"
+  },
+  {
+   "en": "favouritism",
+   "th": "การเล่นพรรคเล่นพวก"
+  },
+  {
+   "en": "private tutoring",
+   "th": "การเรียนพิเศษ / กวดวิชา"
+  },
+  {
+   "en": "grading practices",
+   "th": "วิธีการให้เกรด"
+  }
+ ],
+ "paraphrases": [
+  "Some critics argue that the standardised national test used for university admission should be eliminated.",
+  "It has been proposed that universities should stop selecting students through a nationwide entrance examination.",
+  "Some people believe that the country no longer needs a common examination for university entry."
+ ],
+ "stance": "disagree",
+ "stance_reason_th": "ฝั่งไม่เห็นด้วย (คงการสอบไว้) มีเหตุผลที่หนักแน่นเรื่องความยุติธรรมและความโปร่งใส เพราะโรงเรียนในไทยมีคุณภาพและการให้เกรดแตกต่างกันมาก ข้อสอบกลางจึงเป็นมาตรฐานเดียวที่เปรียบเทียบนักเรียนจากโรงเรียนในชนบทกับนักเรียนในกรุงเทพฯ ได้ ส่วนปัญหาความเครียดและค่ากวดวิชาสามารถยอมรับสั้นๆ แล้วหักล้างว่าควรปรับปรุงข้อสอบ ไม่ใช่ยกเลิก",
+ "ideas": {
+  "agree": [
+   {
+    "reason": "A single high-stakes examination causes extreme stress for students.",
+    "explain": "Students feel that one test will decide their whole future, which harms their mental health.",
+    "example": "Many Grade 12 students in Thailand study late every night for months before the national tests and often lose sleep."
+   },
+   {
+    "reason": "The examination increases inequality because wealthy families can pay for private tutoring.",
+    "explain": "Students from richer families receive extra preparation, so the test favours them.",
+    "example": "Tutoring schools in Bangkok charge high fees for exam courses that many families in rural Isan cannot afford."
+   },
+   {
+    "reason": "A test cannot measure all the abilities that universities need.",
+    "explain": "Creativity, teamwork and motivation are better shown through portfolios, interviews and school records.",
+    "example": "A student who has won regional science project awards may perform poorly in a multiple-choice test but still be an excellent future researcher."
+   }
+  ],
+  "disagree": [
+   {
+    "reason": "A national examination provides a single, fair standard for comparing applicants.",
+    "explain": "Schools differ greatly in quality and grading, so grades alone are not comparable.",
+    "example": "A talented student from a small rural school in Isan can prove that her ability matches that of a student from a famous school in Bangkok."
+   },
+   {
+    "reason": "A centralised examination makes admission transparent and prevents favouritism.",
+    "explain": "Clear scoring criteria make it difficult for personal connections or money to influence selection.",
+    "example": "Published results allow students and parents to see exactly why an applicant was accepted or rejected."
+   },
+   {
+    "reason": "One national test is cheaper and more convenient than many separate university tests.",
+    "explain": "Students do not need to travel to different campuses to take different examinations.",
+    "example": "A student in Nakhon Phanom can take one set of tests near home instead of travelling to Bangkok, Chiang Mai and Khon Kaen."
+   }
+  ]
+ },
+ "outline": {
+  "intro": "Paraphrase: Some critics argue that the standardised national test for university admission should be eliminated. Thesis: I strongly disagree because it allows fair comparison and protects admission from favouritism.",
+  "body1": "Reason 1: The test is a single, fair standard; example of a rural student in Isan compared with a student from a famous Bangkok school.",
+  "body2": "Reason 2: Centralised testing keeps admission transparent and affordable; concession on stress and tutoring costs plus rebuttal (reform, not abolish).",
+  "conclusion": "Restate that the national examination should be retained; summarise fairness and transparency; improving the test is wiser than removing it."
+ },
+ "model": [
+  "Some critics argue that the standardised national test used for university admission should be eliminated. I strongly disagree with this proposal, since a common examination provides a fair way to compare applicants from very different schools and protects the admission process from favouritism.",
+  "The primary reason for keeping the national examination is that it offers a single, fair standard for all applicants. Schools vary greatly in quality and in their grading practices, so a high grade point average from one school may not represent the same level of knowledge as the same average from another. A national test solves this problem by asking every candidate the same questions under the same conditions. For instance, a talented student from a small rural school in Isan can demonstrate that her ability matches that of a student from a famous school in Bangkok. Without such a test, universities would have no reliable way to make this comparison.",
+  "Moreover, a centralised examination makes university admission more transparent. When results are calculated and published according to clear criteria, it becomes difficult for personal connections, donations or family status to influence who is accepted. If each university relied only on interviews, portfolios or its own tests, the process could become less open and more expensive, since students would need to travel to many campuses. Admittedly, the current examination places heavy pressure on students and encourages costly private tutoring; however, the solution is to reform the content and format of the test, not to abolish it.",
+  "In conclusion, the national university entrance examination should be retained because it ensures fair comparison between applicants and keeps admission transparent. I therefore firmly believe that improving the examination is far wiser than removing it."
+ ],
+ "phrases": [
+  {
+   "en": "a single, fair standard",
+   "th": "มาตรฐานเดียวที่ยุติธรรม"
+  },
+  {
+   "en": "under the same conditions",
+   "th": "ภายใต้เงื่อนไขเดียวกัน"
+  },
+  {
+   "en": "personal connections",
+   "th": "เส้นสาย / ความสัมพันธ์ส่วนตัว"
+  },
+  {
+   "en": "reform the content and format of the test, not to abolish it",
+   "th": "ปรับปรุงเนื้อหาและรูปแบบของข้อสอบ ไม่ใช่ยกเลิกการสอบ"
+  },
+  {
+   "en": "far wiser than removing it",
+   "th": "ฉลาดกว่าการยกเลิกมาก"
+  }
+ ]
+}

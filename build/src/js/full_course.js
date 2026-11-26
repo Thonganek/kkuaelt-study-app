@@ -1,8 +1,9 @@
 /* ============================================================
-   Full course edition: Day 1–42 at your own pace — no dates, no time limits.
+   Full course edition: Day 1–60 aimed at Band 7, at your own pace — no dates, no time limits.
    Timers are stopwatches (time used), tests never submit on their own.
    ============================================================ */
 function calendarMode() { return false; }
+PCOL.P10 = '#0e7490';
 function dayBanners(d) {
   return d === NDAYS && allDaysDone() ? `<div class="banner info">${ico('spark')}<span>ครบ ${NDAYS} Day แล้ว — ใช้หน้า “ข้อผิดพลาด” และ “คำศัพท์” ทบทวนต่อได้</span></div>` : '';
 }
@@ -82,7 +83,7 @@ function upgradeTimers(state) {
   }
   return state;
 }
-// each vocabulary day gained 8–9 academic words, so the old vocabulary quizzes no longer match.
+// the vocabulary lists changed (300 academic words now fill Days 41–58), so old vocabulary quizzes no longer match.
 // Archive them, keep the step ticked as done, and let the new quiz start fresh.
 function upgradeVocabulary(state) {
   if (state.vocabRevision === DATA.meta.vocabRevision) return state;
@@ -102,7 +103,19 @@ function upgradeVocabulary(state) {
   state.vocabRevision = DATA.meta.vocabRevision;
   return state;
 }
-S = upgradeVocabulary(upgradeTimers(S));
+// 60-day course: the Error Review and Light Review moved from Day 41-42 to Day 59-60
+function migratePlan60(state) {
+  if (state.plan60) return state;
+  const move = { 41: 59, 42: 60 };
+  for (const [a, b] of Object.entries(move)) {
+    for (const kind of ['done', 'notes']) { if (state[kind] && state[kind][a] != null) { state[kind][b] = state[kind][a]; delete state[kind][a]; } }
+    if (state.essays && state.essays['E:' + a]) { state.essays['E:' + b] = state.essays['E:' + a]; delete state.essays['E:' + a]; }
+    if (state.quiz && state.quiz['VR:' + a]) { state.quiz['VR:' + b] = state.quiz['VR:' + a]; delete state.quiz['VR:' + a]; }
+  }
+  state.plan60 = 1;
+  return state;
+}
+S = upgradeVocabulary(upgradeTimers(migratePlan60(S)));
 save(true);
 resumeTestClock();
 
@@ -111,7 +124,7 @@ function updateCountdown() {
   const done = DAYS.filter(x => dayProgress(x.d).done).length; const tn = todayNum(); const pr = dayProgress(tn);
   $('#countdown').innerHTML = `<span class="pulse"></span>ไม่จำกัดเวลา · <b>${done}/${NDAYS}</b> Day`;
   const sc = $('#sideCard'); if (!sc) return;
-  sc.innerHTML = `<div class="lbl">หลักสูตรเต็ม · ไม่จำกัดเวลา</div><div class="big">${done}<small style="font-size:1rem;font-weight:500"> / ${NDAYS} Day</small></div><div class="lbl">ทำตามจังหวะของตัวเอง</div><div class="bar"><i style="width:${pct(done, NDAYS)}%"></i></div><div class="lbl">${allDaysDone() ? 'ครบทุก Day' : `ต่อที่ Day ${tn} (${pr.n}/${pr.total} ขั้น)`}</div>`;
+  sc.innerHTML = `<div class="lbl">เป้าหมาย Band 7 · ไม่จำกัดเวลา</div><div class="big">${done}<small style="font-size:1rem;font-weight:500"> / ${NDAYS} Day</small></div><div class="lbl">ทำตามจังหวะของตัวเอง</div><div class="bar"><i style="width:${pct(done, NDAYS)}%"></i></div><div class="lbl">${allDaysDone() ? 'ครบทุก Day' : `ต่อที่ Day ${tn} (${pr.n}/${pr.total} ขั้น)`}</div>`;
 }
 function runway(d) {
   const tn = rawTodayNum(); let cells = '';
@@ -155,11 +168,11 @@ function viewTodo() {
 function viewPlan() {
   const tn = rawTodayNum(); const f = S.ui.planF || 'all';
   const list = t => DAYS.filter(x => x.type === t).map(x => x.d).join(', ');
-  let h = `<div class="card"><div class="row"><div><div class="daynum">KKU-AELT · หลักสูตรเต็ม · ไม่จำกัดเวลา</div><h1>หลักสูตร ${NDAYS} Day (Day 1–${NDAYS})</h1></div><span class="spacer"></span><button class="btn noprint" data-act="print">${ico('printer')} พิมพ์ตาราง</button><button class="btn noprint" data-act="csv">${ico('download')} CSV (Excel)</button></div>
-  <p class="muted">Reading 60% + Writing 40% · ทำตามลำดับ Day ตามจังหวะของตัวเอง ไม่มีวันหมดเขต ข้อสอบและแบบฝึกไม่ตัดเวลา · นาทีในตารางเป็นค่าประมาณ ใช้วางแผนเท่านั้น</p>
+  let h = `<div class="card"><div class="row"><div><div class="daynum">KKU-AELT · เป้าหมาย Band 7 · ไม่จำกัดเวลา</div><h1>หลักสูตร ${NDAYS} Day (Day 1–${NDAYS})</h1></div><span class="spacer"></span><button class="btn noprint" data-act="print">${ico('printer')} พิมพ์ตาราง</button><button class="btn noprint" data-act="csv">${ico('download')} CSV (Excel)</button></div>
+  <p class="muted">Day 1–37 ปูพื้นฐานและกลยุทธ์ · Day 38–40 Full Mock วัดผล · Day 41–58 ช่วง Band 7 (ข้อสอบและบทอ่านระดับยาก) · Day 59–60 ทบทวน · ทำตามลำดับ Day ตามจังหวะของตัวเอง ไม่มีวันหมดเขต ข้อสอบและแบบฝึกไม่ตัดเวลา · นาทีในตารางเป็นค่าประมาณ ใช้วางแผนเท่านั้น</p>
   <div class="grid g4" style="margin-top:10px">
     <div class="kpi"><div class="v">${ALLWORDS.length}</div><div class="l">คำศัพท์ (AWL + ศัพท์หัวข้อ ${ALLWORDS.length - DATA.meta.academicWords} + Academic ${DATA.meta.academicWords})</div></div>
-    <div class="kpi"><div class="v">${Object.keys(DATA.passages).length}</div><div class="l">บทอ่าน (รายวัน ${Object.keys(DATA.passages).filter(x => x.startsWith('W')).length} + ชุดเต็ม ${Object.keys(DATA.tests).length}×6)</div></div>
+    <div class="kpi"><div class="v">${Object.keys(DATA.passages).length}</div><div class="l">บทอ่าน (รายวัน ${Object.keys(DATA.passages).filter(x => /^[WB]\d/.test(x)).length} + ข้อสอบเต็ม ${Object.keys(DATA.tests).length} ชุด×6)</div></div>
     <div class="kpi"><div class="v">${Object.values(DATA.passages).reduce((s, p) => s + p.questions.length, 0)}</div><div class="l">ข้อ Reading พร้อมเฉลยภาษาไทย</div></div>
     <div class="kpi"><div class="v">${Object.keys(DATA.grammar).length}</div><div class="l">บท Grammar พร้อม quiz</div></div>
   </div></div>`;
@@ -168,6 +181,7 @@ function viewPlan() {
   <tr><td>Reading Test <span class="small muted">(Day ${list('test')})</span></td><td>Reading Test เต็มชุด → คำศัพท์ → ตรวจผล</td></tr>
   <tr><td>Essay + ทวนสัปดาห์ <span class="small muted">(Day ${list('sunday')})</span></td><td>Essay เต็ม → ทำซ้ำข้อผิด → ทวนศัพท์</td></tr>
   <tr><td>รวมทักษะ <span class="small muted">(Day ${list('integration')})</span></td><td>คำศัพท์ → Reading บทสั้น/ยาว → Essay เต็ม → ข้อผิด</td></tr>
+  <tr><td>Band 7 วันเรียน <span class="small muted">(Day ${DAYS.filter(x => x.phase === 'P10' && x.type === 'weekday').map(x => x.d).join(', ')})</span></td><td>ศัพท์ Academic 20 คำ → บทอ่านยาก 1 บท + บทเรียนกลยุทธ์ → Grammar ขั้นสูง/งานเขียนระดับ Band 7 → ข้อผิด</td></tr>
   <tr><td>Full Mock <span class="small muted">(Day ${list('mock')})</span></td><td>Reading Test → Essay → ตรวจผล → คำศัพท์</td></tr>
   <tr><td>ทบทวน <span class="small muted">(Day ${list('review')}, ${list('light')})</span></td><td>ทวนศัพท์ → ทำข้อผิดซ้ำ → Writing</td></tr></table></div></div>`;
   h += `<div class="card"><h2>ช่วงการเรียน</h2><div class="tablewrap"><table class="t"><tr><th>ช่วง</th><th>Day</th><th>เป้าหมาย</th></tr>${PHASES.map(p => `<tr><td>${phaseChip(p.id)} ${esc(p.th)}</td><td>${esc(p.range)}</td><td>${esc(p.goal)}</td></tr>`).join('')}</table></div></div>`;
@@ -197,7 +211,7 @@ function vocabFiltered() {
 function viewSettings() {
   const st = S.settings;
   return `<div class="card"><h1>ตั้งค่าและสำรองข้อมูล</h1>
-  <h3>หลักสูตร</h3><p><b>หลักสูตรเต็ม ${NDAYS} Day · ไม่จำกัดเวลา</b> — ไม่ผูกกับวันที่ หน้า “วันนี้” เปิด Day แรกที่ยังทำไม่เสร็จ ข้อสอบไม่ตัดเวลาและไม่ส่งอัตโนมัติ</p>
+  <h3>หลักสูตร</h3><p><b>หลักสูตร ${NDAYS} Day · เป้าหมาย Band 7 · ไม่จำกัดเวลา</b> — ไม่ผูกกับวันที่ หน้า “วันนี้” เปิด Day แรกที่ยังทำไม่เสร็จ ข้อสอบไม่ตัดเวลาและไม่ส่งอัตโนมัติ</p>
   <h3>ธีม</h3><div class="row">${[['light', 'Iron Man · สว่าง'], ['dark', 'JARVIS HUD · มืด']].map(([v, l]) => `<button class="btn sm ${(st.theme === 'dark' ? 'dark' : 'light') === v ? 'pri' : ''}" data-act="setTheme" data-v="${v}">${l}</button>`).join('')}</div>
   <h3>ขนาดตัวอักษร</h3><div class="row">${[['s', 'เล็ก'], ['m', 'ปกติ'], ['l', 'ใหญ่'], ['xl', 'ใหญ่มาก']].map(([v, l]) => `<button class="btn sm ${st.font === v ? 'pri' : ''}" data-act="setFont" data-v="${v}">${l}</button>`).join('')}</div>
   <h3>สำรอง / กู้คืน</h3><p class="small muted">ข้อมูลทั้งหมด (คำตอบ งานเขียน บันทึก ดาวคำศัพท์) เก็บในเบราว์เซอร์นี้เท่านั้น ถ้าเปลี่ยนเครื่อง/เบราว์เซอร์ หรือล้างข้อมูลเบราว์เซอร์ ข้อมูลจะหาย — สำรองเป็นไฟล์ JSON เป็นระยะ · กู้คืนจากไฟล์สำรองของฉบับ 42 วันเดิมได้</p>
@@ -214,7 +228,7 @@ INP.restore = el => {
       if (!s || s.v !== 2) throw new Error('รูปแบบไฟล์ไม่ถูกต้อง');
       if (s.planId && s.planId !== DATA.meta.planId) throw new Error('ไฟล์นี้เป็นของแผนอื่น (เช่น แผน 6 วัน)');
       if (!confirm('แทนที่ข้อมูลปัจจุบันด้วยไฟล์สำรอง?')) return;
-      S = upgradeVocabulary(upgradeTimers(migratePlan42(Object.assign(defaultState(), s, { plan42: s.plan42 || 0, vocabRevision: s.vocabRevision || 0 }))));
+      S = upgradeVocabulary(upgradeTimers(migratePlan60(migratePlan42(Object.assign(defaultState(), s, { plan42: s.plan42 || 0, vocabRevision: s.vocabRevision || 0 })))));
       S.settings = Object.assign(defaultState().settings, s.settings || {}, { ai: 1, bright: 1 });
       save(true); applySettings(); render(); toast('กู้คืนข้อมูลแล้ว');
     } catch (e) { alert('กู้คืนไม่ได้: ' + e.message); }

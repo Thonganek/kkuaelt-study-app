@@ -1,0 +1,978 @@
+{
+ "id": "A3",
+ "title": "Band 7 Reading Test 3",
+ "passages": [
+  {
+   "id": "A3P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Renewable Energy",
+   "title": "Floating Solar Array Begins Feeding the Grid From a Northeastern Reservoir",
+   "paragraphs": [
+    "A floating solar installation covering roughly 120 hectares of a reservoir in the lower Northeast began supplying electricity to the regional grid last week, making it one of the largest projects of its kind in mainland Southeast Asia. The 58-megawatt array, built on the surface of the Huai Sai Reservoir by the private developer Isan Clearwater Power, is expected to generate enough electricity in an average year to meet the needs of around 40,000 households.",
+    "Floating solar, in which photovoltaic panels are mounted on buoyant platforms anchored to the bed of a lake or reservoir, has attracted growing interest in densely farmed regions, where converting agricultural land into solar farms is often contentious. Because the water beneath the panels keeps them cooler, such systems can also operate somewhat more efficiently than equivalent installations on land, particularly during the hot season, when ground temperatures routinely exceed 40°C.",
+    "Supporters point to a further advantage. By shading part of the water surface, the panels are thought to reduce evaporation, a consideration of some importance in a province where reservoir levels fell to record lows during the drought of 2023. Engineers working on the project estimate that up to 1.2 million cubic metres of water could be conserved each year, although they concede that this figure is based on modelling rather than direct measurement.",
+    "Not everyone has welcomed the development. Fishing households in three nearby villages have complained that the array occupies areas where they once set their nets, and some have questioned what effect reduced sunlight will have on aquatic plants and fish stocks. “We were consulted, but only after the design had already been approved,” said Mr. Somkiat Phonphai, who heads a local fishing cooperative. “It felt more like an announcement than a conversation.”",
+    "In response, the developer has agreed to leave a 300-metre corridor along the eastern shore free of panels and to fund an independent monitoring programme. Dr. Pimchanok Saengthong, an aquatic ecologist at a regional university who will lead the monitoring, said that evidence from comparable sites abroad was “reassuring but far from conclusive”, since most of them had operated for fewer than ten years. Her team will measure water temperature, dissolved oxygen and fish populations at regular intervals over the next five years.",
+    "Provincial officials, meanwhile, regard the project as a test case. If the monitoring finds no serious ecological harm, they intend to invite proposals for similar installations on at least four other reservoirs in the province. Critics argue that any such expansion should wait until the full five-year results are available, rather than proceeding on the strength of early data. For now, the panels glinting across Huai Sai have become a source of both pride and unease for the communities that live alongside them."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "A large floating solar project has started operating, bringing expected benefits as well as local concerns that will now be studied.",
+      "Floating solar has been shown abroad to cause no harm to fish, so the province plans to build it on every reservoir.",
+      "Fishing households have persuaded a developer to suspend a floating solar project until its effects are known.",
+      "Provincial officials have already approved four new floating solar installations on other reservoirs in the province."
+     ],
+     "answer": 0,
+     "explain": "บทความรายงานว่าโครงการ “began supplying electricity to the regional grid” (¶1) พร้อมข้อดี (¶2–3) ข้อกังวลของชาวประมง (¶4) และการติดตามผล (¶5–6) จึงตอบ A ตัวเลือก D ล่อใจเพราะ ¶6 พูดถึง “at least four other reservoirs” แต่นั่นเป็นเพียงแผนที่จะเปิดรับข้อเสนอหากผลการติดตามดี ยังไม่ได้อนุมัติ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 2 about why floating solar appeals to densely farmed regions?",
+     "options": [
+      "Farmers there can earn more from selling electricity than from growing crops.",
+      "Solar farms built on land are prohibited by law in such regions.",
+      "Placing panels on water avoids disputes over taking farmland out of production.",
+      "Reservoirs in such regions are no longer needed to supply water to farms."
+     ],
+     "answer": 2,
+     "explain": "¶2 ระบุว่าโซลาร์ลอยน้ำได้รับความสนใจในพื้นที่เกษตรกรรมหนาแน่น “where converting agricultural land into solar farms is often contentious” จึงอนุมานได้ว่าการติดตั้งบนน้ำช่วยเลี่ยงความขัดแย้งเรื่องการใช้ที่ดินทำกิน ตอบ C ตัวเลือก B เกินกว่าที่บทความกล่าว เพราะบทความบอกเพียงว่า ‘ก่อให้เกิดข้อโต้แย้ง’ ไม่ได้บอกว่าผิดกฎหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'contentious' in paragraph 2 is closest in meaning to",
+     "options": [
+      "expensive to arrange",
+      "likely to cause disagreement",
+      "strictly controlled",
+      "technically difficult"
+     ],
+     "answer": 1,
+     "explain": "¶2: “converting agricultural land into solar farms is often contentious” หมายถึงเป็นเรื่องที่ทำให้เกิดการถกเถียงหรือขัดแย้ง ซึ่งสอดคล้องกับ ¶4 ที่ชาวบ้านไม่พอใจโครงการ ตอบ B ตัวเลือก A และ D ฟังดูเป็นไปได้ในเรื่องพลังงาน แต่ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best reflects the engineers' position on water savings in paragraph 3?",
+     "options": [
+      "They have recorded savings of 1.2 million cubic metres of water in the first year.",
+      "They believe the panels will make little real difference to evaporation.",
+      "They claim that evaporation was the main cause of the drought of 2023.",
+      "They offer a projection while admitting it has not yet been confirmed on site."
+     ],
+     "answer": 3,
+     "explain": "¶3: วิศวกร “estimate that up to 1.2 million cubic metres of water could be conserved” แต่ “concede that this figure is based on modelling rather than direct measurement” คือเป็นตัวเลขคาดการณ์ที่ยังไม่ได้วัดจริง ตอบ D ตัวเลือก A ล่อใจเพราะใช้ตัวเลขเดียวกัน แต่เปลี่ยนจาก ‘ประมาณการ’ เป็น ‘วัดได้จริง’"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does Mr. Somkiat suggest about the consultation process in paragraph 4?",
+     "options": [
+      "Villagers were never informed about the project at any stage.",
+      "Local views were sought too late to influence the key decisions.",
+      "The developer refused to meet representatives of fishing households.",
+      "Fishers had approved the design before it was publicly announced."
+     ],
+     "answer": 1,
+     "explain": "¶4: “We were consulted, but only after the design had already been approved” และ “It felt more like an announcement than a conversation.” แสดงว่ามีการรับฟังความเห็นแต่ช้าเกินกว่าจะเปลี่ยนแปลงอะไรได้ ตอบ B ตัวเลือก A ขัดกับคำว่า “We were consulted” ส่วน D กลับความหมายของคำพูด"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, what has the developer agreed to do?",
+     "options": [
+      "Keep a section of the eastern shoreline clear of solar panels",
+      "Compensate fishing households for the income they have lost",
+      "Reduce the total length of the array by three hundred metres",
+      "Stop generating electricity if fish populations begin to decline"
+     ],
+     "answer": 0,
+     "explain": "¶5: “the developer has agreed to leave a 300-metre corridor along the eastern shore free of panels” จึงตอบ A ตัวเลือก C ล่อใจเพราะใช้ตัวเลข 300 เมตรเหมือนกัน แต่บทความไม่ได้บอกว่าจะลดขนาดแผงลง ส่วน B และ D ไม่มีกล่าวถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does Dr. Pimchanok mention that most comparable sites abroad 'had operated for fewer than ten years'?",
+     "options": [
+      "To show that floating solar has only recently been introduced in Thailand",
+      "To criticise the developer for relying on outdated foreign technology",
+      "To argue that the local monitoring should last at least ten years",
+      "To explain why existing evidence cannot yet settle the question"
+     ],
+     "answer": 3,
+     "explain": "¶5: หลักฐานจากต่างประเทศ “reassuring but far from conclusive” เพราะ “most of them had operated for fewer than ten years” คือข้อมูลยังมีระยะเวลาสั้นเกินกว่าจะสรุปผลกระทบระยะยาวได้ ตอบ D ตัวเลือก C ล่อใจเพราะมีตัวเลขสิบปี แต่ทีมของเธอวางแผนติดตามเพียง “the next five years” และเธอไม่ได้เสนอให้ขยายเวลา"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best summarises the critics' view in paragraph 6?",
+     "options": [
+      "The existing array should be removed from the reservoir immediately.",
+      "Monitoring should be carried out by officials rather than ecologists.",
+      "Decisions about further installations are premature before complete findings.",
+      "Four additional reservoirs are too few to justify the cost of expansion."
+     ],
+     "answer": 2,
+     "explain": "¶6: นักวิจารณ์เห็นว่า “any such expansion should wait until the full five-year results are available, rather than proceeding on the strength of early data” คือยังเร็วเกินไปที่จะตัดสินใจขยายโครงการ ตอบ C ตัวเลือก A เกินกว่าที่นักวิจารณ์เสนอ เพราะพวกเขาคัดค้านเพียงการขยาย ไม่ใช่โครงการเดิม"
+    }
+   ]
+  },
+  {
+   "id": "A3P2",
+   "kind": "short",
+   "genre": "official notice",
+   "domain": "Public Policy",
+   "title": "Public Notice: Participatory Budgeting Pilot and Call for Resident Proposals",
+   "paragraphs": [
+    "The Office of the Mayor of Nong Saeng Municipality hereby gives notice that, from the 2027 fiscal year, a portion of the municipal capital budget will be allocated through a participatory budgeting pilot. Under this arrangement, residents rather than council officials will propose and vote on small-scale public works in their own neighbourhoods. The pilot follows a resolution passed by the Municipal Council on 14 August, after a twelve-month review of similar schemes in other cities in the region.",
+    "A total of 18 million baht has been set aside for the pilot, representing approximately six per cent of the municipality's annual capital spending. This sum will be divided among the municipality's nine wards in proportion to their registered population, subject to a minimum allocation of 1.2 million baht per ward. The minimum is intended to ensure that smaller, predominantly rural wards are not left with sums too modest to fund any meaningful project.",
+    "Eligibility. Proposals may be submitted by any resident aged 16 or over who has been registered at an address within the municipality for at least six months, or by a community group, school or registered association based in the municipality. Each individual may submit no more than two proposals. Proposals must concern a public asset or service, such as footpaths, street lighting, small parks, drainage or facilities for older residents, and must be capable of completion within eighteen months. Projects that would generate ongoing staffing costs, or that would primarily benefit a private business, will not be considered.",
+    "Procedure. Proposals should be submitted using Form PB-1, available from ward offices and on the municipal website, no later than 30 November. Municipal engineers will then assess each proposal for technical feasibility and estimated cost. Proposals judged feasible will be presented at a public exhibition in each ward during January, after which residents will vote for their preferred projects. Voting will take place both online and in person; residents may cast up to three votes, within their own ward only.",
+    "The municipality wishes to make clear that the outcome of the vote is binding, provided that the winning projects remain within the ward's allocation. Where costs rise unexpectedly during construction, any shortfall will be met from the general contingency fund rather than by cancelling other approved projects.",
+    "An independent evaluation, to be carried out by a research team from a provincial university, will examine levels of participation, the distribution of projects across social groups and residents' trust in local government. The Council will decide in late 2028, on the basis of this evaluation, whether to continue, expand or discontinue the scheme. Enquiries should be directed to the Participatory Budgeting Unit, Room 204, Municipal Office."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this notice?",
+     "options": [
+      "To report the results of a vote on public works held in each ward",
+      "To invite residents to apply for posts in a new budgeting unit",
+      "To announce a scheme giving residents a say over some local spending and explain how to take part",
+      "To explain why the Council has decided to reduce its capital spending"
+     ],
+     "answer": 2,
+     "explain": "¶1 ประกาศว่างบประมาณบางส่วนจะจัดสรรผ่าน “a participatory budgeting pilot” ซึ่ง “residents rather than council officials will propose and vote” และ ¶3–4 อธิบายคุณสมบัติและขั้นตอน จึงตอบ C ตัวเลือก A ล่อใจเพราะมีเรื่องการลงคะแนน แต่การลงคะแนนยังไม่เกิดขึ้น (จะมีใน “January”)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does paragraph 1 imply about the decision to launch the pilot?",
+     "options": [
+      "It was preceded by a study of how comparable arrangements had worked elsewhere.",
+      "It was opposed by most members of the Municipal Council when it was debated.",
+      "It was introduced in response to a petition organised by local residents.",
+      "It will replace the way the whole municipal capital budget is allocated."
+     ],
+     "answer": 0,
+     "explain": "¶1: โครงการนี้ตามมาหลังมติสภา “after a twelve-month review of similar schemes in other cities in the region” แสดงว่ามีการศึกษาประสบการณ์ของเมืองอื่นก่อน ตอบ A ตัวเลือก D ขัดกับคำว่า “a portion of the municipal capital budget” และ ¶2 ที่ระบุว่าเป็นเพียงราว “six per cent”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why has a minimum allocation per ward been set?",
+     "options": [
+      "To reward the wards with the largest registered populations",
+      "To guarantee that every ward receives exactly the same amount",
+      "To limit the amount of money that can be spent in rural wards",
+      "To prevent less populous wards from receiving too little to be useful"
+     ],
+     "answer": 3,
+     "explain": "¶2: ขั้นต่ำนี้มีไว้ “to ensure that smaller, predominantly rural wards are not left with sums too modest to fund any meaningful project” ตอบ D ตัวเลือก B ล่อใจ แต่เงินแบ่ง “in proportion to their registered population” จึงไม่เท่ากันทุกเขต ส่วน C กลับความหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following proposals would NOT be considered under the pilot?",
+     "options": [
+      "New street lighting along a busy footpath near a market",
+      "A community centre that would need permanent paid staff",
+      "Improved drainage on a road beside a primary school",
+      "A small park with seating for older residents"
+     ],
+     "answer": 1,
+     "explain": "¶3: “Projects that would generate ongoing staffing costs ... will not be considered.” ศูนย์ชุมชนที่ต้องจ้างพนักงานประจำจึงไม่ผ่านเกณฑ์ ตอบ B ส่วนตัวเลือกอื่นตรงกับตัวอย่างที่อนุญาต คือ “footpaths, street lighting, small parks, drainage or facilities for older residents”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, what happens to proposals immediately after they are submitted?",
+     "options": [
+      "They are examined by engineers for practicality and likely cost.",
+      "They are put to an online vote among residents of the ward.",
+      "They are displayed at a public exhibition in each ward office.",
+      "They are ranked by council officials according to their popularity."
+     ],
+     "answer": 0,
+     "explain": "¶4: หลังยื่นแบบฟอร์ม “Municipal engineers will then assess each proposal for technical feasibility and estimated cost.” ตอบ A ตัวเลือก B และ C เป็นขั้นตอนที่เกิดขึ้นจริงแต่มาทีหลัง (นิทรรศการเดือนมกราคม แล้วจึงลงคะแนน) จึงไม่ใช่ขั้นตอนถัดไปทันที"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'binding' in paragraph 5 is closest in meaning to",
+     "options": [
+      "physically tied together",
+      "temporary and provisional",
+      "required to be followed",
+      "advisory but not compulsory"
+     ],
+     "answer": 2,
+     "explain": "¶5: “the outcome of the vote is binding” หมายถึงผลการลงคะแนนมีผลผูกพัน เทศบาลต้องปฏิบัติตาม ตอบ C ตัวเลือก A เป็นความหมายตามตัวอักษรของ bind (มัด ผูก) ซึ่งไม่เข้ากับบริบท ส่วน D มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred about a winning project whose costs rise during construction?",
+     "options": [
+      "It will be cancelled so that other approved projects can go ahead.",
+      "Other approved projects in the same ward should not be affected.",
+      "Residents of the ward will be asked to vote on it a second time.",
+      "The ward's allocation will be reduced in the following fiscal year."
+     ],
+     "answer": 1,
+     "explain": "¶5: ส่วนที่ขาด “will be met from the general contingency fund rather than by cancelling other approved projects” จึงอนุมานได้ว่าโครงการอื่นที่ได้รับเลือกจะไม่ได้รับผลกระทบ ตอบ B ตัวเลือก A ใช้คำว่า cancelling จากบทความแต่บิดความหมายกลับด้าน"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement about the future of the pilot is supported by paragraph 6?",
+     "options": [
+      "It has already been approved for expansion to neighbouring municipalities.",
+      "It will end automatically unless participation reaches a fixed target.",
+      "The university research team will decide whether it should continue.",
+      "Its continuation will depend on the findings of an outside review."
+     ],
+     "answer": 3,
+     "explain": "¶6: “The Council will decide in late 2028, on the basis of this evaluation, whether to continue, expand or discontinue the scheme.” คืออนาคตของโครงการขึ้นกับผลการประเมินจากภายนอก ตอบ D ตัวเลือก C สับสนว่าใครเป็นผู้ตัดสินใจ เพราะทีมมหาวิทยาลัยเป็นผู้ประเมิน แต่สภาเทศบาลเป็นผู้ตัดสิน"
+    }
+   ]
+  },
+  {
+   "id": "A3P3",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Data Privacy",
+   "title": "The Uninvited Guests in the Digital Classroom",
+   "paragraphs": [
+    "When Kanokwan Srisawat, a mathematics teacher at a provincial secondary school, began using a free quiz app with her classes, she saw only advantages. Her students were more engaged, marking took minutes rather than hours, and the app produced tidy charts showing which topics each pupil found difficult. It was only when a parent asked where those charts were stored, and who else could see them, that she realised she had no idea.",
+    "Her experience is far from unusual. Over the past decade, schools across the region have adopted a growing array of digital tools, from learning platforms and attendance systems to apps that track reading progress. Many are offered free of charge to teachers, who often sign up individually without involving school administrators. In the process, considerable quantities of information about children, including names, test scores, behaviour records and, in some cases, voice recordings, pass to companies whose privacy policies few teachers have read.",
+    "The difficulty is not necessarily that such companies act in bad faith. Rather, privacy researchers argue, the arrangement contains an inherent imbalance. A 2025 review of 60 popular education apps by a team at a university in central Thailand found that more than half reserved the right to share “de-identified” data with unnamed partners, and nearly a third allowed their policies to be changed without notifying users. The review's authors caution that removing names does not always prevent identification, since a combination of school, age and test results can be enough to single out an individual pupil in a small community.",
+    "Children occupy a particular position in this debate. Unlike adults, they cannot meaningfully evaluate the terms under which their information is collected, and the consequences may surface only years later. “A low score at the age of nine should not follow anyone into adulthood,” argues Dr. Wiroj Kittikhun, who studies educational technology policy. “Yet once data has been copied across several systems, retrieving it becomes extraordinarily difficult.”",
+    "Some observers, however, warn against overreaction. Banning digital tools outright, they point out, would deprive teachers of genuinely useful resources and might push them towards unofficial alternatives that are even less transparent. A more promising approach, they suggest, lies in procurement: if education authorities negotiated agreements on behalf of all schools, they could insist on clear limits on data retention and sharing, something an individual teacher has little power to demand.",
+    "For her part, Ms. Kanokwan has not abandoned the quiz app, but she now enters only her students' first names and deletes each class's records at the end of term. She acknowledges that these steps are modest. “I can protect my own students a little,” she says. “But it shouldn't depend on whether each teacher happens to ask the right question.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Free education apps are deliberately designed to collect children's data for commercial profit.",
+      "The spread of education apps raises concerns about children's data that individual teachers cannot easily resolve.",
+      "Teachers should stop using all digital tools until stronger privacy laws have been passed.",
+      "Quiz apps improve students' engagement and greatly reduce the time teachers spend marking."
+     ],
+     "answer": 1,
+     "explain": "บทความเริ่มจากกรณีของครูคนหนึ่ง (¶1) ขยายเป็นปัญหาข้อมูลของเด็กในแอปการศึกษา (¶2–4) และเสนอว่าควรแก้ในระดับระบบเพราะครูแต่ละคน “has little power to demand” (¶5) จึงตอบ B ตัวเลือก A ขัดกับ ¶3 ที่ว่า “not necessarily that such companies act in bad faith” ส่วน D เป็นเพียงรายละเอียดใน ¶1"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer open the article with Ms. Kanokwan's experience?",
+     "options": [
+      "To show that teachers are generally careless with their students' personal data",
+      "To prove that quiz apps often produce inaccurate charts of pupils' progress",
+      "To criticise parents who interfere in the way teachers run their classes",
+      "To introduce a wider issue through a concrete and familiar example"
+     ],
+     "answer": 3,
+     "explain": "¶1 เล่าเรื่องครูที่ไม่รู้ว่าข้อมูลถูกเก็บไว้ที่ใด จากนั้น ¶2 เปิดด้วย “Her experience is far from unusual.” แสดงว่าเรื่องเล่านี้ใช้นำเข้าสู่ปัญหาที่กว้างกว่า ตอบ D ตัวเลือก A เป็นการเหมารวมเกินจริง เพราะผู้เขียนไม่ได้กล่าวโทษครู แต่ชี้ปัญหาเชิงโครงสร้าง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 2 about how many education apps enter schools?",
+     "options": [
+      "They are often adopted by individual teachers without any institutional oversight.",
+      "They are usually purchased by school administrators after a formal review.",
+      "They are typically introduced by companies that contact parents directly.",
+      "They are mostly chosen after teachers have studied their privacy policies."
+     ],
+     "answer": 0,
+     "explain": "¶2: แอปหลายตัวให้ใช้ฟรีแก่ครู “who often sign up individually without involving school administrators” จึงอนุมานได้ว่าการนำมาใช้มักไม่ผ่านการกำกับดูแลของสถาบัน ตอบ A ตัวเลือก D ขัดกับข้อความ “privacy policies few teachers have read”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best expresses the researchers' view at the start of paragraph 3?",
+     "options": [
+      "Companies deliberately mislead teachers about the data they collect.",
+      "Companies' privacy policies are, on the whole, fair to schools and pupils.",
+      "The problem lies in the structure of the relationship more than in companies' motives.",
+      "It is impossible to know whether education companies are acting honestly."
+     ],
+     "answer": 2,
+     "explain": "¶3: “The difficulty is not necessarily that such companies act in bad faith. Rather ... the arrangement contains an inherent imbalance.” คือปัญหาอยู่ที่โครงสร้างความสัมพันธ์ที่ไม่สมดุล ไม่ใช่เจตนาของบริษัท ตอบ C ตัวเลือก A เป็นข้อความที่ผู้วิจัยปฏิเสธ ส่วน B สรุปเกินกว่าที่กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2025 review, what did nearly a third of the apps allow?",
+     "options": [
+      "Changes to their policies without users being informed",
+      "The sharing of named student records with known partners",
+      "The deletion of pupils' data at the end of each term",
+      "Voice recordings of pupils to be sold to other companies"
+     ],
+     "answer": 0,
+     "explain": "¶3: “nearly a third allowed their policies to be changed without notifying users” ตอบ A ตัวเลือก B ล่อใจเพราะ ‘more than half’ แบ่งปันข้อมูลกับพันธมิตร แต่เป็นข้อมูลที่ “de-identified” กับ “unnamed partners” ซึ่งตรงข้ามกับตัวเลือก"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The phrase 'single out' in paragraph 3 is closest in meaning to",
+     "options": [
+      "choose for special praise",
+      "identify one particular person",
+      "separate physically from a group",
+      "leave out of an activity"
+     ],
+     "answer": 1,
+     "explain": "¶3: ข้อมูลโรงเรียน อายุ และคะแนนรวมกัน “can be enough to single out an individual pupil” หมายถึงระบุตัวนักเรียนคนนั้นได้ ซึ่งสอดคล้องกับคำว่า “prevent identification” ก่อนหน้า ตอบ B ตัวเลือก A เป็นความหมายที่พบบ่อยของ single out (เลือกมาชมหรือติเป็นพิเศษ) แต่ไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What is Dr. Wiroj's main concern in paragraph 4?",
+     "options": [
+      "Tests given to young children usually produce inaccurate results.",
+      "Children under the age of ten should not be given formal tests.",
+      "Schools should copy pupils' data into several systems for safety.",
+      "Information gathered in childhood may have lasting effects that are hard to reverse."
+     ],
+     "answer": 3,
+     "explain": "¶4: “A low score at the age of nine should not follow anyone into adulthood” และ “once data has been copied across several systems, retrieving it becomes extraordinarily difficult” แสดงความกังวลว่าข้อมูลวัยเด็กอาจส่งผลระยะยาวและเรียกคืนได้ยาก ตอบ D ตัวเลือก C ใช้คำจากบทความแต่กลับความหมาย เพราะการคัดลอกไปหลายระบบคือต้นเหตุของปัญหา"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 5 in the article?",
+     "options": [
+      "It provides further evidence that education companies misuse data.",
+      "It explains how the 2025 review of education apps was conducted.",
+      "It presents a warning against overreaction and proposes a different remedy.",
+      "It describes the practical steps Ms. Kanokwan has taken in her classes."
+     ],
+     "answer": 2,
+     "explain": "¶5 เริ่มด้วย “Some observers, however, warn against overreaction.” แล้วเสนอทางแก้ “A more promising approach ... lies in procurement” จึงตอบ C ตัวเลือก D ล่อใจเพราะเป็นเรื่องการแก้ปัญหาเช่นกัน แต่ขั้นตอนของครูกนกวรรณอยู่ใน ¶6"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does Ms. Kanokwan's final comment suggest?",
+     "options": [
+      "She believes protection should be built into the system rather than left to individual teachers.",
+      "She regrets having used the quiz app and plans to stop using it next term.",
+      "She thinks the steps she has taken have now fully solved the problem.",
+      "She blames her colleagues for failing to ask companies the right questions."
+     ],
+     "answer": 0,
+     "explain": "¶6: “it shouldn't depend on whether each teacher happens to ask the right question” แสดงว่าเธอเห็นว่าการคุ้มครองข้อมูลควรเป็นระบบ ไม่ใช่ขึ้นกับครูแต่ละคน ตอบ A ตัวเลือก C ขัดกับ “these steps are modest” และ B ขัดกับ “has not abandoned the quiz app”"
+    }
+   ]
+  },
+  {
+   "id": "A3P4",
+   "kind": "short",
+   "genre": "editorial",
+   "domain": "Tourism",
+   "title": "A Fee Is Not a Plan",
+   "paragraphs": [
+    "When the provincial authorities introduced a 300-baht arrival fee for visitors to Koh Saeng last year, the reaction was predictable. Tour operators warned that holidaymakers would simply go elsewhere; environmental groups hailed the charge as overdue recognition that the island's reefs and beaches are not free goods. Twelve months on, neither prediction has been entirely borne out. Visitor numbers fell by just two per cent, and yet the island's most visible problems, from overflowing landfill to eroding paths and stressed coral, look much as they did before.",
+    "This should not surprise anyone. A fee, in itself, does nothing for an island. What matters is how the money is spent, and on this point the authorities have been strikingly vague. According to figures released only after repeated requests from a local newspaper, roughly 41 million baht was collected in the first year. Officials say the revenue was transferred to the provincial general fund, from which it “supports a range of public services”. That phrase could mean almost anything.",
+    "Defenders of the current arrangement argue that ring-fencing revenue for particular purposes reduces flexibility, and that a province has many competing needs, of which an island's coral is only one. This is a fair point in principle. Earmarking can lock money into programmes long after they have ceased to be useful, and finance officials everywhere are right to treat it with some suspicion.",
+    "But the argument overlooks why visitors, and residents, were willing to accept the fee in the first place. A survey conducted at the pier by a university tourism programme found that 78 per cent of foreign visitors supported the charge. Most of them, however, assumed it would pay for conservation and waste management on the island itself. Should that assumption prove false, the goodwill on which the fee depends will not last. A charge that is accepted as a contribution will soon be resented as a tax.",
+    "There is a straightforward remedy. The authorities should commit a fixed share of the revenue, at least half seems reasonable, to a dedicated island fund overseen by a board that includes residents, scientists and business owners. They should also publish an annual statement showing exactly how the money was spent, in language a visitor could understand. Some destinations in the region already display such information on signs at their arrival points; it costs little and builds considerable trust.",
+    "None of this would solve Koh Saeng's problems overnight. Coral recovers slowly, if at all, and a single fund cannot substitute for wider controls on development. Nevertheless, a fee that is visibly connected to its purpose is far more likely to survive the next change of government, or the next downturn in arrivals, than one that disappears into general accounts.",
+    "The arrival fee was a sensible idea. Unless it is matched by transparency, however, it risks becoming yet another example of a good policy undermined by poor execution. The authorities still have time to show visitors where their 300 baht goes. They should take it."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following would be the best alternative title for this editorial?",
+     "options": [
+      "Tourists Turn Their Backs on Koh Saeng",
+      "Why Visitor Fees Always End in Failure",
+      "Coral Reefs Face a Growing Crisis",
+      "A Visitor Fee Needs a Visible Purpose"
+     ],
+     "answer": 3,
+     "explain": "ใจความหลักของบทบรรณาธิการคือค่าธรรมเนียมจะได้รับการยอมรับต่อไปก็ต่อเมื่อเห็นชัดว่าเงินถูกใช้อย่างไร เช่น “a fee that is visibly connected to its purpose” (¶6) และ “Unless it is matched by transparency” (¶7) ตอบ D ตัวเลือก A ขัดกับ ¶1 ที่จำนวนนักท่องเที่ยวลดลงเพียง “two per cent” ส่วน B ใช้คำว่า always ซึ่งเหมารวมเกินไป เพราะผู้เขียนเห็นว่า “The arrival fee was a sensible idea”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply in paragraph 1 about the predictions made by tour operators and environmental groups?",
+     "options": [
+      "Both groups' predictions have now been fully confirmed by events.",
+      "The outcome so far has not fully matched what either side expected.",
+      "Tour operators were proved right, while environmental groups were wrong.",
+      "Environmental groups exaggerated how far visitor numbers would fall."
+     ],
+     "answer": 1,
+     "explain": "¶1: “neither prediction has been entirely borne out” เพราะนักท่องเที่ยวไม่ได้หายไปมาก (ลดลงเพียงร้อยละสอง) และปัญหาสิ่งแวดล้อมก็ยังไม่ดีขึ้น ตอบ B ตัวเลือก D สับสนว่าใครพูดอะไร เพราะผู้ที่เตือนว่านักท่องเที่ยวจะลดลงคือผู้ประกอบการทัวร์ ไม่ใช่กลุ่มสิ่งแวดล้อม"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The phrase 'borne out' in paragraph 1 is closest in meaning to",
+     "options": [
+      "carried away",
+      "put up with",
+      "shown to be true",
+      "brought into being"
+     ],
+     "answer": 2,
+     "explain": "¶1: “neither prediction has been entirely borne out” หมายถึงไม่มีคำทำนายใดได้รับการพิสูจน์ว่าเป็นจริงทั้งหมด ประโยคต่อมาที่ให้ตัวเลขจริงยืนยันความหมายนี้ ตอบ C ตัวเลือก B ล่อใจเพราะ bear ยังแปลว่า ‘ทนรับ’ ได้ แต่ไม่ใช่ความหมายของ bear out"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "What is the writer's attitude towards the officials' explanation in paragraph 2?",
+     "options": [
+      "Sceptical, because the explanation reveals almost nothing",
+      "Sympathetic, because managing provincial funds is complex",
+      "Neutral, because the revenue figures have been published",
+      "Hostile, because the newspaper's requests were refused"
+     ],
+     "answer": 0,
+     "explain": "¶2: ผู้เขียนเรียกคำชี้แจงว่า “strikingly vague” และสรุปว่า “That phrase could mean almost anything.” แสดงความไม่เชื่อถือ ตอบ A ตัวเลือก D ล่อใจเพราะมีเรื่องหนังสือพิมพ์ แต่ข้อมูลถูกเปิดเผยแล้ว “after repeated requests” ไม่ได้ถูกปฏิเสธ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer include paragraph 3?",
+     "options": [
+      "To explain the original reasons why the arrival fee was introduced",
+      "To show that finance officials generally support earmarking revenue",
+      "To acknowledge a reasonable objection before going on to answer it",
+      "To argue that the island's coral should be the province's lowest priority"
+     ],
+     "answer": 2,
+     "explain": "¶3 ยอมรับข้อโต้แย้งของฝ่ายที่สนับสนุนระบบเดิมว่า “This is a fair point in principle.” แล้ว ¶4 จึงโต้กลับด้วย “But the argument overlooks...” นี่คือการยอมรับก่อนหักล้าง (concession) ตอบ C ตัวเลือก B กลับความหมาย เพราะเจ้าหน้าที่การคลัง “treat it with some suspicion”"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'that assumption' in paragraph 4 refer to?",
+     "options": [
+      "The belief that holidaymakers would go to other destinations",
+      "The view that ring-fencing revenue reduces flexibility",
+      "The finding that most foreign visitors supported the charge",
+      "The expectation that the fee would fund care of the island itself"
+     ],
+     "answer": 3,
+     "explain": "¶4: ประโยคก่อนหน้ากล่าวว่า “Most of them, however, assumed it would pay for conservation and waste management on the island itself.” ดังนั้น that assumption คือความเชื่อว่าเงินจะใช้ดูแลเกาะ ตอบ D ตัวเลือก C ล่อใจเพราะอยู่ใกล้ แต่ตัวเลข 78 เปอร์เซ็นต์เป็นผลสำรวจ ไม่ใช่ข้อสันนิษฐาน"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "What does the writer mean by 'A charge that is accepted as a contribution will soon be resented as a tax'?",
+     "options": [
+      "Visitors' willingness to pay depends on believing the money serves a purpose they value.",
+      "Visitors generally prefer paying taxes to making voluntary contributions.",
+      "The arrival fee is likely to be converted into a national tax before long.",
+      "Residents of the island already resent the taxes they are required to pay."
+     ],
+     "answer": 0,
+     "explain": "¶4: ประโยคนี้ตามหลัง “Should that assumption prove false, the goodwill on which the fee depends will not last.” หมายความว่านักท่องเที่ยวยินดีจ่ายเพราะเชื่อว่าเงินช่วยดูแลเกาะ หากไม่เป็นเช่นนั้นก็จะรู้สึกว่าเป็นภาษีที่ถูกบังคับ ตอบ A ตัวเลือก C ตีความคำว่า tax ตามตัวอักษร ซึ่งไม่ใช่สิ่งที่ผู้เขียนหมายถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "Which of the following is part of the writer's proposal in paragraph 5?",
+     "options": [
+      "Abolishing the arrival fee for foreign visitors altogether",
+      "Regular public reporting on how the revenue is spent",
+      "Transferring all of the revenue to a board of business owners",
+      "Closing the provincial general fund to new revenue"
+     ],
+     "answer": 1,
+     "explain": "¶5: ผู้เขียนเสนอให้ “publish an annual statement showing exactly how the money was spent” ตอบ B ตัวเลือก C ล่อใจเพราะคณะกรรมการมีนักธุรกิจร่วมด้วย แต่ผู้เขียนเสนอเพียง “a fixed share ... at least half” และกรรมการประกอบด้วย “residents, scientists and business owners”"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is a fact rather than the writer's opinion?",
+     "options": [
+      "At least half of the revenue should go to a dedicated island fund.",
+      "The arrival fee was a sensible idea when it was introduced.",
+      "A fee linked to its purpose is more likely to survive a change of government.",
+      "Some destinations in the region display spending information at arrival points."
+     ],
+     "answer": 3,
+     "explain": "¶5: “Some destinations in the region already display such information on signs at their arrival points” เป็นข้อเท็จจริงที่ตรวจสอบได้ ตอบ D ตัวเลือก A (“seems reasonable”, ¶5), B (“sensible”, ¶7) และ C (“far more likely”, ¶6) ล้วนเป็นการประเมินหรือข้อเสนอของผู้เขียน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer suggest in paragraph 6?",
+     "options": [
+      "A dedicated fund would allow the island's coral to recover within a few years.",
+      "Making the use of the fee transparent could help it last through political change.",
+      "Wider controls on development will be unnecessary once the fund is created.",
+      "The fee should be suspended whenever visitor arrivals begin to decline."
+     ],
+     "answer": 1,
+     "explain": "¶6: “a fee that is visibly connected to its purpose is far more likely to survive the next change of government, or the next downturn in arrivals” ตอบ B ตัวเลือก A ขัดกับ “Coral recovers slowly, if at all” และ C ขัดกับ “a single fund cannot substitute for wider controls on development”"
+    }
+   ]
+  },
+  {
+   "id": "A3P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Genetics/Biotechnology",
+   "title": "Breeding for Resilience: Genomic Selection and the Future of Rice Improvement",
+   "paragraphs": [
+    "For most of the twentieth century, improving a crop meant crossing promising parent plants, growing their offspring in the field and selecting, season after season, the individuals that performed best. This approach, which underpinned the high-yielding rice varieties of the so-called Green Revolution, was remarkably successful. It was also slow. Because many valuable traits only become visible when a plant reaches maturity, and because each generation of rice requires several months to grow, developing a new variety commonly took ten to fifteen years. Each cycle of crossing, planting and evaluation also demands considerable land and labour, much of it devoted to plants that are eventually discarded. In a region where climate change is expected to bring more frequent floods, droughts and saline intrusion into coastal paddies, a timescale of that kind is increasingly regarded as a liability.",
+    "Advances in genetics have offered breeders a means of accelerating the process. The central insight is that many agronomic traits are associated with identifiable variations in a plant's DNA. If such a variation can be detected in a seedling, a breeder need not wait for the plant to mature in order to judge whether it carries the desired trait. Short, readily detectable stretches of DNA that are inherited alongside a gene of interest are known as molecular markers, and their use to guide breeding decisions has become known as marker-assisted selection.",
+    "Marker-assisted selection has proved most effective for traits controlled by one or a few genes of large effect. A widely cited example in rice concerns tolerance of submergence. Ordinary varieties typically die if they remain completely under water for more than a few days, whereas certain traditional landraces can survive for up to two weeks. Once the region of the genome responsible had been located, breeders were able to transfer it into popular high-yielding varieties within a few years, producing plants that were almost identical to the originals except in their capacity to withstand flooding. Farmers, who are often reluctant to abandon varieties whose taste and cooking qualities they know, could thus gain resilience without sacrificing familiarity.",
+    "Many of the traits that matter most to farmers, however, are not of this kind. Yield, drought tolerance and grain quality are typically influenced by hundreds or even thousands of genes, each with a very small effect, as well as by the environment in which the plant is grown. For such complex traits, tracking a handful of markers captures only a fraction of the relevant variation. This limitation prompted the development of genomic selection, an approach that uses thousands of markers spread across the entire genome. A statistical model is first trained on a reference population of plants for which both genetic data and field measurements are available. The model is then used to predict the performance of new seedlings from their DNA alone, allowing breeders to discard unpromising lines before they are ever planted in the field.",
+    "Early results appear encouraging. In a 2024 study at a university in northern Thailand, researchers led by Dr. Anchalee Wongsuwan compared genomic predictions of drought tolerance in 420 experimental rice lines with the lines' actual performance across three dry seasons. The correlation between predicted and observed yields under drought was only moderate, at around 0.55, but the team calculated that using the predictions to choose parent plants could shorten the breeding cycle by roughly four years. Comparable gains have been reported for other cereals, and several breeding programmes in the region have begun to incorporate genomic data into their routine decisions.",
+    "Nevertheless, enthusiasm should be tempered by an awareness of the method's limitations. The accuracy of genomic prediction depends heavily on how closely the reference population resembles the plants being evaluated. A model trained on lines grown in irrigated lowland fields may perform poorly when applied to upland conditions, a problem known as genotype-by-environment interaction. Moreover, the infrastructure required, from high-throughput laboratory equipment to data management systems and staff trained in quantitative genetics, is costly. Wongsuwan herself cautions that smaller national programmes, which often work on crops that are locally important but commercially minor, may lack the resources to adopt the technique without external support, potentially widening the gap between well-funded and poorly funded institutions.",
+    "A further concern relates to genetic diversity. When selection is driven by models that reward a narrow set of traits, breeders may increasingly draw on the same small pool of elite parents. Over time, this could erode the genetic variation on which future improvement depends, leaving crops more vulnerable to new pests or unforeseen climatic conditions. Some researchers therefore argue that genomic selection should be paired with deliberate efforts to introduce material from seed banks and traditional landraces, even at the cost of some short-term gain.",
+    "Finally, the social dimension of crop improvement should not be overlooked. A variety that performs well on a research station may still fail to be adopted if it does not suit local cooking preferences, if seed is not available at an affordable price, or if farmers were never asked which traits matter to them. In parts of the Northeast, for instance, households that grow glutinous rice for their own consumption may judge a new variety chiefly by its stickiness and aroma, qualities that rarely feature in a breeder's formal selection criteria. Participatory plant breeding, in which farmers help to evaluate candidate lines in their own fields, has been associated with higher adoption rates, and there is no obvious reason why it cannot be combined with genomic tools.",
+    "Taken together, the evidence suggests that genomic technologies are best understood not as a replacement for conventional breeding but as a means of making it faster and more precise. Their value is likely to depend less on the sophistication of the statistics than on whether they are embedded in programmes that maintain diversity, test varieties across realistic environments and listen to the farmers who will ultimately grow them. Used in this way, they could help the region's farmers keep pace with a changing climate."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Genomic tools can speed up crop breeding, but their value depends on addressing technical, economic and social limitations.",
+      "Genomic selection has now replaced conventional field-based breeding in most programmes across Southeast Asia.",
+      "Marker-assisted selection is more effective than genomic selection for every trait that farmers consider important.",
+      "Climate change has made rice farming in the region impossible without the use of genetic technologies."
+     ],
+     "answer": 0,
+     "explain": "บทความอธิบายว่าเทคโนโลยีจีโนมช่วยเร่งการปรับปรุงพันธุ์ (¶2–5) แต่มีข้อจำกัดด้านเทคนิค ต้นทุน ความหลากหลาย และสังคม (¶6–8) และสรุปว่าเป็น “a means of making it faster and more precise” ไม่ใช่สิ่งทดแทน (¶9) ตอบ A ตัวเลือก B ขัดกับ ¶9 ที่ว่า “not as a replacement for conventional breeding”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 1 about why the slowness of conventional breeding is described as 'a liability'?",
+     "options": [
+      "Green Revolution varieties are no longer grown anywhere in the region.",
+      "Conventional breeding has rarely produced varieties that farmers found useful.",
+      "Long development times may leave farmers without suitable varieties as conditions change.",
+      "Breeders have deliberately delayed the release of new rice varieties."
+     ],
+     "answer": 2,
+     "explain": "¶1: การพัฒนาพันธุ์ใช้เวลา “ten to fifteen years” ในขณะที่ “climate change is expected to bring more frequent floods, droughts and saline intrusion” จึงอนุมานได้ว่าพันธุ์ใหม่อาจมาไม่ทันสภาพแวดล้อมที่เปลี่ยนไป ตอบ C ตัวเลือก B ขัดกับ ¶1 ที่ว่าวิธีนี้ “remarkably successful”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'underpinned' in paragraph 1 is closest in meaning to",
+     "options": [
+      "weakened over time",
+      "replaced entirely",
+      "kept out of sight",
+      "formed the basis of"
+     ],
+     "answer": 3,
+     "explain": "¶1: “This approach, which underpinned the high-yielding rice varieties of the so-called Green Revolution, was remarkably successful.” วิธีนี้เป็นรากฐานของพันธุ์ข้าวให้ผลผลิตสูง ตอบ D ตัวเลือก A มีความหมายตรงข้ามและขัดกับคำว่า “remarkably successful” ที่ตามมา"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best paraphrases the third sentence of paragraph 2?",
+     "options": [
+      "Breeders must wait until plants mature before their DNA can be tested.",
+      "Examining a young plant's DNA allows breeders to decide earlier whether to keep it.",
+      "Mature plants lose many of the desirable traits found in seedlings.",
+      "DNA tests become reliable only after plants have reached full maturity."
+     ],
+     "answer": 1,
+     "explain": "¶2: “If such a variation can be detected in a seedling, a breeder need not wait for the plant to mature in order to judge whether it carries the desired trait.” คือการตรวจดีเอ็นเอของต้นกล้าช่วยให้ตัดสินใจได้เร็วขึ้น ตอบ B ตัวเลือก A และ D กลับความหมายของ “need not wait”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer discuss submergence tolerance in paragraph 3?",
+     "options": [
+      "To illustrate the kind of trait for which marker-assisted selection works well",
+      "To show that traditional landraces outperform modern varieties in most respects",
+      "To argue that flooding is now the single greatest threat to rice production",
+      "To explain why farmers usually reject varieties developed by plant breeders"
+     ],
+     "answer": 0,
+     "explain": "¶3 เปิดด้วย “Marker-assisted selection has proved most effective for traits controlled by one or a few genes of large effect.” แล้วยกการทนน้ำท่วมเป็น “A widely cited example” ตอบ A ตัวเลือก B ล่อใจเพราะพันธุ์พื้นเมืองทนน้ำได้ดีกว่า แต่ผู้เขียนไม่ได้บอกว่าดีกว่าในด้านอื่น ๆ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does paragraph 3 suggest about farmers' attitudes to new varieties?",
+     "options": [
+      "They generally prefer traditional landraces to high-yielding varieties.",
+      "They value flood tolerance above every other quality of a variety.",
+      "They are unwilling to plant any variety developed with genetic methods.",
+      "They may resist varieties that alter eating qualities they are used to."
+     ],
+     "answer": 3,
+     "explain": "¶3: เกษตรกร “are often reluctant to abandon varieties whose taste and cooking qualities they know” การได้พันธุ์ที่ทนน้ำแต่รสชาติเหมือนเดิมจึงสำคัญ ตอบ D ตัวเลือก C เหมารวมเกินจริง เพราะบทความบอกว่าเกษตรกรได้ประโยชน์จากพันธุ์ที่พัฒนาด้วยเครื่องหมายโมเลกุล"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'This limitation' in paragraph 4 refer to?",
+     "options": [
+      "The influence of the environment on how plants grow",
+      "The very large number of genes that affect yield",
+      "The inability of a few markers to account for most variation in complex traits",
+      "The high cost of carrying out field trials over several seasons"
+     ],
+     "answer": 2,
+     "explain": "¶4: ประโยคก่อนหน้าคือ “tracking a handful of markers captures only a fraction of the relevant variation” ข้อจำกัดนี้นำไปสู่การพัฒนา genomic selection ตอบ C ตัวเลือก B ล่อใจเพราะจำนวนยีนจำนวนมากเป็นสาเหตุของปัญหา แต่ไม่ใช่ตัว ‘ข้อจำกัด’ ของวิธีเดิม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, how does genomic selection predict the performance of new seedlings?",
+     "options": [
+      "By growing every seedling to maturity in a reference field",
+      "By applying a model, built using plants already measured, to the seedlings' DNA",
+      "By tracking a single gene of large effect in each seedling",
+      "By comparing each seedling directly with traditional landraces"
+     ],
+     "answer": 1,
+     "explain": "¶4: แบบจำลองถูก “trained on a reference population of plants for which both genetic data and field measurements are available” แล้วใช้ “to predict the performance of new seedlings from their DNA alone” ตอบ B ตัวเลือก C เป็นลักษณะของ marker-assisted selection ใน ¶3 ไม่ใช่ genomic selection"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which conclusion about the 2024 study is best supported by paragraph 5?",
+     "options": [
+      "Its predictions matched the observed yields almost perfectly.",
+      "It was carried out over four consecutive dry seasons.",
+      "Even imperfect predictions could produce a meaningful saving of time.",
+      "It proved that genomic selection works equally well for all cereals."
+     ],
+     "answer": 2,
+     "explain": "¶5: ความสัมพันธ์ “only moderate, at around 0.55” แต่ยังสามารถ “shorten the breeding cycle by roughly four years” แสดงว่าการพยากรณ์ที่ไม่สมบูรณ์ก็ยังมีประโยชน์ ตอบ C ตัวเลือก B ใช้ตัวเลขสี่ผิดที่ เพราะการศึกษาทำ “across three dry seasons” ส่วน four years คือเวลาที่ประหยัดได้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'tempered' in paragraph 6 is closest in meaning to",
+     "options": [
+      "moderated",
+      "hardened",
+      "postponed",
+      "encouraged"
+     ],
+     "answer": 0,
+     "explain": "¶6: “enthusiasm should be tempered by an awareness of the method's limitations” หมายถึงความกระตือรือร้นควรถูกลดทอนลงให้พอเหมาะ ตอบ A ตัวเลือก B เป็นความหมายของ temper ในบริบทโลหะ (ชุบแข็ง) ซึ่งไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred about Dr. Wongsuwan's position in paragraph 6?",
+     "options": [
+      "She believes genomic selection is not worth the investment it requires.",
+      "She thinks smaller programmes should stop working on minor crops.",
+      "She now regards the results of her own 2024 study as unreliable.",
+      "She sees value in the method yet recognises it could deepen inequalities."
+     ],
+     "answer": 3,
+     "explain": "¶5 แสดงว่าเธอทำวิจัยที่ได้ผลน่าพอใจ แต่ ¶6 เธอ “cautions that smaller national programmes ... may lack the resources” จนอาจ “widening the gap between well-funded and poorly funded institutions” ตอบ D ตัวเลือก A ล่อใจเพราะมีเรื่องต้นทุนสูง แต่เธอไม่ได้ปฏิเสธคุณค่าของวิธีนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "Which best describes how paragraphs 6 to 8 are organised?",
+     "options": [
+      "They present further evidence of the benefits reported in paragraph 5.",
+      "They set out a series of limitations and concerns, one after another.",
+      "They compare rice breeding in Thailand with breeding in other countries.",
+      "They trace the historical development of genomic selection over time."
+     ],
+     "answer": 1,
+     "explain": "¶6 เริ่มด้วย “Nevertheless ... limitations” ¶7 “A further concern” และ ¶8 “Finally, the social dimension” เป็นการเสนอข้อจำกัดทีละประเด็น ตอบ B ตัวเลือก A ผิดเพราะย่อหน้าเหล่านี้เปลี่ยนทิศจากข้อดีใน ¶5 ไปสู่ข้อจำกัด"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 1, the high-yielding rice varieties produced by conventional breeding belong to which historical period? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "Green Revolution",
+      "so-called Green Revolution"
+     ],
+     "explain": "¶1: “the high-yielding rice varieties of the so-called Green Revolution” คำตอบคือ Green Revolution"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What are short, readily detectable stretches of DNA inherited alongside a gene of interest called? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "molecular markers",
+      "molecular marker"
+     ],
+     "explain": "¶2: “Short, readily detectable stretches of DNA that are inherited alongside a gene of interest are known as molecular markers” คำตอบคือ molecular markers ไม่ใช่ marker-assisted selection ซึ่งเป็นชื่อของวิธีการใช้เครื่องหมายเหล่านี้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What kind of rice can survive completely under water for up to two weeks? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "traditional landraces",
+      "certain traditional landraces",
+      "landraces"
+     ],
+     "explain": "¶3: “certain traditional landraces can survive for up to two weeks” คำตอบคือ traditional landraces ส่วนพันธุ์ทั่วไป (ordinary varieties) ตายภายในไม่กี่วัน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the problem that arises when a model trained in one growing environment performs poorly in another? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "genotype-by-environment interaction"
+     ],
+     "explain": "¶6: แบบจำลองที่ฝึกในนาลุ่มชลประทานอาจใช้ไม่ได้ดีในที่ดอน “a problem known as genotype-by-environment interaction” คำตอบคือ genotype-by-environment interaction"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What approach involves farmers helping to evaluate candidate lines in their own fields? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "participatory plant breeding"
+     ],
+     "explain": "¶8: “Participatory plant breeding, in which farmers help to evaluate candidate lines in their own fields, has been associated with higher adoption rates” คำตอบคือ participatory plant breeding"
+    }
+   ]
+  },
+  {
+   "id": "A3P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Linguistics/Bilingualism",
+   "title": "Switching Codes: Rethinking Language Mixing in Bilingual Speech",
+   "paragraphs": [
+    "In many bilingual communities, speakers move between two languages within a single conversation, or even within a single sentence. A university student in Bangkok might begin a remark in Thai, insert an English technical term and complete the thought in Thai again; a family of Isan origin living in the capital may shift between Isan, Central Thai and occasionally English as the topic and audience change. Linguists refer to this practice as code-switching. For much of the twentieth century, it was widely regarded as evidence of linguistic deficiency, a sign that speakers had failed to master either language fully. Over the past five decades, however, research has substantially overturned this view.",
+    "The earlier, negative assessment rested largely on an assumption that the ideal bilingual is, in effect, two monolinguals in one person, keeping each language in a separate mental compartment. Measured against this standard, any mixing appeared to signal confusion. Yet the assumption was seldom tested empirically. Much of the early commentary, moreover, came from educators and language planners concerned with standard forms, rather than from linguists observing how bilinguals actually spoke. When researchers began to record and analyse naturally occurring bilingual conversation in detail, they found that switching was neither random nor, in most cases, caused by gaps in knowledge.",
+    "One of the most consistent findings is that code-switching is governed by grammatical constraints. Switches tend to occur at points where the structures of the two languages are compatible, and rarely at points where they conflict. A speaker may switch between a verb and its object, for example, but is unlikely to do so in a position that would violate the word order of either language. Because these regularities are shared by speakers who have never been taught them, many linguists regard them as evidence of considerable underlying competence in both languages, rather than of a failure to master either.",
+    "Studies of bilingual children point in the same direction. Young children raised with two languages do sometimes mix them, particularly when they lack a word in one language, and parents frequently interpret this as confusion. Longitudinal research, however, indicates that even children as young as two tend to adjust their language choice according to the person they are addressing, using more of a parent's preferred language when speaking to that parent. Such sensitivity to the listener implies that the two systems are differentiated from an early age, even if the vocabulary available in each is still uneven.",
+    "Code-switching also performs a range of social and communicative functions. Speakers switch in order to quote someone else's words, to signal a change of topic, to express solidarity with a listener who shares both languages or, less charitably, to exclude an outsider who does not. These functions are not mutually exclusive; a single switch may simultaneously quote a speaker, lighten the mood and remind listeners of a shared background. In a 2023 study of conversations among 64 bilingual office workers in Khon Kaen, a team led by Dr. Supaporn Inthasorn found that switches into Isan clustered around jokes, complaints and expressions of sympathy, while switches into English most often accompanied work-related terminology. The researchers concluded that the choice of language served to mark the emotional register of an utterance as much as its content.",
+    "Such findings have implications for education. In many classrooms, teachers discourage or even penalise the use of pupils' home languages, on the grounds that mixing will hinder the acquisition of the language of instruction. A growing body of research, however, suggests that allowing learners to draw strategically on their full linguistic repertoire, an approach sometimes termed translanguaging, can support comprehension and participation, particularly among pupils who are still developing proficiency in the school language. In one classroom experiment in a northeastern province, pupils who were permitted to discuss science problems in their home language before writing their answers in Thai produced explanations that were rated as more complete than those of a comparison group.",
+    "It would nonetheless be premature to conclude that code-switching is always beneficial or that concerns about it are entirely unfounded. Critics point out that much of the evidence comes from small, qualitative studies whose findings may not generalise to other settings. In assessment contexts, moreover, learners are typically required to perform in a single language, and teachers worry, not without reason, that habits formed in mixed-language discussion may not transfer automatically to formal writing. In the classroom experiment mentioned above, the advantage was apparent in the completeness of the pupils' ideas but not in the accuracy of their written Thai.",
+    "There is also a wider sociolinguistic dimension. Where one language carries considerably more prestige than another, frequent switching may form part of a gradual process of language shift, in which younger generations come to use the dominant language in an increasing range of situations until the minority language is confined to the home, or abandoned altogether. In parts of Thailand, for example, researchers have described households in which grandparents speak mainly a regional language while their grandchildren reply largely in Central Thai. In such cases, it is not code-switching itself that endangers the minority language, but the social and economic pressures that make the dominant language more attractive. Distinguishing between stable bilingual mixing and the early stages of shift therefore requires attention to patterns across generations, not merely within individual conversations.",
+    "In sum, the evidence now indicates that code-switching is better understood as a skilled and rule-governed practice than as a symptom of deficiency. This reassessment does not mean that every instance of mixing is advantageous, nor that educators should abandon the goal of developing learners' command of standard forms. It does suggest, however, that bilingual speakers' ability to move between languages deserves to be treated as a resource to be understood and, where appropriate, built upon, rather than as a habit to be corrected."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Code-switching shows that most bilingual speakers have not fully mastered either of their languages.",
+      "Teachers should encourage pupils to mix languages in all classroom activities and assessments.",
+      "Research has reframed code-switching as a structured, purposeful practice, though questions about its effects remain.",
+      "Code-switching is the main reason why minority languages are disappearing in many communities."
+     ],
+     "answer": 2,
+     "explain": "บทความชี้ว่างานวิจัย “has substantially overturned this view” (¶1) โดยแสดงว่าการสลับภาษามีกฎเกณฑ์และหน้าที่ (¶3–5) แต่ยังมีข้อจำกัด (¶7–8) และสรุปว่า “a skilled and rule-governed practice” (¶9) ตอบ C ตัวเลือก A เป็นมุมมองเดิมที่ผู้เขียนปฏิเสธ ส่วน D ขัดกับ ¶8 ที่ว่า “it is not code-switching itself that endangers the minority language”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best paraphrases the view of code-switching that was common for much of the twentieth century?",
+     "options": [
+      "Mixing languages was taken to show an incomplete command of both.",
+      "Mixing languages was seen as a mark of an advanced education.",
+      "Mixing languages was believed to help bilinguals learn more quickly.",
+      "Mixing languages was thought to be too rare to deserve study."
+     ],
+     "answer": 0,
+     "explain": "¶1: “it was widely regarded as evidence of linguistic deficiency, a sign that speakers had failed to master either language fully” คือมองว่าผู้พูดใช้ทั้งสองภาษาได้ไม่สมบูรณ์ ตอบ A ตัวเลือก B และ C เป็นมุมมองเชิงบวกซึ่งตรงข้ามกับความเชื่อในยุคนั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply in paragraph 2 about the idea that a bilingual is 'two monolinguals in one person'?",
+     "options": [
+      "It was developed from extensive recordings of bilingual conversation.",
+      "It was an untested standard that made any mixing look like a problem.",
+      "It is still accepted by most linguists who study bilingual speech.",
+      "It was first proposed by bilingual speakers describing their own experience."
+     ],
+     "answer": 1,
+     "explain": "¶2: มาตรฐานนี้ทำให้ “any mixing appeared to signal confusion” และ “the assumption was seldom tested empirically” ตอบ B ตัวเลือก A กลับลำดับเหตุการณ์ เพราะการบันทึกบทสนทนาจริงเกิดขึ้นภายหลังและนำไปสู่การหักล้างแนวคิดนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'governed' in paragraph 3 is closest in meaning to",
+     "options": [
+      "administered by an authority",
+      "officially permitted",
+      "largely prevented",
+      "systematically shaped"
+     ],
+     "answer": 3,
+     "explain": "¶3: “code-switching is governed by grammatical constraints” หมายถึงการสลับภาษาถูกกำหนดรูปแบบอย่างเป็นระบบโดยข้อจำกัดทางไวยากรณ์ ดังที่ประโยคต่อมาอธิบายว่าการสลับเกิดในตำแหน่งที่โครงสร้างสองภาษาเข้ากันได้ ตอบ D ตัวเลือก A เป็นความหมายของ govern ในทางการเมือง (ปกครอง) ซึ่งไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'these regularities' in paragraph 3 refer to?",
+     "options": [
+      "The tendency of switches to occur mainly where both grammars allow them",
+      "The fixed word order found in a single language",
+      "The gaps in knowledge that cause speakers to switch",
+      "The grammar rules that are taught in language classes"
+     ],
+     "answer": 0,
+     "explain": "¶3: สองประโยคก่อนหน้ากล่าวว่า “Switches tend to occur at points where the structures of the two languages are compatible” และไม่เกิดในตำแหน่งที่ขัดกับลำดับคำของภาษาใดภาษาหนึ่ง จึงตอบ A ตัวเลือก D ขัดกับข้อความ “speakers who have never been taught them”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the behaviour of young bilingual children described in paragraph 4 suggest?",
+     "options": [
+      "Children mix their languages mainly because they are confused by them.",
+      "Children keep their two languages distinct even while their vocabulary is uneven.",
+      "Parents should avoid using two languages with children under the age of two.",
+      "Children nearly always prefer the language spoken by their mother."
+     ],
+     "answer": 1,
+     "explain": "¶4: เด็กอายุเพียงสองขวบ “adjust their language choice according to the person they are addressing” ซึ่ง “implies that the two systems are differentiated from an early age, even if the vocabulary available in each is still uneven” ตอบ B ตัวเลือก A เป็นการตีความของพ่อแม่ที่งานวิจัยโต้แย้ง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2023 study in paragraph 5, switches into Isan were most closely associated with",
+     "options": [
+      "technical vocabulary related to work",
+      "quoting the words of managers",
+      "humour, grievances and sympathy",
+      "a change in the topic of conversation"
+     ],
+     "answer": 2,
+     "explain": "¶5: “switches into Isan clustered around jokes, complaints and expressions of sympathy” ตอบ C ตัวเลือก A ล่อใจเพราะอยู่ในประโยคเดียวกัน แต่ศัพท์เกี่ยวกับงานสัมพันธ์กับการสลับไปใช้ภาษาอังกฤษ ไม่ใช่ภาษาอีสาน"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention the classroom experiment in paragraph 6?",
+     "options": [
+      "To show that home languages should replace Thai as the language of instruction",
+      "To prove that translanguaging improves the grammatical accuracy of pupils' writing",
+      "To criticise teachers who penalise pupils for using their home languages",
+      "To give an example of the possible benefits of allowing home-language use"
+     ],
+     "answer": 3,
+     "explain": "¶6: นักเรียนที่ได้อภิปรายด้วยภาษาแม่ก่อนเขียนเป็นภาษาไทย “produced explanations that were rated as more complete” ซึ่งเป็นตัวอย่างประกอบข้ออ้างว่า translanguaging “can support comprehension and participation” ตอบ D ตัวเลือก B ขัดกับ ¶7 ที่ระบุว่าความได้เปรียบไม่ปรากฏ “in the accuracy of their written Thai”"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the main function of paragraph 7?",
+     "options": [
+      "To reject the research findings reported in the previous paragraphs",
+      "To qualify the earlier positive claims by noting limitations of the evidence",
+      "To introduce an additional benefit of code-switching in the classroom",
+      "To summarise the argument of the whole article before concluding"
+     ],
+     "answer": 1,
+     "explain": "¶7 เริ่มด้วย “It would nonetheless be premature to conclude that code-switching is always beneficial” แล้วชี้ข้อจำกัด เช่น “small, qualitative studies whose findings may not generalise” คือการจำกัดขอบเขตข้ออ้างก่อนหน้า ไม่ใช่ปฏิเสธทั้งหมด ตอบ B ตัวเลือก A รุนแรงเกินไป เพราะผู้เขียนยังยอมรับผลการวิจัยในภาพรวม"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best describes the results of the classroom experiment as reported in paragraph 7?",
+     "options": [
+      "Pupils' written Thai became noticeably more accurate.",
+      "The comparison group produced the fuller explanations.",
+      "The benefits extended to every aspect of written work.",
+      "The gains were in content rather than in linguistic accuracy."
+     ],
+     "answer": 3,
+     "explain": "¶7: “the advantage was apparent in the completeness of the pupils' ideas but not in the accuracy of their written Thai” คือได้ผลด้านเนื้อหา ไม่ใช่ความถูกต้องทางภาษา ตอบ D ตัวเลือก B สลับกลุ่ม เพราะกลุ่มทดลองต่างหากที่เขียนคำอธิบายได้ครบถ้วนกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "According to paragraph 8, what actually endangers a minority language?",
+     "options": [
+      "Social and economic forces that favour a more prestigious language",
+      "The habit of switching between languages in everyday conversation",
+      "The teaching of the minority language in schools alongside others",
+      "The refusal of older generations to learn the dominant language"
+     ],
+     "answer": 0,
+     "explain": "¶8: “it is not code-switching itself that endangers the minority language, but the social and economic pressures that make the dominant language more attractive” ตอบ A ตัวเลือก B เป็นความเชื่อที่ผู้เขียนกล่าวถึงแต่ปฏิเสธโดยตรงในประโยคเดียวกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which best describes the writer's attitude towards code-switching in the final paragraph?",
+     "options": [
+      "Unreservedly enthusiastic about its benefits in every context",
+      "Dismissive of its value outside informal conversation",
+      "Positive overall, while accepting that not every instance is beneficial",
+      "Undecided, setting out both views without reaching any conclusion"
+     ],
+     "answer": 2,
+     "explain": "¶9: ผู้เขียนมองว่าเป็น “a resource to be understood” แต่ก็ยอมรับว่า “This reassessment does not mean that every instance of mixing is advantageous” จึงเป็นทัศนคติเชิงบวกอย่างระมัดระวัง ตอบ C ตัวเลือก D ผิดเพราะผู้เขียนสรุปจุดยืนชัดเจนด้วย “the evidence now indicates...”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term do linguists use for the practice of moving between two languages within a conversation? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "code-switching"
+     ],
+     "explain": "¶1: “Linguists refer to this practice as code-switching.” คำตอบคือ code-switching"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 3, what kind of constraints govern code-switching? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "grammatical constraints",
+      "grammatical"
+     ],
+     "explain": "¶3: “code-switching is governed by grammatical constraints” คำตอบคือ grammatical constraints ซึ่งอธิบายว่าการสลับภาษาเกิดในตำแหน่งที่โครงสร้างสองภาษาเข้ากันได้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In the 2023 study, what did switches into English most often accompany? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "work-related terminology"
+     ],
+     "explain": "¶5: “switches into English most often accompanied work-related terminology” คำตอบคือ work-related terminology ส่วนการสลับไปภาษาอีสานเกี่ยวกับมุกตลก การบ่น และความเห็นใจ"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term is sometimes used for allowing learners to draw strategically on their full linguistic repertoire? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "translanguaging"
+     ],
+     "explain": "¶6: “allowing learners to draw strategically on their full linguistic repertoire, an approach sometimes termed translanguaging” คำตอบคือ translanguaging"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What gradual process may frequent switching form part of when one language has much more prestige than another? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "language shift",
+      "shift"
+     ],
+     "explain": "¶8: “frequent switching may form part of a gradual process of language shift, in which younger generations come to use the dominant language in an increasing range of situations” คำตอบคือ language shift"
+    }
+   ]
+  }
+ ]
+}

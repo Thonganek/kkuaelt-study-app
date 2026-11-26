@@ -1,0 +1,981 @@
+{
+ "id": "A2",
+ "title": "Band 7 Reading Test 2",
+ "passages": [
+  {
+   "id": "A2P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Agriculture / Food Security",
+   "title": "Clean Cuttings Scheme Launched as Leaf Virus Threatens Cassava Harvest",
+   "paragraphs": [
+    "Farmers' cooperatives in three northeastern provinces have begun distributing certified virus-free cassava cuttings to smallholders, in an effort to contain a leaf disease that agricultural officials fear could reduce this season's harvest by as much as a fifth. The scheme, coordinated by a provincial agricultural office and a network of twelve cooperatives, aims to supply enough planting stock for roughly 40,000 rai before the main planting window closes in late May.",
+    "The disease, which causes leaves to curl, yellow and become mottled, is spread both by whiteflies and, more significantly, by the exchange of infected stems between neighbours. Because cassava is propagated from cuttings rather than seed, a single contaminated bundle can carry the virus into a new district, where it may go unnoticed until the plants are several months old.",
+    "“Farmers have always shared stems; it is part of how villages help one another,” said Somsak Wongthong, chair of one of the participating cooperatives. “What we are asking is not that people stop sharing, but that they share stock which has been inspected.” Under the scheme, cuttings are taken only from nurseries that have passed two field inspections, and each bundle carries a tag that allows its origin to be traced.",
+    "Officials stress that the stakes extend beyond individual farms. Cassava is the region's most important upland crop, and much of it is sold to starch factories whose output feeds into food processing, animal feed and paper manufacturing. A sustained fall in supply, one official noted, would be felt not only by growers but also by the seasonal workers employed at processing plants, and could push up feed prices for local pig and poultry producers.",
+    "Not everyone is convinced that the measures go far enough. Dr. Pimchanok Saetang, a plant pathologist at a university in the region, welcomed the initiative but warned that clean cuttings offer only temporary protection if infected plants remain in surrounding fields. “Unless diseased plants are pulled up and destroyed, whiteflies will simply reintroduce the virus within a season or two,” she said. She added that the most widely grown local varieties appear to have little natural resistance, making longer-term investment in breeding tolerant varieties unavoidable.",
+    "Removing infected plants, however, carries a cost that many smallholders say they cannot absorb. Farmers who uproot a diseased crop lose months of growth, and the scheme currently offers no compensation. A spokesperson for the provincial office said that a payment of up to 1,500 baht per rai for verified removals was “under active consideration”, with a decision expected before the planting season ends.",
+    "In the meantime, cooperatives are running weekend training sessions to help farmers recognise early symptoms. Organisers say attendance has exceeded expectations, which they interpret as a sign that growers are taking the threat seriously."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Which of the following best summarises the report?",
+     "options": [
+      "A scheme to supply inspected planting material has begun, though some doubt that it is sufficient on its own.",
+      "Sharing cassava stems between neighbours has been banned in order to stop a leaf virus from spreading.",
+      "A leaf virus has already cut this season's cassava harvest by a fifth across three northeastern provinces.",
+      "Farmers are now being paid to destroy diseased cassava plants before the end of the planting season."
+     ],
+     "answer": 0,
+     "explain": "ข่าวรายงานว่ามีการแจกท่อนพันธุ์ที่ “certified virus-free” (¶1) แต่ผู้เชี่ยวชาญเตือนว่า “the measures [may not] go far enough” (¶5) จึงตอบ A ตัวเลือก C ล่อใจเพราะใช้ตัวเลข “a fifth” จาก ¶1 แต่ในข่าวเป็นเพียงสิ่งที่เจ้าหน้าที่ “fear could reduce” ยังไม่ได้เกิดขึ้นจริง ส่วน D ผิดเพราะเงินชดเชยยัง “under active consideration” (¶6)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 2 about the spread of the disease?",
+     "options": [
+      "Whiteflies are the main way in which the virus reaches districts that were previously unaffected.",
+      "The virus can be detected only through laboratory tests carried out on the stems themselves.",
+      "Infected planting material may be spread widely before anyone realises that it is diseased.",
+      "Cassava grown from seed is more likely to carry the virus than cassava grown from cuttings."
+     ],
+     "answer": 2,
+     "explain": "¶2 ระบุว่าท่อนพันธุ์ที่ติดเชื้อนำไวรัสเข้าเขตใหม่ได้ และ “it may go unnoticed until the plants are several months old” จึงอนุมานได้ว่าอาจมีการกระจายไปมากก่อนจะมีใครรู้ตัว ตอบ C ตัวเลือก A กลับความหมาย เพราะบทความบอกว่าการแลกท่อนพันธุ์สำคัญกว่า (“more significantly”) แมลงหวี่ขาว"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best expresses Somsak Wongthong's position in paragraph 3?",
+     "options": [
+      "Villagers should stop exchanging stems with one another until the disease has disappeared.",
+      "The tradition of sharing can continue, provided that the material has first been checked.",
+      "Exchanging stems has never been a particularly important part of village life in the region.",
+      "Only cooperatives should be permitted to plant cassava until the nurseries are inspected."
+     ],
+     "answer": 1,
+     "explain": "¶3: “What we are asking is not that people stop sharing, but that they share stock which has been inspected.” ตัวเลือก B ถอดความได้ตรงที่สุด ตัวเลือก A ล่อใจเพราะใช้คำว่า stop แต่คุณสมศักดิ์ปฏิเสธแนวคิดนี้โดยตรง ส่วน C ขัดกับ “Farmers have always shared stems”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'sustained' in paragraph 4 is closest in meaning to",
+     "options": [
+      "supported by convincing evidence",
+      "suffered as a result of an accident",
+      "officially approved in advance",
+      "continuing over a long period"
+     ],
+     "answer": 3,
+     "explain": "¶4: “A sustained fall in supply ... would be felt not only by growers” หมายถึงการลดลงของผลผลิตที่ 'ต่อเนื่องยาวนาน' จึงตอบ D ตัวเลือก A และ B เป็นความหมายอื่นของ sustain (sustain a claim / sustain an injury) ซึ่งไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention starch factories, seasonal workers and livestock producers in paragraph 4?",
+     "options": [
+      "To show that cassava growers earn more than the people employed in processing plants",
+      "To explain why the virus spreads more quickly in areas close to processing plants",
+      "To illustrate how a shortage could affect people well beyond the farms themselves",
+      "To argue that factory owners should pay for the inspection of cassava nurseries"
+     ],
+     "answer": 2,
+     "explain": "ย่อหน้านี้เริ่มด้วย “the stakes extend beyond individual farms” แล้วยกตัวอย่างโรงงานแป้ง แรงงานตามฤดูกาล และผู้เลี้ยงสัตว์ เพื่อแสดงผลกระทบที่กว้างกว่าตัวเกษตรกร จึงตอบ C ตัวเลือก B ล่อใจเพราะเอ่ยถึง processing plants แต่ ¶4 ไม่ได้พูดถึงการแพร่ของไวรัสเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to Dr. Pimchanok Saetang, why might clean cuttings protect crops for only a short time?",
+     "options": [
+      "Insects can carry the virus back into new plantings from diseased crops nearby.",
+      "The certified cuttings supplied by nurseries are frequently infected already.",
+      "Farmers will continue to exchange uninspected stems with their neighbours.",
+      "Local varieties gradually lose their natural resistance after replanting."
+     ],
+     "answer": 0,
+     "explain": "¶5: “Unless diseased plants are pulled up and destroyed, whiteflies will simply reintroduce the virus within a season or two” แปลว่าแมลงจะนำเชื้อจากต้นที่เป็นโรครอบข้างกลับมา จึงตอบ A ตัวเลือก C อาจเป็นความจริงแต่ไม่ใช่เหตุผลที่ ดร.พิมพ์ชนก กล่าว ส่วน D บิดความหมายของ “little natural resistance” ซึ่งหมายถึงมีภูมิต้านทานน้อยอยู่แล้ว ไม่ใช่สูญเสียไป"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred about the proposed payment mentioned in paragraph 6?",
+     "options": [
+      "It has already been approved and will be paid before the planting season ends.",
+      "It would fully replace the income that farmers lose by uprooting their crops.",
+      "It is intended mainly for farmers who attend the cooperatives' training sessions.",
+      "It is designed to make removing diseased plants more acceptable to smallholders."
+     ],
+     "answer": 3,
+     "explain": "¶6 อธิบายว่าการถอนต้นเป็นต้นทุนที่ “many smallholders say they cannot absorb” และ “the scheme currently offers no compensation” การเสนอเงินชดเชยจึงมีเป้าหมายให้เกษตรกรยอมถอนต้นที่เป็นโรค ตอบ D ตัวเลือก A ผิดเพราะยังเป็นเพียง “under active consideration” ส่วน B เกินจริง เพราะเงินเพียง “up to 1,500 baht per rai” ไม่มีหลักฐานว่าชดเชยได้ทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the tone of the report?",
+     "options": [
+      "alarmed and openly accusatory",
+      "measured and largely informative",
+      "enthusiastic and promotional",
+      "dismissive and deeply sceptical"
+     ],
+     "answer": 1,
+     "explain": "ผู้เขียนรายงานข้อเท็จจริงและอ้างความเห็นหลายฝ่าย ทั้งผู้สนับสนุน (¶3) และผู้ที่ตั้งข้อสงสัย เช่น “Not everyone is convinced” (¶5) โดยไม่แสดงความเห็นส่วนตัว จึงตอบ B ตัวเลือก D ล่อใจเพราะมีเสียงวิจารณ์ใน ¶5 แต่นั่นเป็นความเห็นของนักวิชาการที่ถูกอ้างถึง ไม่ใช่น้ำเสียงของผู้เขียน"
+    }
+   ]
+  },
+  {
+   "id": "A2P2",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Workplace / Labour",
+   "title": "Off the Clock, Still on the Line",
+   "paragraphs": [
+    "At 10.40 on a Tuesday night, Kanya, a 31-year-old accounts officer at a logistics firm in Bangkok, is brushing her teeth when her phone vibrates. Her manager has posted a request in the team's group chat asking someone to “quickly check” a supplier's invoice. Nobody is obliged to reply, she says, yet within four minutes three colleagues have responded. “The message never says it is urgent,” she explains. “It doesn't need to.”",
+    "Experiences like Kanya's have become so commonplace that many employees no longer regard them as remarkable. Messaging applications, adopted by companies during the pandemic as a convenient substitute for meetings, have quietly eroded the boundary between working hours and private time. Unlike email, which tends to be checked at a desk, chat messages arrive on the same device that people use to talk to their families, and they carry an implicit expectation of a rapid reply.",
+    "Researchers describe the phenomenon as “availability creep”. A 2025 survey of 1,800 office workers in four Southeast Asian cities, conducted by a team at a private university, found that respondents spent an average of 5.2 hours a week dealing with work messages outside their contracted hours, time that was almost never recorded or paid. Those who reported answering messages late in the evening were also significantly more likely to describe poor sleep, although the authors caution that the survey cannot establish which came first.",
+    "Some governments have responded by legislating a so-called right to disconnect, which typically requires larger employers to agree on rules about out-of-hours contact. Advocates argue that such laws merely codify what should be common courtesy. Critics contend that rigid rules ill suit businesses operating across time zones, and that some employees actually prefer dealing with a message at night to facing a backlog the next morning.",
+    "That last point is not trivial. Dr. Arthit Boonmee, an organisational psychologist who has advised several regional companies, notes that the same chat that intrudes on one worker's evening may allow another to leave early to collect a child from school. “The problem is rarely the technology itself,” he argues. “It is the unspoken norms that grow up around it, and the fact that junior staff feel they cannot be the first to ignore a message.”",
+    "For this reason, he favours team-level agreements over blanket prohibitions. Managers might commit, for instance, to scheduling non-urgent messages for the following morning, or to stating explicitly when a reply can wait. Such measures cost little, but they require managers to give up a degree of convenience.",
+    "Kanya's company has yet to adopt any such policy. For now, she has started leaving her phone in the kitchen after nine. “I still feel guilty,” she admits. “But I have noticed that the invoices get checked anyway.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does Kanya imply when she says 'It doesn't need to' in paragraph 1?",
+     "options": [
+      "Her manager seldom sends messages that require any action from staff.",
+      "Her colleagues reply only because the requests are genuinely urgent.",
+      "Staff feel pressure to respond even when no urgency is stated.",
+      "She would prefer messages that state clearly how urgent a task is."
+     ],
+     "answer": 2,
+     "explain": "¶1: “Nobody is obliged to reply ... yet within four minutes three colleagues have responded” และ “The message never says it is urgent ... It doesn't need to.” หมายความว่าพนักงานรู้สึกถูกกดดันให้ตอบแม้ไม่มีใครบอกว่าด่วน จึงตอบ C ตัวเลือก B ล่อใจแต่ขัดกับที่ Kanya บอกว่าข้อความ “never says it is urgent”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'eroded' in paragraph 2 is closest in meaning to",
+     "options": [
+      "gradually worn away",
+      "clearly marked out",
+      "officially removed",
+      "temporarily hidden"
+     ],
+     "answer": 0,
+     "explain": "¶2: messaging apps “have quietly eroded the boundary between working hours and private time” คำว่า quietly บอกว่าเป็นการเปลี่ยนแปลงทีละน้อย ความหมายจึงเป็น 'ค่อย ๆ กัดกร่อน' ตอบ A ตัวเลือก C ล่อใจเพราะเส้นแบ่งหายไปจริง แต่ไม่ได้เกิดจากการยกเลิกอย่างเป็นทางการ"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best restates the contrast between email and chat messages in paragraph 2?",
+     "options": [
+      "Email has become less common at work because it is much slower than chat.",
+      "Chat messages are usually read at a desk, whereas email follows people home.",
+      "Families now rely on email more often than on messaging applications.",
+      "Chat reaches people on their personal phones and seems to demand a quick answer."
+     ],
+     "answer": 3,
+     "explain": "¶2: “Unlike email, which tends to be checked at a desk, chat messages arrive on the same device that people use to talk to their families, and they carry an implicit expectation of a rapid reply.” ตัวเลือก D ถอดความได้ครบ ตัวเลือก B สลับคุณสมบัติของอีเมลกับแชทกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "What do the authors of the survey in paragraph 3 say about late-evening messages and poor sleep?",
+     "options": [
+      "Answering late messages has been proven to be the main cause of poor sleep.",
+      "It is unclear whether answering messages leads to poor sleep or the reverse.",
+      "Workers who sleep badly are usually paid for the extra hours they work.",
+      "The link was found only among workers in one of the four cities studied."
+     ],
+     "answer": 1,
+     "explain": "¶3: “the authors caution that the survey cannot establish which came first” คือยังบอกไม่ได้ว่าอะไรเป็นเหตุอะไรเป็นผล จึงตอบ B ตัวเลือก A ล่อใจเพราะมีความสัมพันธ์จริง (“significantly more likely”) แต่ผู้วิจัยปฏิเสธว่าพิสูจน์สาเหตุได้"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, what do right-to-disconnect laws typically require?",
+     "options": [
+      "that larger firms set out rules on contacting staff after working hours",
+      "that every employer ban all work messages sent after working hours",
+      "that employees be paid for each message they answer late at night",
+      "that companies operating across time zones be exempt from the rules"
+     ],
+     "answer": 0,
+     "explain": "¶4: such laws “typically requires larger employers to agree on rules about out-of-hours contact” จึงตอบ A ตัวเลือก B ใช้คำเหมารวม every/all ซึ่งเกินกว่าที่บทความกล่าว ส่วน D นำเรื่อง time zones ซึ่งเป็นข้อโต้แย้งของฝ่ายวิจารณ์มาบิดเป็นข้อกำหนดของกฎหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "What does 'That last point' at the start of paragraph 5 refer to?",
+     "options": [
+      "the claim that the laws simply put common courtesy into law",
+      "the requirement that larger employers agree on contact rules",
+      "the difficulty faced by businesses working across time zones",
+      "some workers' preference for handling messages at night"
+     ],
+     "answer": 3,
+     "explain": "“That last point” ใน ¶5 ชี้กลับไปที่ข้อโต้แย้งสุดท้ายใน ¶4: “some employees actually prefer dealing with a message at night to facing a backlog the next morning” และ ¶5 ขยายต่อด้วยตัวอย่างพนักงานที่ได้กลับบ้านเร็ว จึงตอบ D ตัวเลือก C เป็นข้อโต้แย้งของฝ่ายวิจารณ์เช่นกัน แต่ไม่ใช่ประเด็น 'สุดท้าย'"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which of the following would Dr. Arthit Boonmee most probably agree with?",
+     "options": [
+      "Companies should stop using chat applications for work altogether.",
+      "Junior staff are usually the ones who send unnecessary messages.",
+      "Workplace expectations matter more than the messaging tools themselves.",
+      "Managers should be legally required to switch off their phones at night."
+     ],
+     "answer": 2,
+     "explain": "¶5: “The problem is rarely the technology itself ... It is the unspoken norms that grow up around it” และ ¶6 บอกว่าเขา “favours team-level agreements over blanket prohibitions” จึงตอบ C ตัวเลือก D ล่อใจแต่ขัดกับการที่เขาไม่สนับสนุนการห้ามแบบเหมารวม ส่วน B สับสนบทบาท เพราะพนักงานระดับล่างคือผู้ที่ 'ไม่กล้าเพิกเฉย' ไม่ใช่ผู้ส่ง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of the final paragraph?",
+     "options": [
+      "To show that Kanya's company has introduced a successful new policy",
+      "To suggest through a personal example that work may not suffer when staff disconnect",
+      "To argue that employees who ignore messages should feel guilty about it",
+      "To prove that keeping a phone in another room improves the quality of sleep"
+     ],
+     "answer": 1,
+     "explain": "¶7: Kanya วางโทรศัพท์ไว้ในครัว และพบว่า “the invoices get checked anyway” แสดงว่างานไม่ได้เสียหายแม้เธอไม่ตอบ จึงตอบ B ตัวเลือก A ขัดกับ “Kanya's company has yet to adopt any such policy” ส่วน D เกินหลักฐาน เพราะย่อหน้านี้ไม่ได้พูดถึงการนอนเลย"
+    }
+   ]
+  },
+  {
+   "id": "A2P3",
+   "kind": "short",
+   "genre": "research summary",
+   "domain": "Transport",
+   "title": "Above the Traffic, Out of Use: Researchers Revisit the Urban Footbridge",
+   "paragraphs": [
+    "Overhead pedestrian bridges are a familiar sight across Southeast Asian cities, where they are often presented as the safest way for people on foot to cross wide, fast roads. A new study by transport researchers at a university in central Thailand, however, suggests that many of these structures are little used, and that their presence may, paradoxically, make the roads beneath them more dangerous.",
+    "The team observed pedestrian behaviour at 46 footbridges in three cities over eight months, using video recordings made at different times of day. On average, only 38 per cent of people crossing within 100 metres of a bridge actually used it; the remainder crossed at street level, frequently by weaving between moving vehicles. Use was lowest among older people and among those carrying shopping or accompanying young children, groups for whom climbing up to forty steps represents a considerable burden.",
+    "The researchers then compared accident records for the stretches of road around each bridge with those around 30 signal-controlled crossings on roads of similar width and traffic volume. Pedestrian injuries were, on average, 27 per cent higher near footbridges. The authors propose that this is because drivers, assuming that pedestrians will be safely overhead, tend to travel faster and pay less attention to people at road level.",
+    "The study's lead author, Dr. Wanida Kittisak, acknowledges that the comparison has limitations. The sites were not randomly chosen, and footbridges may have been built precisely on roads that were already the most hazardous, which would inflate the apparent difference. “We are not claiming that bridges cause accidents,” she said. “But the evidence does not support the assumption that they prevent them.”",
+    "The report also identifies features that appear to encourage use. Bridges fitted with ramps or lifts, those located directly beside bus stops, and those where fences prevented crossing at street level for at least 150 metres in each direction attracted markedly more users. Fencing, however, raises concerns of its own: it lengthens journeys and may simply shift dangerous crossing to the point where the barrier ends.",
+    "The findings come as several municipalities are weighing whether to replace ageing footbridges or remove them altogether. The authors stop short of recommending removal in every case, but argue that decisions should be guided by observed behaviour rather than by the assumption that separating people from traffic is always the safest option. In their view, well-designed crossings at street level, combined with lower speed limits, deserve far more serious consideration than they have generally received."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main point of the passage?",
+     "options": [
+      "Footbridges should be removed from all major roads in Thai cities as soon as possible.",
+      "Footbridges are used less, and may protect pedestrians less, than is commonly assumed.",
+      "Older pedestrians are responsible for most of the accidents that occur near footbridges.",
+      "Signal-controlled crossings are too costly for most municipalities to build and maintain."
+     ],
+     "answer": 1,
+     "explain": "¶1 สรุปผลการศึกษาว่าสะพานลอย “are little used” และ “may, paradoxically, make the roads beneath them more dangerous” จึงตอบ B ตัวเลือก A ล่อใจแต่ ¶6 ระบุว่าผู้วิจัย “stop short of recommending removal in every case”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which group was among the least likely to use the footbridges?",
+     "options": [
+      "commuters waiting at nearby bus stops",
+      "drivers who had parked close to the bridge",
+      "pedestrians crossing late in the evening",
+      "adults accompanied by small children"
+     ],
+     "answer": 3,
+     "explain": "¶2: “Use was lowest among older people and among those carrying shopping or accompanying young children” จึงตอบ D ตัวเลือก A ล่อใจเพราะเรื่องป้ายรถเมล์อยู่ใน ¶5 และกลับเป็นปัจจัยที่ทำให้คนใช้สะพาน 'มากขึ้น'"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 2 about why many pedestrians avoid footbridges?",
+     "options": [
+      "The physical effort involved discourages some people from using them.",
+      "Most pedestrians are not aware that the bridges are there at all.",
+      "The bridges are usually located far from where people want to cross.",
+      "Pedestrians believe that crossing at street level is required by law."
+     ],
+     "answer": 0,
+     "explain": "¶2 ระบุว่ากลุ่มที่ใช้น้อยที่สุดคือผู้สูงอายุและผู้ที่ถือของหรือพาเด็ก ซึ่งการขึ้นบันได “up to forty steps represents a considerable burden” จึงอนุมานได้ว่าความเหนื่อยเป็นอุปสรรค ตอบ A ตัวเลือก C ล่อใจเพราะมีตัวเลข 100 metres แต่นั่นคือขอบเขตการนับคน ไม่ใช่ระยะห่างที่เป็นปัญหา"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best paraphrases the authors' explanation for the higher injury rate near footbridges?",
+     "options": [
+      "Pedestrians walk more slowly at road level when a bridge is nearby.",
+      "Footbridges block drivers' view of the road and of traffic signals.",
+      "Motorists expect the road to be clear of people and drive less carefully.",
+      "Signal-controlled crossings tend to be built on much quieter roads."
+     ],
+     "answer": 2,
+     "explain": "¶3: “drivers, assuming that pedestrians will be safely overhead, tend to travel faster and pay less attention to people at road level” ตัวเลือก C ถอดความได้ตรง ตัวเลือก D ขัดกับบทความเพราะทางม้าลายที่นำมาเปรียบเทียบอยู่บนถนนที่มี “similar width and traffic volume”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'inflate' in paragraph 4 is closest in meaning to",
+     "options": [
+      "fill with air",
+      "raise the price of",
+      "officially confirm",
+      "make seem larger"
+     ],
+     "answer": 3,
+     "explain": "¶4: footbridges may have been built on roads that were already the most hazardous, “which would inflate the apparent difference” คือทำให้ความต่างดู 'มากเกินจริง' จึงตอบ D ตัวเลือก A และ B เป็นความหมายอื่นของ inflate (เป่าลม, เงินเฟ้อ) ที่ไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does Dr. Wanida Kittisak point out that the sites were not randomly chosen?",
+     "options": [
+      "To argue that footbridges are almost always built in the wrong places",
+      "To admit that the study may overstate the risk linked to footbridges",
+      "To explain why the team decided to rely on video recordings",
+      "To show that signal-controlled crossings are more common than bridges"
+     ],
+     "answer": 1,
+     "explain": "¶4: ดร.วนิดา ยอมรับว่า “the comparison has limitations” เพราะสะพานอาจสร้างบนถนนที่อันตรายอยู่แล้ว ผลจึงอาจเกินจริง และย้ำว่า “We are not claiming that bridges cause accidents” จึงตอบ B ตัวเลือก A เป็นการเหมารวม (almost always) ซึ่งเธอไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a feature linked to greater footbridge use?",
+     "options": [
+      "good lighting and security cameras",
+      "ramps or lifts for easier access",
+      "a position right next to a bus stop",
+      "fences along the road on both sides"
+     ],
+     "answer": 0,
+     "explain": "¶5 กล่าวถึง “ramps or lifts”, “located directly beside bus stops” และ “fences prevented crossing at street level” แต่ไม่ได้พูดถึงไฟส่องสว่างหรือกล้องวงจรปิดเลย จึงตอบ A"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer suggest about fencing in paragraph 5?",
+     "options": [
+      "It is the most effective and least controversial way to increase bridge use.",
+      "It is too expensive for most municipalities to install on long roads.",
+      "It may move the danger to another place instead of removing it.",
+      "It encourages drivers to reduce their speed near footbridges."
+     ],
+     "answer": 2,
+     "explain": "¶5: fencing “may simply shift dangerous crossing to the point where the barrier ends” คือย้ายปัญหาไปที่อื่นแทนการแก้ปัญหา จึงตอบ C ตัวเลือก A ล่อใจเพราะรั้วช่วยเพิ่มผู้ใช้จริง แต่บทความระบุว่า “raises concerns of its own” จึงไม่ใช่ “least controversial”"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which best describes the authors' position as presented in paragraph 6?",
+     "options": [
+      "cautiously critical of a widely held assumption",
+      "strongly in favour of removing every footbridge",
+      "uncertain whether pedestrians face any real danger",
+      "openly dismissive of local municipal authorities"
+     ],
+     "answer": 0,
+     "explain": "¶6: ผู้วิจัยตั้งคำถามกับ “the assumption that separating people from traffic is always the safest option” แต่ก็ “stop short of recommending removal in every case” แสดงท่าทีวิจารณ์อย่างระมัดระวัง จึงตอบ A ตัวเลือก B เกินจริงและขัดกับข้อความดังกล่าว"
+    }
+   ]
+  },
+  {
+   "id": "A2P4",
+   "kind": "short",
+   "genre": "editorial",
+   "domain": "Cultural Heritage",
+   "title": "A Heritage Worth Living In",
+   "paragraphs": [
+    "When the provincial council unveiled its plan last month to designate the riverside quarter of the old town as a “heritage conservation zone”, the announcement was greeted with near-universal applause. Few would dispute that the district's century-old wooden shophouses, with their carved eaves and folding shutters, deserve protection. Yet the warmth of the reception has obscured a question that the plan's authors seem reluctant to confront: protection for whom?",
+    "Under the proposal, owners would receive grants covering up to half the cost of restoring façades, provided they follow strict guidelines on materials and colours. Tourist facilities, including a visitor centre, signage in four languages and a weekend walking street, would be added along the main lane. On paper, this is an admirable package. In practice, experience elsewhere in the region suggests that it may hasten the very decline it is meant to prevent.",
+    "The pattern is well documented. Once a district is branded as heritage, property values tend to rise sharply. Long-term tenants, many of whom run the tailors, herbal shops and noodle stalls that give such places their character, find their rents increased or their leases not renewed. Their premises are taken over by cafés and souvenir shops catering to visitors. Within a decade, the buildings may be immaculately restored while the community that animated them has quietly dispersed. What remains is a stage set: authentic in its timber, hollow in its life.",
+    "Admittedly, the council cannot be blamed for every market force, and some change is both inevitable and welcome. Restoration work creates employment for local craftspeople, and visitor spending can sustain businesses that might otherwise have closed. Nor should residents be denied the right to sell their property at a good price if they choose to. The objection here is not to change as such but to a scheme that treats buildings as the heritage and people as incidental to it.",
+    "There are practical alternatives. Grants could be made conditional on owners offering existing tenants leases of, say, ten years at controlled rents. A share of tourism revenue could support the traditional trades themselves rather than merely the façades behind which they operate. And residents, who have so far been offered a single public hearing, should have a formal role in deciding how the zone is managed. Towns in neighbouring countries that have taken such steps, though not without difficulties, have retained far more of their original inhabitants.",
+    "None of this would be costly by the standards of the overall budget. What it requires is a shift in thinking: from heritage as something to be looked at to heritage as something that is lived in. The council has the opportunity to get this right before the first grant is paid. It should take it, rather than discovering in ten years' time that it has preserved a beautiful shell."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the writer's main argument?",
+     "options": [
+      "The old town's shophouses are not worth the considerable cost of restoring them.",
+      "Tourism will inevitably destroy every historic district in the surrounding region.",
+      "Property owners should be prevented from selling buildings inside the new zone.",
+      "The conservation plan ought to safeguard the residents as well as the buildings."
+     ],
+     "answer": 3,
+     "explain": "ผู้เขียนตั้งคำถาม “protection for whom?” (¶1) และสรุปว่าต้องเปลี่ยนจาก “heritage as something to be looked at to heritage as something that is lived in” (¶6) จึงตอบ D ตัวเลือก C ขัดกับ ¶4 ที่ว่า “Nor should residents be denied the right to sell their property” ส่วน A ขัดกับ ¶1 ที่ยอมรับว่าอาคาร “deserve protection”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply by asking 'protection for whom?' in paragraph 1?",
+     "options": [
+      "Hardly anyone in the town actually supports the council's plan.",
+      "The plan may serve other interests better than those of local people.",
+      "The shophouses are not old enough to deserve official protection.",
+      "The council has not yet decided which buildings it will protect."
+     ],
+     "answer": 1,
+     "explain": "¶1: คำถามนี้ตามหลังประโยค “the warmth of the reception has obscured a question that the plan's authors seem reluctant to confront” ซึ่ง ¶3 ขยายว่าผู้อยู่อาศัยเดิมอาจถูกผลักออกไป จึงตอบ B ตัวเลือก A ขัดกับ “near-universal applause” ในย่อหน้าเดียวกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best expresses the writer's view of the proposal in paragraph 2?",
+     "options": [
+      "It is well designed and will almost certainly achieve its aims.",
+      "It offers far too little financial support to property owners.",
+      "It looks appealing but could speed up the problem it aims to solve.",
+      "It fails to provide enough facilities for foreign tourists."
+     ],
+     "answer": 2,
+     "explain": "¶2: “On paper, this is an admirable package. In practice ... it may hasten the very decline it is meant to prevent.” ตัวเลือก C ถอดความทั้งสองส่วนได้ตรง ตัวเลือก A ล่อใจเพราะผู้เขียนชมว่า “admirable” แต่เป็นการชมเพียง 'บนกระดาษ' ก่อนจะแย้ง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'animated' in paragraph 3 is closest in meaning to",
+     "options": [
+      "brought life and activity to",
+      "turned into a cartoon film",
+      "made angry or excited",
+      "designed and constructed"
+     ],
+     "answer": 0,
+     "explain": "¶3: “the community that animated them has quietly dispersed” หมายถึงชุมชนที่ทำให้อาคาร 'มีชีวิตชีวา' ซึ่งสอดคล้องกับประโยคถัดไป “hollow in its life” จึงตอบ A ตัวเลือก B และ C เป็นความหมายอื่นของ animated ที่ไม่เข้ากับบริบท ส่วน D ผิดเพราะชุมชนไม่ได้เป็นผู้สร้างอาคาร"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Why does the writer describe the restored district as 'a stage set' in paragraph 3?",
+     "options": [
+      "To praise the high quality of the craftsmanship in the restoration",
+      "To suggest that it looks genuine but lacks real community life",
+      "To indicate that the district will mainly be used for filming",
+      "To show that visitors prefer modern buildings to old ones"
+     ],
+     "answer": 1,
+     "explain": "¶3: “What remains is a stage set: authentic in its timber, hollow in its life.” ฉากละครดูเหมือนจริงแต่ไม่มีชีวิตอยู่จริง จึงตอบ B ตัวเลือก A ล่อใจเพราะอาคาร “immaculately restored” จริง แต่จุดประสงค์ของการเปรียบเทียบคือการวิจารณ์ ไม่ใช่การชม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, which of the following is a benefit of restoration?",
+     "options": [
+      "work for skilled builders and artisans in the area",
+      "lower rents for tenants who have lived there for years",
+      "more public hearings for residents of the district",
+      "larger grants for owners of traditional herbal shops"
+     ],
+     "answer": 0,
+     "explain": "¶4: “Restoration work creates employment for local craftspeople” ตัวเลือก A ถอดความได้ตรง ตัวเลือก B ขัดกับ ¶3 ที่ระบุว่าค่าเช่า “increased” ส่วน C เป็นสิ่งที่ผู้เขียนเรียกร้องใน ¶5 ไม่ใช่ผลดีของการบูรณะ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 4 in the editorial?",
+     "options": [
+      "It presents new statistical evidence that the plan will fail.",
+      "It summarises the views of the district's property owners.",
+      "It withdraws the objection the writer made earlier on.",
+      "It concedes some merits of change before restating the real objection."
+     ],
+     "answer": 3,
+     "explain": "¶4 เริ่มด้วย “Admittedly” ยอมรับข้อดีของการเปลี่ยนแปลง แล้วปิดด้วย “The objection here is not to change as such but to a scheme that treats buildings as the heritage” จึงตอบ D ตัวเลือก C ล่อใจเพราะมีการยอมรับข้อดี แต่ผู้เขียนไม่ได้ถอนข้อโต้แย้ง กลับย้ำให้ชัดขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT proposed in paragraph 5?",
+     "options": [
+      "long leases at controlled rents for existing tenants",
+      "using tourism income to support traditional trades",
+      "banning new cafés and souvenir shops from the zone",
+      "giving residents an official part in managing the zone"
+     ],
+     "answer": 2,
+     "explain": "¶5 เสนอ “leases of, say, ten years at controlled rents”, “A share of tourism revenue could support the traditional trades” และ “a formal role in deciding how the zone is managed” แต่ไม่ได้เสนอให้ห้ามร้านกาแฟหรือร้านของที่ระลึก จึงตอบ C ตัวเลือกนี้ล่อใจเพราะร้านเหล่านี้ถูกกล่าวถึงใน ¶3"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following statements from the passage is a fact rather than an opinion?",
+     "options": [
+      "“On paper, this is an admirable package.”",
+      "“residents ... have so far been offered a single public hearing”",
+      "“What remains is a stage set: authentic in its timber, hollow in its life.”",
+      "“It should take it, rather than discovering ... a beautiful shell.”"
+     ],
+     "answer": 1,
+     "explain": "¶5: การที่ผู้อยู่อาศัย “have so far been offered a single public hearing” เป็นข้อเท็จจริงที่ตรวจสอบได้ จึงตอบ B ตัวเลือก A (¶2) ใช้คำประเมินค่า admirable ตัวเลือก C (¶3) เป็นภาพเปรียบเชิงวิจารณ์ และ D (¶6) ใช้ should แสดงข้อเสนอแนะ จึงเป็นความคิดเห็นทั้งหมด"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the writer's tone?",
+     "options": [
+      "hostile and contemptuous",
+      "detached and indifferent",
+      "celebratory and approving",
+      "constructively critical"
+     ],
+     "answer": 3,
+     "explain": "ผู้เขียนวิจารณ์แผน แต่ยอมรับข้อดี (¶4) และเสนอทางเลือกที่ปฏิบัติได้ (“There are practical alternatives.” ¶5) จึงตอบ D ตัวเลือก A รุนแรงเกินไป เพราะผู้เขียนยอมรับว่าแผน “admirable” บนกระดาษ และเชื่อว่าสภา “has the opportunity to get this right” (¶6)"
+    }
+   ]
+  },
+  {
+   "id": "A2P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Ocean / Climate Science",
+   "title": "Losing Breath: Ocean Deoxygenation and Its Consequences for Coastal Fisheries",
+   "paragraphs": [
+    "Among the many ways in which a warming climate is altering the oceans, the gradual loss of dissolved oxygen has, until recently, attracted comparatively little public attention. Rising sea levels, coral bleaching and ocean acidification have become familiar themes in policy debates, whereas deoxygenation has largely remained the concern of specialists. Yet a growing body of evidence suggests that declining oxygen may prove to be one of the most consequential changes for marine ecosystems and for the coastal communities that depend on them. This article reviews the principal mechanisms behind the trend, considers its ecological and economic implications, and examines the uncertainties that complicate attempts to predict its course.",
+    "Two broad processes are responsible. The first is physical: warmer water simply holds less dissolved gas, so that as surface temperatures rise, the ocean's capacity to retain oxygen diminishes. The second, which is generally thought to be the larger contributor, concerns circulation. As the surface layer warms, it becomes less dense than the colder water beneath it, and the resulting stratification inhibits the vertical mixing that ordinarily carries oxygen-rich surface water into the depths. Global estimates indicate that the open ocean has lost roughly two per cent of its oxygen since the middle of the twentieth century. Although that figure may appear modest, the losses are unevenly distributed, and in certain regions they have been several times greater.",
+    "Coastal waters face an additional and more immediate threat. Fertiliser washed from farmland and untreated sewage discharged from expanding cities deliver large quantities of nutrients to estuaries and shallow seas. These nutrients stimulate blooms of microscopic algae which, when they die and sink, are decomposed by bacteria that consume oxygen in the process. The outcome can be so-called dead zones, areas in which oxygen falls so low that most fish and invertebrates either flee or perish. The number of such zones reported worldwide has risen steeply since the 1960s, although part of this increase undoubtedly reflects more intensive monitoring rather than a genuine deterioration.",
+    "The biological consequences extend well beyond mass mortality events. Many species respond to moderate oxygen decline not by dying but by changing their behaviour. Fish may abandon deeper, oxygen-poor layers and crowd into a narrow band near the surface, a phenomenon that researchers have termed habitat compression. In the short term, this can make them easier to catch and may even boost catch statistics, creating a misleading impression of abundance. Over longer periods, however, compressed populations may grow more slowly, reproduce less successfully and become more vulnerable to predators and to overfishing. Larger and more active species, whose metabolic demands are greatest, appear to be particularly sensitive. Some studies further suggest that persistently low oxygen may cause fish to mature at a smaller size, which would compound these effects over successive generations.",
+    "Evidence from Southeast Asia illustrates how these processes can converge. A 2023 study by marine scientists at a university in southern Thailand monitored oxygen levels at 60 sites in a semi-enclosed bay over five years. During the hottest months, the researchers recorded episodes of severe oxygen depletion near the seabed at nearly a third of the sites, most of them close to river mouths draining intensively farmed land. Interviews with 240 small-scale fishers in the same area revealed that many had noticed fish dying near the bottom or had been forced to travel further offshore to maintain their catches. The additional fuel costs, the authors estimate, reduced net household income from fishing by around 15 per cent in the worst-affected villages.",
+    "Despite such findings, projecting future trends remains difficult. Ocean models broadly agree that oxygen will continue to decline as long as warming persists, but they diverge considerably on the magnitude and location of the changes, particularly in coastal zones, where local factors such as river discharge, tides and seasonal winds play a decisive role. Long-term measurements are also sparse: for many tropical seas, reliable records extend back only a decade or two, which makes it hard to distinguish a lasting trend from natural year-to-year variability. Some researchers have further cautioned that the tolerance of marine organisms to low oxygen may be overestimated, since laboratory experiments rarely reproduce the combined stresses of heat, acidity and food scarcity that animals face in the wild.",
+    "It should also be acknowledged that not every effect is negative for every species. Certain jellyfish and some species of squid tolerate low oxygen well, and their populations may expand as competitors and predators retreat. For fisheries organised around a few high-value species, however, such shifts are unlikely to offer much compensation, since the species that benefit are generally of lower commercial value. Indeed, large swarms of jellyfish can themselves harm fisheries by clogging nets and competing with young fish for food.",
+    "The policy implications differ according to the cause. Deoxygenation in the open ocean can be slowed only by reducing greenhouse gas emissions, a goal that lies beyond the reach of any single country. Coastal dead zones, by contrast, are to a large extent amenable to local action. Measures such as more precise application of fertiliser, buffer strips of vegetation along rivers and improved treatment of urban wastewater have, in several documented cases, allowed oxygen levels in estuaries to recover within a decade. Expanding monitoring networks, including low-cost sensors operated in partnership with fishing communities, would meanwhile improve both scientific understanding and early warning. Such measures also bring benefits on land, including cleaner rivers and lower fertiliser bills for farmers.",
+    "In sum, ocean deoxygenation is a slow and largely invisible process, but its consequences are neither trivial nor remote. While considerable uncertainty surrounds its future extent, the mechanisms are well understood, and the coastal forms of the problem are, in principle, reversible. Treating oxygen as a core indicator of ocean health, alongside temperature and acidity, would be a modest but important step towards ensuring that the issue receives the attention it warrants."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Running Short of Air: The Causes and Costs of Oxygen Loss in the Sea",
+      "How Agricultural Fertiliser Has Destroyed the World's Fisheries",
+      "Jellyfish and Squid: The Unexpected Winners of a Warming Ocean",
+      "Measuring Oxygen in the Laboratory: New Experimental Methods"
+     ],
+     "answer": 0,
+     "explain": "บทความอธิบายกลไก (¶2–3) ผลกระทบต่อระบบนิเวศและเศรษฐกิจ (¶4–5) ความไม่แน่นอน (¶6) และนโยบาย (¶8) ของการที่ทะเลสูญเสียออกซิเจน ตามที่ ¶1 ระบุว่า “reviews the principal mechanisms behind the trend, considers its ecological and economic implications” จึงตอบ A ตัวเลือก C ล่อใจแต่เป็นเพียงประเด็นรองใน ¶7 ส่วน B เกินจริง เพราะปุ๋ยเป็นเพียงสาเหตุหนึ่งของปัญหาชายฝั่ง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention rising sea levels, coral bleaching and acidification in paragraph 1?",
+     "options": [
+      "To argue that these problems are far less serious than the loss of oxygen",
+      "To list the topics that the rest of the article will go on to examine",
+      "To contrast well-known ocean issues with one that has received less notice",
+      "To show that all of the ocean's problems share exactly the same cause"
+     ],
+     "answer": 2,
+     "explain": "¶1: ปัญหาเหล่านี้ “have become familiar themes in policy debates, whereas deoxygenation has largely remained the concern of specialists” ผู้เขียนยกมาเพื่อเปรียบเทียบกับปัญหาที่ได้รับความสนใจน้อยกว่า จึงตอบ C ตัวเลือก B ผิดเพราะบทความไม่ได้อภิปรายหัวข้อเหล่านั้นต่อ ส่วน A เกินกว่าที่ผู้เขียนกล่าว (ใช้เพียง “may prove to be one of the most consequential”)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, which process is generally regarded as the larger cause of oxygen loss in the open ocean?",
+     "options": [
+      "the reduced ability of warmer water to hold dissolved gas",
+      "the rising acidity of water near the surface of the sea",
+      "the breakdown of dead algae by bacteria near the coast",
+      "weaker mixing between the surface and the deeper layers"
+     ],
+     "answer": 3,
+     "explain": "¶2: “The second, which is generally thought to be the larger contributor, concerns circulation ... stratification inhibits the vertical mixing” จึงตอบ D ตัวเลือก A ล่อใจที่สุดเพราะเป็นกระบวนการแรกที่กล่าวถึงในย่อหน้าเดียวกัน แต่ไม่ใช่ตัวการหลัก ส่วน C เป็นสาเหตุเฉพาะในน่านน้ำชายฝั่ง (¶3)"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from the last two sentences of paragraph 2?",
+     "options": [
+      "The two per cent figure has probably been exaggerated by researchers.",
+      "A global average can conceal much more serious declines in some places.",
+      "Oxygen loss has stopped in most regions since the mid-twentieth century.",
+      "The regions with the greatest losses are always located near the equator."
+     ],
+     "answer": 1,
+     "explain": "¶2: “Although that figure may appear modest, the losses are unevenly distributed, and in certain regions they have been several times greater.” แสดงว่าค่าเฉลี่ยทั่วโลกอาจปิดบังความรุนแรงในบางพื้นที่ จึงตอบ B ตัวเลือก A ล่อใจเพราะคำว่า “modest” แต่ผู้เขียนไม่ได้บอกว่าตัวเลขเกินจริง กลับบอกว่าบางพื้นที่รุนแรงกว่ามาก"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer suggest about the rising number of reported dead zones?",
+     "options": [
+      "It proves that coastal pollution has grown steadily worse every year since the 1960s.",
+      "It is entirely the result of scientists monitoring coastal waters more closely.",
+      "It may partly reflect closer observation rather than worsening conditions alone.",
+      "It is caused mainly by the warming of the open ocean rather than by pollution."
+     ],
+     "answer": 2,
+     "explain": "¶3: “part of this increase undoubtedly reflects more intensive monitoring rather than a genuine deterioration” คำว่า part แสดงว่าการตรวจวัดที่มากขึ้นอธิบายได้เพียงบางส่วน จึงตอบ C ตัวเลือก B ล่อใจแต่ใช้คำว่า entirely ซึ่งเกินจริง ส่วน A ใช้ proves และ every year ซึ่งบทความไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'band' in paragraph 4 is closest in meaning to",
+     "options": [
+      "a layer of water",
+      "a musical group",
+      "a range of prices",
+      "a strip of cloth"
+     ],
+     "answer": 0,
+     "explain": "¶4: fish “crowd into a narrow band near the surface” หมายถึง 'ชั้นน้ำแคบ ๆ' ใกล้ผิวน้ำ ซึ่งสอดคล้องกับ “deeper, oxygen-poor layers” ในประโยคเดียวกัน จึงตอบ A ตัวเลือก B C D เป็นความหมายอื่นของ band ที่ไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best paraphrases the point made about catch statistics in paragraph 4?",
+     "options": [
+      "Fishers deliberately report larger catches than they actually bring ashore.",
+      "Habitat compression causes catches to fall sharply as soon as it begins.",
+      "Catch figures are the most dependable way to measure fish populations.",
+      "Crowded fish may be easier to catch, making stocks look healthier than they are."
+     ],
+     "answer": 3,
+     "explain": "¶4: compression “can make them easier to catch and may even boost catch statistics, creating a misleading impression of abundance” ตัวเลือก D ถอดความได้ครบ ตัวเลือก B กลับผล เพราะในระยะสั้นปริมาณที่จับได้อาจ 'เพิ่มขึ้น' ส่วน A โยนความผิดให้ชาวประมง ซึ่งบทความไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the study described in paragraph 5, where did most episodes of severe oxygen depletion occur?",
+     "options": [
+      "in the deepest parts of the open sea beyond the bay",
+      "near rivers carrying runoff from heavily cultivated land",
+      "close to the villages with the lowest household incomes",
+      "at the sites that had been monitored for the longest time"
+     ],
+     "answer": 1,
+     "explain": "¶5: severe depletion occurred “most of them close to river mouths draining intensively farmed land” ตัวเลือก B ถอดความได้ตรง ตัวเลือก C ล่อใจเพราะ ¶5 กล่าวถึงรายได้ของหมู่บ้าน แต่นั่นเป็นผลกระทบ ไม่ใช่ตำแหน่งที่พบออกซิเจนต่ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred about the fishers interviewed in the study in paragraph 5?",
+     "options": [
+      "Their experiences were broadly consistent with the scientific measurements.",
+      "Their fishing methods were the main cause of the oxygen decline in the bay.",
+      "Most of them had stopped fishing in the bay altogether as a result.",
+      "They had been trained by the researchers to operate oxygen sensors."
+     ],
+     "answer": 0,
+     "explain": "¶5: ชาวประมงเล่าว่าเห็น “fish dying near the bottom” ซึ่งตรงกับที่นักวิจัยพบ “severe oxygen depletion near the seabed” จึงอนุมานได้ว่าประสบการณ์ของชาวประมงสอดคล้องกับข้อมูลทางวิทยาศาสตร์ ตอบ A ตัวเลือก C ขัดกับบทความ เพราะชาวประมงยังจับปลาอยู่แต่ต้อง “travel further offshore” ส่วน D นำเรื่อง sensors จาก ¶8 มาปะปน"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT given in paragraph 6 as a reason why future trends are hard to predict?",
+     "options": [
+      "Models disagree about the size and location of future changes.",
+      "Reliable records for many tropical seas cover only a short period.",
+      "Fishers are often unwilling to share data about their catches.",
+      "Laboratory studies may not reflect the conditions found in the wild."
+     ],
+     "answer": 2,
+     "explain": "¶6 กล่าวถึง models ที่ “diverge considerably on the magnitude and location”, บันทึกที่ “extend back only a decade or two” และการทดลองในห้องแล็บที่ “rarely reproduce the combined stresses” แต่ไม่ได้พูดถึงชาวประมงที่ไม่ยอมเปิดเผยข้อมูล จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 7 within the article?",
+     "options": [
+      "It presents the main evidence on which the article's conclusion is based.",
+      "It acknowledges a possible counterpoint while limiting its significance.",
+      "It introduces a further cause of oxygen decline in coastal waters.",
+      "It describes a new method for measuring oxygen at sea."
+     ],
+     "answer": 1,
+     "explain": "¶7 เริ่มด้วย “It should also be acknowledged that not every effect is negative” แล้วตามด้วย “such shifts are unlikely to offer much compensation” คือยอมรับข้อโต้แย้งแล้วจำกัดความสำคัญของมัน จึงตอบ B ตัวเลือก A ผิดเพราะย่อหน้านี้เป็นข้อสังเกตรอง ไม่ใช่หลักฐานหลัก"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the writer's attitude in the final paragraph?",
+     "options": [
+      "resigned and pessimistic about the future of the oceans",
+      "fully confident that the problem will soon be solved",
+      "indifferent to the uncertainty surrounding the research",
+      "concerned about the problem but cautiously hopeful"
+     ],
+     "answer": 3,
+     "explain": "¶9: ผู้เขียนเตือนว่าผลกระทบ “are neither trivial nor remote” (กังวล) แต่ก็ระบุว่าปัญหาชายฝั่ง “are, in principle, reversible” (มีความหวังอย่างระมัดระวัง) จึงตอบ D ตัวเลือก B เกินจริง เพราะผู้เขียนยอมรับว่า “considerable uncertainty surrounds its future extent”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 2, what prevents oxygen-rich surface water from mixing into the deeper ocean? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "stratification",
+      "the resulting stratification"
+     ],
+     "explain": "¶2: “the resulting stratification inhibits the vertical mixing that ordinarily carries oxygen-rich surface water into the depths” คำตอบคือ stratification (การแบ่งชั้นของน้ำ)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to coastal areas where oxygen is so low that most fish and invertebrates leave or die? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "dead zones",
+      "dead zone",
+      "so-called dead zones"
+     ],
+     "explain": "¶3: “The outcome can be so-called dead zones, areas in which oxygen falls so low that most fish and invertebrates either flee or perish.” คำตอบคือ dead zones"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term have researchers used for fish crowding into a narrow layer near the surface? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "habitat compression"
+     ],
+     "explain": "¶4: “crowd into a narrow band near the surface, a phenomenon that researchers have termed habitat compression” คำตอบคือ habitat compression"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to the authors of the study in paragraph 5, what reduced fishers' net household income? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "fuel costs",
+      "additional fuel costs"
+     ],
+     "explain": "¶5: “The additional fuel costs, the authors estimate, reduced net household income from fishing by around 15 per cent” เกิดจากการต้องออกเรือไกลขึ้น คำตอบคือ (additional) fuel costs"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from fertiliser use and wastewater treatment, what measure involving vegetation along rivers is mentioned? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "buffer strips",
+      "buffer strip"
+     ],
+     "explain": "¶8: “Measures such as more precise application of fertiliser, buffer strips of vegetation along rivers and improved treatment of urban wastewater” คำตอบคือ buffer strips (แนวพืชกันชนริมแม่น้ำ)"
+    }
+   ]
+  },
+  {
+   "id": "A2P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Higher Education Research",
+   "title": "Measuring What Matters? The Validity of Student Evaluations of Teaching",
+   "paragraphs": [
+    "In universities across the world, the end of each semester brings a familiar ritual: students are invited to rate their courses and instructors, usually by completing a short questionnaire online. The resulting scores, often reduced to a single average on a five-point scale, have acquired considerable institutional weight. They inform decisions about contract renewal, promotion and teaching awards, and in some systems they feed into national quality rankings. Given these stakes, it is reasonable to ask what student evaluations of teaching actually measure, and whether they measure it well. This article considers the evidence on their validity, the sources of bias that have been identified, and the ways in which institutions might use them more responsibly.",
+    "The case for collecting students' views is straightforward. Students are the only people who observe a course in its entirety, and they are well placed to report on matters such as whether instructions were clear, feedback was timely and the instructor was accessible. Early research in the field, much of it conducted in the 1970s and 1980s, appeared to confirm that ratings were reasonably reliable: students in the same class tended to agree with one another, and an instructor's scores were fairly stable from one year to the next. Some studies also reported modest positive correlations between ratings and student achievement, which was taken as evidence that highly rated teachers were also effective ones. Moreover, the act of asking for feedback signals to students that their experience matters, which may itself encourage engagement.",
+    "Subsequent research has cast doubt on that interpretation. Reliability, it should be stressed, is not the same as validity: a measure can produce consistent results while consistently capturing the wrong thing. Studies exploiting situations in which students are randomly assigned to different sections of the same course have proved particularly instructive, because they allow learning to be assessed independently through common examinations. Several such studies have found little or no relationship between the ratings an instructor receives and how much students subsequently learn. One frequently cited analysis even reported that instructors whose students performed better in later, more advanced courses had received lower ratings, perhaps because they had demanded more effort.",
+    "That finding points to a broader concern, namely that ratings may reward leniency. Students who expect high grades tend to give higher evaluations, and instructors who are aware of this may, consciously or not, relax their demands. Where evaluations carry significant career consequences, the result may be a gradual lowering of academic standards, a dynamic that is difficult to detect because each individual adjustment appears small. Over time, an entire department may drift towards easier assessment without any deliberate decision ever having been taken.",
+    "A further body of work has examined bias related to characteristics of the instructor that have nothing to do with teaching quality. Several studies have reported that women and members of ethnic minorities receive systematically lower ratings than their colleagues, even when course materials and student outcomes are comparable. In one widely discussed experiment involving an online course, students rated an instructor more favourably when they believed the instructor to be male, although the teaching itself was identical. Other factors shown to affect scores include class size, the time at which a class is scheduled and whether a course is compulsory. A 2024 survey of 1,100 lecturers at public universities in Thailand, conducted by a research team at a university in the Northeast, found that 62 per cent believed evaluation results were used in personnel decisions without any adjustment for such factors.",
+    "It would nevertheless be a mistake to conclude that student evaluations are worthless. Critics occasionally imply as much, but the evidence supports a more qualified position. Students do appear to be dependable reporters of observable behaviour: whether classes started on time, whether marking criteria were explained, whether questions were answered respectfully. Problems arise mainly when questionnaires ask students to judge matters they are poorly equipped to assess, such as whether the content reflects current knowledge in the discipline or how effective the teacher is overall, and when the resulting averages are treated as precise measures of quality. Written comments, too, can alert instructors to practical problems, such as illegible slides or poorly timed deadlines, that might otherwise go unnoticed.",
+    "Methodological limitations within the critical literature also deserve mention. Many studies of bias draw on data from a single institution or a single discipline, and their results have not always been replicated elsewhere. Experimental studies, moreover, often rely on short and somewhat artificial courses whose conditions may differ from those of a full semester. Response rates, which have fallen markedly since evaluations moved online, introduce further uncertainty, since students with strong opinions, whether positive or negative, may be overrepresented among those who respond. These caveats do not overturn the central concerns, but they suggest that the magnitude of the problems may vary considerably between contexts.",
+    "Several reforms follow from this evidence. Questionnaires can be redesigned to focus on specific, observable aspects of teaching rather than global judgements. Results can be reported as distributions rather than single averages, accompanied by information about response rates, so that small differences between instructors are not overinterpreted. Most importantly, evaluations can be treated as one source of evidence among several, alongside peer observation, teaching portfolios and samples of student work, rather than as a decisive verdict. Some institutions have also begun to discuss results with instructors in a supportive rather than punitive spirit, using them as a starting point for professional development.",
+    "Student evaluations, in short, are neither a reliable thermometer of teaching quality nor a meaningless exercise. They are an imperfect instrument whose usefulness depends on what it is asked to measure and how its readings are interpreted. Universities that continue to rely on a single numerical score do so at the risk of rewarding popularity over learning and of disadvantaging staff for reasons unrelated to their teaching. A more modest and transparent use of the instrument would serve students and staff alike."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Student evaluations should be abolished because they are biased against many instructors.",
+      "Students are the best judges of how much they have learned in a particular course.",
+      "Student evaluations have some value but are often used in ways the evidence does not justify.",
+      "Early research proved that student ratings are the most valid measure of good teaching."
+     ],
+     "answer": 2,
+     "explain": "บทความชี้ปัญหาด้านความเที่ยงตรงและอคติ (¶3–5) แต่ก็ยืนยันว่า “It would nevertheless be a mistake to conclude that student evaluations are worthless” (¶6) และสรุปว่าเป็น “an imperfect instrument” (¶9) จึงตอบ C ตัวเลือก A ล่อใจเพราะมีหลักฐานเรื่องอคติ แต่ผู้เขียนไม่ได้เสนอให้ยกเลิก กลับเสนอให้ปรับวิธีใช้ (¶8)"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer describe how evaluation scores are used in paragraph 1?",
+     "options": [
+      "To show why questions about their accuracy matter so much",
+      "To argue that promotion should depend entirely on student ratings",
+      "To explain in detail how evaluation questionnaires are designed",
+      "To compare the ways universities in different countries use them"
+     ],
+     "answer": 0,
+     "explain": "¶1: หลังจากระบุว่าคะแนนใช้ตัดสิน “contract renewal, promotion and teaching awards” ผู้เขียนกล่าวว่า “Given these stakes, it is reasonable to ask what student evaluations of teaching actually measure” จึงตอบ A ตัวเลือก B กลับความหมาย เพราะผู้เขียนตั้งคำถามกับการใช้คะแนน ไม่ได้สนับสนุน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, what did early research suggest about student ratings?",
+     "options": [
+      "They were strongly influenced by the gender of the instructor.",
+      "They were fairly consistent between students and across years.",
+      "They were unrelated to anything that students could observe.",
+      "They tended to be higher in larger and compulsory classes."
+     ],
+     "answer": 1,
+     "explain": "¶2: “students in the same class tended to agree with one another, and an instructor's scores were fairly stable from one year to the next” ตัวเลือก B ถอดความได้ตรง ตัวเลือก A และ D เป็นข้อค้นพบจากงานวิจัยรุ่นหลังใน ¶5 ไม่ใช่งานวิจัยยุคแรก"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which statement best paraphrases the idea that 'Reliability ... is not the same as validity' in paragraph 3?",
+     "options": [
+      "Any measure that gives consistent results must also be accurate.",
+      "Validity is generally easier to establish than reliability is.",
+      "Students seldom agree with one another about their instructors.",
+      "A measure can give stable results without measuring the right thing."
+     ],
+     "answer": 3,
+     "explain": "¶3 อธิบายต่อทันทีว่า “a measure can produce consistent results while consistently capturing the wrong thing” ตัวเลือก D ถอดความได้ตรง ตัวเลือก A คือความเข้าใจผิดที่ผู้เขียนกำลังโต้แย้ง ส่วน C ขัดกับ ¶2 ที่ว่านักศึกษา “tended to agree with one another”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply about studies in which students are randomly assigned to course sections?",
+     "options": [
+      "They help separate the effect of the teacher from differences between groups of students.",
+      "They are conducted mainly in advanced courses rather than introductory ones.",
+      "They consistently show that popular instructors produce the most learning.",
+      "They were the main research method used in the 1970s and 1980s."
+     ],
+     "answer": 0,
+     "explain": "¶3: การสุ่มนักศึกษาเข้ากลุ่มเรียน “allow learning to be assessed independently through common examinations” เมื่อกลุ่มนักศึกษาใกล้เคียงกันและสอบข้อสอบเดียวกัน จึงแยกผลของผู้สอนออกมาได้ ตอบ A ตัวเลือก C ขัดกับข้อค้นพบว่ามี “little or no relationship” ระหว่างคะแนนประเมินกับการเรียนรู้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'leniency' in paragraph 4 is closest in meaning to",
+     "options": [
+      "strictness in marking",
+      "dishonesty in reporting",
+      "mildness in what is demanded",
+      "lack of preparation"
+     ],
+     "answer": 2,
+     "explain": "¶4: “ratings may reward leniency” แล้วอธิบายต่อว่าอาจารย์อาจ “relax their demands” และนำไปสู่ “easier assessment” ดังนั้น leniency คือ 'ความผ่อนปรน' จึงตอบ C ตัวเลือก A มีความหมายตรงข้าม"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "According to paragraph 4, why might a decline in academic standards go unnoticed?",
+     "options": [
+      "Students rarely complain when their courses become easier.",
+      "It occurs through many small changes rather than a single obvious one.",
+      "Instructors deliberately hide their grading practices from managers.",
+      "Evaluation results are not connected to instructors' careers."
+     ],
+     "answer": 1,
+     "explain": "¶4: the lowering of standards is “difficult to detect because each individual adjustment appears small” และ “without any deliberate decision ever having been taken” จึงตอบ B ตัวเลือก C ขัดกับบทความเพราะการผ่อนปรนอาจเกิด “consciously or not” ไม่ได้เป็นการปกปิดโดยเจตนา ส่วน D ขัดกับ “significant career consequences”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "In the experiment described in paragraph 5, what differed between the groups of students?",
+     "options": [
+      "the content of the online course",
+      "the quality of the teaching itself",
+      "the number of students in the class",
+      "their belief about the instructor's gender"
+     ],
+     "answer": 3,
+     "explain": "¶5: students rated the instructor more favourably “when they believed the instructor to be male, although the teaching itself was identical” จึงตอบ D ตัวเลือก B ล่อใจแต่ขัดกับ “the teaching itself was identical” ส่วน C (class size) เป็นปัจจัยอื่นที่กล่าวถึงในประโยคถัดไป ไม่ใช่ส่วนหนึ่งของการทดลอง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In the last sentence of paragraph 5, what does 'such factors' refer to?",
+     "options": [
+      "the course materials and outcomes that were found to be comparable",
+      "influences on ratings unrelated to teaching quality, such as gender or class size",
+      "the reasons lecturers themselves give for receiving low ratings",
+      "the personnel decisions made by public universities in Thailand"
+     ],
+     "answer": 1,
+     "explain": "“such factors” ในประโยคสุดท้ายของ ¶5 ชี้กลับไปยังปัจจัยที่กล่าวไว้ก่อนหน้า ได้แก่ เพศและชาติพันธุ์ของผู้สอน และ “class size, the time at which a class is scheduled and whether a course is compulsory” ซึ่ง “have nothing to do with teaching quality” จึงตอบ B ตัวเลือก A ล่อใจเพราะ “course materials and student outcomes” อยู่ในย่อหน้าเดียวกัน แต่เป็นสิ่งที่ 'เท่ากัน' ไม่ใช่ปัจจัยที่ต้องปรับ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What role does paragraph 6 play in the passage?",
+     "options": [
+      "It qualifies the criticisms presented in the preceding paragraphs.",
+      "It provides further experimental evidence of gender bias in ratings.",
+      "It summarises the historical development of student evaluations.",
+      "It rejects the view that students can report on any aspect of teaching."
+     ],
+     "answer": 0,
+     "explain": "¶6 เริ่มด้วย “It would nevertheless be a mistake to conclude that student evaluations are worthless” และ “the evidence supports a more qualified position” จึงทำหน้าที่ลดทอนน้ำหนักของคำวิจารณ์ใน ¶3–5 ตอบ A ตัวเลือก D กลับความหมาย เพราะ ¶6 ระบุว่านักศึกษาเป็น “dependable reporters of observable behaviour”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "According to paragraph 7, why might low response rates make evaluation results less trustworthy?",
+     "options": [
+      "Students who respond are usually those who expect the highest grades.",
+      "Questionnaires completed online contain a larger number of questions.",
+      "Instructors are able to identify which students have responded.",
+      "Those who respond may hold more extreme views than the class as a whole."
+     ],
+     "answer": 3,
+     "explain": "¶7: “students with strong opinions, whether positive or negative, may be overrepresented among those who respond” ผลจึงอาจไม่สะท้อนความเห็นของทั้งชั้น ตอบ D ตัวเลือก A ล่อใจเพราะนำความสัมพันธ์ระหว่างเกรดกับคะแนนประเมินจาก ¶4 มาใช้ผิดที่ และบทความระบุว่าผู้ตอบอาจมีความเห็นทั้งด้านบวกและลบ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The writer's attitude towards student evaluations of teaching can best be described as",
+     "options": [
+      "uncritically supportive of the way they are currently used",
+      "dismissive of any value that they might possibly have",
+      "critical of their misuse while recognising their uses",
+      "neutral, since the evidence is too limited to judge them"
+     ],
+     "answer": 2,
+     "explain": "ผู้เขียนวิจารณ์การใช้คะแนนเฉลี่ยตัวเดียว (“at the risk of rewarding popularity over learning” ¶9) แต่ยอมรับประโยชน์ (“neither a reliable thermometer ... nor a meaningless exercise” ¶9) จึงตอบ C ตัวเลือก D ล่อใจเพราะผู้เขียนยอมรับข้อจำกัดของงานวิจัยใน ¶7 แต่ก็ระบุว่า “These caveats do not overturn the central concerns”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from contract renewal and promotion, what decisions do evaluation scores inform? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "teaching awards"
+     ],
+     "explain": "¶1: “They inform decisions about contract renewal, promotion and teaching awards” คำตอบคือ teaching awards"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Through what kind of examinations can learning be assessed independently when students are randomly assigned to sections? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "common examinations",
+      "common examination"
+     ],
+     "explain": "¶3: random assignment allows “learning to be assessed independently through common examinations” คำตอบคือ common examinations (ข้อสอบกลางที่ใช้ร่วมกัน)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In what type of course was the widely discussed experiment on instructor gender carried out? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "online course",
+      "an online course",
+      "online"
+     ],
+     "explain": "¶5: “In one widely discussed experiment involving an online course, students rated an instructor more favourably when they believed the instructor to be male” คำตอบคือ (an) online course"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 8, results should be reported as what, instead of single averages? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "distributions"
+     ],
+     "explain": "¶8: “Results can be reported as distributions rather than single averages” คำตอบคือ distributions (การกระจายของคะแนน) เพื่อไม่ให้ตีความความต่างเล็กน้อยเกินจริง"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What do universities that rely on a single numerical score risk rewarding instead of learning? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "popularity"
+     ],
+     "explain": "¶9: “Universities that continue to rely on a single numerical score do so at the risk of rewarding popularity over learning” คำตอบคือ popularity (ความนิยม)"
+    }
+   ]
+  }
+ ]
+}

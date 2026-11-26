@@ -1,0 +1,445 @@
+{
+ "BE1": {
+  "id": "BE1",
+  "prompt": "Universities should assess students through projects rather than written examinations.",
+  "prompt_fixed": "Universities should assess students through projects rather than through written examinations. Do you agree or disagree?",
+  "th_explain": "โจทย์ถามว่ามหาวิทยาลัยควรวัดผลนักศึกษาด้วยการทำโครงงาน (project) แทนการสอบข้อเขียนหรือไม่ คำสำคัญคือ rather than ซึ่งหมายถึง 'แทนที่' ไม่ใช่ 'ใช้ร่วมกัน' ถ้าเลือก Disagree ต้องยืนยันว่าการสอบข้อเขียนยังจำเป็น แต่ยอมรับได้ว่าโครงงานมีประโยชน์ในฐานะส่วนเสริม กับดักคือเขียนว่า 'ควรใช้ทั้งสองอย่าง' ตั้งแต่ต้นจนจุดยืนไม่ชัด และอย่าเขียนแค่เรื่องความเครียดจากการสอบโดยไม่พูดถึงความน่าเชื่อถือของการวัดผลรายบุคคล",
+  "keywords": [
+   {"en": "assessment", "th": "การวัดและประเมินผล"},
+   {"en": "written examination", "th": "การสอบข้อเขียน"},
+   {"en": "project-based", "th": "แบบอิงโครงงาน"},
+   {"en": "individual competence", "th": "ความสามารถเฉพาะตัวของแต่ละคน"},
+   {"en": "free-rider", "th": "คนที่ไม่ช่วยงานกลุ่มแต่ได้คะแนนด้วย"},
+   {"en": "memorisation", "th": "การท่องจำ"},
+   {"en": "complement", "th": "เสริม / เติมเต็ม"},
+   {"en": "reliable", "th": "น่าเชื่อถือ / วางใจได้"}
+  ],
+  "paraphrases": [
+   "A growing number of educators argue that universities ought to replace written examinations with project-based assessment.",
+   "It has been suggested that projects, rather than traditional tests, should be the main way of grading university students.",
+   "Some people believe that higher education institutions should stop relying on written exams and judge students by the projects they complete."
+  ],
+  "stance": "disagree",
+  "stance_reason_th": "ฝั่งไม่เห็นด้วยเขียนง่ายและหนักแน่นกว่า เพราะมีเหตุผลชัดเจนเรื่องการวัดความสามารถรายบุคคล (งานกลุ่มมีคนไม่ช่วยงาน และปัจจุบันมี AI ช่วยทำงาน) และเรื่องความเท่าเทียม เพราะโครงงานต้องใช้เวลา อุปกรณ์ และเงิน ส่วนข้อดีของโครงงาน เช่น ฝึกทักษะการทำงานเป็นทีม สามารถยอมรับสั้นๆ แล้วหักล้างว่าควรปรับข้อสอบให้ดีขึ้นและใช้โครงงานเป็นส่วนเสริม ไม่ใช่ยกเลิกการสอบ",
+  "ideas": {
+   "agree": [
+    {
+     "reason": "Projects assess practical skills that examinations cannot measure.",
+     "explain": "Real jobs require teamwork, research, planning and presentation, which a timed paper does not test.",
+     "example": "Engineering students who design and build a small water filter for a village learn skills that they will use directly in their careers."
+    },
+    {
+     "reason": "Projects encourage deep understanding instead of short-term memorisation.",
+     "explain": "Students have to apply ideas over several weeks, so they remember them for longer.",
+     "example": "Many students memorise definitions the night before an exam and forget them a week later, but they still remember a research project they completed in their second year."
+    },
+    {
+     "reason": "Projects reduce the stress of a single high-stakes test.",
+     "explain": "Marks are spread over a longer period, so one bad day does not ruin a student's grade.",
+     "example": "A student who is ill on the day of a final examination may lose half of the course grade, whereas a project allows time to recover."
+    }
+   ],
+   "disagree": [
+    {
+     "reason": "Examinations measure individual knowledge more reliably.",
+     "explain": "In group projects, some members do little work, and AI tools can produce polished reports, so the grade may not reflect the student's own ability.",
+     "example": "A pharmacy student who must calculate a safe drug dose in an examination hall cannot rely on a classmate or a chatbot."
+    },
+    {
+     "reason": "Examinations are fairer to students from different backgrounds.",
+     "explain": "Projects often require time, transport, equipment and money, which some students do not have.",
+     "example": "A student who works part-time in a restaurant every evening has less time for a long project than a classmate supported by wealthy parents."
+    },
+    {
+     "reason": "Examinations are more efficient and consistent to mark.",
+     "explain": "Every student answers the same questions, so lecturers can compare answers using the same criteria.",
+     "example": "A lecturer teaching a first-year course of 300 students can mark an exam fairly, but grading 300 different projects consistently would be almost impossible."
+    }
+   ]
+  },
+  "outline": {
+   "intro": "Paraphrase: A growing number of educators argue that universities ought to replace written examinations with project-based assessment. Thesis: I disagree because examinations measure individual knowledge more reliably and treat all students under equal conditions.",
+   "body1": "Reason 1: It is hard to know who really did the work in a project (free-riders in groups, AI tools); example of a pharmacy student calculating a drug dose in an examination hall.",
+   "body2": "Reason 2: Examinations are fairer because projects need time, transport and money; concession that exams encourage memorisation and ignore teamwork, plus rebuttal (design better exams and use projects alongside them).",
+   "conclusion": "Restate that projects should complement, not replace, examinations; summarise reliability and fairness; universities should improve exams rather than discard them."
+  },
+  "model": [
+   "In recent years, a growing number of educators have argued that universities ought to replace written examinations with project-based assessment. Although projects certainly have a place in higher education, I disagree that they should take the place of examinations, because examinations measure individual knowledge more reliably and treat every student under equal conditions.",
+   "The main weakness of project-based assessment is that it is difficult to tell how much of the work genuinely belongs to each student. In group projects, one or two committed members often carry the rest of the team, yet everyone receives the same grade. Furthermore, now that generative AI tools are freely available, a polished report may reflect a student's skill with software rather than their understanding of the subject. A written examination, by contrast, requires students to recall, apply and explain ideas on their own within a fixed time. For example, a pharmacy student who must calculate a safe drug dose in an examination hall cannot rely on a classmate or a chatbot, and this is precisely the kind of independent competence that patients will later depend on.",
+   "Examinations are also fairer to students from different backgrounds. Successful projects frequently require time, transport, equipment and sometimes money, which students who work part-time or live far from campus may lack. A student who serves tables in a restaurant every evening simply cannot spend as many hours on a project as a classmate supported by wealthy parents. In an examination, however, every candidate answers the same questions with the same resources. Admittedly, examinations can encourage memorisation and fail to assess practical skills such as teamwork and presentation. Nevertheless, this is an argument for designing better examinations, with case studies and problem-solving questions, and for using projects alongside them, not for abandoning written tests altogether.",
+   "In conclusion, while projects can usefully complement traditional assessment, they should not replace written examinations. Examinations remain the most dependable way to confirm what each individual student knows, and they give all students an equal opportunity to demonstrate it. Universities should therefore improve their examinations rather than discard them."
+  ],
+  "phrases": [
+   {"en": "have a place in higher education", "th": "มีบทบาท / มีที่ทางในการศึกษาระดับอุดมศึกษา"},
+   {"en": "treat every student under equal conditions", "th": "ปฏิบัติต่อนักศึกษาทุกคนภายใต้เงื่อนไขที่เท่าเทียมกัน"},
+   {"en": "genuinely belongs to each student", "th": "เป็นผลงานของนักศึกษาแต่ละคนจริงๆ"},
+   {"en": "carry the rest of the team", "th": "แบกงานแทนคนอื่นในทีม"},
+   {"en": "precisely the kind of independent competence", "th": "ความสามารถในการทำงานด้วยตนเองแบบที่ต้องการพอดี"},
+   {"en": "this is an argument for designing better examinations", "th": "นี่เป็นเหตุผลให้ออกแบบข้อสอบให้ดีขึ้น (ไม่ใช่ยกเลิก)"},
+   {"en": "usefully complement traditional assessment", "th": "เสริมการวัดผลแบบดั้งเดิมได้อย่างมีประโยชน์"}
+  ],
+  "band7_th": [
+   "ประโยคแรกเป็นการ paraphrase โจทย์ด้วยคำใหม่ (replace ... with project-based assessment) และ thesis บอกจุดยืนพร้อมเหตุผลสองข้อที่จะเขียนในย่อหน้าถัดไปทันที",
+   "แต่ละย่อหน้ามีหัวข้อเดียวชัดเจน (ความน่าเชื่อถือ / ความเท่าเทียม) และมีตัวอย่างเฉพาะเจาะจงที่สมจริง คือนักศึกษาเภสัชฯ คำนวณขนาดยาในห้องสอบ",
+   "ข้อยอมรับ (Admittedly, examinations can encourage memorisation...) ถูกหักล้างทันทีด้วย Nevertheless และเปลี่ยนจุดอ่อนของการสอบให้กลายเป็นเหตุผลในการปรับปรุงข้อสอบ ไม่ใช่ยกเลิก",
+   "ใช้คำเชื่อมหลากหลายและเป็นธรรมชาติ เช่น Furthermore, by contrast, however, Admittedly, Nevertheless แทนการใช้ Firstly/Secondly ซ้ำๆ",
+   "คำศัพท์ระดับ C1 ใช้อย่างแม่นยำ เช่น genuinely, independent competence, dependable, complement โดยไม่ฟุ่มเฟือย",
+   "บทสรุปไม่เพิ่มเหตุผลใหม่ แต่ยืนยันจุดยืนเดิมด้วยถ้อยคำใหม่และจบด้วยข้อเสนอแนะที่ชัดเจน"
+  ]
+ },
+ "BE2": {
+  "id": "BE2",
+  "prompt": "Smartphones should be banned in schools.",
+  "prompt_fixed": "Smartphones should be banned in schools. Do you agree or disagree?",
+  "th_explain": "โจทย์ถามว่าควรห้ามใช้สมาร์ตโฟนในโรงเรียนหรือไม่ คำสำคัญคือ banned (ห้ามโดยเด็ดขาด) ซึ่งต่างจาก restricted หรือ regulated (จำกัด / ควบคุม) ถ้าเลือก Disagree ต้องเขียนให้ชัดว่าไม่เห็นด้วยกับการห้ามทั้งหมด แต่เสนอให้มีกฎการใช้ที่ชัดเจนแทน ซึ่งไม่ถือว่าเปลี่ยนจุดยืน กับดักคือพูดถึงข้อเสียของโทรศัพท์ยาวเกินไปจนผู้อ่านคิดว่าเห็นด้วยกับการห้าม และควรเขียนในบริบทโรงเรียน ไม่ใช่การใช้โทรศัพท์ของวัยรุ่นโดยทั่วไป",
+  "keywords": [
+   {"en": "ban / prohibition", "th": "การห้าม / ข้อห้าม"},
+   {"en": "distraction", "th": "สิ่งที่ทำให้เสียสมาธิ"},
+   {"en": "confiscate", "th": "ยึด (สิ่งของ)"},
+   {"en": "learning tool", "th": "เครื่องมือการเรียนรู้"},
+   {"en": "digital literacy", "th": "ความรู้เท่าทันดิจิทัล"},
+   {"en": "self-control", "th": "การควบคุมตนเอง"},
+   {"en": "cyberbullying", "th": "การกลั่นแกล้งทางออนไลน์"},
+   {"en": "regulate", "th": "ควบคุม / กำกับด้วยกฎ"}
+  ],
+  "paraphrases": [
+   "Many parents and teachers believe that students should not be allowed to bring smartphones to school at all.",
+   "It has been proposed that mobile phones should be prohibited on school premises.",
+   "Some people argue that the best way to deal with phones in education is to forbid them completely in schools."
+  ],
+  "stance": "disagree",
+  "stance_reason_th": "ฝั่งไม่เห็นด้วยแสดงความคิดที่ลึกกว่าระดับทั่วไป เพราะไม่ได้ปฏิเสธว่าโทรศัพท์มีปัญหา แต่ชี้ว่าการห้ามทั้งหมดเป็นทางแก้ที่หยาบเกินไป เหตุผลหลักคือโทรศัพท์เป็นเครื่องมือการเรียนรู้ โดยเฉพาะในโรงเรียนต่างจังหวัดที่อุปกรณ์มีจำกัด และนักเรียนต้องฝึกควบคุมการใช้เทคโนโลยีด้วยตนเอง ข้อเสียเรื่องการเสียสมาธิและการกลั่นแกล้งออนไลน์ยอมรับได้ แล้วหักล้างว่าแก้ได้ด้วยกฎที่สม่ำเสมอ",
+  "ideas": {
+   "agree": [
+    {
+     "reason": "Smartphones are a major source of distraction in class.",
+     "explain": "Notifications from games and social media interrupt students' concentration and reduce learning.",
+     "example": "A teacher may notice students checking LINE messages under their desks during a mathematics lesson and missing key explanations."
+    },
+    {
+     "reason": "Phones make cyberbullying and cheating easier at school.",
+     "explain": "Students can secretly take photos of classmates or share answers during tests.",
+     "example": "A student may photograph a classmate in an embarrassing moment and post it in a group chat before the teacher knows."
+    },
+    {
+     "reason": "A ban encourages face-to-face social interaction.",
+     "explain": "Without phones, students talk and play with each other during breaks.",
+     "example": "In schools without phones, students are more likely to play football or chat in the canteen than sit silently scrolling."
+    }
+   ],
+   "disagree": [
+    {
+     "reason": "Smartphones are valuable learning tools when used properly.",
+     "explain": "Students can search for information, check vocabulary, record experiments and submit work online.",
+     "example": "In a provincial school with an outdated computer room, a student's own phone may be the only device that gives fast access to online resources."
+    },
+    {
+     "reason": "Students need to learn how to manage technology responsibly.",
+     "explain": "A ban only removes phones for a few hours; it does not teach self-control.",
+     "example": "A student whose phone is confiscated all day may still spend the whole evening on TikTok without any guidance."
+    },
+    {
+     "reason": "Phones are important for safety and communication with parents.",
+     "explain": "Parents need to contact children about travel, emergencies or changes to plans.",
+     "example": "A student who travels home by songthaew after an evening activity can call a parent if the vehicle is late."
+    }
+   ]
+  },
+  "outline": {
+   "intro": "Paraphrase: Many people believe that the simplest solution to classroom distraction is to ban smartphones from schools entirely. Thesis: I disagree with a complete ban, as clear rules are more practical and more educational than prohibition.",
+   "body1": "Reason 1: Phones are valuable learning tools; example of provincial Thai schools with small, outdated computer rooms.",
+   "body2": "Reason 2: Students need to learn to manage technology; suggestion of rules (phones in bags during lessons); concession on distraction and cyberbullying plus rebuttal (problems of unregulated use, solved by rules and digital literacy).",
+   "conclusion": "Restate that a ban is a quick fix that ignores educational value and responsible habits; recommend carefully designed rules."
+  },
+  "model": [
+   "Smartphones have become almost inseparable from the lives of teenagers, and many parents and teachers now believe that the simplest solution to classroom distraction is to ban them from schools entirely. While I understand this concern, I disagree with a complete ban, as I believe that clear rules on when phones may be used are both more practical and more educational than prohibition.",
+   "The first reason is that smartphones, when used properly, are valuable learning tools. Students can look up unfamiliar vocabulary, record science experiments, submit assignments online and take part in interactive classroom quizzes. A biology class, for instance, can photograph plants in the school garden and identify them with a free app during the same lesson. In many provincial schools in Thailand, where computer rooms are small and often out of date, a student's own phone may be the only device that gives them fast access to online resources. Removing phones completely would therefore deprive these students of opportunities that their urban peers take for granted.",
+   "Another consideration is that young people need to learn how to manage technology, not simply avoid it. If schools confiscate phones for seven hours a day, students will still spend the evening on social media without any guidance on self-control. A more effective approach would be to require phones to be kept in bags during lessons and to allow their use only for specific tasks set by the teacher. It is true that phones can distract students and expose them to cyberbullying, and some schools have reported calmer classrooms after introducing bans. However, these problems stem from unregulated use, and they can largely be addressed through consistent rules and digital literacy lessons rather than a blanket prohibition.",
+   "In conclusion, banning smartphones in schools may appear to be a quick fix, but it ignores both their educational value and students' need to develop responsible habits. Carefully designed rules, enforced consistently by all teachers, would allow schools to limit distraction while still preparing students for a world in which digital devices are unavoidable."
+  ],
+  "phrases": [
+   {"en": "almost inseparable from the lives of teenagers", "th": "แทบจะแยกไม่ออกจากชีวิตของวัยรุ่น"},
+   {"en": "While I understand this concern", "th": "แม้ว่าผมจะเข้าใจความกังวลนี้"},
+   {"en": "deprive these students of opportunities", "th": "ทำให้นักเรียนเหล่านี้สูญเสียโอกาส"},
+   {"en": "take for granted", "th": "มองว่าเป็นเรื่องธรรมดา / ไม่เห็นคุณค่า"},
+   {"en": "these problems stem from unregulated use", "th": "ปัญหาเหล่านี้เกิดจากการใช้ที่ไม่มีการควบคุม"},
+   {"en": "a blanket prohibition", "th": "การห้ามแบบเหมารวมทั้งหมด"},
+   {"en": "may appear to be a quick fix", "th": "อาจดูเหมือนเป็นทางแก้ที่รวดเร็ว (แต่ไม่ยั่งยืน)"}
+  ],
+  "band7_th": [
+   "จุดยืนละเอียดอ่อนแต่ชัดเจน: ไม่เห็นด้วยกับการห้ามทั้งหมด และเสนอทางเลือกที่เป็นรูปธรรม (กฎการใช้โทรศัพท์) ตั้งแต่บทนำ",
+   "ใช้ While I understand this concern ในบทนำเพื่อแสดงว่าเข้าใจอีกฝ่าย ก่อนบอกจุดยืนของตนเอง ซึ่งทำให้น้ำเสียงดูมีเหตุผล",
+   "ตัวอย่างเชื่อมกับบริบทไทยจริง คือโรงเรียนต่างจังหวัดที่ห้องคอมพิวเตอร์เล็กและล้าสมัย ทำให้เหตุผลมีน้ำหนักกว่าการพูดลอยๆ",
+   "ข้อยอมรับ (It is true that phones can distract students...) ยอมรับแม้แต่หลักฐานของอีกฝ่าย แล้วหักล้างด้วยการชี้ต้นเหตุที่แท้จริง (stem from unregulated use)",
+   "ใช้คำนามและวลีระดับ C1 อย่างเป็นธรรมชาติ เช่น a blanket prohibition, a quick fix, take for granted",
+   "บทสรุปสรุปทั้งสองเหตุผลในประโยคเดียว และจบด้วยมุมมองไปข้างหน้าเรื่องการเตรียมนักเรียนสู่โลกดิจิทัล"
+  ]
+ },
+ "BE3": {
+  "id": "BE3",
+  "prompt": "Working from home does more harm than good to young employees.",
+  "prompt_fixed": "Working from home does more harm than good to young employees. Do you agree or disagree?",
+  "th_explain": "โจทย์ถามว่าการทำงานจากบ้าน (work from home) ส่งผลเสียมากกว่าผลดีต่อพนักงานที่อายุน้อยหรือไม่ โจทย์แบบ more harm than good ต้องเปรียบเทียบน้ำหนักของข้อดีกับข้อเสีย ไม่ใช่แค่บอกว่ามีข้อเสีย คำสำคัญคือ young employees ดังนั้นเหตุผลต้องเกี่ยวกับคนเพิ่งเริ่มทำงาน เช่น การเรียนรู้งาน การสร้างเครือข่าย ความก้าวหน้าในอาชีพ กับดักคือเขียนถึงพนักงานทั่วไปหรือบริษัทแทนที่จะเน้นคนรุ่นใหม่",
+  "keywords": [
+   {"en": "remote work", "th": "การทำงานทางไกล"},
+   {"en": "junior employee / new graduate", "th": "พนักงานระดับต้น / บัณฑิตจบใหม่"},
+   {"en": "informal learning", "th": "การเรียนรู้แบบไม่เป็นทางการ"},
+   {"en": "professional network", "th": "เครือข่ายทางวิชาชีพ"},
+   {"en": "mentor", "th": "พี่เลี้ยง / ผู้ให้คำแนะนำ"},
+   {"en": "isolation", "th": "ความโดดเดี่ยว"},
+   {"en": "commute", "th": "การเดินทางไปทำงาน"},
+   {"en": "career progression", "th": "ความก้าวหน้าในอาชีพ"}
+  ],
+  "paraphrases": [
+   "Some people believe that remote work has more disadvantages than advantages for people at the start of their careers.",
+   "It has been argued that working from home is, on balance, harmful to young workers.",
+   "Many observers claim that the drawbacks of home-based work outweigh its benefits for new graduates entering the workforce."
+  ],
+  "stance": "agree",
+  "stance_reason_th": "ฝั่งเห็นด้วยมีเหตุผลที่เฉพาะเจาะจงกับคนรุ่นใหม่ได้ชัดเจนกว่า คือการเรียนรู้งานจากรุ่นพี่ในที่ทำงาน และการสร้างเครือข่ายและความก้าวหน้าในอาชีพ ซึ่งเป็นสิ่งที่คนวัยเริ่มทำงานต้องการมากที่สุด ส่วนข้อดีเรื่องประหยัดเวลาและค่าเดินทางยอมรับได้ แล้วหักล้างว่าเป็นประโยชน์ระยะสั้น ในขณะที่ทักษะและความสัมพันธ์ที่เสียไปส่งผลระยะยาว",
+  "ideas": {
+   "agree": [
+    {
+     "reason": "Young employees lose the informal learning that happens in an office.",
+     "explain": "Much practical knowledge is gained by watching and asking experienced colleagues, which is difficult online.",
+     "example": "A junior accountant who works remotely may complete her tasks correctly but understand far less about how the business really operates."
+    },
+    {
+     "reason": "Remote work makes it harder to build a professional network.",
+     "explain": "Promotions often depend on being noticed by managers and knowing people across the organisation.",
+     "example": "An employee who rarely attends the office may never be invited to join an important new project because senior staff do not know her."
+    },
+    {
+     "reason": "Working alone at home can cause loneliness and poor mental health.",
+     "explain": "Many young workers live alone in a new city and rely on work for social contact.",
+     "example": "A graduate from Udon Thani who moves to Bangkok for a job may spend whole days in a small condominium without speaking to anyone."
+    }
+   ],
+   "disagree": [
+    {
+     "reason": "Working from home saves time and money.",
+     "explain": "Young people on low salaries spend less on transport and food and avoid long journeys.",
+     "example": "An employee in Bangkok who no longer commutes two hours a day in traffic gains extra time to study or exercise."
+    },
+    {
+     "reason": "Remote work gives young people more flexibility and independence.",
+     "explain": "They can organise their own schedule and develop self-discipline.",
+     "example": "A young designer can work in the morning, attend an online course in the afternoon and finish tasks in the evening."
+    },
+    {
+     "reason": "Young employees are comfortable with digital communication.",
+     "explain": "Having grown up with technology, they can collaborate effectively through online tools.",
+     "example": "A team of young programmers may solve problems quickly through shared documents and chat channels without meeting in person."
+    }
+   ]
+  },
+  "outline": {
+   "intro": "Paraphrase: Working from home is often presented as a benefit that all employees welcome. Thesis: I agree that for young employees remote work does more harm than good, because it limits professional learning and weakens career relationships.",
+   "body1": "Reason 1: Young employees lose informal learning from senior colleagues; example of a junior accountant in Khon Kaen who joins a firm remotely.",
+   "body2": "Reason 2: Remote work isolates young people and makes them less visible for promotion; concession on saving commuting time and money plus rebuttal (short-term gains vs. long-term losses).",
+   "conclusion": "Restate that the costs outweigh the benefits; recommend that new staff spend most of the week in the office."
+  },
+  "model": [
+   "Since the pandemic, working from home has become a normal arrangement in many companies, and it is often presented as a benefit that all employees welcome. However, I agree that for young employees in particular, remote work does more harm than good, because it limits their professional learning and weakens the relationships on which their future careers depend.",
+   "The most serious drawback is that young employees lose the informal learning that happens naturally in an office. Much of what new graduates need to know is never written in a manual; they acquire it by listening to how senior colleagues handle a difficult client, asking quick questions at the next desk or being invited to observe a meeting. When everyone works from home, these opportunities largely disappear, and even a simple question may require a scheduled video call. Consider a junior accountant in Khon Kaen who joins a firm remotely: she may complete her tasks correctly, yet after a year she is likely to understand far less about how the business actually operates than a colleague who sat beside experienced staff every day.",
+   "In addition, remote work can isolate young people at a stage of life when they are building professional networks. Promotions and new opportunities often depend on being noticed by managers, and employees who are rarely seen in person can easily be overlooked. Loneliness is also a genuine risk for graduates who have moved to a new city and live alone. Admittedly, working from home saves commuting time and money, which matters to young people on modest salaries. Even so, these savings are short-term gains, whereas the skills and connections lost in the first years of a career can affect a person's progress for decades.",
+   "In conclusion, although working from home offers convenience, its costs for young employees clearly outweigh its benefits. Companies should therefore ensure that new staff spend most of their working week in the office, where they can learn from colleagues and build the relationships that support long-term success."
+  ],
+  "phrases": [
+   {"en": "it is often presented as a benefit", "th": "มักถูกนำเสนอว่าเป็นข้อดี / สวัสดิการ"},
+   {"en": "the relationships on which their future careers depend", "th": "ความสัมพันธ์ที่อนาคตทางอาชีพของพวกเขาต้องพึ่งพา"},
+   {"en": "is never written in a manual", "th": "ไม่เคยถูกเขียนไว้ในคู่มือ"},
+   {"en": "these opportunities largely disappear", "th": "โอกาสเหล่านี้แทบจะหายไป"},
+   {"en": "at a stage of life when", "th": "ในช่วงชีวิตที่..."},
+   {"en": "can easily be overlooked", "th": "อาจถูกมองข้ามได้ง่าย"},
+   {"en": "these savings are short-term gains", "th": "การประหยัดเหล่านี้เป็นเพียงประโยชน์ระยะสั้น"},
+   {"en": "clearly outweigh its benefits", "th": "มีมากกว่าข้อดีอย่างชัดเจน"}
+  ],
+  "band7_th": [
+   "ตอบโจทย์ more harm than good โดยตรง: ชั่งน้ำหนักข้อดีกับข้อเสียและสรุปว่า costs clearly outweigh its benefits แทนที่จะแค่ระบุข้อเสีย",
+   "เน้นกลุ่มเป้าหมายในโจทย์ (young employees) ตลอดทั้งเรียงความ ทุกเหตุผลเกี่ยวกับคนเริ่มทำงาน เช่น การเรียนรู้งานและการเลื่อนตำแหน่ง",
+   "ใช้ Consider a junior accountant in Khon Kaen... เป็นวิธียกตัวอย่างที่หลากหลายกว่า For example และสร้างภาพที่ผู้อ่านเห็นได้ชัด",
+   "ข้อยอมรับเรื่องประหยัดค่าเดินทางถูกหักล้างด้วยการเปรียบเทียบเวลา (short-term gains vs. for decades) ซึ่งเป็นการหักล้างที่มีตรรกะ",
+   "ใช้โครงสร้างประโยคระดับสูงอย่างเป็นธรรมชาติ เช่น relative clause แบบ on which และ semicolon เชื่อมความคิดที่สัมพันธ์กัน",
+   "บทสรุปจบด้วยข้อเสนอแนะที่ปฏิบัติได้จริงสำหรับบริษัท"
+  ]
+ },
+ "BE4": {
+  "id": "BE4",
+  "prompt": "Rich countries should pay more than developing countries to fight climate change.",
+  "prompt_fixed": "Rich countries should pay more than developing countries to fight climate change. Do you agree or disagree?",
+  "th_explain": "โจทย์ถามว่าประเทศร่ำรวยควรจ่ายเงินมากกว่าประเทศกำลังพัฒนาในการแก้ปัญหาการเปลี่ยนแปลงสภาพภูมิอากาศหรือไม่ คำสำคัญคือ pay more than ซึ่งเป็นการเปรียบเทียบสัดส่วนความรับผิดชอบ ไม่ใช่ถามว่าควรแก้ปัญหาโลกร้อนหรือไม่ ถ้าเลือก Agree ควรใช้สองแนวคิดหลัก คือความรับผิดชอบทางประวัติศาสตร์ (ใครปล่อยก๊าซมาก่อน) และความสามารถในการจ่าย กับดักคือเขียนแต่เรื่องผลกระทบของโลกร้อนจนลืมตอบเรื่องใครควรจ่าย และอย่าแต่งตัวเลขสถิติขึ้นมาเอง",
+  "keywords": [
+   {"en": "developed / industrialised nations", "th": "ประเทศพัฒนาแล้ว / ประเทศอุตสาหกรรม"},
+   {"en": "developing countries", "th": "ประเทศกำลังพัฒนา"},
+   {"en": "carbon emissions", "th": "การปล่อยก๊าซคาร์บอน"},
+   {"en": "historical responsibility", "th": "ความรับผิดชอบทางประวัติศาสตร์"},
+   {"en": "per person / per capita", "th": "ต่อคน / ต่อหัวประชากร"},
+   {"en": "renewable energy", "th": "พลังงานหมุนเวียน"},
+   {"en": "proportionate", "th": "ได้สัดส่วน / เหมาะสมกับขนาด"},
+   {"en": "burden", "th": "ภาระ"}
+  ],
+  "paraphrases": [
+   "Some people argue that wealthy nations should bear a larger share of the cost of tackling climate change than poorer countries.",
+   "It has been suggested that developed countries ought to contribute more money to climate action than developing nations.",
+   "Many believe that the financial burden of addressing global warming should fall more heavily on rich countries than on developing ones."
+  ],
+  "stance": "agree",
+  "stance_reason_th": "ฝั่งเห็นด้วยมีเหตุผลด้านความยุติธรรมที่หนักแน่นสองข้อ คือประเทศร่ำรวยปล่อยก๊าซเรือนกระจกมาเป็นเวลานานและสร้างความมั่งคั่งจากการนั้น และมีเงิน เทคโนโลยี และความเชี่ยวชาญมากกว่า ข้อโต้แย้งว่าประเทศกำลังพัฒนาบางประเทศปล่อยก๊าซมากขึ้นแล้วยอมรับได้ แล้วหักล้างว่าการจ่ายควรเป็นไปตามสัดส่วนความสามารถ ซึ่งยังทำให้ประเทศร่ำรวยต้องจ่ายมากกว่าอยู่ดี",
+  "ideas": {
+   "agree": [
+    {
+     "reason": "Rich countries are historically responsible for most past emissions.",
+     "explain": "They industrialised first and burned fossil fuels for over a century, building their wealth on pollution.",
+     "example": "Countries in Europe and North America have used coal and oil on a large scale since the nineteenth century, long before most of Asia and Africa industrialised."
+    },
+    {
+     "reason": "Rich countries have far greater financial and technological capacity.",
+     "explain": "They can afford to invest in renewable energy and new technology without harming basic living standards.",
+     "example": "A wealthy country can fund large offshore wind farms, while a poorer country may still be struggling to provide electricity to remote villages."
+    },
+    {
+     "reason": "Developing countries suffer the worst effects despite contributing least.",
+     "explain": "Poorer nations often depend on agriculture and have less money to protect themselves from floods and droughts.",
+     "example": "Rice farmers in low-lying areas of Bangladesh may lose their harvest to flooding even though they produce very little carbon dioxide."
+    }
+   ],
+   "disagree": [
+    {
+     "reason": "Climate change is a global problem that requires equal effort from all countries.",
+     "explain": "Emissions from any country affect the whole planet, so everyone should share the cost.",
+     "example": "A new coal power plant in any country adds to global warming regardless of whether that country is rich or poor."
+    },
+    {
+     "reason": "Some developing countries are now among the largest emitters.",
+     "explain": "Fast-growing economies are producing more emissions than many rich countries.",
+     "example": "Some large Asian economies now build more factories and power plants each year than many small European countries."
+    },
+    {
+     "reason": "Money given by rich countries may not be used effectively.",
+     "explain": "Without strong monitoring, climate funds may be wasted or lost to corruption.",
+     "example": "A grant intended to build flood defences may be spent on projects that bring little real benefit to local communities."
+    }
+   ]
+  },
+  "outline": {
+   "intro": "Paraphrase: The countries affected by climate change differ enormously in responsibility and capacity. Thesis: I strongly agree that wealthy nations should contribute more, on the grounds of historical responsibility and greater financial resources.",
+   "body1": "Reason 1: Historical responsibility - industrialised countries have emitted for over a century and built their prosperity on it; example of a farmer in rural Laos or Bangladesh.",
+   "body2": "Reason 2: Rich countries have greater capacity, while poorer nations still need basic services; concession that some fast-growing economies are major emitters plus rebuttal (contributions should be proportionate, which still means rich countries pay more).",
+   "conclusion": "Restate that rich countries should pay a larger share; summarise responsibility and capacity; support is fairness, not charity."
+  },
+  "model": [
+   "Climate change is a global problem, but the countries affected by it differ enormously in both their responsibility for it and their capacity to respond. For this reason, I strongly agree that wealthy nations should contribute more than developing countries to the fight against climate change, on the grounds of their historical responsibility and their far greater financial resources.",
+   "The first argument concerns responsibility. Industrialised countries in Europe and North America have been burning coal, oil and gas on a large scale for well over a century, so a substantial share of the carbon dioxide now in the atmosphere was released by them. Their present prosperity was, in effect, built on these emissions. Developing countries, by contrast, have only recently begun to industrialise, and their emissions per person often remain much lower. It would therefore be unjust to expect a rice farmer in rural Laos or Bangladesh to bear the same burden as a citizen of a country whose wealth was created through decades of pollution.",
+   "Equally important is the question of capacity. Rich countries have the money, technology and expertise to invest in renewable energy, while many poorer nations are still struggling to provide basic electricity, clean water and healthcare. If the cost of reducing emissions were shared equally, developing countries would be forced to choose between protecting the climate and lifting their citizens out of poverty. Admittedly, some fast-growing economies are now major emitters, and it is reasonable to expect them to play a larger role. Nevertheless, this does not cancel the greater obligation of wealthy nations; it simply means that contributions should be fair and proportionate to each country's means.",
+   "In conclusion, rich countries should pay a larger share of the cost of tackling climate change, since they are largely responsible for the problem and are best equipped to address it. Such support is not charity but a fair recognition that a shared crisis requires each nation to contribute according to its history and ability."
+  ],
+  "phrases": [
+   {"en": "differ enormously in both their responsibility for it and their capacity to respond", "th": "แตกต่างกันมากทั้งในด้านความรับผิดชอบและความสามารถในการรับมือ"},
+   {"en": "on the grounds of", "th": "ด้วยเหตุผลว่า / บนพื้นฐานของ"},
+   {"en": "Their present prosperity was, in effect, built on these emissions", "th": "ความมั่งคั่งในปัจจุบันของพวกเขาแท้จริงแล้วสร้างขึ้นจากการปล่อยก๊าซเหล่านี้"},
+   {"en": "bear the same burden", "th": "แบกรับภาระเท่ากัน"},
+   {"en": "Equally important is the question of", "th": "สิ่งที่สำคัญไม่แพ้กันคือประเด็นเรื่อง..."},
+   {"en": "lifting their citizens out of poverty", "th": "การยกระดับประชาชนให้พ้นจากความยากจน"},
+   {"en": "proportionate to each country's means", "th": "ได้สัดส่วนกับกำลังทรัพย์ของแต่ละประเทศ"},
+   {"en": "not charity but a fair recognition", "th": "ไม่ใช่การกุศล แต่เป็นการยอมรับอย่างเป็นธรรม"}
+  ],
+  "band7_th": [
+   "บทนำไม่ได้ลอกโจทย์ แต่เริ่มจากแนวคิดใหญ่ (ประเทศต่างๆ ต่างกันทั้งความรับผิดชอบและความสามารถ) ซึ่งนำไปสู่เหตุผลสองข้อในเนื้อเรื่องอย่างเป็นระบบ",
+   "ใช้การขึ้นต้นย่อหน้าแบบกลับประโยค (Equally important is the question of capacity.) ซึ่งเป็นโครงสร้างระดับสูงแต่ยังอ่านเป็นธรรมชาติ",
+   "ตัวอย่างเป็นภาพเฉพาะเจาะจง (ชาวนาในลาวหรือบังกลาเทศ) และไม่มีการแต่งตัวเลขสถิติหรืออ้างองค์กรใด จึงน่าเชื่อถือ",
+   "ข้อยอมรับ (Admittedly, some fast-growing economies are now major emitters) ถูกหักล้างอย่างแนบเนียน: ยอมรับว่าจริง แต่ใช้หลัก 'ตามสัดส่วนกำลังทรัพย์' ซึ่งยังสนับสนุนจุดยืนเดิม",
+   "ใช้ second conditional (If the cost ... were shared equally, ... would be forced) เพื่อแสดงผลที่จะตามมาอย่างมีตรรกะ",
+   "บทสรุปจบด้วยโครงสร้าง not ... but ... ที่ทำให้ประโยคสุดท้ายมีพลังและน่าจดจำ"
+  ]
+ },
+ "BE5": {
+  "id": "BE5",
+  "prompt": "Governments should spend more money on preventing disease than on treating it.",
+  "prompt_fixed": "Governments should spend more money on preventing disease than on treating it. Do you agree or disagree?",
+  "th_explain": "โจทย์ถามว่ารัฐบาลควรใช้งบประมาณกับการป้องกันโรคมากกว่าการรักษาโรคหรือไม่ เป็นโจทย์เปรียบเทียบ (more ... than) จึงต้องอธิบายว่าทำไมการป้องกันควรได้งบมากกว่า ไม่ใช่แค่บอกว่าการป้องกันดี ตัวอย่างในบริบทไทยที่ใช้ได้ เช่น อาสาสมัครสาธารณสุขประจำหมู่บ้าน (อสม.) การฉีดวัคซีน การตรวจคัดกรองความดันโลหิต กับดักคือเขียนจนดูเหมือนว่าควรตัดงบรักษาผู้ป่วย ซึ่งทำให้เหตุผลดูไม่สมเหตุสมผล จึงต้องมีข้อยอมรับและหักล้างที่ดี",
+  "keywords": [
+   {"en": "prevention", "th": "การป้องกัน"},
+   {"en": "chronic disease", "th": "โรคเรื้อรัง"},
+   {"en": "cost-effective", "th": "คุ้มค่า / คุ้มทุน"},
+   {"en": "screening", "th": "การตรวจคัดกรอง"},
+   {"en": "vaccination campaign", "th": "การรณรงค์ฉีดวัคซีน"},
+   {"en": "village health volunteer", "th": "อาสาสมัครสาธารณสุขประจำหมู่บ้าน (อสม.)"},
+   {"en": "health budget", "th": "งบประมาณด้านสุขภาพ"},
+   {"en": "hospital admission", "th": "การเข้ารับการรักษาในโรงพยาบาล"}
+  ],
+  "paraphrases": [
+   "Some people believe that public health budgets should focus more on stopping illness before it begins than on curing patients.",
+   "It has been argued that governments ought to invest a larger share of their health spending in disease prevention than in medical treatment.",
+   "Many claim that preventing people from becoming ill should receive more public funding than caring for those who are already sick."
+  ],
+  "stance": "agree",
+  "stance_reason_th": "ฝั่งเห็นด้วยมีเหตุผลที่ชัดเจนเรื่องความคุ้มค่า เพราะการรักษาโรคเรื้อรังอย่างเบาหวานหรือโรคไตมีค่าใช้จ่ายสูงมาก ในขณะที่การป้องกันและตรวจคัดกรองมีต้นทุนต่อคนต่ำ และยังช่วยให้ประชาชนทำงานและดูแลครอบครัวต่อไปได้ ข้อโต้แย้งว่าไม่สามารถทอดทิ้งผู้ป่วยได้ยอมรับได้ แล้วหักล้างว่าการป้องกันจะลดภาระโรงพยาบาลและทำให้การรักษาดีขึ้นในระยะยาว",
+  "ideas": {
+   "agree": [
+    {
+     "reason": "Prevention is more cost-effective than treatment.",
+     "explain": "Treating chronic diseases requires years of medicine and hospital care, while prevention programmes cost little per person.",
+     "example": "A patient with kidney failure may need dialysis several times a week for years, whereas a campaign to reduce salt consumption reaches thousands of people cheaply."
+    },
+    {
+     "reason": "Prevention protects people's quality of life.",
+     "explain": "People who never become seriously ill can continue to work, study and care for their families.",
+     "example": "Children who receive vaccines on schedule are less likely to miss school because of preventable infections."
+    },
+    {
+     "reason": "Early detection reduces pressure on hospitals.",
+     "explain": "Problems found early can be managed at local clinics instead of in crowded hospitals.",
+     "example": "Village health volunteers who check blood pressure at home can identify people at risk before they suffer a stroke."
+    }
+   ],
+   "disagree": [
+    {
+     "reason": "People who are already ill need care immediately.",
+     "explain": "A government has a moral duty to treat patients who are suffering now.",
+     "example": "A patient waiting for cancer surgery cannot benefit from a healthy-eating campaign."
+    },
+    {
+     "reason": "The results of prevention are uncertain and slow.",
+     "explain": "People may ignore health advice, so money spent on campaigns may produce little change.",
+     "example": "Many smokers continue to smoke even after seeing warning pictures on cigarette packets."
+    },
+    {
+     "reason": "Hospitals are already short of staff and equipment.",
+     "explain": "Reducing their share of the budget could make waiting times even longer.",
+     "example": "Patients at some provincial hospitals already wait several hours to see a doctor."
+    }
+   ]
+  },
+  "outline": {
+   "intro": "Paraphrase: Every government must divide a limited health budget between treating people who are ill and preventing illness. Thesis: Governments should give greater priority to prevention because it saves money and protects the quality of life of the whole population.",
+   "body1": "Reason 1: Prevention is cost-effective compared with treating chronic diseases such as diabetes and kidney failure; example of Thai village health volunteers checking blood pressure.",
+   "body2": "Reason 2: Prevention keeps people healthy so they can work and care for families (vaccination, clean water, road safety); concession that sick people cannot be abandoned plus rebuttal (prevention eases pressure on hospitals).",
+   "conclusion": "Restate firm support for prevention; summarise cost, wellbeing and benefit to the treatment system; a wise health policy keeps citizens healthy."
+  },
+  "model": [
+   "Every government must decide how to divide a limited health budget between treating people who are already ill and preventing illness from developing in the first place. In my view, governments should give greater priority to prevention, because it saves money in the long term and protects the quality of life of the whole population.",
+   "The most persuasive argument for prevention is its cost-effectiveness. Treating chronic conditions such as diabetes, heart disease and kidney failure is extremely expensive, as patients may need medication, hospital care and even dialysis for many years. By contrast, programmes that encourage regular exercise, reduce salt and sugar consumption or screen people for high blood pressure cost relatively little per person. In Thailand, for instance, village health volunteers who visit homes, check blood pressure and remind elderly residents to take their medicine can identify problems early, long before an expensive hospital admission becomes necessary. Money spent at this early stage therefore goes much further than the same amount spent in an intensive care unit.",
+   "Prevention also benefits society in ways that treatment cannot. Vaccination campaigns, clean drinking water and road safety measures such as helmet laws stop people from becoming ill or injured at all, which means that they can continue to work, study and care for their families. A father who avoids a stroke, for example, remains able to support his household rather than depending on it. Admittedly, people who are already sick cannot be abandoned, and hospitals need sufficient funding to treat them properly. However, increasing spending on prevention does not mean neglecting patients; on the contrary, as fewer people develop serious diseases, pressure on hospitals will ease, and more resources will be available for each patient who does need care.",
+   "In conclusion, I firmly believe that governments should invest more in preventing disease than in treating it. Prevention is cheaper, protects people before they suffer, and ultimately strengthens the treatment system itself. A wise health policy, therefore, is one that keeps citizens healthy rather than simply waiting for them to fall ill."
+  ],
+  "phrases": [
+   {"en": "in the first place", "th": "ตั้งแต่แรก"},
+   {"en": "give greater priority to", "th": "ให้ความสำคัญกับ...มากขึ้น"},
+   {"en": "The most persuasive argument for", "th": "ข้อโต้แย้งที่น่าเชื่อถือที่สุดในการสนับสนุน..."},
+   {"en": "cost relatively little per person", "th": "มีต้นทุนต่อคนค่อนข้างต่ำ"},
+   {"en": "long before an expensive hospital admission becomes necessary", "th": "นานก่อนที่จะต้องเข้ารับการรักษาในโรงพยาบาลซึ่งมีค่าใช้จ่ายสูง"},
+   {"en": "in ways that treatment cannot", "th": "ในแบบที่การรักษาไม่สามารถทำได้"},
+   {"en": "on the contrary", "th": "ในทางกลับกัน / ตรงกันข้าม"},
+   {"en": "ultimately strengthens the treatment system itself", "th": "ท้ายที่สุดแล้วกลับช่วยให้ระบบการรักษาเข้มแข็งขึ้น"}
+  ],
+  "band7_th": [
+   "บทนำวางกรอบปัญหาเป็นการตัดสินใจเรื่องงบประมาณที่มีจำกัด ทำให้จุดยืนดูสมเหตุสมผลและตรงกับคำว่า more ... than ในโจทย์",
+   "ตัวอย่าง อสม. ในประเทศไทยเป็นตัวอย่างจริงที่เฉพาะเจาะจงและเชื่อมกับเหตุผลเรื่องความคุ้มค่าโดยตรง",
+   "ข้อยอมรับ (people who are already sick cannot be abandoned) ตอบข้อโต้แย้งที่หนักที่สุดของอีกฝ่าย แล้วหักล้างด้วย on the contrary โดยแสดงว่าการป้องกันช่วยผู้ป่วยด้วย",
+   "ใช้คำเชื่อมและวลีที่หลากหลาย เช่น By contrast, for instance, which means that, Admittedly, However, on the contrary",
+   "คำศัพท์ด้านสุขภาพระดับ C1 ใช้ได้แม่นยำ เช่น chronic conditions, cost-effectiveness, dialysis, hospital admission",
+   "บทสรุปเรียงข้อดีสามข้อแบบกระชับ (cheaper, protects, strengthens) และจบด้วยประโยคที่ให้ภาพนโยบายที่ดี"
+  ]
+ }
+}

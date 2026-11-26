@@ -1,0 +1,183 @@
+{
+ "id": "G12",
+ "day": 13,
+ "title_th": "Hedging และ Modal verbs: พูดอย่างระมัดระวังแต่ยังชัดเจน",
+ "title_en": "Hedging and modal verbs",
+ "book": "All that IELTS หน้า 36–37",
+ "lesson": [
+  {
+   "h": "หลักสำคัญ",
+   "p": "งานเขียนวิชาการหลีกเลี่ยงการกล่าวเกินหลักฐาน (overgeneralisation) เช่น all, always, never, everyone หรือ prove เพราะผู้อ่านหาข้อยกเว้นได้ทันที Hedging คือการใช้ภาษาที่ทำให้ข้อกล่าวอ้างแม่นยำและน่าเชื่อถือขึ้น แต่ไม่ได้แปลว่าจุดยืนอ่อนลง ใน opinion essay ยังต้องประกาศจุดยืนชัดเจน เช่น I strongly agree แต่ประโยคสนับสนุนควรใช้ภาษาที่ระมัดระวัง"
+  },
+  {
+   "h": "เครื่องมือ hedging",
+   "table": [
+    [
+     "ประเภท",
+     "ตัวอย่าง"
+    ],
+    [
+     "Modal verbs + V1",
+     "may, might, could, can: Excessive screen time may harm eyesight."
+    ],
+    [
+     "กริยาบอกแนวโน้ม",
+     "tend to, appear to, seem to: Older adults tend to use online banking less."
+    ],
+    [
+     "be likely to + V1",
+     "Children who read regularly are likely to develop larger vocabularies."
+    ],
+    [
+     "กริยารายงาน",
+     "suggest, indicate: Research suggests that…"
+    ],
+    [
+     "คำบอกปริมาณ/ความถี่",
+     "many, most, some, often, usually, rarely"
+    ]
+   ]
+  },
+  {
+   "h": "ไวยากรณ์ที่ต้องระวัง",
+   "list": [
+    "หลัง modal ใช้กริยาช่องที่ 1 ไม่เติม -s และไม่มี to: may cause (ไม่ใช่ may causes หรือ can to improve)",
+    "be likely ต้องตามด้วย to + V1: is likely to cause",
+    "tend ผันตามประธาน: Students tend to…, A student tends to…",
+    "suggest ในความหมาย 'ชี้ว่า' ตามด้วย that-clause: Studies suggest that…"
+   ]
+  },
+  {
+   "h": "ตัวอย่าง",
+   "ex": [
+    [
+     "✗ All teenagers are addicted to social media.",
+     "✓ Many teenagers appear to be heavily dependent on social media."
+    ],
+    [
+     "✗ Video games always cause violence.",
+     "✓ Violent video games may contribute to aggressive behaviour."
+    ],
+    [
+     "✗ This proves that sugar taxes work.",
+     "✓ This suggests that sugar taxes can be effective."
+    ]
+   ]
+  },
+  {
+   "h": "Hedging กับจุดยืนไปด้วยกันได้",
+   "p": "หลายคนกลัวว่าการใช้ may หรือ tend to จะทำให้จุดยืนอ่อนลง ความจริงคือผู้ตรวจมองว่าผู้เขียนที่รู้ขอบเขตของหลักฐานเป็นผู้เขียนที่มีวุฒิภาวะทางวิชาการ ให้ใช้ภาษาหนักแน่นในประโยคบอกจุดยืนและประโยคสรุป เช่น I firmly believe that… และใช้ hedging ในประโยคที่กล่าวถึงผลกระทบหรือข้อมูล เช่น This policy is likely to reduce traffic congestion. ทั้ง essay จึงดูมั่นใจแต่ไม่เกินจริง"
+  },
+  {
+   "h": "จุดที่คนไทยพลาดบ่อย",
+   "list": [
+    "ใช้ must หรือ will เพื่อฟันธงทุกเรื่อง ทำให้ข้อโต้แย้งดูไม่สมเหตุสมผลและถูกแย้งได้ง่าย",
+    "เปิดประโยคด้วย Everyone knows that… หรือ It is 100% true that… ซึ่งไม่เป็นวิชาการ",
+    "ใช้ hedging ซ้อนกันมากเกินไปจนประโยคไม่มีน้ำหนัก เช่น maybe it might perhaps",
+    "เขียน may causes หรือ can to improve เพราะลืมว่าหลัง modal ต้องเป็นกริยาช่องที่ 1 เสมอ"
+   ]
+  },
+  {
+   "h": "สูตรจำ",
+   "p": "จุดยืนชัด + เหตุผลระมัดระวัง: I strongly agree… because many / often / may / tend to… และเปลี่ยน all/always/never เป็น most/often/rarely ทุกครั้งที่ตรวจงาน"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "mc",
+   "q": "Choose the most appropriately hedged sentence for an academic essay.",
+   "options": [
+    "Social media destroys the mental health of every teenager who uses it.",
+    "Social media always destroys teenagers' mental health.",
+    "Social media never has any benefits for teenagers.",
+    "Excessive use of social media may harm teenagers' mental health."
+   ],
+   "answer": 3,
+   "explain": "ข้อ D ระบุเงื่อนไข (excessive use) และใช้ may จึงแม่นยำและน่าเชื่อถือ ข้อ A, B และ C ใช้ every, always, never ซึ่งเป็นการกล่าวเกินหลักฐาน"
+  },
+  {
+   "type": "mc",
+   "q": "Fill the blank: Long working hours ____ lead to burnout.",
+   "options": [
+    "can to",
+    "can",
+    "cans",
+    "can be"
+   ],
+   "answer": 1,
+   "explain": "modal + V1 โดยไม่มี to และไม่ผันรูป จึงเป็น can lead ข้อ A ใส่ to เกิน ส่วนข้อ D ทำให้กลายเป็น can be lead ซึ่งผิดโครงสร้าง"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the grammatically correct sentence.",
+   "options": [
+    "Children who read regularly are likely develop larger vocabularies.",
+    "Children who read regularly are likely developing larger vocabularies.",
+    "Children who read regularly are likely to develop larger vocabularies.",
+    "Children who read regularly likely to develop larger vocabularies."
+   ],
+   "answer": 2,
+   "explain": "โครงสร้างที่ถูกคือ be likely to + V1 ข้อ A ขาด to ข้อ B ใช้ V-ing และข้อ D ขาด are จึงไม่มีกริยาแท้"
+  },
+  {
+   "type": "mc",
+   "q": "Fill the blank: Recent studies ____ that moderate coffee consumption may protect the heart.",
+   "options": [
+    "suggest",
+    "proves",
+    "suggests",
+    "are suggesting to"
+   ],
+   "answer": 0,
+   "explain": "studies เป็นพหูพจน์ จึงใช้ suggest และ suggest เป็นกริยารายงานที่เหมาะกับการ hedge ข้อ B ผิดทั้งรูปเอกพจน์และกล่าวเกินหลักฐาน ข้อ C ใช้รูปเอกพจน์ และข้อ D ใส่ to หน้า that-clause"
+  },
+  {
+   "type": "mc",
+   "q": "Choose the best rewrite of this overgeneralisation: 'Everyone who studies abroad becomes more independent.'",
+   "options": [
+    "Everyone who studies abroad always becomes more independent.",
+    "Students who study abroad often become more independent.",
+    "Students who study abroad often becomes more independent.",
+    "Students who study abroad may becomes more independent."
+   ],
+   "answer": 1,
+   "explain": "ข้อ B ลดความเกินจริงด้วย often และใช้กริยาพหูพจน์ become ถูกต้อง ข้อ A ยิ่งเพิ่มความเกินจริงด้วย always ข้อ C ใช้ becomes กับประธานพหูพจน์ และข้อ D เติม -s หลัง may"
+  },
+  {
+   "type": "mc",
+   "q": "Which part of the sentence contains an error? 'Experts suggest that excessive screen time may damages children's eyesight.'",
+   "options": [
+    "Experts suggest that",
+    "excessive screen time",
+    "may",
+    "damages children's eyesight"
+   ],
+   "answer": 3,
+   "explain": "หลัง modal (may) ต้องใช้กริยาช่องที่ 1 ไม่เติม -s จึงต้องเป็น may damage ส่วน Experts suggest ถูกต้องเพราะประธานเป็นพหูพจน์"
+  },
+  {
+   "type": "mc",
+   "q": "Fill the blank: Older adults ____ to use online banking less than younger people.",
+   "options": [
+    "tend",
+    "tends",
+    "are tend",
+    "tending"
+   ],
+   "answer": 0,
+   "explain": "Older adults เป็นพหูพจน์ จึงใช้ tend to + V1 ข้อ B เป็นรูปเอกพจน์ ข้อ C ใส่ are หน้ากริยาแท้ และข้อ D ไม่ใช่กริยาแท้"
+  },
+  {
+   "type": "mc",
+   "q": "Which sentence states a clear opinion but avoids overgeneralisation?",
+   "options": [
+    "I strongly agree because all parents never have any time to cook at home.",
+    "I strongly agree because every parent is too busy to cook.",
+    "I strongly agree because many working parents have limited time to cook.",
+    "I strongly agree because parents always have no time to cook."
+   ],
+   "answer": 2,
+   "explain": "ข้อ C คงจุดยืนชัดเจน (strongly agree) แต่ใช้ many working parents และ limited ซึ่งสมเหตุสมผล ข้อ A, B และ D ใช้ all, every, always ซึ่งกล่าวเกินจริงและหาข้อยกเว้นได้ง่าย"
+  }
+ ]
+}

@@ -1,0 +1,979 @@
+{
+ "id": "AM2",
+ "title": "Band 7 Mock 2",
+ "passages": [
+  {
+   "id": "AM2P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Wildlife conservation",
+   "title": "Wild Cattle Return to a Forest Once Written Off",
+   "paragraphs": [
+    "Images from a network of motion-activated cameras suggest that banteng, a species of wild cattle that had all but disappeared from the Huai Saeng Wildlife Sanctuary in eastern Thailand, may be staging a modest recovery. Officials announced on Tuesday that the cameras had recorded at least 46 distinct animals over the past twelve months, including 11 calves, compared with only nine individuals identified in a similar survey five years ago.",
+    "The figures, which have not yet been published in a peer-reviewed journal, were greeted with cautious optimism by conservationists. Banteng are classified as endangered across their range, having been hunted for meat and horns and squeezed out of lowland forests that were cleared for plantations. Only a few thousand are thought to survive in the wild, scattered across fragmented populations in mainland Southeast Asia and on the island of Java.",
+    "Sanctuary director Pornthip Wongsakul attributed the increase largely to a ranger patrol programme introduced in 2021, under which teams record every snare they remove and every sign of illegal entry on a shared digital map. “Before, patrols tended to follow the same easy routes,” she said. “Now we can see where the gaps are and send people there.” The number of snares recovered each year has fallen by roughly two thirds since the scheme began, a decline she interprets as evidence that poachers are being deterred rather than simply going undetected.",
+    "Not everyone is convinced that the numbers tell the whole story. Dr. Anan Rattanasiri, a wildlife ecologist who was not involved in the survey, pointed out that the sanctuary had more than doubled the number of cameras it operates over the same period. “When you look harder, you tend to find more,” he said. “Some of this apparent growth may simply reflect better detection. That doesn't mean the recovery isn't real, but we need several more years of consistent monitoring before we can be confident of a trend.”",
+    "The return of the animals has also brought new tensions. Villagers on the sanctuary's southern edge report that small herds have begun entering cassava and sugarcane fields at night, and several farmers have lost a substantial part of their harvest. A compensation fund set up by the provincial authorities pays for verified crop damage, but applicants complain that claims can take up to six months to be settled.",
+    "Ms. Pornthip acknowledged the frustration and said the sanctuary was trialling solar-powered electric fences along a four-kilometre stretch of the boundary. “Conservation cannot succeed if the people living next to the forest see these animals only as a threat to their income,” she said. “Their tolerance is as important to the banteng's future as anything we do inside the sanctuary.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "A wildlife sanctuary has proved that its patrols have ended poaching of banteng.",
+      "Banteng numbers in a sanctuary appear to be rising, though the gain is debated and brings costs.",
+      "Farmers near a sanctuary are demanding that a growing banteng herd be moved elsewhere.",
+      "Camera traps have replaced ranger patrols as the main tool for protecting wild cattle."
+     ],
+     "answer": 1,
+     "explain": "บทความรายงานว่าบันทึกกล้องพบวัวแดง “may be staging a modest recovery” (¶1) แต่มีนักนิเวศวิทยาตั้งข้อสงสัย (¶4) และเกิดความขัดแย้งกับชาวบ้าน (¶5–6) จึงตอบ B ตัวเลือก A ล่อใจเพราะ ¶3 พูดถึงการลาดตระเวน แต่คำว่า “proved” และ “ended poaching” เกินกว่าที่บทความกล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'staging' in paragraph 1 is closest in meaning to",
+     "options": [
+      "performing in front of an audience",
+      "organising carefully in advance",
+      "pretending to experience",
+      "beginning to achieve"
+     ],
+     "answer": 3,
+     "explain": "¶1: “banteng ... may be staging a modest recovery” ในวลี stage a recovery คำนี้หมายถึง 'เริ่มฟื้นตัว/ทำให้เกิดการฟื้นตัว' จึงตอบ D ตัวเลือก A เป็นความหมายของ stage ในบริบทการแสดงบนเวที ซึ่งไม่เข้ากับสัตว์ป่าที่จำนวนเพิ่มขึ้น"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates the second sentence of paragraph 2?",
+     "options": [
+      "Hunting and the conversion of lowland forest to farmland have pushed banteng towards extinction.",
+      "Banteng are endangered only in places where lowland forests have been turned into plantations.",
+      "Banteng were moved out of lowland forests so that the land could be used for plantations.",
+      "Hunters now target banteng mainly in plantations that have replaced the lowland forests."
+     ],
+     "answer": 0,
+     "explain": "¶2: banteng are endangered “having been hunted for meat and horns and squeezed out of lowland forests that were cleared for plantations” คือสาเหตุสองอย่าง ได้แก่ การล่าและการสูญเสียป่าที่ราบให้แก่การเพาะปลูก จึงตอบ A ตัวเลือก B ใช้คำว่า only ซึ่งแคบเกินไป เพราะบทความบอกว่าใกล้สูญพันธุ์ “across their range”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does Ms. Pornthip mention that patrols used to “follow the same easy routes”?",
+     "options": [
+      "To admit that rangers in the past were unwilling to work in difficult conditions",
+      "To explain why the number of cameras in the sanctuary had to be increased",
+      "To show how the new system helps send rangers to areas that were previously missed",
+      "To suggest that poachers had learned the routes the patrols usually took"
+     ],
+     "answer": 2,
+     "explain": "¶3: ก่อนหน้านี้ “patrols tended to follow the same easy routes” แต่ตอนนี้ “we can see where the gaps are and send people there” เธอจึงยกมาเพื่ออธิบายว่าแผนที่ดิจิทัลช่วยให้ส่งคนไปยังจุดที่เคยตกหล่น จึงตอบ C ตัวเลือก D ฟังดูสมเหตุสมผลแต่ไม่มีหลักฐานในบทความว่าผู้ลักลอบล่ารู้เส้นทาง"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 3, the phrase 'the scheme' refers to",
+     "options": [
+      "the ranger patrol programme that records findings on a shared map",
+      "the camera survey that counted 46 distinct animals",
+      "the compensation fund for farmers whose crops are damaged",
+      "the clearing of lowland forests for plantations"
+     ],
+     "answer": 0,
+     "explain": "¶3 ประโยคแรกกล่าวถึง “a ranger patrol programme introduced in 2021, under which teams record every snare ... on a shared digital map” แล้วอีกสองประโยคต่อมาจึงพูดว่า “since the scheme began” จึงหมายถึงโครงการลาดตระเวน ตอบ A ตัวเลือก C ล่อใจเพราะเป็น 'โครงการ' เช่นกัน แต่กองทุนชดเชยถูกกล่าวถึงใน ¶5 ภายหลัง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about the fall in the number of snares recovered?",
+     "options": [
+      "It proves that poaching has stopped completely inside the sanctuary.",
+      "It shows that rangers now spend less time searching for snares.",
+      "It could in principle be explained in more than one way.",
+      "It was the main reason why more cameras were installed."
+     ],
+     "answer": 2,
+     "explain": "¶3: ผู้อำนวยการ “interprets” การลดลงว่าเป็นหลักฐานว่าผู้ลักลอบ “are being deterred rather than simply going undetected” การที่ต้องระบุว่าเป็น 'การตีความ' และปฏิเสธอีกคำอธิบายหนึ่ง แสดงว่าตัวเลขนี้อธิบายได้มากกว่าหนึ่งทาง จึงตอบ C ตัวเลือก A เกินจริง (overgeneralise) เพราะไม่มีใครอ้างว่าการล่าหมดไปแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Anan's attitude towards the reported increase in banteng numbers is best described as",
+     "options": [
+      "dismissive, since he believes the survey methods were dishonest",
+      "guarded, since he thinks the rise may be partly due to more cameras",
+      "enthusiastic, since the figures confirm his own earlier research",
+      "indifferent, since he was not involved in carrying out the survey"
+     ],
+     "answer": 1,
+     "explain": "¶4: Dr. Anan กล่าวว่า “Some of this apparent growth may simply reflect better detection” แต่ก็ยอมรับว่า “That doesn't mean the recovery isn't real” ท่าทีจึงระมัดระวัง ไม่ใช่ปฏิเสธ ตอบ B ตัวเลือก A ล่อใจเพราะเขาไม่เชื่อตัวเลขทั้งหมด แต่เขาไม่ได้กล่าวหาว่าการสำรวจไม่สุจริต"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, what do farmers complain about regarding the compensation fund?",
+     "options": [
+      "It does not pay for damage to sugarcane crops.",
+      "It is managed by the sanctuary rather than the province.",
+      "It covers only the value of animals that are injured.",
+      "It is slow to pay out once a claim has been made."
+     ],
+     "answer": 3,
+     "explain": "¶5: “applicants complain that claims can take up to six months to be settled” ผู้ยื่นคำร้องจึงบ่นเรื่องความล่าช้าในการจ่ายเงิน ตอบ D ตัวเลือก B สลับผู้รับผิดชอบ เพราะกองทุนนี้ “set up by the provincial authorities” ไม่ใช่เขตรักษาพันธุ์"
+    }
+   ]
+  },
+  {
+   "id": "AM2P2",
+   "kind": "short",
+   "genre": "official notice",
+   "domain": "Water management",
+   "title": "Public Notice: Night-Time Pressure Reduction and Leak Survey in Supply Zones 3–5",
+   "paragraphs": [
+    "The Nong Saeng Municipal Waterworks Office wishes to inform residents and businesses in supply zones 3, 4 and 5 that a programme of night-time pressure reduction and leak detection will be carried out from 1 to 28 February. The programme forms part of a wider effort to reduce the volume of treated water that is lost from the network before it reaches customers.",
+    "Audits completed last year indicate that approximately 38 per cent of the water produced by the municipal treatment plant is unaccounted for. While a small proportion of this loss can be attributed to faulty meters and unauthorised connections, the great majority is believed to escape through leaks in ageing underground pipes, many of which were laid more than forty years ago. Because leakage increases with pressure, lowering pressure during periods of low demand is among the most cost-effective means of limiting losses while longer-term pipe replacement is planned.",
+    "Between 11.00 p.m. and 5.00 a.m. each night, water pressure in the affected zones will be reduced to approximately half its normal level. Customers on ground floors should notice little difference beyond a weaker flow from taps. However, residents of buildings of three or more storeys that lack their own pumps or roof tanks may experience an intermittent supply, or none at all, on upper floors during these hours. Daytime pressure will not be affected.",
+    "During the same period, survey teams equipped with acoustic listening devices will work along streets in the three zones, mostly at night, when traffic noise is lowest and the sound of escaping water is easiest to detect. Teams will carry official identification cards and will not need to enter private property. Residents should note that no member of staff will request payment in connection with the survey; any such request should be reported to the office immediately.",
+    "Nong Saeng Hospital, the two health centres on Sri Chan Road and the municipal fire station are supplied through dedicated mains and will not be affected. Households in which a member depends on medical equipment requiring a continuous water supply, such as a home dialysis machine, may apply for an individual assessment by contacting the office no later than 25 January.",
+    "Residents who are likely to be affected are asked to store a modest amount of water for night-time use, and all residents are encouraged to report signs of leakage, such as persistently damp patches on pavements or an unexplained drop in pressure during the day. The office stresses that these measures are temporary. Their outcome will be reviewed in March, and any decision to extend them to other zones will be announced only after consultation with community representatives.",
+    "Enquiries may be directed to the Customer Service Section on weekdays between 8.30 a.m. and 4.30 p.m. The office apologises for any inconvenience and thanks residents for their cooperation."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this notice?",
+     "options": [
+      "To announce that old water pipes in three zones will be replaced in February",
+      "To explain why water bills in the municipality are expected to increase",
+      "To inform residents of a temporary programme to cut water losses and its effects on them",
+      "To ask residents to reduce their water use at night during the dry season"
+     ],
+     "answer": 2,
+     "explain": "¶1 แจ้งว่าจะมี “a programme of night-time pressure reduction and leak detection” เพื่อ “reduce the volume of treated water that is lost” และย่อหน้าต่อ ๆ ไปอธิบายผลกระทบต่อผู้อยู่อาศัย จึงตอบ C ตัวเลือก A ล่อใจเพราะพูดถึงท่อเก่า แต่ ¶2 บอกว่าการเปลี่ยนท่อเป็นแผนระยะยาวที่ “is planned” ไม่ใช่สิ่งที่จะทำในเดือนกุมภาพันธ์"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "In paragraph 2, water that is 'unaccounted for' is water that",
+     "options": [
+      "leaves the system without being traced to any paying customer",
+      "has not yet passed through the municipal treatment plant",
+      "is provided free of charge to hospitals and fire stations",
+      "is recorded twice because of faulty meters in the network"
+     ],
+     "answer": 0,
+     "explain": "¶2: น้ำ 38% “is unaccounted for” แล้วอธิบายว่าสูญหายไปกับ “faulty meters and unauthorised connections” และ “leaks” จึงหมายถึงน้ำที่ผลิตแล้วแต่ไม่สามารถระบุได้ว่าไปถึงลูกค้าคนใด ตอบ A ตัวเลือก D ใช้คำว่า faulty meters จากบทความแต่เปลี่ยนความหมาย เพราะบทความไม่ได้พูดถึงการบันทึกซ้ำ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 2 about pipe replacement?",
+     "options": [
+      "It has been rejected because it would not reduce leakage.",
+      "It will begin immediately after the February programme ends.",
+      "It is less effective than pressure reduction at stopping leaks.",
+      "It is seen as a lasting solution that will take longer to deliver."
+     ],
+     "answer": 3,
+     "explain": "¶2: การลดแรงดันเป็นวิธีที่คุ้มค่า “while longer-term pipe replacement is planned” แสดงว่าการเปลี่ยนท่อเป็นทางแก้ระยะยาวที่ยังต้องใช้เวลา จึงตอบ D ตัวเลือก C ล่อใจเพราะบทความว่าลดแรงดัน “cost-effective” แต่ 'คุ้มค่า' ไม่ได้แปลว่า 'ได้ผลดีกว่า' ในการหยุดการรั่ว"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, who is most likely to lose their water supply at night?",
+     "options": [
+      "all customers living on the ground floor of any building",
+      "people on upper floors of taller buildings without pumps or tanks",
+      "businesses that use large amounts of water during the daytime",
+      "households in zones 3 to 5 that have their own roof tanks"
+     ],
+     "answer": 1,
+     "explain": "¶3: “residents of buildings of three or more storeys that lack their own pumps or roof tanks may experience an intermittent supply, or none at all, on upper floors” จึงตอบ B ตัวเลือก D กลับความหมาย เพราะบ้านที่ 'มี' ถังน้ำบนหลังคาไม่ได้รับผลกระทบมาก ส่วน A ผิดเพราะชั้นล่าง “should notice little difference”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the notice state that no member of staff will request payment?",
+     "options": [
+      "To reassure residents that the leak survey will not raise their water bills",
+      "To explain that the survey is paid for by a separate government budget",
+      "To make clear that survey teams will not need to enter private homes",
+      "To protect residents from people who might falsely claim to be survey staff"
+     ],
+     "answer": 3,
+     "explain": "¶4: “no member of staff will request payment ... any such request should be reported to the office immediately” การให้แจ้งเมื่อมีผู้เรียกเงินแสดงว่าเป็นคำเตือนเรื่องผู้แอบอ้างเป็นเจ้าหน้าที่ จึงตอบ D ตัวเลือก A ล่อใจแต่บทความไม่ได้พูดถึงค่าน้ำเลย ส่วน C เป็นข้อมูลจริงใน ¶4 แต่ไม่ใช่เหตุผลของประโยคนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the second sentence of paragraph 5?",
+     "options": [
+      "Every household with a sick family member will be automatically exempt from the programme.",
+      "Homes whose medical equipment needs constant water may be assessed separately if they apply in time.",
+      "Patients using dialysis machines must move to a health centre while the programme operates.",
+      "The office will supply medical equipment to any family that contacts it before 25 January."
+     ],
+     "answer": 1,
+     "explain": "¶5: households that depend on equipment “requiring a continuous water supply ... may apply for an individual assessment by contacting the office no later than 25 January” คือพิจารณาเป็นรายกรณีถ้ายื่นทันเวลา จึงตอบ B ตัวเลือก A เกินจริงเพราะใช้ Every และบอกว่าได้รับการยกเว้นแน่นอน ทั้งที่บทความใช้ may apply for an assessment"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, residents who are likely to be affected are asked to",
+     "options": [
+      "keep some water in reserve for use during the night",
+      "install pumps in buildings of three or more storeys",
+      "check their meters every day for unexplained changes",
+      "avoid using water between 11.00 p.m. and 5.00 a.m."
+     ],
+     "answer": 0,
+     "explain": "¶6: residents “are asked to store a modest amount of water for night-time use” คือเก็บน้ำสำรองไว้ใช้ตอนกลางคืน ตอบ A ตัวเลือก D ล่อใจเพราะใช้ช่วงเวลาจาก ¶3 แต่ประกาศไม่ได้ขอให้งดใช้น้ำ ส่วน B ไม่ได้ถูกกล่าวถึงเป็นคำขอ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 6 about the future of the programme?",
+     "options": [
+      "It will certainly be extended to every zone in the municipality.",
+      "It will be made permanent in zones 3 to 5 after March.",
+      "It may be applied more widely, depending on its results and on community views.",
+      "It will be decided by the office alone once the review is complete."
+     ],
+     "answer": 2,
+     "explain": "¶6: “Their outcome will be reviewed in March, and any decision to extend them to other zones will be announced only after consultation with community representatives” แสดงว่าอาจขยายผล ขึ้นกับผลการทบทวนและความเห็นของชุมชน จึงตอบ C ตัวเลือก D ขัดกับข้อความเรื่อง consultation และ B ขัดกับ “these measures are temporary”"
+    }
+   ]
+  },
+  {
+   "id": "AM2P3",
+   "kind": "short",
+   "genre": "research summary",
+   "domain": "Sport science",
+   "title": "Rinse and Spit: Can a Taste of Sugar Make Cyclists Faster?",
+   "paragraphs": [
+    "For decades, endurance athletes have been advised to consume carbohydrate during prolonged exercise in order to top up the fuel stored in their muscles. A growing body of research, however, suggests that part of the benefit may arise before any sugar is actually absorbed. A study conducted at a sports science laboratory in northeastern Thailand has added to this evidence, reporting that cyclists who merely rinsed a sugary drink around their mouths and then spat it out completed a time trial faster than when they rinsed with a sugar-free placebo.",
+    "The researchers recruited 22 trained amateur cyclists, each of whom completed two simulated 40-kilometre time trials on a stationary bike, one week apart. Every eight minutes, riders rinsed their mouths for ten seconds with either a 6 per cent carbohydrate solution or a placebo that had been artificially sweetened to taste identical. Neither the cyclists nor the technicians supervising the trials knew which solution was being used on a given day, an arrangement known as double-blinding.",
+    "On average, riders finished 1.9 per cent faster after rinsing with carbohydrate, a gain of roughly 74 seconds over the full distance. Although this may sound trivial, the lead author, Dr. Kittipong Saelim, points out that at competitive level such a margin frequently separates the winner from riders who finish well outside the top ten. Notably, perceived effort, which riders rated on a standard scale, did not differ between the two conditions.",
+    "Since so little sugar could have entered the bloodstream, the authors propose that receptors in the mouth detect carbohydrate and relay its presence to regions of the brain involved in reward and the control of movement. In effect, the brain may treat the signal as a promise that more energy is on its way and permit the body to work at a higher intensity. Brain-imaging studies conducted elsewhere lend some support to this interpretation, although the precise mechanism remains contested.",
+    "The findings come with important caveats. All participants were male, and every trial took place in the morning after an overnight fast, a condition in which previous studies have found rinsing to be most effective. Whether the same advantage would appear in athletes who had eaten a normal breakfast remains unclear. The laboratory setting, moreover, excluded factors such as wind, gradient and tactical racing, all of which shape performance on the road.",
+    "Dr. Kittipong is careful not to overstate the practical message. “Rinsing is not a replacement for eating and drinking during long events,” he said. “For races lasting more than about ninety minutes, the muscles genuinely need the fuel. Where rinsing may help is in shorter, intense efforts, or for athletes who suffer stomach discomfort when they try to swallow drinks at high intensity.” The team now plans a follow-up study that will include female cyclists and riders who have eaten beforehand."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Cyclists should stop drinking sports drinks and rinse their mouths with them instead.",
+      "Carbohydrate is absorbed through the mouth much faster than scientists had believed.",
+      "A placebo drink can improve cycling performance as much as a sugary drink can.",
+      "Tasting but not swallowing sugar seemed to speed up cyclists, though the study has limits."
+     ],
+     "answer": 3,
+     "explain": "¶1 สรุปผลว่านักปั่นที่ “merely rinsed a sugary drink ... and then spat it out” ทำเวลาได้ดีกว่า และ ¶5–6 ระบุข้อจำกัดและการไม่สรุปเกินจริง จึงตอบ D ตัวเลือก A ขัดกับ ¶6 ที่ว่า “Rinsing is not a replacement for eating and drinking during long events”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates the idea that “part of the benefit may arise before any sugar is actually absorbed” (paragraph 1)?",
+     "options": [
+      "Most of the sugar in sports drinks is never absorbed by the body at all.",
+      "Some of the advantage of carbohydrate may come before it reaches the body's fuel supply.",
+      "Athletes benefit only from sugar that they consume well before exercise begins.",
+      "The benefit of carbohydrate disappears once the sugar has been fully absorbed."
+     ],
+     "answer": 1,
+     "explain": "¶1: “part of the benefit may arise before any sugar is actually absorbed” หมายความว่าประโยชน์บางส่วนเกิดขึ้นก่อนที่น้ำตาลจะถูกดูดซึมเป็นพลังงาน จึงตอบ B ตัวเลือก C ใช้คำว่า before และ only ทำให้ความหมายเปลี่ยนเป็นเรื่องเวลาที่กินก่อนออกกำลังกาย ซึ่งบทความไม่ได้กล่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why was the placebo in the study artificially sweetened?",
+     "options": [
+      "To give riders a small amount of energy without using real sugar",
+      "To test whether sweetness alone could make the riders faster",
+      "To prevent riders from telling the two solutions apart",
+      "To reduce the stomach discomfort caused by sugary drinks"
+     ],
+     "answer": 2,
+     "explain": "¶2: the placebo “had been artificially sweetened to taste identical” และ “Neither the cyclists nor the technicians ... knew which solution was being used” ความหวานเทียมจึงมีไว้เพื่อไม่ให้แยกออกว่าดื่มอะไร ตอบ C ตัวเลือก B ล่อใจเพราะดูเป็นการทดลองที่สมเหตุสมผล แต่บทความไม่ได้ตั้งคำถามเรื่องความหวานอย่างเดียว"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'margin' in paragraph 3 is closest in meaning to",
+     "options": [
+      "a difference between results",
+      "the edge of a racing track",
+      "an amount kept for safety",
+      "the profit made on a sale"
+     ],
+     "answer": 0,
+     "explain": "¶3: “such a margin frequently separates the winner from riders who finish well outside the top ten” หมายถึงความต่างของเวลา (74 วินาที) ระหว่างผลการแข่งขัน จึงตอบ A ตัวเลือก B และ D เป็นความหมายอื่นของ margin (ขอบ, กำไร) ที่ไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the finding about perceived effort in paragraph 3 suggest?",
+     "options": [
+      "The riders found the carbohydrate rinse unpleasant to use.",
+      "The riders worked harder without feeling that they were doing so.",
+      "The riders were aware of which drink they had been given.",
+      "The rating scale was too insensitive to detect any differences."
+     ],
+     "answer": 1,
+     "explain": "¶3: นักปั่นเร็วขึ้น 1.9% แต่ “perceived effort ... did not differ between the two conditions” จึงอนุมานได้ว่าพวกเขาออกแรงมากขึ้นโดยไม่รู้สึกว่าเหนื่อยขึ้น ตอบ B ตัวเลือก D เป็นคำอธิบายทางเลือกที่ฟังดูเป็นไปได้ แต่บทความไม่ได้ตั้งข้อสงสัยต่อมาตรวัดนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 4, 'this interpretation' refers to the idea that",
+     "options": [
+      "the muscles need extra fuel during races longer than ninety minutes",
+      "sugar enters the bloodstream rapidly through the lining of the mouth",
+      "the riders' faster times were caused by their morning fast",
+      "the mouth senses carbohydrate and signals the brain to allow more effort"
+     ],
+     "answer": 3,
+     "explain": "¶4 เสนอว่า “receptors in the mouth detect carbohydrate and relay its presence to regions of the brain” และสมองจึง “permit the body to work at a higher intensity” ก่อนจะกล่าวว่า studies “lend some support to this interpretation” จึงตอบ D ตัวเลือก B ขัดกับต้นย่อหน้าที่ว่า “so little sugar could have entered the bloodstream”"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT given in paragraph 5 as a limitation of the study?",
+     "options": [
+      "The riders had too little time to recover between the two trials.",
+      "Only men took part in the study.",
+      "The riders had not eaten before any of the trials.",
+      "Real road conditions such as wind and hills were absent."
+     ],
+     "answer": 0,
+     "explain": "¶5 ระบุข้อจำกัดว่า “All participants were male”, ทดสอบ “after an overnight fast” และห้องทดลอง “excluded factors such as wind, gradient” แต่ไม่ได้กล่าวถึงเวลาพักไม่พอ (¶2 บอกว่าทดสอบห่างกัน “one week apart”) จึงตอบ A"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that the 1.9 per cent improvement",
+     "options": [
+      "would be larger in races held on open roads",
+      "would apply equally to female and male cyclists",
+      "might be smaller for riders who had eaten breakfast",
+      "was caused mainly by the time of day of the trials"
+     ],
+     "answer": 2,
+     "explain": "¶5: การทดลองทำหลังอดอาหาร ซึ่งเป็น “a condition in which previous studies have found rinsing to be most effective” จึงอนุมานได้ว่าผลอาจน้อยลงในคนที่กินอาหารเช้าแล้ว ตอบ C ตัวเลือก B ผิดเพราะผู้เข้าร่วมเป็นชายทั้งหมด จึงสรุปเรื่องผู้หญิงไม่ได้ ส่วน D สลับเหตุและผล"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Kittipong's attitude towards the practical use of mouth rinsing is best described as",
+     "options": [
+      "measured, seeing a useful but limited role for it",
+      "dismissive, seeing no real benefit for athletes",
+      "enthusiastic, recommending it for every kind of race",
+      "uncertain, refusing to offer any practical advice"
+     ],
+     "answer": 0,
+     "explain": "¶6: เขา “is careful not to overstate the practical message” บอกว่าไม่ใช่สิ่งทดแทนการกินดื่มในการแข่งขันยาว แต่ “Where rinsing may help is in shorter, intense efforts” ท่าทีจึงพอประมาณ ตอบ A ตัวเลือก D ล่อใจเพราะเขาระมัดระวัง แต่เขาก็ให้คำแนะนำที่ชัดเจนว่าใช้ได้ในกรณีใด"
+    }
+   ]
+  },
+  {
+   "id": "AM2P4",
+   "kind": "short",
+   "genre": "editorial",
+   "domain": "Journalism / news media",
+   "title": "Second and Right Should Beat First and Wrong",
+   "paragraphs": [
+    "Last month, within twenty minutes of a fire breaking out at a warehouse on the edge of the city, several news websites had named the man they said was responsible. By evening, his photograph had been shared tens of thousands of times. By the following morning, police had confirmed that the fire was caused by an electrical fault and that the man, a night-shift security guard, had in fact helped two colleagues to escape. A few outlets quietly deleted their reports; fewer still apologised.",
+    "It would be comforting to dismiss this episode as an aberration, the work of a handful of careless reporters. It was nothing of the sort. It was the predictable product of an industry that has come to measure its success in minutes and clicks, and in which the reward for publishing first is immediate while the cost of publishing wrongly is diffuse and delayed. When advertising revenue depends on traffic, and traffic flows disproportionately to whoever breaks a story, verification begins to look less like a professional duty than a competitive handicap.",
+    "The consequences extend well beyond the individuals who are wrongly accused. A survey of 1,500 adults conducted earlier this year by a media research centre at a regional university found that only 31 per cent trusted news reports “most of the time”, down from 47 per cent six years earlier. More tellingly, a majority of respondents said they now waited for a story to be confirmed elsewhere before believing it. If audiences have already learned to treat the first version of events as provisional, the advantage that newsrooms gain by rushing is smaller than they suppose.",
+    "None of this is to suggest that speed has no value. During floods, epidemics or violent incidents, timely information can save lives, and a newsroom that waits for absolute certainty may leave the field to rumour and to social media accounts that observe no standards at all. The point is not that journalists should be slow, but that they should be candid about the difference between what they know and what they have merely heard.",
+    "That distinction could be made far more visible than it is at present. News organisations might adopt a simple convention of labelling unconfirmed information as such, explaining in each update what has been verified and by whom. Corrections, which are currently tucked away at the foot of articles or omitted altogether, should be displayed as prominently as the original error. And editors should resist publishing the names or images of private individuals connected with a breaking story until those details have been independently confirmed.",
+    "Critics will object that any outlet adopting such restraint will simply lose readers to less scrupulous rivals. In the short term, they may be right. But a news organisation's only durable asset is its credibility, and credibility, once squandered, is extraordinarily difficult to rebuild. The outlets that survive the coming decade are unlikely to be those that were first on the night of the warehouse fire. They will be the ones that readers trust to tell them, plainly, when they do not yet know."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author begin the editorial with the story of the warehouse fire?",
+     "options": [
+      "To illustrate the harm that rushing to publish unverified claims can cause",
+      "To criticise the police for taking too long to explain the cause of the fire",
+      "To praise a security guard who helped his colleagues escape from danger",
+      "To show that electrical faults are a common cause of fires in warehouses"
+     ],
+     "answer": 0,
+     "explain": "¶1 เล่าว่าเว็บข่าวระบุชื่อชายคนหนึ่งภายใน 20 นาที แต่ต่อมาพบว่าเขา “had in fact helped two colleagues to escape” เรื่องนี้เป็นตัวอย่างความเสียหายจากการรีบเผยแพร่ ซึ่ง ¶2 ขยายต่อ จึงตอบ A ตัวเลือก C เป็นข้อเท็จจริงในเรื่อง แต่ไม่ใช่จุดประสงค์ที่ผู้เขียนยกเรื่องนี้ขึ้นมา"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'aberration' in paragraph 2 is closest in meaning to",
+     "options": [
+      "a deliberate attempt to deceive",
+      "a minor technical mistake",
+      "a departure from what is normal",
+      "a pattern that keeps recurring"
+     ],
+     "answer": 2,
+     "explain": "¶2: “dismiss this episode as an aberration, the work of a handful of careless reporters. It was nothing of the sort. It was the predictable product...” คำว่า aberration ตรงข้ามกับ 'สิ่งที่คาดเดาได้' จึงหมายถึงเหตุผิดปกติที่เกิดขึ้นนาน ๆ ครั้ง ตอบ C ตัวเลือก D คือสิ่งที่ผู้เขียนเชื่อจริง ไม่ใช่ความหมายของคำนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates the idea that “the reward for publishing first is immediate while the cost of publishing wrongly is diffuse and delayed” (paragraph 2)?",
+     "options": [
+      "Publishing first is rewarded only when the story later turns out to be accurate.",
+      "Being first brings benefits at once, whereas the damage from errors is spread out and felt later.",
+      "Mistakes in breaking news are expensive for newsrooms but rarely affect their readers.",
+      "The costs of publishing quickly are paid at once, while its rewards take time to arrive."
+     ],
+     "answer": 1,
+     "explain": "¶2: ผลตอบแทนของการเป็นเจ้าแรก “is immediate” ส่วนต้นทุนของการเผยแพร่ผิด “is diffuse and delayed” (กระจายและเกิดขึ้นทีหลัง) จึงตอบ B ตัวเลือก D สลับสองฝั่งของประโยค ทำให้ความหมายกลับกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that the author regards inaccurate breaking news as mainly",
+     "options": [
+      "the fault of a small number of individual reporters",
+      "a consequence of new technology that cannot be controlled",
+      "the result of a lack of training among young journalists",
+      "a product of the commercial incentives that newsrooms face"
+     ],
+     "answer": 3,
+     "explain": "¶2: ผู้เขียนปฏิเสธว่าไม่ใช่ “the work of a handful of careless reporters” แต่เป็น “the predictable product of an industry” ที่รายได้โฆษณาขึ้นกับยอดเข้าชม จึงตอบ D ตัวเลือก A คือมุมมองที่ผู้เขียนยกมาแล้วปฏิเสธ (a claim the author rejects)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, what proportion of adults surveyed trusted news reports most of the time?",
+     "options": [
+      "more than half of them",
+      "47 per cent of them",
+      "31 per cent of them",
+      "1,500 of them"
+     ],
+     "answer": 2,
+     "explain": "¶3: “only 31 per cent trusted news reports “most of the time”, down from 47 per cent six years earlier” จึงตอบ C ตัวเลือก B เป็นกับดักตัวเลข เพราะ 47% คือตัวเลขเมื่อหกปีก่อน ส่วน A มาจาก “a majority” ซึ่งหมายถึงผู้ที่รอการยืนยัน ไม่ใช่ผู้ที่เชื่อถือข่าว"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that most respondents wait for a story to be confirmed elsewhere?",
+     "options": [
+      "To weaken the commercial case for being the first to publish",
+      "To show that readers have stopped following breaking news",
+      "To argue that social media is more trusted than newspapers",
+      "To prove that the survey's sample was large enough to rely on"
+     ],
+     "answer": 0,
+     "explain": "¶3 ปิดท้ายว่า ถ้าผู้อ่านมองข่าวแรกเป็นเพียงข้อมูลชั่วคราว “the advantage that newsrooms gain by rushing is smaller than they suppose” ผู้เขียนจึงใช้ข้อมูลนี้ลดน้ำหนักเหตุผลทางธุรกิจของการรีบเผยแพร่ ตอบ A ตัวเลือก B เกินจริง เพราะผู้อ่านยังตามข่าวอยู่ เพียงแต่รอการยืนยันก่อนเชื่อ"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 4 in the editorial?",
+     "options": [
+      "It introduces a new problem that the author has not yet discussed.",
+      "It gives further statistics in support of the survey in paragraph 3.",
+      "It summarises the proposals that are set out in paragraph 5.",
+      "It makes a concession and then states the author's position more precisely."
+     ],
+     "answer": 3,
+     "explain": "¶4 เริ่มด้วยการยอมรับ “None of this is to suggest that speed has no value” แล้วจึงระบุจุดยืนให้ชัดว่า “The point is not that journalists should be slow, but that they should be candid” จึงตอบ D ตัวเลือก C ผิดเพราะข้อเสนออยู่ใน ¶5 และ ¶4 ไม่ได้สรุปข้อเสนอเหล่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 5, 'That distinction' refers to the difference between",
+     "options": [
+      "fast reporting and slow reporting",
+      "verified facts and what has only been heard",
+      "professional newsrooms and social media accounts",
+      "the original error and its later correction"
+     ],
+     "answer": 1,
+     "explain": "ประโยคสุดท้ายของ ¶4 กล่าวถึง “the difference between what they know and what they have merely heard” และ ¶5 เริ่มว่า “That distinction could be made far more visible” จึงตอบ B ตัวเลือก A ล่อใจเพราะ ¶4 พูดถึงความเร็ว แต่ผู้เขียนบอกชัดว่า “The point is not that journalists should be slow”"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT one of the author's proposals in paragraph 5?",
+     "options": [
+      "Labelling information that has not yet been confirmed",
+      "Giving corrections the same prominence as the original error",
+      "Requiring official approval before a breaking story is published",
+      "Delaying the naming of private individuals until details are checked"
+     ],
+     "answer": 2,
+     "explain": "¶5 เสนอให้ “labelling unconfirmed information”, แสดงคำแก้ไข “as prominently as the original error” และไม่เผยชื่อบุคคล “until those details have been independently confirmed” แต่ไม่ได้เสนอให้ขออนุมัติจากทางการก่อนเผยแพร่ จึงตอบ C"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which best describes the author's tone in the editorial as a whole?",
+     "options": [
+      "critical of current practice but constructive in offering remedies",
+      "angry and mainly concerned with blaming particular news websites",
+      "neutral, presenting both sides without reaching a conclusion",
+      "pessimistic, believing that the news industry cannot be reformed"
+     ],
+     "answer": 0,
+     "explain": "ผู้เขียนวิจารณ์อุตสาหกรรมข่าว (¶2) แต่เสนอทางแก้ที่ชัดเจนใน ¶5 และมองว่าสื่อที่น่าเชื่อถือจะอยู่รอด “The outlets that survive the coming decade ... will be the ones that readers trust” (¶6) จึงตอบ A ตัวเลือก D ผิดเพราะผู้เขียนเชื่อว่าการปฏิรูปเป็นไปได้ ส่วน C ผิดเพราะบทบรรณาธิการมีจุดยืนชัดเจน"
+    }
+   ]
+  },
+  {
+   "id": "AM2P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Artificial intelligence and labour economics",
+   "title": "Levelling Up or Hollowing Out? Generative AI and the Distribution of Earnings",
+   "paragraphs": [
+    "Economic anxiety about machines is hardly new. From the mechanised looms of the early nineteenth century to the industrial robots of the 1980s, each wave of automation has prompted predictions of mass unemployment that, in aggregate, failed to materialise. What distinguishes the current wave, according to many economists, is its target. Earlier technologies largely substituted for routine manual work and for routine clerical tasks such as bookkeeping; generative artificial intelligence, by contrast, appears capable of performing tasks long regarded as the preserve of educated professionals, including drafting reports, writing software and summarising legal documents. This article reviews emerging evidence on how such systems are likely to affect not only the number of jobs but the distribution of earnings, and argues that the latter question deserves considerably more attention than it has so far received.",
+    "The dominant analytical tool in this field is the so-called task-based framework. Rather than treating an occupation as a single unit that is either automated or not, the framework decomposes each job into its constituent tasks, some of which may be performed by machines while others remain with human workers. A financial analyst, for instance, gathers data, builds models, interprets results and advises clients; a technology that accelerates the first two activities need not eliminate the position, but it will alter how the analyst spends the working day and, potentially, what the analyst is paid. From this perspective, the relevant question is less which jobs will disappear than which tasks will be reallocated, and who will capture the resulting gains.",
+    "Attempts to measure exposure to generative AI have revealed a striking reversal of earlier patterns. Whereas exposure to robotics was concentrated among lower-paid workers in manufacturing, exposure to language-based AI rises with education and income. One widely used approach rates each task in a national occupational database according to whether a large language model could cut the time required to complete it by at least half. Applying a version of this method, a 2025 study of labour-force data from five Southeast Asian economies estimated that roughly a quarter of the tasks performed by university graduates were highly exposed, compared with fewer than one in twenty of those performed by workers without secondary education. Exposure, however, is not the same as displacement: a highly exposed task may be one in which AI complements human effort rather than replacing it.",
+    "Some of the most influential evidence on this distinction comes from field experiments within firms. In one such study, conducted at a customer-support centre operated by a regional telecommunications company, an AI assistant that suggested responses to customer queries was introduced to different teams in stages, allowing researchers to compare productivity before and after adoption. Average productivity, measured as queries resolved per hour, rose by around 14 per cent. The gains, however, were far from evenly distributed. The least experienced agents improved by more than a third, whereas the most skilled saw almost no change. The researchers' interpretation is that the system had effectively absorbed the tacit knowledge of the firm's best performers, embedded in thousands of past conversations, and made it available to newcomers.",
+    "Findings of this kind have encouraged a more optimistic reading of generative AI's distributional effects. If the technology narrows performance gaps within occupations, it could, in principle, compress wage differences, reduce the premium attached to experience and open skilled work to people who would previously have required years of training. Proponents of this view point out that it stands in sharp contrast to the skill-biased technological change of the 1990s and 2000s, when computers disproportionately raised the productivity, and therefore the wages, of workers who were already highly educated.",
+    "There are, nonetheless, reasons to treat this optimism with caution. First, a compression of productivity differences within a firm does not necessarily translate into a compression of pay. Whether workers share in productivity gains depends on their bargaining power, which in many service industries is weak. If an employer can obtain the same output from fewer or less experienced staff, the more probable result may be reduced hiring or downward pressure on wages rather than higher earnings for novices. Second, the very process that levels up junior workers may erode the ladder by which they would ordinarily have advanced. Routine drafting and research tasks have traditionally served as a training ground through which junior lawyers, accountants and analysts acquire judgement; if those tasks are automated, it is unclear how the next generation of experts will be formed.",
+    "A third concern relates to the division of income between labour and capital. Even if AI raises output substantially, the returns may accrue disproportionately to the firms that own the models, the data and the computing infrastructure. Because these assets are concentrated in a small number of companies, many of them headquartered outside the economies in which the technology is deployed, middle-income countries face the additional risk that productivity gains will flow abroad in the form of licensing fees and profits. Such concerns are, admittedly, speculative at present. Reliable data on the labour share in AI-intensive sectors remain scarce, and the technology is evolving faster than official statistics can capture.",
+    "The evidence base itself has notable limitations. Most experimental studies have examined narrowly defined tasks over periods of a few months, in settings where output is easy to measure. It is considerably harder to evaluate the effect of AI on work whose quality resists quantification, such as policy analysis or teaching, and short-run gains may reflect novelty or the self-selection of enthusiastic early adopters. Exposure indices, meanwhile, rest on judgements about what AI could do, which may bear little relation to what employers actually choose to implement, given the costs of reorganisation, regulatory constraints and lingering doubts about reliability.",
+    "What, then, can reasonably be concluded? The available evidence suggests that the distributional consequences of generative AI are not predetermined by the technology itself but will depend heavily on institutions: on how firms reorganise work, on the bargaining position of workers, on competition policy in the market for AI models and on whether education systems adapt to a world in which entry-level tasks are scarcer. Debates fixated on aggregate job numbers risk overlooking the more likely outcome, which is not the disappearance of work but a substantial reshaping of who does it and who benefits from it. Policymakers who wait for definitive evidence before acting may find that the most consequential choices have already been made."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "Why Generative AI Will Cause Mass Unemployment Among Graduates",
+      "Beyond Job Counts: Generative AI and Who Gains from Work",
+      "How AI Assistants Raised Productivity in Customer Support",
+      "The History of Automation from Looms to Industrial Robots"
+     ],
+     "answer": 1,
+     "explain": "¶1 ระบุว่าบทความจะศึกษาผลต่อ “the distribution of earnings” มากกว่าจำนวนงาน และ ¶9 สรุปว่าประเด็นคือ “who does it and who benefits from it” จึงตอบ B ตัวเลือก C เป็นเพียงตัวอย่างใน ¶4 ส่วน A ขัดกับ ¶9 ที่ว่าผลที่น่าจะเกิดคือ “not the disappearance of work”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'preserve' in paragraph 1 is closest in meaning to",
+     "options": [
+      "a food made by cooking fruit with sugar",
+      "an area of land where wildlife is protected",
+      "the act of keeping something from harm",
+      "an activity reserved for a particular group"
+     ],
+     "answer": 3,
+     "explain": "¶1: “tasks long regarded as the preserve of educated professionals” หมายถึงงานที่ถือกันว่าเป็น 'เขตเฉพาะ' ของมืออาชีพที่มีการศึกษา จึงตอบ D ตัวเลือก A, B และ C ล้วนเป็นความหมายอื่นของ preserve ที่ไม่เข้ากับบริบทเรื่องงานของผู้เชี่ยวชาญ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention the example of a financial analyst in paragraph 2?",
+     "options": [
+      "To show how a technology can change a job without abolishing it",
+      "To argue that financial analysts are especially likely to lose their jobs",
+      "To suggest that advising clients will soon be performed by machines",
+      "To compare the pay of analysts with that of other professionals"
+     ],
+     "answer": 0,
+     "explain": "¶2: เทคโนโลยีที่เร่งงานสองอย่างแรก “need not eliminate the position, but it will alter how the analyst spends the working day” ตัวอย่างนี้จึงแสดงแนวคิด task-based ว่างานเปลี่ยนได้โดยไม่หายไป ตอบ A ตัวเลือก B ขัดกับข้อความ “need not eliminate the position”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the last sentence of paragraph 2?",
+     "options": [
+      "The key issue is identifying which occupations will vanish completely.",
+      "Workers who capture the gains from AI will keep their current tasks.",
+      "What matters most is how tasks are redistributed and who benefits.",
+      "Every task will eventually be reallocated from humans to machines."
+     ],
+     "answer": 2,
+     "explain": "¶2: “the relevant question is less which jobs will disappear than which tasks will be reallocated, and who will capture the resulting gains” คือประเด็นสำคัญอยู่ที่การจัดสรรงานย่อยใหม่และใครได้ประโยชน์ ตอบ C ตัวเลือก A กลับความหมาย เพราะเป็นคำถามที่ผู้เขียนบอกว่าสำคัญ 'น้อยกว่า'"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about the high exposure of graduates' tasks?",
+     "options": [
+      "It means that most graduates will be replaced by AI within a few years.",
+      "It does not on its own reveal how many graduates will lose their jobs.",
+      "It shows that university education no longer brings higher income.",
+      "It proves that robotics and AI affect the same groups of workers."
+     ],
+     "answer": 1,
+     "explain": "¶3 ปิดท้ายว่า “Exposure, however, is not the same as displacement” และงานที่สัมผัส AI สูงอาจเป็นงานที่ AI “complements human effort rather than replacing it” ตัวเลขนี้จึงไม่ได้บอกจำนวนคนที่จะตกงาน ตอบ B ตัวเลือก D ขัดกับต้นย่อหน้าที่ว่าเป็น “a striking reversal” ของรูปแบบเดิม"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 4, 'this distinction' refers to the difference between",
+     "options": [
+      "robotics and language-based artificial intelligence",
+      "workers with and without a university education",
+      "a task being exposed to AI and being taken over by it",
+      "the most experienced and the least experienced agents"
+     ],
+     "answer": 2,
+     "explain": "ประโยคสุดท้ายของ ¶3 แยก “Exposure” กับ “displacement” แล้ว ¶4 เริ่มว่า “Some of the most influential evidence on this distinction” จึงตอบ C ตัวเลือก D ล่อใจเพราะอยู่ใน ¶4 แต่ปรากฏ 'หลัง' วลีนี้และไม่ใช่สิ่งที่ถูกอ้างถึง ส่วน A คือความแตกต่างที่กล่าวไว้ต้น ¶3"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, which group of customer-support agents benefited most from the AI assistant?",
+     "options": [
+      "the agents with the highest level of skill",
+      "all agents, by roughly 14 per cent each",
+      "the agents who designed the AI system",
+      "those who had the least experience"
+     ],
+     "answer": 3,
+     "explain": "¶4: “The least experienced agents improved by more than a third, whereas the most skilled saw almost no change” จึงตอบ D ตัวเลือก B ล่อใจเพราะใช้ตัวเลข 14% แต่เป็นค่า 'เฉลี่ย' และบทความเน้นว่า “The gains, however, were far from evenly distributed”"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How does paragraph 5 relate to paragraph 4?",
+     "options": [
+      "It draws a wider, hopeful implication from the evidence in paragraph 4.",
+      "It questions the reliability of the experiment described in paragraph 4.",
+      "It gives a second example of the same kind of field experiment.",
+      "It explains the method used to collect the data in paragraph 4."
+     ],
+     "answer": 0,
+     "explain": "¶5 เริ่มว่า “Findings of this kind have encouraged a more optimistic reading” แล้วขยายผลจากการทดลองใน ¶4 ไปสู่ความเป็นไปได้ที่ AI จะ “compress wage differences” จึงตอบ A ตัวเลือก B ผิดเพราะการตั้งข้อสงสัยเกิดขึ้นใน ¶6 ไม่ใช่ ¶5"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 6 that productivity gains among novice workers",
+     "options": [
+      "will automatically lead to higher wages for those workers",
+      "may benefit employers more than the workers themselves",
+      "are likely to disappear once the workers gain experience",
+      "will encourage firms to hire many more junior staff"
+     ],
+     "answer": 1,
+     "explain": "¶6: การได้ส่วนแบ่ง “depends on their bargaining power, which in many service industries is weak” และผลที่น่าจะเกิดคือ “reduced hiring or downward pressure on wages” แสดงว่านายจ้างอาจได้ประโยชน์มากกว่า ตอบ B ตัวเลือก A คือข้อสันนิษฐานที่ผู้เขียนปฏิเสธ (“does not necessarily translate into a compression of pay”) ส่วน D ขัดกับ “reduced hiring”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "What does the author mean by saying that AI “may erode the ladder by which they would ordinarily have advanced” (paragraph 6)?",
+     "options": [
+      "Junior workers may be promoted faster than their skills justify.",
+      "Senior professionals may refuse to train their junior colleagues.",
+      "Firms may reduce the number of levels in their management structure.",
+      "The routine work through which juniors gain expertise may disappear."
+     ],
+     "answer": 3,
+     "explain": "¶6 อธิบายต่อทันทีว่างานร่างและค้นคว้าแบบประจำ “have traditionally served as a training ground” และถ้างานเหล่านี้ถูกทำโดยอัตโนมัติ “it is unclear how the next generation of experts will be formed” จึงตอบ D ตัวเลือก C ตีความ ladder ตามตัวอักษรว่าเป็นลำดับขั้นการบริหาร ซึ่งไม่ใช่ความหมายในที่นี้"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's attitude towards the concern that AI gains will flow to capital owners abroad (paragraph 7) is best described as",
+     "options": [
+      "dismissive, since there is no evidence for it at all",
+      "certain, since the data clearly confirm the trend",
+      "cautious, treating it as plausible but not yet well supported",
+      "indifferent, since it affects only middle-income countries"
+     ],
+     "answer": 2,
+     "explain": "¶7: ผู้เขียนอธิบายความเสี่ยงอย่างจริงจัง แต่ยอมรับว่า “Such concerns are, admittedly, speculative at present” เพราะ “Reliable data ... remain scarce” ท่าทีจึงระมัดระวัง ตอบ C ตัวเลือก A ล่อใจเพราะคำว่า speculative แต่ผู้เขียนไม่ได้ปัดตกความกังวลนี้ และ B ขัดกับการที่ข้อมูลยังขาดแคลน"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which of the following statements would the author most likely agree with?",
+     "options": [
+      "The effects of AI on earnings are fixed by the design of the technology.",
+      "Institutions and policy choices will strongly shape who gains from AI.",
+      "Governments should wait for conclusive evidence before responding to AI.",
+      "Debates about AI should focus mainly on the total number of jobs."
+     ],
+     "answer": 1,
+     "explain": "¶9: ผลด้านการกระจายรายได้ “are not predetermined by the technology itself but will depend heavily on institutions” จึงตอบ B ตัวเลือก A กลับความหมายของประโยคนี้ ส่วน C ขัดกับคำเตือนว่า ผู้ที่รอหลักฐานชัดเจน “may find that the most consequential choices have already been made”"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the name of the analytical tool that breaks each occupation down into its separate tasks? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "task-based framework"
+     ],
+     "explain": "¶2: “The dominant analytical tool in this field is the so-called task-based framework. ... the framework decomposes each job into its constituent tasks” คำตอบคือ task-based framework (คำที่มีขีดนับเป็นหนึ่งคำ)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to the 2025 study, roughly what share of the tasks performed by university graduates were highly exposed to generative AI? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "a quarter",
+      "roughly a quarter",
+      "quarter"
+     ],
+     "explain": "¶3: “roughly a quarter of the tasks performed by university graduates were highly exposed” คำตอบคือ a quarter ระวังอย่าตอบ one in twenty ซึ่งเป็นสัดส่วนของผู้ที่ไม่ได้จบมัธยมศึกษา"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "By about how much did average productivity rise at the customer-support centre after the AI assistant was introduced? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "14 per cent"
+     ],
+     "explain": "¶4: “Average productivity, measured as queries resolved per hour, rose by around 14 per cent.” คำตอบคือ 14 per cent ไม่ใช่ “more than a third” ซึ่งเป็นผลเฉพาะกลุ่มที่มีประสบการณ์น้อยที่สุด"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What kind of knowledge of the firm's best performers did the AI system appear to absorb? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "tacit knowledge",
+      "tacit"
+     ],
+     "explain": "¶4: “the system had effectively absorbed the tacit knowledge of the firm's best performers, embedded in thousands of past conversations” คำตอบคือ tacit knowledge (ความรู้แฝงที่ได้จากประสบการณ์)"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 6, what have routine drafting and research tasks traditionally served as for junior professionals? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "a training ground",
+      "training ground"
+     ],
+     "explain": "¶6: “Routine drafting and research tasks have traditionally served as a training ground through which junior lawyers, accountants and analysts acquire judgement” คำตอบคือ a training ground"
+    }
+   ]
+  },
+  {
+   "id": "AM2P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Behavioural economics",
+   "title": "The Bandwidth Tax: Scarcity, Cognition and the Economics of Poverty",
+   "paragraphs": [
+    "Standard economic models have traditionally treated people on low incomes as rational agents operating under tighter constraints: with less money, they face harder trade-offs, but they are assumed to weigh those trade-offs in essentially the same way as anyone else. Yet a persistent puzzle has troubled development economists and social policy researchers alike. Low-income households are, on average, less likely to take medication as prescribed, to enrol in beneficial programmes for which they are eligible, or to save during periods of relative plenty, behaviours that appear to deepen the very hardship that gives rise to them. One influential account in behavioural economics proposes that these patterns are less a cause of poverty than a consequence of it: scarcity itself, the argument runs, consumes mental resources that would otherwise be available for planning and self-control.",
+    "The central concept in this account is “bandwidth”, a loose term for the combination of cognitive capacity, meaning the ability to solve problems, retain information and reason, and executive control, which governs attention, impulse and the initiation of action. Proponents argue that when a person is preoccupied with an urgent shortfall, whether of money, time or food, the shortfall captures attention involuntarily, a phenomenon they call tunnelling. Within the tunnel, the pressing need is managed with considerable focus and even ingenuity; outside it, important but less urgent matters, such as a vaccination appointment or a loan repayment due next month, tend to be neglected.",
+    "Two forms of evidence were initially offered in support. In laboratory studies, participants who were asked to think about a hypothetical but costly expense, such as an expensive car repair, before completing standard reasoning tests performed markedly worse if they had low incomes, whereas higher-income participants were unaffected. The size of the drop, its authors reported, was comparable to the effect of losing a full night's sleep. In field studies, smallholder farmers who receive most of their annual income at harvest were tested shortly before and shortly after it; the same farmers scored substantially better on cognitive tests after the harvest, when they were relatively well off, than before it, when money was tight. Because the comparison involved the same individuals, differences in innate ability or schooling could not account for the result.",
+    "The policy implications drawn from these findings are considerable. If scarcity taxes cognition, then programmes that demand extensive paperwork, frequent reapplication or complex calculation impose a disproportionate burden on precisely those least equipped to bear it. Simplifying application forms, sending timely reminders and smoothing the timing of income, for example by paying benefits in several instalments rather than a single lump sum, might accomplish more than conventional measures aimed at altering incentives. Several governments have incorporated such ideas into the design of social assistance schemes, and the vocabulary of cognitive load has become commonplace in discussions of administrative reform.",
+    "Subsequent research, however, has complicated this picture. Attempts to replicate the laboratory findings with larger samples have produced effects considerably smaller than those originally reported, and in several cases statistically indistinguishable from zero. Such shrinkage is not unusual, since early studies with modest samples tend to overstate true effects, but its scale here was notable. A 2023 multi-site replication involving more than 2,000 participants in four countries, for example, found only a weak relationship between income, the financial scenario and test performance. Field evidence has proved similarly mixed. A study of plantation workers paid on a monthly cycle found no measurable change in cognitive performance between the days before and after payday, and researchers have noted that pre-harvest periods may differ from post-harvest periods in ways unrelated to money, including fatigue, workload and diet.",
+    "Defenders of the theory reply that the failure to replicate a particular laboratory manipulation does not refute the broader claim. Asking students or online participants to imagine a car repair, they argue, is a weak proxy for the chronic and multidimensional pressures of genuine poverty, and it is unsurprising that so mild a stimulus yields inconsistent results. On this view, the appropriate response is not to discard the concept of bandwidth but to develop better ways of measuring it. Critics counter that a theory which survives every negative finding by redefining its terms risks becoming unfalsifiable, and that the burden of proof should rest with those who make strong claims about the cognitive effects of poverty.",
+    "The debate also has a normative dimension. Some scholars have welcomed the scarcity framework precisely because it shifts attention away from the supposed character flaws of the poor and towards the conditions in which they live. Others worry that it may inadvertently reinforce stigma by implying that people on low incomes are, in effect, cognitively impaired, and that it could be used to justify paternalistic policies that restrict the choices available to them. Both concerns may well be legitimate, and neither depends entirely on the empirical question of how large the bandwidth effect turns out to be. A related objection is that the framework may divert attention from structural remedies, such as raising incomes directly, towards cheaper adjustments in administrative design.",
+    "Fortunately, many of the reforms inspired by the theory do not require it to be correct in its strongest form. Simpler forms and predictable payment schedules reduce the time and effort that every applicant must expend, and evaluations of such measures have frequently found improvements in take-up regardless of the mechanism involved. Where policy recommendations depend critically on large cognitive effects, as with proposals to limit the choices of benefit recipients on the grounds that they cannot decide well for themselves, the case for caution is considerably stronger.",
+    "The scarcity hypothesis thus offers a useful illustration of how behavioural economics tends to advance: a striking idea, supported by elegant early studies, gains rapid influence before its evidence base has matured, and is then subjected to a slower process of testing and refinement. The most defensible conclusion at present is that financial strain probably does impose some cognitive cost, but that this cost is likely to be smaller and more variable than early findings implied. Policies that reduce unnecessary complexity can be justified on independent grounds; claims that poverty systematically impairs judgement should be treated with considerably greater care."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Poverty has been shown beyond doubt to reduce people's ability to make decisions.",
+      "Simplifying welfare forms is the most effective way of reducing poverty.",
+      "An influential theory linking scarcity to weaker cognition has shaped policy but rests on mixed evidence.",
+      "Behavioural economics has failed to produce any reliable findings about poverty."
+     ],
+     "answer": 2,
+     "explain": "บทความเสนอทฤษฎีว่าความขาดแคลน “consumes mental resources” (¶1) ผลต่อนโยบาย (¶4) และหลักฐานที่ขัดแย้ง (¶5–6) ก่อนสรุปว่าผลนี้ “likely to be smaller and more variable than early findings implied” (¶9) จึงตอบ C ตัวเลือก A ขัดกับข้อสรุปที่ระมัดระวัง ส่วน D เกินจริงเพราะใช้ any"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author list behaviours such as not taking medication or not saving in paragraph 1?",
+     "options": [
+      "To identify the puzzling pattern that the scarcity theory tries to explain",
+      "To blame low-income households for decisions that worsen their situation",
+      "To show that standard economic models fully explain these behaviours",
+      "To argue that health programmes for the poor should be abolished"
+     ],
+     "answer": 0,
+     "explain": "¶1 เรียกพฤติกรรมเหล่านี้ว่า “a persistent puzzle” แล้วกล่าวต่อว่า “One influential account ... proposes that these patterns are less a cause of poverty than a consequence of it” จึงเป็นการวางโจทย์ให้ทฤษฎีอธิบาย ตอบ A ตัวเลือก B ล่อใจ แต่ผู้เขียนเพียงบรรยายพฤติกรรม ไม่ได้กล่าวโทษ และ C ขัดกับคำว่า puzzle"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'loose' in paragraph 2 is closest in meaning to",
+     "options": [
+      "not firmly attached",
+      "freed from control",
+      "careless in behaviour",
+      "not precisely defined"
+     ],
+     "answer": 3,
+     "explain": "¶2: “bandwidth”, a loose term for the combination of cognitive capacity ... and executive control” คำว่า loose term หมายถึงคำที่ใช้กว้าง ๆ ไม่ได้นิยามอย่างเคร่งครัด จึงตอบ D ตัวเลือก A และ B เป็นความหมายอื่นของ loose (หลวม, หลุดออก) ที่ไม่เข้ากับคำว่า term"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Based on paragraph 2, a person who is “tunnelling” is most likely to",
+     "options": [
+      "ignore an urgent problem in order to plan carefully for the future",
+      "cope well with an immediate need while overlooking later obligations",
+      "become unable to concentrate on any problem at all",
+      "deliberately choose to delay payments in order to save money"
+     ],
+     "answer": 1,
+     "explain": "¶2: “Within the tunnel, the pressing need is managed with considerable focus and even ingenuity; outside it, important but less urgent matters ... tend to be neglected” จึงตอบ B ตัวเลือก A กลับด้านกับคำอธิบาย ส่วน C ผิดเพราะบทความบอกว่าคนยังจัดการปัญหาเร่งด่วนได้ดี และ D ผิดเพราะการดึงความสนใจเกิดขึ้น “involuntarily” ไม่ใช่การตั้งใจเลือก"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author point out that the field study “involved the same individuals” (paragraph 3)?",
+     "options": [
+      "To explain why the result could not be attributed to differences between people",
+      "To show that the farmers had received more schooling than other workers",
+      "To suggest that the farmers had become used to the tests over time",
+      "To argue that laboratory studies are more reliable than field studies"
+     ],
+     "answer": 0,
+     "explain": "¶3: “Because the comparison involved the same individuals, differences in innate ability or schooling could not account for the result” จึงเป็นการตัดคำอธิบายเรื่องความแตกต่างระหว่างบุคคลออกไป ตอบ A ตัวเลือก B ใช้คำว่า schooling จากบทความแต่บิดความหมาย เพราะบทความไม่ได้เปรียบเทียบการศึกษาของชาวนากับกลุ่มอื่น"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best restates the second sentence of paragraph 4?",
+     "options": [
+      "Programmes with complex rules are cheaper to run than simpler ones.",
+      "People on low incomes should be excused from completing paperwork.",
+      "Complicated application procedures hit hardest those with the least capacity to cope with them.",
+      "Officials find it difficult to process the paperwork that welfare programmes require."
+     ],
+     "answer": 2,
+     "explain": "¶4: programmes that demand extensive paperwork “impose a disproportionate burden on precisely those least equipped to bear it” คือขั้นตอนที่ซับซ้อนเป็นภาระหนักที่สุดต่อคนที่รับมือได้น้อยที่สุด ตอบ C ตัวเลือก D ใช้คำว่า paperwork แต่เปลี่ยนผู้รับภาระเป็นเจ้าหน้าที่ ซึ่งไม่ใช่ความหมายของประโยค"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 5, 'this picture' refers to",
+     "options": [
+      "the design of social assistance schemes in several countries",
+      "the results of the 2023 multi-site replication study",
+      "the vocabulary used in discussions of administrative reform",
+      "the account of scarcity reducing cognition and its policy uses"
+     ],
+     "answer": 3,
+     "explain": "¶5 เริ่มว่า “Subsequent research, however, has complicated this picture” โดยอ้างถึงภาพรวมที่เสนอใน ¶2–4 ว่าความขาดแคลนลดทอนความสามารถทางความคิดและนำไปสู่นโยบาย จึงตอบ D ตัวเลือก B ล่อใจเพราะอยู่ใน ¶5 แต่การศึกษาปี 2023 คือหลักฐานที่ 'ทำให้ภาพซับซ้อนขึ้น' ไม่ใช่ตัวภาพเอง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a way in which pre-harvest and post-harvest periods might differ?",
+     "options": [
+      "how tired the farmers are",
+      "changes in the weather",
+      "the amount of work to be done",
+      "what the farmers eat"
+     ],
+     "answer": 1,
+     "explain": "¶5 ระบุความแตกต่างที่ไม่เกี่ยวกับเงินว่า “including fatigue, workload and diet” ซึ่งตรงกับตัวเลือก A, C และ D แต่ไม่ได้กล่าวถึงสภาพอากาศ จึงตอบ B"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is paragraph 6 organised?",
+     "options": [
+      "A defence of the theory is presented and then answered by its critics.",
+      "A new experiment is described and its results are then evaluated.",
+      "Two opposing theories of poverty are compared point by point.",
+      "A problem with the theory is identified and then fully resolved."
+     ],
+     "answer": 0,
+     "explain": "¶6 เริ่มด้วย “Defenders of the theory reply that...” แล้วตามด้วย “Critics counter that...” จึงเป็นการเสนอข้อแก้ต่างแล้วตามด้วยข้อโต้แย้งกลับ ตอบ A ตัวเลือก D ผิดเพราะย่อหน้านี้ไม่ได้ข้อยุติ และ B ผิดเพราะไม่มีการทดลองใหม่"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The critics' argument in paragraph 6 implies that a useful scientific theory",
+     "options": [
+      "should be supported mainly by laboratory rather than field evidence",
+      "must explain every possible result that researchers observe",
+      "needs to be capable, at least in principle, of being shown wrong",
+      "becomes stronger each time its terms are redefined"
+     ],
+     "answer": 2,
+     "explain": "¶6: นักวิจารณ์เตือนว่าทฤษฎีที่ “survives every negative finding by redefining its terms risks becoming unfalsifiable” จึงสื่อว่าทฤษฎีที่ดีต้องพิสูจน์ได้ว่าผิด ตอบ C ตัวเลือก D กลับความหมาย เพราะการนิยามใหม่ไปเรื่อย ๆ คือสิ่งที่นักวิจารณ์มองว่าเป็นจุดอ่อน ส่วน B ฟังดูเหมือนข้อดีแต่คือปัญหาที่ถูกวิจารณ์"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 8, why can many reforms inspired by the theory be supported even if the theory is only partly correct?",
+     "options": [
+      "They have been tested more thoroughly than the theory itself.",
+      "They limit the choices of recipients who cannot decide well.",
+      "They are cheaper for governments than paying cash benefits.",
+      "They make the process easier for every applicant, whatever the mechanism."
+     ],
+     "answer": 3,
+     "explain": "¶8: “Simpler forms and predictable payment schedules reduce the time and effort that every applicant must expend” และช่วยเพิ่มผู้ใช้สิทธิ์ “regardless of the mechanism involved” จึงตอบ D ตัวเลือก B คือนโยบายที่ผู้เขียนบอกว่าต้อง “caution” มากกว่า ไม่ใช่เหตุผลสนับสนุน"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which best describes the author's overall attitude towards the scarcity hypothesis?",
+     "options": [
+      "wholly convinced that it explains the behaviour of the poor",
+      "sceptical of its strongest claims while recognising some value in it",
+      "hostile, regarding it as harmful and without any scientific basis",
+      "neutral, declining to reach any conclusion about the evidence"
+     ],
+     "answer": 1,
+     "explain": "¶9: ผู้เขียนยอมรับว่า “financial strain probably does impose some cognitive cost” แต่ผลนั้น “likely to be smaller and more variable” และข้ออ้างที่รุนแรง “should be treated with considerably greater care” จึงตอบ B ตัวเลือก D ผิดเพราะผู้เขียนให้ข้อสรุปชัดเจน ส่วน C ขัดกับการยอมรับคุณค่าของการปฏิรูปใน ¶8"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term do proponents use for the way an urgent shortfall captures a person's attention involuntarily? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "tunnelling"
+     ],
+     "explain": "¶2: “the shortfall captures attention involuntarily, a phenomenon they call tunnelling” คำตอบคือ tunnelling ไม่ใช่ bandwidth ซึ่งเป็นชื่อของทรัพยากรทางความคิด ไม่ใช่ปรากฏการณ์นี้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In the laboratory studies, what example of a hypothetical but costly expense were participants asked to think about? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "car repair",
+      "expensive car repair",
+      "a car repair"
+     ],
+     "explain": "¶3: participants were asked “to think about a hypothetical but costly expense, such as an expensive car repair” คำตอบคือ (expensive) car repair"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Besides simplifying forms and sending reminders, what does paragraph 4 suggest smoothing? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "timing of income"
+     ],
+     "explain": "¶4: “smoothing the timing of income, for example by paying benefits in several instalments rather than a single lump sum” คำตอบคือ timing of income (ห้ามใส่ the เพราะจะเกินสามคำ) ไม่ใช่ application forms ซึ่งเป็นสิ่งที่ต้อง simplify"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "In how many countries did the 2023 multi-site replication take place? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+     "answers": [
+      "four",
+      "four countries"
+     ],
+     "explain": "¶5: “A 2023 multi-site replication involving more than 2,000 participants in four countries” คำตอบคือ four (countries) ระวังอย่าสับสนกับจำนวนผู้เข้าร่วม 2,000 คน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 8, what have evaluations of simpler forms and predictable payments frequently found improvements in? (Answer in ONE WORD from the passage.)",
+     "answers": [
+      "take-up"
+     ],
+     "explain": "¶8: “evaluations of such measures have frequently found improvements in take-up regardless of the mechanism involved” คำตอบคือ take-up (อัตราการใช้สิทธิ์หรือสมัครเข้าร่วมโครงการ)"
+    }
+   ]
+  }
+ ]
+}

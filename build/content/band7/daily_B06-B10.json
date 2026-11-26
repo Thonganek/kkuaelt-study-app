@@ -1,0 +1,831 @@
+[
+ {
+  "id": "B06",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Medicine",
+  "title": "Rehearsing in the Dark: How Sleep Shapes What We Remember",
+  "focus": "Multi-step inference",
+  "skill_tip_en": "For multi-step inference, link two separate statements in the text and choose the option that follows from both, rejecting any option that needs an extra assumption or an absolute word such as 'only' or 'all'.",
+  "paragraphs": [
+   "For most of the twentieth century, sleep was widely regarded as a period of mental idleness, a nightly interruption during which the brain simply rested before the demands of the following day. That assumption has been steadily dismantled. A substantial body of research now indicates that sleep is not merely restorative but actively constructive: during the hours we spend unconscious, the brain appears to select, stabilise and reorganise the information it acquired while awake. This process, known as memory consolidation, may help to explain why a problem that seemed intractable in the evening sometimes looks surprisingly manageable the next morning.",
+   "The prevailing account of consolidation rests on a division of labour between two brain regions. The hippocampus, a small structure deep in the temporal lobe, is thought to capture new experiences rapidly but to store them only temporarily, rather like a notebook kept by the door. The neocortex, by contrast, learns slowly but retains information for years. According to the so-called active systems model, sleep provides the conditions under which memories are gradually transferred from the first store to the second. Crucially, this transfer is believed to occur not through passive decay but through repeated 'replay', in which patterns of neural activity recorded during learning are reactivated, often at many times their original speed.",
+   "Different stages of sleep seem to contribute in different ways. Deep, slow-wave sleep, which dominates the early part of the night, has been most closely linked to the strengthening of factual knowledge, such as word lists or the locations of objects. Rapid eye movement (REM) sleep, which becomes more frequent towards morning, has been associated instead with emotional memory and with the ability to detect hidden patterns in information. Because these stages are unevenly distributed across the night, a person who habitually sleeps for only five hours does not simply lose a proportional share of each; they lose a disproportionate amount of the later, REM-rich period.",
+   "Some of the most persuasive evidence comes from experiments in which memories are deliberately reactivated during sleep. In a 2023 study at a university in north-eastern Thailand, Dr. Pornthip Wongsakul and her colleagues taught 64 volunteers the positions of 40 images on a screen, with each image paired with a distinctive sound. While participants were in slow-wave sleep, half of the sounds were quietly replayed. The next morning, volunteers recalled the locations of the cued images noticeably more accurately than those of the uncued ones, even though none of them reported having heard anything during the night. The technique, called targeted memory reactivation, implies that consolidation can be steered, at least to some degree, towards particular memories.",
+   "Admittedly, the picture is less tidy than early enthusiasts suggested. Many of the effects reported in laboratory studies are modest, and several prominent findings have proved difficult to replicate with larger samples. Much of the research has also relied on artificial tasks, such as memorising unrelated word pairs, which bear little resemblance to the complex, meaningful learning that students actually undertake. Moreover, sleep is hard to isolate experimentally: participants who are deprived of sleep are also more tired, more stressed and less motivated when they are tested, so their poor performance may reflect their state at retrieval rather than any failure of consolidation itself.",
+   "A further complication concerns age. Older adults typically spend far less time in slow-wave sleep than young people do, and some researchers have proposed that this decline contributes to age-related memory loss. The evidence here is mostly correlational, however, and it remains unclear whether improving deep sleep in later life would restore memory or whether both changes stem from a common underlying cause. Trials using gentle acoustic stimulation, in which soft pulses of sound are timed to coincide with slow brain waves, have produced encouraging but inconsistent results.",
+   "Even so, the practical implications are difficult to ignore. If consolidation depends on sleep, then the familiar student habit of sacrificing rest in order to cram before an examination may be self-defeating, since material studied late into the night is precisely the material that is given the least opportunity to stabilise. Spreading study across several days, each followed by a full night's sleep, appears to be a more efficient strategy. Short daytime naps may offer a partial benefit, although they rarely contain much REM sleep. Ultimately, the research suggests that learning does not end when we close the book; a considerable part of it may take place only after we have switched off the light."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "main idea",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "evidence that sleep actively stabilises memories, and the limits of that evidence",
+     "the reasons why scientists now regard sleep as a time of complete mental rest",
+     "a new treatment that can reverse memory loss in older adults through sound",
+     "the advantages of daytime naps over night-time sleep for university students"
+    ],
+    "answer": 0,
+    "explain": "แนวคิดหลักอยู่ใน ¶1: “sleep is not merely restorative but actively constructive” จากนั้นบทความเสนอหลักฐาน (¶2–4) ข้อจำกัด (¶5–6) และข้อสรุปเชิงปฏิบัติ (¶7) จึงตอบ A ตัวเลือก B ตรงข้ามกับความเชื่อเก่าที่ผู้เขียนบอกว่า “has been steadily dismantled” ส่วน C เกินจริง เพราะ ¶6 บอกว่าผลยัง “inconsistent”"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "The author's remark that a difficult problem may look 'surprisingly manageable the next morning' (paragraph 1) suggests that",
+    "options": [
+     "people generally think more intelligently in the morning than at night",
+     "rest without any mental activity is what makes problems seem easier",
+     "the brain may have continued to process the problem during sleep",
+     "most difficult problems can be solved only after a full night's sleep"
+    ],
+    "answer": 2,
+    "explain": "¶1 บอกว่าระหว่างหลับ สมอง “appears to select, stabilise and reorganise the information it acquired while awake” และกระบวนการนี้ “may help to explain” ว่าทำไมปัญหาดูง่ายขึ้นในตอนเช้า จึงอนุมานได้ว่าสมองยังทำงานกับปัญหาขณะหลับ (C) ตัวเลือก B เป็นกับดักเพราะคือมุมมองเก่าเรื่อง “mental idleness” ที่ผู้เขียนปฏิเสธ ส่วน D ใช้คำว่า only ซึ่งเกินกว่าข้อความ"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "By comparing the hippocampus to 'a notebook kept by the door' (paragraph 2), the author implies that the hippocampus",
+    "options": [
+     "retains information more reliably over time than the neocortex does",
+     "records new information quickly but is not meant to keep it permanently",
+     "is located near the outer surface of the brain rather than deep inside it",
+     "learns slowly but stores important memories for many years at a time"
+    ],
+    "answer": 1,
+    "explain": "¶2: ฮิปโปแคมปัส “capture new experiences rapidly but … store them only temporarily” สมุดจดข้างประตูจึงหมายถึงที่จดเร็วแต่ใช้ชั่วคราว (B) ตัวเลือก D เป็นคุณสมบัติของ neocortex ที่ “learns slowly but retains information for years” จึงเป็นการสลับสองส่วน และ C ตีความ 'by the door' ตามตัวอักษร ขัดกับ “deep in the temporal lobe”"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "According to the active systems model described in paragraph 2, memories reach the neocortex mainly through",
+    "options": [
+     "the gradual fading of the original trace stored in the hippocampus",
+     "the slow learning of new experiences that takes place while awake",
+     "a single rapid transfer that is completed early in the night",
+     "the repeated reactivation of activity patterns formed during learning"
+    ],
+    "answer": 3,
+    "explain": "¶2: การถ่ายโอนเกิด “not through passive decay but through repeated 'replay', in which patterns of neural activity recorded during learning are reactivated” จึงตอบ D ตัวเลือก A เป็นกับดักเพราะคือ passive decay ที่ข้อความปฏิเสธ ส่วน C ขัดกับคำว่า “repeated” และ “gradually”"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Which of the following can be inferred from paragraph 3 about a person who regularly sleeps for only five hours?",
+    "options": [
+     "They lose an equal share of their slow-wave sleep and their REM sleep.",
+     "Their emotional memory is likely to suffer more than their recall of facts.",
+     "Their memory for word lists will be the most seriously affected ability.",
+     "They make up for lost REM sleep by having more of it early in the night."
+    ],
+    "answer": 1,
+    "explain": "ต้องเชื่อมสองข้อมูลใน ¶3: คนที่นอนห้าชั่วโมงเสีย “a disproportionate amount of the later, REM-rich period” และ REM เกี่ยวกับ “emotional memory” ขณะที่ slow-wave sleep ช่วงต้นคืนเกี่ยวกับความรู้เชิงข้อเท็จจริง จึงตอบ B ตัวเลือก A ถูกปฏิเสธโดยตรง (“does not simply lose a proportional share”) ส่วน C กลับด้าน เพราะ word lists ผูกกับ slow-wave sleep ที่ยังได้อยู่"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "What can be inferred from the fact that none of the volunteers in the 2023 study reported hearing anything during the night?",
+    "options": [
+     "The memory benefit did not depend on participants being aware of the cues.",
+     "The sounds were too quiet to have had any measurable effect on the brain.",
+     "The volunteers had been woken up during REM sleep rather than deep sleep.",
+     "The cued images had been easier to memorise than the uncued ones at first."
+    ],
+    "answer": 0,
+    "explain": "¶4: ภาพที่มีเสียงกระตุ้นถูกจำได้แม่นกว่า “even though none of them reported having heard anything” แสดงว่าผลดีเกิดขึ้นโดยผู้ร่วมวิจัยไม่รู้ตัว (A) ตัวเลือก B ขัดกับผลการทดลองที่มีผลจริง และ C ผิดเพราะเสียงถูกเล่น “in slow-wave sleep” ไม่ใช่ REM"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author point out in paragraph 5 that sleep-deprived participants are 'more tired, more stressed and less motivated'?",
+    "options": [
+     "to explain how a lack of sleep physically damages the hippocampus",
+     "to argue that the tasks used in laboratory studies are too artificial",
+     "to show that poor test results may not be caused by weak consolidation",
+     "to prove that memory consolidation does not take place during sleep"
+    ],
+    "answer": 2,
+    "explain": "¶5: ผู้เขียนสรุปว่า “their poor performance may reflect their state at retrieval rather than any failure of consolidation itself” จึงตอบ C ตัวเลือก B เป็นกับดักเพราะเป็นข้อจำกัดอีกข้อในย่อหน้าเดียวกัน แต่ไม่ใช่จุดประสงค์ของประโยคนี้ ส่วน D ใช้คำว่า prove ซึ่งรุนแรงเกินไป"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "The author would most likely agree that the link between reduced slow-wave sleep and memory loss in older adults",
+    "options": [
+     "has been firmly confirmed by trials using acoustic stimulation",
+     "explains why young people need less deep sleep than older adults",
+     "shows that age-related memory decline cannot be slowed at all",
+     "has not yet been shown to be a relationship of cause and effect"
+    ],
+    "answer": 3,
+    "explain": "¶6: หลักฐาน “is mostly correlational” และยังไม่ชัดว่า “both changes stem from a common underlying cause” หรือไม่ จึงยังพิสูจน์ความเป็นเหตุเป็นผลไม่ได้ (D) ตัวเลือก A เป็นกับดักเพราะการทดลองให้ผล “encouraging but inconsistent” ไม่ใช่ยืนยันแน่ชัด ส่วน B กลับข้อมูลที่ว่าผู้สูงอายุมี slow-wave sleep น้อยกว่า"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Based on paragraph 7, which plan would the author most likely recommend to a student with an important examination in one week?",
+    "options": [
+     "studying intensively on the final night so the material is freshest",
+     "studying part of the material each day and sleeping fully every night",
+     "replacing night-time sleep with several short naps during the day",
+     "reviewing all of the material only once, immediately after waking up"
+    ],
+    "answer": 1,
+    "explain": "¶7: “Spreading study across several days, each followed by a full night's sleep, appears to be a more efficient strategy” จึงตอบ B ตัวเลือก A คือการอ่านหนักคืนสุดท้ายที่ผู้เขียนเรียกว่า “self-defeating” ส่วน C ผิดเพราะงีบกลางวันให้ประโยชน์เพียง “partial” และแทบไม่มี REM"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What name is given to the process by which the brain selects, stabilises and reorganises information during sleep? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+    "answers": [
+     "memory consolidation"
+    ],
+    "explain": "¶1: “This process, known as memory consolidation, may help to explain…” คำตอบคือ memory consolidation (การรวบรวมความจำให้มั่นคง)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What is the name of the technique in which sounds linked to learning are replayed during sleep? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "targeted memory reactivation"
+    ],
+    "explain": "¶4: “The technique, called targeted memory reactivation, implies that consolidation can be steered” คำตอบคือ targeted memory reactivation"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What method have trials used to try to deepen slow waves in older adults? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "acoustic stimulation",
+     "gentle acoustic stimulation"
+    ],
+    "explain": "¶6: “Trials using gentle acoustic stimulation, in which soft pulses of sound are timed to coincide with slow brain waves” คำตอบคือ (gentle) acoustic stimulation"
+   }
+  ]
+ },
+ {
+  "id": "B07",
+  "kind": "long",
+  "genre": "feature article",
+  "domain": "Environment",
+  "title": "Gardening the Reef: Hope, Hype and the Limits of Coral Restoration",
+  "focus": "Author's stance and tone",
+  "skill_tip_en": "Track the author's signal words, such as 'admittedly', 'to my mind', 'yet' and 'none of this means', and keep the author's own judgements separate from facts and from the words of people the author quotes.",
+  "paragraphs": [
+   "On a calm morning off the coast of a small island in the Gulf of Thailand, a team of volunteer divers hangs fragments of staghorn coral from what look like underwater washing lines. Within a year, if all goes well, each fragment will have grown large enough to be cemented onto a damaged section of reef. Scenes like this have become a staple of conservation fundraising, and it is easy to see why: few images of environmental action are as hopeful, or as photogenic, as a diver tending a nursery of young corals. Yet the popularity of coral gardening deserves far closer scrutiny than it usually receives.",
+   "The case for intervention is, admittedly, a strong one. Reefs cover well under one per cent of the ocean floor but support roughly a quarter of all marine species, and they protect coastlines from storm waves while sustaining the fisheries and tourism on which millions of people depend. Repeated marine heatwaves have caused mass bleaching events, in which stressed corals expel the algae that supply most of their food and, if temperatures stay high, gradually starve. Where reefs have been reduced to rubble, natural recovery can take decades, and in some places it may not happen at all. Against this background, the impulse to lend nature a helping hand is entirely understandable.",
+   "Restoration projects now take several forms. The most common involves growing fragments in nurseries before 'outplanting' them onto the reef. Other groups stabilise loose rubble with metal frames so that coral larvae have somewhere to settle, or collect spawn during the annual mass release of eggs and rear the larvae in tanks. More ambitious researchers are attempting what is sometimes called assisted evolution, selectively breeding corals that appear to tolerate higher temperatures. Each approach has produced genuine successes at particular sites, and the best-run projects report that more than half of their outplanted fragments survive for at least two years.",
+   "The difficulty is one of scale, and it is a difficulty that promotional material rarely mentions. A 2024 review by marine scientists at a university in southern Thailand estimated that the combined area restored by all projects in the region over the previous decade amounted to less than two square kilometres, a figure dwarfed by the area lost in a single bleaching season. Restoring a reef one fragment at a time is, in the review's memorable phrase, 'like replanting a forest with a teaspoon'. To my mind, this comparison is, if anything, too generous, because a replanted forest is not routinely cooked by the next heatwave.",
+   "Equally troubling is the way in which success is often measured. Many projects count the number of fragments planted, a figure that is easy to report to donors but says little about whether a functioning reef is returning. Survival rates are frequently recorded for only a few months, and the fish, invertebrates and complex three-dimensional structure that make a reef valuable are seldom monitored at all. Dr. Kanya Sirimongkol, who has advised several restoration groups, puts it bluntly: 'We have become very good at counting corals and rather poor at asking whether we have rebuilt anything.' It would be unfair to blame volunteers for this; short funding cycles reward visible activity rather than patient measurement.",
+   "None of this means that restoration is futile. On small, carefully chosen sites, such as a reef that shelters a village harbour or one that attracts the divers on whom a local economy depends, targeted planting may buy valuable time. Nurseries can also serve as living gene banks, preserving varieties that might otherwise disappear before heat-tolerant strains can be identified. And projects that involve local fishers and schoolchildren may build a constituency for marine protection that outlasts any individual planting. Such projects also generate practical knowledge about which species and techniques suit local conditions, knowledge that may prove invaluable if ocean warming is eventually brought under control.",
+   "What restoration cannot do is substitute for the measures that would allow reefs to survive in the first place: reducing the greenhouse gas emissions that drive ocean warming, and controlling the overfishing and coastal pollution that leave corals less able to withstand heat. The real danger is not that coral gardening fails, but that its success stories allow governments and corporations to appear active while postponing harder decisions. A diver holding a coral fragment makes a fine photograph. It should not be mistaken for a policy."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author begin the article by describing divers hanging coral fragments on underwater lines?",
+    "options": [
+     "to explain step by step how a coral nursery is constructed",
+     "to introduce an appealing image that the article will go on to question",
+     "to show that volunteers achieve better results than trained scientists",
+     "to persuade readers to join a coral restoration project as volunteers"
+    ],
+    "answer": 1,
+    "explain": "¶1 จบด้วย “Yet the popularity of coral gardening deserves far closer scrutiny than it usually receives” แสดงว่าภาพที่สวยงามตอนต้นถูกยกมาเพื่อนำไปสู่การตั้งคำถาม (B) ตัวเลือก A เป็นกับดักเพราะย่อหน้ามีรายละเอียดการแขวนกิ่งปะการังจริง แต่ไม่ได้อธิบายวิธีสร้างเป็นขั้นตอน และไม่ใช่จุดประสงค์หลัก ส่วน D ขัดกับน้ำเสียงเชิงตั้งข้อสงสัยของผู้เขียน"
+   },
+   {
+    "type": "mc",
+    "skill": "vocabulary",
+    "q": "The word 'staple' in paragraph 1 is closest in meaning to",
+    "options": [
+     "a regular and standard feature",
+     "a small metal fastener for paper",
+     "a basic food eaten every day",
+     "an unusual and rare exception"
+    ],
+    "answer": 0,
+    "explain": "¶1: “Scenes like this have become a staple of conservation fundraising, and it is easy to see why” ในบริบทนี้ staple หมายถึงสิ่งที่พบเป็นประจำ/องค์ประกอบมาตรฐาน (A) ตัวเลือก B และ C เป็นความหมายอื่นของคำเดียวกัน (ลวดเย็บกระดาษ, อาหารหลัก) ที่ไม่เข้ากับบริบทการระดมทุน"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "In paragraph 2, the author's attitude towards 'the impulse to lend nature a helping hand' is best described as",
+    "options": [
+     "critical, because the author considers such efforts naive",
+     "indifferent, because the author is interested only in statistics",
+     "sympathetic, while signalling that reservations are to follow",
+     "wholeheartedly supportive, without any form of qualification"
+    ],
+    "answer": 2,
+    "explain": "¶2 เปิดด้วย “The case for intervention is, admittedly, a strong one” และปิดด้วย “entirely understandable” คำว่า admittedly บอกว่าผู้เขียนยอมรับเหตุผลนี้ แต่กำลังจะแย้งต่อ จึงตอบ C ตัวเลือก D เป็นกับดักเพราะคำว่า “entirely understandable” ฟังดูสนับสนุนเต็มที่ แต่ “understandable” ไม่เท่ากับ 'supportive' และบทความวิจารณ์ต่อใน ¶4–5"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "According to paragraph 3, 'assisted evolution' refers to",
+    "options": [
+     "rearing larvae collected during the corals' yearly mass spawning",
+     "fixing loose rubble with frames so that young corals can settle",
+     "moving fragments from warm reefs to cooler waters further north",
+     "breeding corals selectively for their apparent tolerance of heat"
+    ],
+    "answer": 3,
+    "explain": "¶3: “assisted evolution, selectively breeding corals that appear to tolerate higher temperatures” ตรงกับ D ซึ่งถอดความใหม่ ตัวเลือก A และ B เป็นวิธีฟื้นฟูอีกแบบที่อยู่ในย่อหน้าเดียวกัน จึงเป็นกับดักสำหรับผู้ที่อ่านไม่ละเอียด"
+   },
+   {
+    "type": "mc",
+    "skill": "fact/opinion",
+    "q": "Which of the following is presented in paragraph 4 as the author's own view rather than as a finding or wording of the 2024 review?",
+    "options": [
+     "The area restored in the region over ten years was under two square kilometres.",
+     "Rebuilding a reef fragment by fragment is like replanting a forest with a teaspoon.",
+     "The comparison between a reef and a forest actually understates the problem.",
+     "The review was carried out by marine scientists at a university in southern Thailand."
+    ],
+    "answer": 2,
+    "explain": "¶4: “To my mind, this comparison is, if anything, too generous” วลี to my mind แสดงความเห็นส่วนตัวของผู้เขียน จึงตอบ C ตัวเลือก B เป็นกับดักที่สุด เพราะการเปรียบเทียบกับช้อนชาเป็นถ้อยคำของงานทบทวน (“in the review's memorable phrase”) ไม่ใช่ของผู้เขียน ส่วน A เป็นตัวเลขที่งานทบทวนประมาณการไว้"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author quote Dr. Kanya Sirimongkol in paragraph 5?",
+    "options": [
+     "to support the claim that projects measure activity rather than real recovery",
+     "to show that experts strongly disagree about whether restoration has value",
+     "to place the blame for poor monitoring on untrained volunteer divers",
+     "to provide new survival figures for fragments planted on damaged reefs"
+    ],
+    "answer": 0,
+    "explain": "¶5: คำพูด “We have become very good at counting corals and rather poor at asking whether we have rebuilt anything” สนับสนุนประเด็นของย่อหน้าที่ว่าโครงการนับจำนวนกิ่งปะการังแต่ไม่ได้วัดการฟื้นตัวจริง (A) ตัวเลือก C ขัดกับที่ผู้เขียนบอกว่า “It would be unfair to blame volunteers for this”"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 5 that many projects report the number of fragments planted mainly because",
+    "options": [
+     "it is the most reliable indicator that a healthy reef is returning",
+     "it is a simple, visible figure that suits short-term funding",
+     "volunteers lack the training needed to count fish and invertebrates",
+     "donors do not permit monitoring that lasts longer than a few months"
+    ],
+    "answer": 1,
+    "explain": "¶5: ตัวเลขนี้ “is easy to report to donors” และ “short funding cycles reward visible activity rather than patient measurement” จึงอนุมานได้ว่าเหตุผลคือเป็นตัวเลขง่าย ๆ ที่เห็นผลชัดและเหมาะกับทุนระยะสั้น (B) ตัวเลือก A ขัดกับข้อความว่าตัวเลขนี้ “says little about whether a functioning reef is returning” ส่วน D เกินกว่าที่บทความกล่าว"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "What is the function of paragraph 6 in the author's argument?",
+    "options": [
+     "It abandons the earlier criticism in favour of a wholly positive view.",
+     "It presents evidence that restoration already works at a regional scale.",
+     "It describes the historical development of restoration in Thailand.",
+     "It qualifies the earlier criticism by identifying where restoration is worthwhile."
+    ],
+    "answer": 3,
+    "explain": "¶6 เริ่มด้วย “None of this means that restoration is futile” แล้วยกกรณีที่การฟื้นฟูมีประโยชน์ เช่นแนวปะการังเล็ก ๆ ที่เลือกอย่างระมัดระวังและธนาคารพันธุกรรม จึงเป็นการจำกัดขอบเขตคำวิจารณ์ (D) ตัวเลือก A เป็นกับดักเพราะผู้เขียนไม่ได้ละทิ้งคำวิจารณ์ ซึ่งกลับมาอีกใน ¶7 ส่วน B ขัดกับปัญหาเรื่องขนาดใน ¶4"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "Which of the following best describes the author's overall stance on coral restoration?",
+    "options": [
+     "conditionally supportive, but wary of its use as a substitute for deeper action",
+     "broadly hostile, regarding restoration as harmful to the reefs it targets",
+     "cautiously optimistic that restoration will eventually match reef losses",
+     "frustrated mainly by volunteers who lack proper scientific training"
+    ],
+    "answer": 0,
+    "explain": "ผู้เขียนยอมรับคุณค่าในบางกรณี (¶6) แต่เตือนใน ¶7 ว่า “What restoration cannot do is substitute for the measures that would allow reefs to survive” และ “It should not be mistaken for a policy” จึงตอบ A ตัวเลือก C ขัดกับ ¶4 ที่ชี้ว่าพื้นที่ฟื้นฟูเล็กมากเมื่อเทียบกับที่เสียไป ส่วน B เกินจริงเพราะผู้เขียนไม่ได้บอกว่าการฟื้นฟูเป็นอันตราย"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What do stressed corals expel during a bleaching event? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+    "answers": [
+     "the algae",
+     "algae"
+    ],
+    "explain": "¶2: “stressed corals expel the algae that supply most of their food” คำตอบคือ (the) algae (สาหร่ายที่อาศัยอยู่ในปะการัง)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What term is used for moving nursery-grown fragments onto the reef? (Answer in ONE WORD from the passage.)",
+    "answers": [
+     "outplanting"
+    ],
+    "explain": "¶3: “growing fragments in nurseries before 'outplanting' them onto the reef” คำตอบคือ outplanting"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "Apart from buying time, what can nurseries serve as, according to paragraph 6? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "living gene banks",
+     "gene banks"
+    ],
+    "explain": "¶6: “Nurseries can also serve as living gene banks, preserving varieties that might otherwise disappear” คำตอบคือ (living) gene banks"
+   }
+  ]
+ },
+ {
+  "id": "B08",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Society",
+  "title": "Inoculating the Mind: The Promise and Limits of Prebunking",
+  "focus": "Paraphrased detail",
+  "skill_tip_en": "Find the exact sentence the question points to, then choose the option that keeps its meaning in different words; distrust options that copy the passage's wording but change who, when, how much or why.",
+  "paragraphs": [
+   "Efforts to counter misinformation have traditionally taken the form of correction. Once a false claim begins to circulate, journalists, fact-checkers and public agencies set out to debunk it, publishing evidence that contradicts it. Although such corrections can reduce belief in specific falsehoods, they suffer from a structural disadvantage: they almost always arrive after the claim has spread, and they rarely reach everyone who saw the original. Many fact-checkers themselves acknowledge this limitation, describing their work as a race against falsehoods that they are unlikely ever to win. A growing body of research has therefore explored a complementary strategy, known as prebunking, which aims to build resistance to misleading content before people encounter it.",
+   "The idea draws on inoculation theory, a framework developed by social psychologists in the 1960s. Just as a vaccine exposes the immune system to a weakened form of a virus, psychological inoculation exposes people to a weakened dose of a persuasive attack, together with a clear explanation of why it is misleading. The theory holds that this experience prompts people to generate their own counter-arguments, so that when they meet the full-strength version later, they are better equipped to resist it. The aim, in other words, is not to prevent exposure altogether but to render it harmless. Early studies focused on specific claims, but this approach was limited by an obvious problem: no one can predict every falsehood that will appear.",
+   "Recent work has therefore shifted from inoculating against particular claims to inoculating against the techniques that misinformation commonly employs. These include emotionally manipulative language, false dichotomies that present only two options when more exist, the scapegoating of individuals or groups, and the use of fake experts to lend a claim an air of authority. Because such techniques recur across topics as different as vaccines, elections and investment fraud, teaching people to recognise them could, in principle, offer broad protection from a single intervention.",
+   "Evidence for this technique-based approach is encouraging. In a 2024 experiment at a university in central Thailand, Dr. Siriporn Thammasak and her team asked 1,800 adults to watch either a 90-second animated video explaining the 'fake expert' technique or a neutral video of similar length about household recycling. Participants were then shown a series of social media posts, some of which used the technique. Those who had watched the prebunking video were about 20 per cent better at identifying manipulative posts and reported being less willing to share them. Notably, the size of the effect did not depend on participants' political views or level of education.",
+   "Nevertheless, the approach has clear limitations. The protective effect appears to decay over time; in several studies, it had weakened substantially within a month unless participants received a short 'booster' reminder. Laboratory measures may also overstate real-world impact, since identifying a manipulative post in a survey is not the same as resisting one in a fast-moving feed, where attention is divided and content arrives from trusted friends. Some researchers have further warned that poorly designed interventions might breed general cynicism, leading people to distrust accurate information as readily as false claims. One study that found improved detection of misleading posts, for instance, also recorded a small decline in trust towards reliable news outlets.",
+   "There are also practical and ethical questions about delivery. The most ambitious trials have placed prebunking videos in the advertising slots of video-sharing platforms, reaching millions of viewers at low cost. Critics point out, however, that this places considerable influence in the hands of private companies, and that decisions about which techniques count as manipulative are not always politically neutral. Prebunking delivered through schools and public libraries may command greater trust, although it reaches far fewer people and depends on the willingness of teachers to adopt it. There is also a risk that audiences who realise a video has been paid for will dismiss its message as a form of propaganda.",
+   "On balance, prebunking seems best understood not as a replacement for fact-checking but as one layer in a wider defence. It is relatively cheap, scalable and applicable across topics, qualities that corrections lack. Yet its benefits are modest and short-lived, and its effectiveness outside controlled settings remains uncertain. A sensible strategy would combine prebunking with timely corrections, changes to platform design that slow the spread of viral content, and long-term investment in media literacy, so that resistance to manipulation becomes a lasting habit rather than the brief effect of a single video."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "Which of the following best restates the 'structural disadvantage' of corrections described in paragraph 1?",
+    "options": [
+     "They are usually less accurate than the false claims they respond to.",
+     "They tend to strengthen belief in the falsehood they set out to correct.",
+     "They are produced only by journalists rather than by public agencies.",
+     "They tend to come too late and miss part of the original claim's audience."
+    ],
+    "answer": 3,
+    "explain": "¶1: corrections “almost always arrive after the claim has spread, and they rarely reach everyone who saw the original” ซึ่ง D ถอดความว่ามาช้าและไม่ถึงผู้ชมทั้งหมด ตัวเลือก B ฟังดูเป็นจริง (ปรากฏการณ์ backfire) แต่บทความไม่ได้กล่าว และขัดกับที่ว่า corrections “can reduce belief” ส่วน C ขัดกับที่ระบุว่า public agencies ก็ทำการแก้ข่าวด้วย"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "According to paragraph 2, psychological inoculation protects people by",
+    "options": [
+     "exposing them to the full-strength version of a false claim",
+     "prompting them to develop their own arguments against an attack",
+     "warning them in advance about each specific falsehood to come",
+     "giving them a medical vaccine that sharpens their judgement"
+    ],
+    "answer": 1,
+    "explain": "¶2: “this experience prompts people to generate their own counter-arguments” จึงตอบ B ตัวเลือก A เป็นกับดักเพราะใช้คำ full-strength จากข้อความ แต่ข้อความบอกว่าใช้ “a weakened dose” ก่อน ส่วน C ขัดกับ “no one can predict every falsehood”"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "The 'obvious problem' with early inoculation studies (paragraph 2) was that",
+    "options": [
+     "it is impossible to anticipate every false claim in advance",
+     "the claims became more persuasive after people were inoculated",
+     "the original studies in the 1960s involved too few participants",
+     "people quickly forgot the counter-arguments they had learned"
+    ],
+    "answer": 0,
+    "explain": "¶2: “this approach was limited by an obvious problem: no one can predict every falsehood that will appear” A ถอดความเป็น 'impossible to anticipate every false claim' ตัวเลือก D เป็นกับดักเพราะเรื่องผลที่จางหายไปตามเวลาเป็นข้อจำกัดของ prebunking ใน ¶5 ไม่ใช่ปัญหาของงานวิจัยยุคแรกใน ¶2"
+   },
+   {
+    "type": "mc",
+    "skill": "vocabulary",
+    "q": "The word 'lend' in paragraph 3 is closest in meaning to",
+    "options": [
+     "borrow for a short time",
+     "allow someone to use money",
+     "add or give a quality to",
+     "take away or remove from"
+    ],
+    "answer": 2,
+    "explain": "¶3: “the use of fake experts to lend a claim an air of authority” ในบริบทนี้ lend หมายถึงเพิ่มหรือให้คุณสมบัติบางอย่าง (C) ตัวเลือก B เป็นความหมายที่พบบ่อยของ lend (ให้ยืมเงิน) แต่ไม่เข้ากับบริบท และ A เป็นความหมายของ borrow ซึ่งกลับทิศทาง"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "According to paragraph 3, teaching people to recognise techniques rather than claims is promising because",
+    "options": [
+     "manipulative techniques are easier to explain than specific claims",
+     "the same techniques appear in misleading content on unrelated topics",
+     "most misinformation today concerns only vaccines and elections",
+     "people are more interested in techniques than in individual claims"
+    ],
+    "answer": 1,
+    "explain": "¶3: “Because such techniques recur across topics as different as vaccines, elections and investment fraud” B ถอดความ recur across topics เป็น 'appear … on unrelated topics' ตัวเลือก C เป็นกับดักเพราะใช้ชื่อหัวข้อจากข้อความแต่เติมคำว่า only ซึ่งบิดความหมาย"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "In the 2024 experiment described in paragraph 4, participants in the comparison group",
+    "options": [
+     "watched a 90-second animation explaining the fake expert technique",
+     "received a short booster reminder one month after the first video",
+     "were not shown any social media posts at the end of the study",
+     "watched a video of similar length on an unrelated everyday topic"
+    ],
+    "answer": 3,
+    "explain": "¶4: กลุ่มเปรียบเทียบดู “a neutral video of similar length about household recycling” D ถอดความเป็นวิดีโอความยาวใกล้เคียงในหัวข้อที่ไม่เกี่ยวข้อง ตัวเลือก A เป็นกับดักเพราะเป็นสิ่งที่กลุ่มทดลองได้ดู ส่วน B เป็นข้อมูลจาก ¶5 ไม่ใช่การทดลองนี้"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "The finding that the effect 'did not depend on participants' political views or level of education' suggests that prebunking",
+    "options": [
+     "could be useful for a broad and varied population",
+     "works best among people with university degrees",
+     "is unnecessary for people who avoid political content",
+     "has a stronger effect than any form of fact-checking"
+    ],
+    "answer": 0,
+    "explain": "¶4: “the size of the effect did not depend on participants' political views or level of education” แสดงว่าได้ผลใกล้เคียงกันในคนหลายกลุ่ม จึงอนุมานได้ว่าใช้ได้กับประชากรวงกว้าง (A) ตัวเลือก B ขัดกับข้อความโดยตรง ส่วน D เป็นการเปรียบเทียบที่บทความไม่ได้ทำ"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "Which of the following best expresses the concern about 'general cynicism' raised in paragraph 5?",
+    "options": [
+     "Trained people might share manipulative posts more often than before.",
+     "Viewers might grow tired of watching repeated booster videos.",
+     "People might become suspicious of reliable sources as well as false ones.",
+     "Researchers might exaggerate the benefits of their laboratory findings."
+    ],
+    "answer": 2,
+    "explain": "¶5: interventions “might breed general cynicism, leading people to distrust accurate information as readily as false claims” C ถอดความว่าคนอาจระแวงแหล่งข้อมูลที่เชื่อถือได้ไปด้วย ตัวเลือก D เป็นกับดักเพราะเป็นข้อจำกัดจริงในย่อหน้าเดียวกัน (laboratory measures may “overstate”) แต่ไม่ใช่ความกังวลเรื่อง cynicism"
+   },
+   {
+    "type": "mc",
+    "skill": "main idea",
+    "q": "Which statement best summarises the author's conclusion about prebunking?",
+    "options": [
+     "It should replace fact-checking because it is cheaper and faster.",
+     "It is a useful but limited tool that should complement other measures.",
+     "It fails outside the laboratory and should therefore be abandoned.",
+     "It works only when it is delivered through schools and libraries."
+    ],
+    "answer": 1,
+    "explain": "¶7: prebunking ควรเป็น “not as a replacement for fact-checking but as one layer in a wider defence” และ “its benefits are modest and short-lived” จึงตอบ B ตัวเลือก A เป็นกับดักเพราะผู้เขียนยอมรับว่าราคาถูก (“relatively cheap”) แต่ปฏิเสธการใช้แทน fact-checking อย่างชัดเจน"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What framework from the 1960s does prebunking draw on? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+    "answers": [
+     "inoculation theory"
+    ],
+    "explain": "¶2: “The idea draws on inoculation theory, a framework developed by social psychologists in the 1960s” คำตอบคือ inoculation theory (ทฤษฎีการสร้างภูมิคุ้มกันทางความคิด)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What kind of short reminder can prevent the protective effect from weakening substantially within a month? (Answer in ONE WORD from the passage.)",
+    "answers": [
+     "booster"
+    ],
+    "explain": "¶5: “it had weakened substantially within a month unless participants received a short 'booster' reminder” คำตอบคือ booster"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "Where have the most ambitious trials placed prebunking videos on video-sharing platforms? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "advertising slots",
+     "the advertising slots"
+    ],
+    "explain": "¶6: “The most ambitious trials have placed prebunking videos in the advertising slots of video-sharing platforms” คำตอบคือ (the) advertising slots"
+   }
+  ]
+ },
+ {
+  "id": "B09",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Society",
+  "title": "Money With No Strings: What Basic Income Trials Can and Cannot Tell Us",
+  "focus": "NOT/EXCEPT questions",
+  "skill_tip_en": "For NOT or EXCEPT questions, match each option to a specific sentence in the passage; the answer is the option you cannot find, even if it sounds true in the real world.",
+  "paragraphs": [
+   "Few policy ideas have travelled as quickly from the margins to the mainstream as universal basic income: a regular cash payment made to every individual, without conditions and regardless of whether they work. Supporters argue that it could reduce poverty more efficiently than existing welfare systems, provide security in an economy disrupted by automation, and free people to pursue education, care or small enterprises. Critics counter that it would be prohibitively expensive and might discourage paid work. Because the debate has often been conducted in abstract terms, researchers and governments have increasingly turned to field trials in the hope of settling it with evidence.",
+   "Strictly speaking, few of these experiments test a universal basic income at all. Most provide payments to a limited group selected by lottery or by income, for a fixed period of one to three years, and fund them through charities or research grants rather than taxation. A typical design, such as a 2022 pilot in two districts of north-eastern Thailand led by Dr. Anan Phromsuwan, gave 1,200 low-income adults a monthly payment of 2,000 baht for two years and compared their outcomes with those of a similar group who received nothing. Participants were free to spend the money as they wished, and researchers tracked their employment, health, debts and spending through surveys every six months. Such trials can reveal how individuals respond to unconditional cash, but they cannot show what would happen if an entire population received it.",
+   "Within these constraints, the findings have been fairly consistent. Contrary to the fears of critics, recipients rarely reduce their working hours by much. In the Thai pilot, average weekly hours of paid work fell by less than one hour, and the decline was concentrated among two groups: mothers of young children and young adults who had returned to education. Recipients also reported lower levels of stress and were less likely to take out high-interest loans from informal moneylenders. Spending on alcohol and tobacco, a frequent concern among sceptics, did not increase; if anything, it fell slightly.",
+   "Some effects, however, were weaker than advocates had predicted. There was little evidence that the payments led recipients to start businesses in large numbers, and improvements in physical health were small and statistically uncertain. Several trials elsewhere have reported similar results, and some researchers suggest that a payment known to end after two years is unlikely to change long-term decisions, such as whether to take the risk of setting up a firm. Advocates had expected that relief from immediate financial pressure would encourage experimentation, but the data offered little support for that hope. People who expect their income to stop may quite sensibly treat the money as a temporary cushion rather than as a foundation for new plans.",
+   "This points to a more fundamental difficulty. Temporary, partial trials cannot capture the economy-wide effects that matter most in the policy debate. A permanent national scheme would have to be financed, most likely through higher taxes, which might themselves influence how much people choose to work. It could raise demand for goods and services in poor areas, and potentially prices as well. It might also alter social expectations about work, family and community in ways that no two-year experiment involving a few thousand people could detect. Economists describe these as general equilibrium effects, and they are notoriously difficult to estimate.",
+   "There are ethical complications too. Selecting some families by lottery to receive money while their neighbours receive none can create resentment, and in one pilot, local officials reported tensions at village meetings. Researchers must also decide what happens when a trial ends. Recipients who have adjusted their household budgets around a regular payment may face genuine hardship when it stops, which has led some ethics committees to require gradual phase-out periods rather than an abrupt end to payments.",
+   "None of this makes trials worthless. They have usefully dispelled some of the more alarming predictions about idleness and wasteful spending, and they offer valuable evidence about the design of targeted cash transfers, which many governments already operate. What they cannot do is answer the central political question of whether a universal scheme is affordable and desirable. That question involves judgements about fairness, the proper role of the state and the value of work, which evidence can inform but never entirely resolve. Trials, in this sense, are best seen as one contribution to a wider public deliberation rather than as a final verdict."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "Which of the following is NOT mentioned in paragraph 1 as an argument made by supporters of basic income?",
+    "options": [
+     "It could tackle poverty more efficiently than current welfare systems.",
+     "It could give people security as automation changes the economy.",
+     "It could lower crime rates in low-income urban neighbourhoods.",
+     "It could allow people to spend time on study or caring for others."
+    ],
+    "answer": 2,
+    "explain": "¶1 ระบุข้อโต้แย้งของฝ่ายสนับสนุนว่า “reduce poverty more efficiently”, “provide security in an economy disrupted by automation” และ “free people to pursue education, care or small enterprises” ตรงกับ A, B, D ส่วน C (ลดอาชญากรรม) ตัวเลือกนี้ฟังดูเป็นจริงในโลกจริง แต่บทความไม่ได้กล่าวไว้ จึงเป็นคำตอบ ผู้ที่ตอบจากความรู้ทั่วไปมักพลาดข้อนี้"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "According to paragraph 2, most basic income trials have all of the following features EXCEPT",
+    "options": [
+     "payments that are adjusted every year to keep pace with inflation",
+     "recipients who are chosen either by lottery or by their income",
+     "payments that continue for a set period of one to three years",
+     "funding that comes from charities or from research grants"
+    ],
+    "answer": 0,
+    "explain": "¶2: “a limited group selected by lottery or by income, for a fixed period of one to three years, and fund them through charities or research grants” ตรงกับ B, C, D ส่วน A (ปรับเงินตามเงินเฟ้อ) ตัวเลือกนี้ฟังดูเป็นจริงในโลกจริง แต่บทความไม่ได้กล่าวไว้ ระวังตัวเลือก D ซึ่งถอดความ “charities or research grants” จึงอาจดูไม่คุ้นแต่มีในข้อความ"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 2 that the author regards the label 'basic income trial' as",
+    "options": [
+     "accurate, since the trials pay every adult living in a district",
+     "unfair to critics, who designed and funded most of the trials",
+     "outdated, because trials are now financed through taxation",
+     "somewhat misleading, since most trials are neither universal nor permanent"
+    ],
+    "answer": 3,
+    "explain": "¶2 เปิดด้วย “Strictly speaking, few of these experiments test a universal basic income at all” เพราะจ่ายเฉพาะกลุ่มจำกัดและในช่วงเวลาจำกัด จึงอนุมานได้ว่าผู้เขียนเห็นว่าชื่อเรียกนี้ชวนเข้าใจผิด (D) ตัวเลือก A ขัดกับ “a limited group” และ C ขัดกับ “rather than taxation”"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "Which of the following is NOT reported as a finding of the Thai pilot in paragraph 3?",
+    "options": [
+     "a small fall in the average number of hours of paid work",
+     "less borrowing from informal lenders charging high interest",
+     "more regular school attendance among recipients' children",
+     "no rise in the amount spent on alcohol and tobacco"
+    ],
+    "answer": 2,
+    "explain": "¶3 รายงานว่าชั่วโมงทำงาน “fell by less than one hour”, ผู้รับเงิน “less likely to take out high-interest loans from informal moneylenders” และค่าเหล้าบุหรี่ “did not increase” ตรงกับ A, B, D ส่วน C (เด็กไปโรงเรียนสม่ำเสมอขึ้น) ตัวเลือกนี้ฟังดูเป็นจริงในโลกจริง แต่บทความไม่ได้กล่าวไว้ และระวังสับสนกับ “young adults who had returned to education” ซึ่งพูดถึงผู้ใหญ่ ไม่ใช่เด็ก"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "According to paragraph 3, the reduction in working hours",
+    "options": [
+     "was spread fairly evenly across all of the recipients",
+     "was mostly among people with caring duties or in study",
+     "was larger than critics of basic income had predicted",
+     "occurred mainly among older workers close to retirement"
+    ],
+    "answer": 1,
+    "explain": "¶3: การลดลง “was concentrated among two groups: mothers of young children and young adults who had returned to education” B ถอดความเป็นผู้มีภาระดูแลเด็กหรือกำลังเรียน ตัวเลือก C กลับความหมาย เพราะข้อความบอกว่า “Contrary to the fears of critics, recipients rarely reduce their working hours by much”"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "The explanation offered by some researchers in paragraph 4 implies that a permanent payment",
+    "options": [
+     "might influence long-term decisions more than a temporary one",
+     "would lead most recipients to set up their own businesses",
+     "would bring larger health benefits than any other policy",
+     "would also be treated by recipients as a temporary cushion"
+    ],
+    "answer": 0,
+    "explain": "¶4: นักวิจัยบางคนเสนอว่า “a payment known to end after two years is unlikely to change long-term decisions” ดังนั้นหากเงินเป็นแบบถาวร ก็อาจมีผลต่อการตัดสินใจระยะยาวมากกว่า (A) ตัวเลือก B ใช้คำว่า most ซึ่งเกินกว่าที่อนุมานได้ ส่วน D กลับเหตุผล เพราะผู้คนมองเงินเป็น “temporary cushion” ก็เพราะรู้ว่าจะหยุดจ่าย"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "Paragraph 5 mentions all of the following as possible effects of a permanent national scheme EXCEPT",
+    "options": [
+     "higher taxes that could affect people's willingness to work",
+     "rising demand and possibly prices in poorer areas",
+     "changes in social expectations about work and family",
+     "a decline in migration from rural areas to cities"
+    ],
+    "answer": 3,
+    "explain": "¶5 กล่าวถึง “higher taxes, which might themselves influence how much people choose to work”, “raise demand … and potentially prices” และ “alter social expectations about work, family and community” ตรงกับ A, B, C ส่วน D (การย้ายถิ่นเข้าเมืองลดลง) ตัวเลือกนี้ฟังดูเป็นจริงในโลกจริง แต่บทความไม่ได้กล่าวไว้ จึงเป็นคำตอบ"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention that 'local officials reported tensions at village meetings' in paragraph 6?",
+    "options": [
+     "to argue that lottery-based trials should be banned entirely",
+     "to illustrate how choosing recipients by lottery can cause resentment",
+     "to show that officials opposed the idea of basic income from the start",
+     "to explain why recipients faced hardship when payments stopped"
+    ],
+    "answer": 1,
+    "explain": "¶6: “Selecting some families by lottery … can create resentment, and in one pilot, local officials reported tensions at village meetings” ตัวอย่างนี้ใช้ยืนยันประเด็นความไม่พอใจจากการจับฉลาก (B) ตัวเลือก D เป็นกับดักเพราะเป็นปัญหาจริงอีกข้อในย่อหน้าเดียวกัน แต่เป็นเรื่องตอนสิ้นสุดโครงการ ไม่ใช่เรื่องความตึงเครียดในหมู่บ้าน"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "According to paragraph 7, basic income trials have done all of the following EXCEPT",
+    "options": [
+     "weakened fears that recipients would become idle",
+     "challenged predictions that the money would be wasted",
+     "persuaded several governments to adopt universal schemes",
+     "provided evidence on designing targeted cash transfers"
+    ],
+    "answer": 2,
+    "explain": "¶7: trials “dispelled some of the more alarming predictions about idleness and wasteful spending” และ “offer valuable evidence about the design of targeted cash transfers” ตรงกับ A, B, D ส่วน C ตัวเลือกนี้ฟังดูเป็นจริงในโลกจริง แต่บทความไม่ได้กล่าวไว้ และยังขัดกับที่ว่าการทดลอง “cannot … answer the central political question”"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "Apart from income, how were participants in most trials selected? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+    "answers": [
+     "by lottery",
+     "lottery"
+    ],
+    "explain": "¶2: “Most provide payments to a limited group selected by lottery or by income” คำตอบคือ (by) lottery (การจับฉลาก)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What do economists call the economy-wide effects that temporary trials cannot capture? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "general equilibrium effects"
+    ],
+    "explain": "¶5: “Economists describe these as general equilibrium effects, and they are notoriously difficult to estimate” คำตอบคือ general equilibrium effects"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What have some ethics committees required in order to avoid an abrupt end to payments? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "gradual phase-out periods",
+     "phase-out periods"
+    ],
+    "explain": "¶6: “some ethics committees to require gradual phase-out periods rather than an abrupt end to payments” คำตอบคือ (gradual) phase-out periods"
+   }
+  ]
+ },
+ {
+  "id": "B10",
+  "kind": "long",
+  "genre": "feature article",
+  "domain": "Environment",
+  "title": "Beyond the Burger: The Uneven Rise of Alternative Proteins",
+  "focus": "Organisation and paragraph purpose",
+  "skill_tip_en": "Before answering organisation or purpose questions, label each paragraph in two or three words (example, cause, category, obstacle, conclusion) and ask what job it does for the article as a whole.",
+  "paragraphs": [
+   "In a busy food court in central Bangkok, a stall that opened two years ago sells what looks, smells and very nearly tastes like minced pork stir-fried with holy basil. The 'pork', however, is made from soy protein, coconut fat and a yeast extract that supplies the savoury depth customers expect. The stall's owner says that roughly one in five of her lunchtime customers now chooses the plant-based version, most of them not vegetarians but office workers who are 'trying to eat a bit less meat'. Her experience captures, on a small scale, both the promise of alternative proteins and the questions that continue to surround them.",
+   "The case for such products rests largely on the environmental footprint of conventional livestock. Raising animals for meat and milk occupies a large share of the world's agricultural land, consumes vast quantities of water and feed, and is responsible for a significant proportion of greenhouse gas emissions, particularly the methane released by cattle. As incomes rise across Asia and Africa, global demand for meat is projected to keep growing for decades. Proponents argue that unless at least part of that demand can be met in other ways, it will be difficult to reconcile food security with climate targets.",
+   "The most established alternatives are plant-based products, which combine proteins from soy, peas, wheat or mung beans with fats and flavourings to imitate the texture and taste of meat. In many ways, these are refinements of a very old tradition: tofu, tempeh and wheat gluten have been eaten across East and Southeast Asia for centuries. What is new is the ambition to replicate specific animal products closely enough to persuade committed meat-eaters to switch. Sales grew rapidly in the late 2010s, but in several Western markets they have since levelled off, as early curiosity has given way to concerns about price and taste.",
+   "A second, more experimental category is cultivated meat, produced by growing animal cells in large steel vessels known as bioreactors. In principle, this would deliver genuine meat without the need to raise and slaughter animals. In practice, the technology faces formidable obstacles. The nutrient solutions in which the cells are grown have been expensive, and scaling production from laboratory flasks to industrial volumes has proved far harder than early investors anticipated. Only a handful of countries have so far approved cultivated meat for sale, and the quantities available remain tiny. Questions about how such products should be labelled, and whether consumers will accept meat grown in a factory, also remain unresolved.",
+   "Between these two lie fermentation-based proteins. Some companies use microorganisms such as fungi to produce protein-rich biomass directly; others engineer yeasts to manufacture specific ingredients, such as the milk protein that makes cheese melt and stretch. Fermentation has the advantage of relying on equipment and expertise already used in brewing and food processing, which may allow it to expand more quickly than cultivated meat. Insects, meanwhile, represent an alternative that is novel mainly to Western consumers. In north-eastern Thailand, crickets and silkworm pupae have long been sold as snacks, and cricket farming has grown into a modest commercial industry supplying flour for protein bars and animal feed.",
+   "Despite this variety, the sector faces several common hurdles. Price is the most obvious: most alternatives still cost more than the cheapest conventional meat, which benefits from decades of efficiency gains and, in many countries, public subsidies. Taste and texture matter as well, since many consumers who try a product once do not buy it again. Cultural attachment to meat, particularly at festivals and family celebrations, is a further barrier that no amount of technical improvement can easily remove. There is also a growing debate about health. Critics argue that some plant-based products are highly processed and high in salt, while defenders reply that they compare favourably with the sausages and burgers they are designed to replace.",
+   "Perhaps the most important lesson, then, is that alternative proteins are unlikely to replace meat in a single, dramatic shift. A more plausible future is one of gradual blending, in which conventional meat is partly substituted in everyday dishes, alternative ingredients are mixed into familiar foods, and the choice between them depends on price, culture and occasion. The Bangkok stall owner, who still sells far more pork than plant-based mince, would probably agree. 'People don't want a revolution,' she says. 'They want lunch.'"
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "What is the main purpose of paragraph 1?",
+    "options": [
+     "to introduce the topic through a specific, everyday example",
+     "to show that most Bangkok office workers have become vegetarian",
+     "to list the ingredients used in all plant-based meat products",
+     "to compare the prices of plant-based and conventional pork dishes"
+    ],
+    "answer": 0,
+    "explain": "¶1 เล่าเรื่องร้านอาหารร้านหนึ่ง แล้วสรุปว่า “Her experience captures, on a small scale, both the promise of alternative proteins and the questions that continue to surround them” จึงเป็นการเปิดเรื่องด้วยตัวอย่างใกล้ตัว (A) ตัวเลือก B บิดข้อความ เพราะลูกค้าส่วนใหญ่ “not vegetarians” ส่วน C ใช้คำว่า all ซึ่งเกินจากส่วนผสมของเมนูเดียว"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "How does paragraph 2 relate to paragraph 1?",
+    "options": [
+     "It challenges the stall owner's account with contradictory figures.",
+     "It continues the description of the stall and its regular customers.",
+     "It sets out the main drawbacks of the alternatives just described.",
+     "It moves from a single case to the wider reasons behind the trend."
+    ],
+    "answer": 3,
+    "explain": "¶2 เริ่มด้วย “The case for such products rests largely on the environmental footprint of conventional livestock” คือขยายจากกรณีร้านเดียวใน ¶1 ไปสู่เหตุผลในภาพกว้าง (D) ตัวเลือก C เป็นกับดักเพราะอุปสรรคร่วมของโปรตีนทางเลือกอยู่ใน ¶6 ไม่ใช่ ¶2"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 2 that proponents regard rising incomes in Asia and Africa as",
+    "options": [
+     "the main solution to the problem of global food security",
+     "a likely source of extra climate pressure if diets stay the same",
+     "a reason to expect that demand for meat will soon decline",
+     "the chief cause of falling methane emissions from cattle"
+    ],
+    "answer": 1,
+    "explain": "¶2: เมื่อรายได้สูงขึ้น “global demand for meat is projected to keep growing” และหากไม่ตอบสนองความต้องการด้วยวิธีอื่นจะ “difficult to reconcile food security with climate targets” จึงอนุมานได้ว่ารายได้ที่เพิ่มขึ้นจะเพิ่มแรงกดดันต่อสภาพภูมิอากาศ (B) ตัวเลือก C กลับความหมาย เพราะข้อความบอกว่าความต้องการจะเพิ่มขึ้น ไม่ใช่ลดลง"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention tofu, tempeh and wheat gluten in paragraph 3?",
+    "options": [
+     "to suggest that traditional foods are healthier than new products",
+     "to explain why sales in Western markets have recently levelled off",
+     "to show that using plants as a source of protein is not a new idea",
+     "to list the ingredients of the plant-based pork sold at the stall"
+    ],
+    "answer": 2,
+    "explain": "¶3: plant-based products คือ “refinements of a very old tradition: tofu, tempeh and wheat gluten have been eaten … for centuries” ตัวอย่างนี้จึงแสดงว่าการกินโปรตีนจากพืชไม่ใช่เรื่องใหม่ (C) สิ่งที่ใหม่คือ “the ambition to replicate specific animal products” ตัวเลือก D เป็นกับดักเพราะส่วนผสมของร้านใน ¶1 คือ soy protein, coconut fat และ yeast extract"
+   },
+   {
+    "type": "mc",
+    "skill": "vocabulary",
+    "q": "The word 'formidable' in paragraph 4 is closest in meaning to",
+    "options": [
+     "very difficult to overcome",
+     "admirable and impressive",
+     "frightening in appearance",
+     "minor and short-lived"
+    ],
+    "answer": 0,
+    "explain": "¶4: “the technology faces formidable obstacles” แล้วตามด้วยปัญหาต้นทุนสูงและการขยายการผลิตที่ “far harder than early investors anticipated” formidable จึงหมายถึงยากมากที่จะเอาชนะ (A) ตัวเลือก B เป็นอีกความหมายหนึ่งของคำนี้ (น่าเกรงขาม/น่าประทับใจ) แต่ไม่เข้ากับคำว่า obstacles"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "Which of the following best describes how paragraphs 3, 4 and 5 are organised?",
+    "options": [
+     "They trace the history of one product from its invention to its sale.",
+     "Each introduces a different category of alternative protein and its status.",
+     "They present a problem in paragraph 3 and two solutions afterwards.",
+     "They compare the advantages and disadvantages of plant-based foods only."
+    ],
+    "answer": 1,
+    "explain": "¶3 เริ่มด้วย “The most established alternatives are plant-based products” ¶4 “A second, more experimental category is cultivated meat” และ ¶5 “Between these two lie fermentation-based proteins” รวมถึงแมลง แต่ละย่อหน้าจึงเสนอโปรตีนทางเลือกคนละประเภทพร้อมสถานะปัจจุบัน (B) ตัวเลือก C เป็นกับดักเพราะ ¶4 และ ¶5 ไม่ได้เป็นทางแก้ปัญหาของ ¶3 แต่เป็นทางเลือกคู่ขนาน"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "According to paragraph 5, insects are described as 'novel mainly to Western consumers' because",
+    "options": [
+     "Western companies were the first to farm crickets on a commercial scale",
+     "they are used only as animal feed in most parts of Southeast Asia",
+     "they have only recently been approved as human food in Thailand",
+     "they have long been a familiar food in places such as north-eastern Thailand"
+    ],
+    "answer": 3,
+    "explain": "¶5: “In north-eastern Thailand, crickets and silkworm pupae have long been sold as snacks” แมลงจึงเป็นของใหม่เฉพาะสำหรับชาวตะวันตก แต่คุ้นเคยในที่อื่นแล้ว (D) ตัวเลือก B เป็นกับดักเพราะ animal feed ปรากฏในข้อความ แต่คำว่า only ขัดกับการขายเป็นขนมและแป้งสำหรับ protein bars"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "What is the function of paragraph 6 in the article?",
+    "options": [
+     "to argue that alternative proteins are less healthy than meat",
+     "to explain why cultivated meat is the most promising option",
+     "to identify obstacles shared by the different alternatives",
+     "to describe new subsidies given to plant-based producers"
+    ],
+    "answer": 2,
+    "explain": "¶6 เปิดด้วย “Despite this variety, the sector faces several common hurdles” แล้วกล่าวถึงราคา รสชาติ และสุขภาพ จึงเป็นการระบุอุปสรรคร่วมของทุกประเภท (C) ตัวเลือก A เป็นกับดักเพราะผู้เขียนเพียงรายงานข้อถกเถียงของทั้ง critics และ defenders ไม่ได้ตัดสิน ส่วน D ใช้คำว่า subsidies แต่ในข้อความเงินอุดหนุนเป็นของเนื้อสัตว์แบบดั้งเดิม"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "Why does the author return to the Bangkok stall owner in the final paragraph?",
+    "options": [
+     "to reinforce the conclusion that change is likely to be gradual and practical",
+     "to show that plant-based dishes now outsell pork at her food court stall",
+     "to introduce a new argument about the rising cost of meals in Bangkok",
+     "to suggest that the stall owner is opposed to alternative proteins"
+    ],
+    "answer": 0,
+    "explain": "¶7 สรุปว่าอนาคตคือ “gradual blending” แล้วอ้างคำพูดเจ้าของร้าน “People don't want a revolution … They want lunch” เพื่อย้ำข้อสรุปและปิดเรื่องให้สอดรับกับตอนต้น (A) ตัวเลือก B กลับข้อเท็จจริง เพราะเธอ “still sells far more pork than plant-based mince”"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What ingredient gives the plant-based 'pork' its savoury depth? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "a yeast extract",
+     "yeast extract"
+    ],
+    "explain": "¶1: “a yeast extract that supplies the savoury depth customers expect” คำตอบคือ (a) yeast extract"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What are the large steel vessels used to grow animal cells called? (Answer in ONE WORD from the passage.)",
+    "answers": [
+     "bioreactors",
+     "bioreactor"
+    ],
+    "explain": "¶4: “growing animal cells in large steel vessels known as bioreactors” คำตอบคือ bioreactors"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "Apart from animal feed, what is cricket flour supplied for? (Answer in NO MORE THAN TWO WORDS from the passage.)",
+    "answers": [
+     "protein bars",
+     "protein bar"
+    ],
+    "explain": "¶5: “cricket farming has grown into a modest commercial industry supplying flour for protein bars and animal feed” คำตอบคือ protein bars"
+   }
+  ]
+ }
+]

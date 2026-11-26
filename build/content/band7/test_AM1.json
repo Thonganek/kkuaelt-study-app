@@ -1,0 +1,979 @@
+{
+ "id": "AM1",
+ "title": "Band 7 Mock 1",
+ "passages": [
+  {
+   "id": "AM1P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Astronomy",
+   "title": "Volunteer Network Captures Rare Flash on the Moon's Dark Side",
+   "paragraphs": [
+    "A loose network of amateur astronomers, coordinated by a small regional observatory in northern Thailand, has recorded what researchers believe is the brightest lunar impact flash yet documented in mainland Southeast Asia. The flash, which lasted roughly a third of a second, was captured on the evening of 14 August by three volunteers working independently in Chiang Rai, Nan and Luang Prabang.",
+    "Impact flashes occur when meteoroids strike the lunar surface at speeds that can exceed 20 kilometres per second. Because the Moon has no atmosphere to slow incoming debris, even small fragments release enough energy to produce a brief burst of light. Such events can only be observed on the unlit portion of the Moon, where the flash is not drowned out by reflected sunlight, and they are so fleeting that a single sighting is generally treated with caution.",
+    "It was precisely this problem that the network was set up to address. According to Dr. Kanokwan Siripat, an astronomer at the Mae Kok Observatory, a flash recorded by only one camera could easily be a cosmic ray striking the sensor, a satellite briefly reflecting the sun, or simply electronic noise. “A single video is an anecdote,” she said. “Two or more, taken hundreds of kilometres apart, become evidence.” Because the three recordings agree on both the timing and the position of the flash, the team is confident that the event was genuine.",
+    "Preliminary estimates suggest that the object weighed between 3 and 6 kilograms and left a crater perhaps 8 to 12 metres across. The researchers stress, however, that these figures rest on assumptions about the impactor's speed and about how efficiently its energy was converted into visible light, neither of which can be measured directly. They have therefore shared their data with scientists working on a lunar orbiter, in the hope that the spacecraft can photograph the site and confirm whether a fresh crater exists.",
+    "Beyond its scientific value, the observation has been welcomed as a vindication of citizen science. The network's members use modest telescopes and inexpensive video cameras, many of them bought second-hand, and most have no formal training in astronomy. Their work is nonetheless attracting growing interest from engineers: as several countries plan crewed missions and permanent bases on the Moon, a clearer picture of how often the surface is struck could inform the design of shielding for equipment and habitats.",
+    "Not everyone expects rapid progress. Dr. Somchai Phanthong, a planetary scientist who was not involved in the project, cautioned that a handful of recorded flashes cannot yet yield a reliable impact rate. “We need years of systematic monitoring, not a few lucky nights,” he said. The network appears to agree; it plans to recruit a further twenty observers across the Mekong region by the end of next year."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Amateur astronomers have shown that professional observatories are no longer needed to study the Moon.",
+      "A lunar impact flash confirmed by several volunteers has been welcomed, though its wider significance is still limited.",
+      "Engineers have begun designing lunar bases using data collected by a network of volunteers.",
+      "A meteoroid weighing several kilograms has been proved to have left a new crater on the Moon."
+     ],
+     "answer": 1,
+     "explain": "บทความรายงานว่าเครือข่ายอาสาสมัครบันทึกแสงวาบได้พร้อมกันหลายจุด (¶1, ¶3) และได้รับการยกย่อง (¶5) แต่ ¶6 เตือนว่า “a handful of recorded flashes cannot yet yield a reliable impact rate” จึงตอบ B ตัวเลือก D ล่อใจเพราะมีตัวเลขน้ำหนักจาก ¶4 แต่บทความบอกว่าเป็นเพียงการประมาณ และยังรอยานโคจร “confirm whether a fresh crater exists” จึงยังไม่ได้ 'พิสูจน์'"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that impact flashes on the sunlit part of the Moon",
+     "options": [
+      "are rarer because fewer meteoroids strike that side",
+      "release less energy than those on the unlit side",
+      "are slowed down by a thin layer of lunar gases",
+      "probably occur but cannot be seen against the bright, sunlit surface"
+     ],
+     "answer": 3,
+     "explain": "¶2: flashes “can only be observed on the unlit portion of the Moon, where the flash is not drowned out by reflected sunlight” แสดงว่าด้านที่มีแสงก็น่าจะเกิดแสงวาบเช่นกัน เพียงแต่มองไม่เห็นเพราะแสงอาทิตย์กลบ จึงตอบ D ตัวเลือก A ล่อใจแต่บทความไม่ได้บอกว่าอุกกาบาตตกด้านใดมากกว่า ส่วน C ขัดกับ “the Moon has no atmosphere”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does Dr. Kanokwan say that “A single video is an anecdote” in paragraph 3?",
+     "options": [
+      "To explain why sightings from several separate locations were essential",
+      "To criticise volunteers who share their videos before checking them",
+      "To suggest that video cameras are less reliable than telescopes",
+      "To admit that the August flash may not have been a real event"
+     ],
+     "answer": 0,
+     "explain": "¶3 อธิบายว่าภาพจากกล้องตัวเดียวอาจเป็น “a cosmic ray… a satellite… or simply electronic noise” แล้วเธอเสริมว่า “Two or more, taken hundreds of kilometres apart, become evidence” คำพูดนี้จึงใช้อธิบายเหตุผลที่ต้องมีผู้สังเกตหลายจุด ตอบ A ตัวเลือก D ผิดเพราะ ¶3 บอกว่าทีม “is confident that the event was genuine”"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "In paragraph 4, the phrase 'these figures' refers to",
+     "options": [
+      "the impact speeds of over 20 kilometres per second given in paragraph 2",
+      "the times at which the three volunteers recorded the flash",
+      "the estimated mass of the object and the size of its crater",
+      "the images that the lunar orbiter is expected to provide"
+     ],
+     "answer": 2,
+     "explain": "¶4 ประโยคก่อนหน้าให้ตัวเลข “weighed between 3 and 6 kilograms and left a crater perhaps 8 to 12 metres across” แล้วจึงพูดว่า “these figures rest on assumptions” ดังนั้นจึงหมายถึงน้ำหนักและขนาดหลุม ตอบ C ตัวเลือก A ล่อใจเพราะเป็นตัวเลขเรื่องความเร็ว แต่ความเร็วคือ 'สมมติฐาน' ที่ตัวเลขเหล่านี้อาศัย ไม่ใช่ตัวเลขที่ถูกอ้างถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the second sentence of paragraph 4?",
+     "options": [
+      "The estimates depend on two factors that the team was unable to observe.",
+      "The team measured the object's speed but not the light it produced.",
+      "The researchers doubt that the object struck the Moon at all.",
+      "The figures were calculated from direct measurements of the crater."
+     ],
+     "answer": 0,
+     "explain": "¶4: the figures “rest on assumptions about the impactor's speed and about how efficiently its energy was converted into visible light, neither of which can be measured directly” คือค่าประมาณขึ้นกับสองปัจจัยที่วัดตรงไม่ได้ ตอบ A ตัวเลือก B ผิดเพราะ “neither” หมายความว่าวัดไม่ได้ทั้งสองอย่าง ส่วน D ขัดกับข้อความเพราะยังไม่มีใครเห็นหลุมเลย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'vindication' in paragraph 5 is closest in meaning to",
+     "options": [
+      "a fresh challenge to",
+      "evidence of the value of",
+      "an official reward for",
+      "a defence against complaints about"
+     ],
+     "answer": 1,
+     "explain": "¶5: “welcomed as a vindication of citizen science” แล้วอธิบายว่าคนธรรมดาที่ใช้อุปกรณ์ราคาถูกก็สร้างผลงานที่มีคุณค่าได้ vindication ในที่นี้จึงหมายถึงหลักฐานที่ยืนยันว่าสิ่งนั้นมีคุณค่า ตอบ B ตัวเลือก D ล่อใจเพราะ vindicate อาจหมายถึงการพ้นข้อกล่าวหา แต่บทความไม่ได้กล่าวถึงคำตำหนิใดๆ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 5, why are engineers increasingly interested in the network's work?",
+     "options": [
+      "Cheap second-hand cameras could replace costly instruments on future missions.",
+      "The volunteers could train engineers to monitor the Moon at night.",
+      "Impact flashes might provide a source of light for future lunar bases.",
+      "Knowing how often the Moon is hit could help protect future structures there."
+     ],
+     "answer": 3,
+     "explain": "¶5: “a clearer picture of how often the surface is struck could inform the design of shielding for equipment and habitats” จึงตอบ D ตัวเลือก A ล่อใจเพราะใช้คำ “second-hand” และ “inexpensive” จากย่อหน้าเดียวกัน แต่นั่นเป็นคำบรรยายอุปกรณ์ของอาสาสมัคร ไม่ใช่เหตุผลที่วิศวกรสนใจ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Dr. Somchai's attitude towards the network's findings can best be described as",
+     "options": [
+      "dismissive, since he doubts that the flash was genuine",
+      "enthusiastic, since the findings settle the question of impact rates",
+      "cautious about how much they can reveal at this stage",
+      "indifferent, because he took no part in the project"
+     ],
+     "answer": 2,
+     "explain": "¶6: เขา “cautioned that a handful of recorded flashes cannot yet yield a reliable impact rate” และบอกว่า “We need years of systematic monitoring” แสดงความระมัดระวังต่อสิ่งที่ข้อมูลบอกได้ในตอนนี้ ตอบ C ตัวเลือก A ล่อใจแต่เขาไม่ได้สงสัยว่าแสงวาบเกิดจริงหรือไม่ เพียงแต่บอกว่ายังสรุปอัตราการชนไม่ได้ ส่วน D ใช้ข้อมูลว่าเขา “not involved” มาตีความผิด"
+    }
+   ]
+  },
+  {
+   "id": "AM1P2",
+   "kind": "short",
+   "genre": "official notice",
+   "domain": "Health insurance",
+   "title": "Notice to Members: Revised Outpatient Benefits and Pre-Approval Rules",
+   "paragraphs": [
+    "Members of the Northeastern Universities Staff Health Scheme are advised that, following the annual review of the scheme by its governing board, a number of changes to benefits and procedures will take effect for all policies renewed on or after 1 April 2027. Members whose policies renew before that date will continue under the current terms until their next renewal. Nothing in this notice affects claims for treatment that has already been received.",
+    "The most significant change concerns outpatient care. At present, members may claim up to 1,500 baht per visit with no annual ceiling. From the renewal date, the per-visit limit will rise to 2,000 baht, but total outpatient claims will be capped at 30,000 baht per member per policy year. The board recognises that this ceiling will affect some members who visit clinics frequently. However, the scheme's actuarial review found that fewer than 4 per cent of members exceeded this amount in the past three years, whereas rising claim costs, if left unchecked, would have required an across-the-board increase in contributions of roughly 11 per cent.",
+    "Members with long-term conditions such as diabetes, hypertension or chronic kidney disease, who may be disproportionately affected by the ceiling, are encouraged to enrol in the scheme's Chronic Care Pathway. Enrolled members receive medication and routine monitoring through designated partner clinics, and these costs are not counted towards the outpatient ceiling. Enrolment requires a referral from a registered physician and may be completed at any time during the policy year.",
+    "Second, the list of procedures requiring pre-approval will be extended. In addition to non-emergency surgery, members must now obtain written approval before undergoing MRI or CT scans, and before any inpatient admission planned more than 48 hours in advance. Requests should be submitted through the member portal at least five working days beforehand. Claims for listed procedures carried out without approval may be reduced by up to 50 per cent, except where the treating doctor certifies that the delay required to obtain approval would have endangered the patient's health.",
+    "Third, the waiting period for dental and optical benefits for new members will be shortened from twelve months to six. Existing members are unaffected by this change.",
+    "Contribution rates for the coming year will remain unchanged for all age bands. The board wishes to stress that this outcome was made possible largely by the introduction of the outpatient ceiling described above.",
+    "Members who wish to comment on these changes may do so in writing to the Scheme Secretariat until 28 February 2027. Comments received will be considered at the board's next meeting, although the board does not undertake to respond to individual submissions. A full schedule of benefits is available on the member portal or from the human resources office of each participating university."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of this notice?",
+     "options": [
+      "To persuade members to renew their policies before 1 April 2027",
+      "To announce that members' contributions will rise in the coming year",
+      "To inform members of revised benefits and rules and when they apply",
+      "To invite members to vote on changes that the board has proposed"
+     ],
+     "answer": 2,
+     "explain": "ประกาศนี้แจ้งว่า “a number of changes to benefits and procedures will take effect” (¶1) แล้วอธิบายแต่ละข้อใน ¶2–¶5 จึงตอบ C ตัวเลือก D ล่อใจเพราะ ¶7 เปิดให้ส่งความเห็นได้ แต่เป็นการรับฟังความเห็น ไม่ใช่การลงคะแนน ส่วน B ขัดกับ ¶6 ที่ว่าเงินสมทบ “will remain unchanged”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 1 about a member whose policy renews on 1 January 2027?",
+     "options": [
+      "The member will keep the current benefits until the policy renews again.",
+      "The member will be moved to the new terms on 1 April 2027.",
+      "The member will lose cover for treatment already received.",
+      "The member will have to apply again in order to stay in the scheme."
+     ],
+     "answer": 0,
+     "explain": "¶1: “Members whose policies renew before that date will continue under the current terms until their next renewal” ผู้ที่ต่ออายุวันที่ 1 มกราคม 2027 (ก่อน 1 เมษายน) จึงใช้เงื่อนไขเดิมไปจนถึงการต่ออายุครั้งถัดไป ตอบ A ตัวเลือก B ล่อใจเพราะใช้วันที่ 1 April แต่วันนั้นใช้กับกรมธรรม์ที่ต่ออายุ 'ในหรือหลัง' วันดังกล่าวเท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best summarises the change to the outpatient benefit?",
+     "options": [
+      "A lower payment for each visit, but no limit on the total for the year",
+      "A yearly limit of 2,000 baht that replaces the limit for each visit",
+      "An increase of about 11 per cent in the amount paid for each visit",
+      "A larger payment for each visit, combined with a new limit on the yearly total"
+     ],
+     "answer": 3,
+     "explain": "¶2: “the per-visit limit will rise to 2,000 baht, but total outpatient claims will be capped at 30,000 baht per member per policy year” คือจ่ายต่อครั้งมากขึ้นแต่มีเพดานรวมต่อปี ตอบ D ตัวเลือก A กลับด้านทั้งสองส่วน ส่วน B สลับตัวเลข 2,000 ซึ่งเป็นวงเงินต่อครั้ง ไม่ใช่ต่อปี"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the notice mention the figure of 11 per cent in paragraph 2?",
+     "options": [
+      "To report how much claim costs rose over the past three years",
+      "To show the cost of an alternative that the board wished to avoid",
+      "To indicate the proportion of members who will reach the ceiling",
+      "To announce the new contribution rate for all age bands"
+     ],
+     "answer": 1,
+     "explain": "¶2: rising costs “if left unchecked, would have required an across-the-board increase in contributions of roughly 11 per cent” ตัวเลขนี้ใช้แสดงผลของทางเลือกอื่นที่คณะกรรมการไม่ต้องการ เพื่อสนับสนุนการกำหนดเพดาน ตอบ B ตัวเลือก D ล่อใจแต่ ¶6 ระบุว่าเงินสมทบไม่เปลี่ยน และ C สับสนกับตัวเลข “fewer than 4 per cent”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 3 that a member with diabetes who joins the Chronic Care Pathway",
+     "options": [
+      "can enrol only at the beginning of a policy year",
+      "is less likely to reach the outpatient ceiling",
+      "no longer needs a doctor's referral for treatment",
+      "will pay higher contributions than other members"
+     ],
+     "answer": 1,
+     "explain": "¶3: ค่ายาและการติดตามอาการของสมาชิกในโครงการ “are not counted towards the outpatient ceiling” ผู้ป่วยเบาหวานที่เข้าร่วมจึงมีโอกาสใช้วงเงินจนเต็มน้อยลง ตอบ B ตัวเลือก A ขัดกับ “may be completed at any time during the policy year” และ C ขัดกับ “Enrolment requires a referral”"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Under the new rules, which of the following does NOT require pre-approval?",
+     "options": [
+      "an inpatient admission arranged at short notice in an emergency",
+      "a CT scan recommended by the member's doctor",
+      "surgery that is not needed as an emergency",
+      "a hospital admission booked a week in advance"
+     ],
+     "answer": 0,
+     "explain": "¶4 ระบุว่าต้องขออนุมัติสำหรับ “non-emergency surgery”, “MRI or CT scans” และ “any inpatient admission planned more than 48 hours in advance” การนอนโรงพยาบาลฉุกเฉินแบบกะทันหันจึงไม่อยู่ในรายการ ตอบ A ตัวเลือก D ล่อใจเพราะดูเหมือนการนอนโรงพยาบาลทั่วไป แต่การจองล่วงหน้าหนึ่งสัปดาห์เกิน 48 ชั่วโมง จึงต้องขออนุมัติ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, a claim for an MRI scan carried out without approval may still be paid in full if",
+     "options": [
+      "the member submits a request within five working days afterwards",
+      "the scan was planned more than 48 hours before it took place",
+      "the treating doctor confirms that waiting would have put the patient at risk",
+      "the member has already paid the full cost of the scan"
+     ],
+     "answer": 2,
+     "explain": "¶4: การลดค่าสินไหมมีข้อยกเว้น “where the treating doctor certifies that the delay required to obtain approval would have endangered the patient's health” จึงตอบ C ตัวเลือก A ใช้ตัวเลข five working days แต่ในบทความคือกำหนดยื่นคำขอ 'ล่วงหน้า' ไม่ใช่หลังทำ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "In paragraph 7, the phrase 'does not undertake to respond' is closest in meaning to",
+     "options": [
+      "does not attempt to respond",
+      "is not able to respond",
+      "has not yet begun to respond",
+      "does not promise to respond"
+     ],
+     "answer": 3,
+     "explain": "¶7: “Comments received will be considered… although the board does not undertake to respond to individual submissions” undertake to ในบริบททางการหมายถึง 'ให้คำมั่นว่าจะทำ' คณะกรรมการจะพิจารณาความเห็นแต่ไม่รับปากว่าจะตอบทุกคน ตอบ D ตัวเลือก C ล่อใจเพราะ undertake อาจหมายถึง 'เริ่มทำงาน' แต่ไม่เข้ากับบริบทนี้"
+    }
+   ]
+  },
+  {
+   "id": "AM1P3",
+   "kind": "short",
+   "genre": "feature article",
+   "domain": "Consumer finance",
+   "title": "Four Easy Payments: The Hidden Cost of Buying Now and Paying Later",
+   "paragraphs": [
+    "When Pimchanok, a 26-year-old graphic designer in Bangkok, bought a 12,000-baht phone last year, she did not use a credit card. Instead, she tapped a button at the online checkout that split the price into four interest-free instalments. Within six months, she had seven such plans running at once. “Each one felt tiny,” she recalls. “It was only when I listed them all that I realised a third of my salary was spoken for before it arrived.”",
+    "Pimchanok's experience is hardly unusual. Buy-now-pay-later (BNPL) services, which allow shoppers to spread the cost of a purchase over several weeks or months, have expanded rapidly across Southeast Asia, particularly among consumers under thirty. Unlike credit cards, they rarely involve a lengthy application, and the providers, which earn most of their revenue from fees charged to retailers rather than to shoppers, present themselves as a fairer alternative to traditional lending.",
+    "Yet a growing body of research suggests that the convenience comes at a cost that is less visible than an interest rate. A 2025 survey of 2,400 BNPL users by researchers in central Thailand found that 38 per cent had missed at least one payment in the previous year, and that those holding three or more plans simultaneously were twice as likely to report difficulty paying household bills. Late fees, while modest individually, accumulated quickly for these users.",
+    "Behavioural economists offer an explanation. When a price is broken into smaller parts, they argue, people tend to judge each part in isolation, a tendency sometimes called “payment partitioning”. A purchase of 3,000 baht feels markedly cheaper when presented as four payments of 750, even though the total is identical. Retailers appear well aware of this effect: several have reported that shoppers who choose BNPL spend on average 20 to 30 per cent more per order.",
+    "Industry representatives dispute the more alarming interpretations. They point out that most users repay on time, that missed BNPL payments typically involve far smaller sums than credit card debt, and that many customers use the service deliberately to manage their cash flow between paydays. Even some consumer advocates concede that, for disciplined users, the product can be cheaper than a credit card.",
+    "The central difficulty, critics say, is that the product is largely invisible to the wider financial system. Because many BNPL providers do not report to credit bureaus, a bank assessing a loan application may have no idea that the applicant is already committed to a dozen instalment plans. Regulators in several countries are now considering rules that would oblige providers to check affordability and share repayment data with credit bureaus. Providers warn that such measures would add friction to a service whose chief selling point is simplicity.",
+    "For her part, Pimchanok has deleted the apps from her phone. “I'm not saying they're evil,” she says. “But nobody tells you that the hard part isn't paying for one thing. It's keeping track of all of them.”"
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Instalment services are convenient but may lead some users into debt that is hard to keep track of.",
+      "Instalment services should be banned because they charge high rates of interest to young people.",
+      "Most young people in Southeast Asia now prefer instalment services to credit cards.",
+      "Retailers have been forced to lower their prices because of the spread of instalment services."
+     ],
+     "answer": 0,
+     "explain": "บทความชี้ว่า BNPL สะดวก (¶2) แต่ “the convenience comes at a cost that is less visible than an interest rate” (¶3) และปัญหาคือการติดตามหนี้หลายก้อน (¶6–¶7) จึงตอบ A ตัวเลือก B ผิดเพราะบริการนี้เป็นแบบ “interest-free” และบทความไม่ได้เสนอให้ห้าม ส่วน C สรุปเกินจากที่บทความบอกเพียงว่าขยายตัว “particularly among consumers under thirty”"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer begin the article with Pimchanok's story?",
+     "options": [
+      "To show that graphic designers earn too little to buy expensive phones",
+      "To argue that young people should never use online shopping services",
+      "To illustrate through a personal case how small commitments can build up",
+      "To prove that most users of the service have more than seven plans"
+     ],
+     "answer": 2,
+     "explain": "¶1 เล่าว่าแต่ละรายการ “felt tiny” แต่เมื่อรวมกันแล้ว “a third of my salary was spoken for” และ ¶2 กล่าวต่อว่า “Pimchanok's experience is hardly unusual” เรื่องเล่านี้จึงใช้ยกตัวอย่างว่าภาระเล็กๆ สะสมกันได้ ตอบ C ตัวเลือก D สรุปเกินจริงจากกรณีเดียว (overgeneralisation)"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, BNPL providers earn most of their income from",
+     "options": [
+      "interest charged on late repayments",
+      "charges paid by the shops that offer the service",
+      "application fees paid by new customers",
+      "selling their customers' data to banks"
+     ],
+     "answer": 1,
+     "explain": "¶2: providers “earn most of their revenue from fees charged to retailers rather than to shoppers” คือรายได้หลักมาจากร้านค้า ตอบ B ตัวเลือก A ล่อใจเพราะ ¶3 กล่าวถึง late fees แต่ไม่ได้บอกว่าเป็นรายได้หลัก และ C ขัดกับข้อความว่าบริการนี้ “rarely involve a lengthy application”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from the survey described in paragraph 3?",
+     "options": [
+      "Most BNPL users are unable to pay their household bills.",
+      "Late fees are the main reason people sign up for several plans.",
+      "Users with only one plan never miss a payment.",
+      "Holding several plans at once appears to be linked to wider money problems."
+     ],
+     "answer": 3,
+     "explain": "¶3: ผู้ที่มี “three or more plans simultaneously were twice as likely to report difficulty paying household bills” แสดงความเชื่อมโยงระหว่างการมีหลายแผนกับปัญหาการเงินอื่น ตอบ D ตัวเลือก A ใช้คำว่า Most ซึ่งเกินจากข้อมูล (38 per cent เป็นเรื่องการผิดนัดชำระ ไม่ใช่ค่าบ้าน) ส่วน C ไม่มีข้อมูลรองรับ"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "In paragraph 4, the phrase 'people tend to judge each part in isolation' means that people",
+     "options": [
+      "consider each payment separately rather than thinking about the total",
+      "prefer to make their purchases alone rather than with friends",
+      "compare the prices of different products before buying",
+      "find it hard to calculate the total cost of large purchases"
+     ],
+     "answer": 0,
+     "explain": "¶4: เมื่อราคาถูกแบ่งเป็นส่วน คนจะพิจารณาแต่ละส่วนแยกกัน ตัวอย่างคือ 3,000 บาท “feels markedly cheaper when presented as four payments of 750, even though the total is identical” ตอบ A ตัวเลือก B ล่อใจเพราะเล่นกับความหมายตรงของ isolation (โดดเดี่ยว) ซึ่งไม่ตรงกับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer suggest about retailers in paragraph 4?",
+     "options": [
+      "They are worried that BNPL is harming their customers.",
+      "They charge higher prices to customers who choose BNPL.",
+      "They only recently learned about payment partitioning.",
+      "They gain from the way instalments make prices seem smaller."
+     ],
+     "answer": 3,
+     "explain": "¶4: “Retailers appear well aware of this effect” และลูกค้าที่ใช้ BNPL “spend on average 20 to 30 per cent more per order” แสดงว่าร้านค้าได้ประโยชน์จากผลทางจิตวิทยานี้ ตอบ D ตัวเลือก B ล่อใจเพราะมีตัวเลข 20–30% แต่นั่นคือยอดใช้จ่ายที่เพิ่มขึ้น ไม่ใช่ราคาที่สูงขึ้น ส่วน C ขัดกับ “well aware”"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 5 in the article?",
+     "options": [
+      "It summarises the evidence presented in the first four paragraphs.",
+      "It presents the industry's response and a partial concession from its critics.",
+      "It explains in detail how credit card debt is calculated.",
+      "It introduces the regulations that are discussed in paragraph 6."
+     ],
+     "answer": 1,
+     "explain": "¶5 เริ่มด้วย “Industry representatives dispute the more alarming interpretations” แล้วจบด้วย “Even some consumer advocates concede that… the product can be cheaper” จึงเป็นการเสนอข้อโต้แย้งของฝั่งอุตสาหกรรมและการยอมรับบางส่วนของฝ่ายวิจารณ์ ตอบ B ตัวเลือก A ผิดเพราะย่อหน้านี้เสนอมุมมองตรงข้าม ไม่ได้สรุปหลักฐานเดิม"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'friction' in paragraph 6 is closest in meaning to",
+     "options": [
+      "disagreement between groups of people",
+      "the heat produced when surfaces rub together",
+      "steps or obstacles that slow a process down",
+      "costs that are passed on to retailers"
+     ],
+     "answer": 2,
+     "explain": "¶6: providers warn that such measures “would add friction to a service whose chief selling point is simplicity” การตรวจสอบความสามารถชำระหนี้จะเพิ่มขั้นตอนให้บริการไม่ราบรื่น friction จึงหมายถึงอุปสรรคที่ทำให้ช้าลง ตอบ C ตัวเลือก A เป็นความหมายอีกแบบของ friction (ความขัดแย้ง) ซึ่งไม่เข้ากับการเปรียบกับ simplicity"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which best describes Pimchanok's attitude towards BNPL services in the final paragraph?",
+     "options": [
+      "wary of them, without condemning them completely",
+      "angry with providers for deliberately deceiving her",
+      "relieved that regulators have finally banned them",
+      "confident that she can now manage many plans at once"
+     ],
+     "answer": 0,
+     "explain": "¶7: เธอลบแอปออกแล้ว แต่ก็พูดว่า “I'm not saying they're evil” และชี้ว่าปัญหาคือ “keeping track of all of them” แสดงความระวังโดยไม่ได้ประณามทั้งหมด ตอบ A ตัวเลือก B ขัดกับคำพูดที่ว่าไม่ได้มองว่าบริการนี้ชั่วร้าย ส่วน C ผิดเพราะ ¶6 บอกว่ากฎยังอยู่ระหว่าง “considering”"
+    }
+   ]
+  },
+  {
+   "id": "AM1P4",
+   "kind": "short",
+   "genre": "editorial",
+   "domain": "Architecture and urban design",
+   "title": "The Greenest Building Is Often the One Already Standing",
+   "paragraphs": [
+    "Every few months, another row of old shophouses in one of our provincial cities disappears behind hoarding, and a year or two later a glass-fronted tower rises in its place, accompanied by a press release celebrating its energy-efficient lighting and rooftop solar panels. We are invited to see this as progress. It is time we questioned that assumption.",
+    "The case for new construction usually rests on operating energy: the electricity a building consumes for cooling, lighting and equipment over its lifetime. On this measure, modern buildings undoubtedly outperform most older ones. What the press releases rarely mention is embodied carbon, the emissions released in extracting, manufacturing and transporting materials and in the act of construction itself. Cement production alone accounts for a substantial share of global carbon dioxide emissions, and a mid-rise concrete building may embody as much carbon before it opens as it will emit through decades of operation.",
+    "Once this is acknowledged, the arithmetic changes. A study of twelve commercial sites by researchers at a northern university estimated that demolishing a sound older building and replacing it with an efficient new one would take between 25 and 40 years to “repay” the carbon released during construction. Many of the towers now going up will not last much longer than that before they, too, are gutted or replaced.",
+    "There is a cultural argument as well, though it should not be overstated. The two- and three-storey shophouse, with its shaded arcade and its mix of shop below and home above, embodies a way of living that suited a hot climate long before air-conditioning. Its deep, narrow plan encourages cross-ventilation, and its arcade shelters pedestrians from both sun and rain. Not every old building merits preservation, and nostalgia is a poor basis for planning policy. But these structures represent accumulated knowledge about building for this climate, and we discard it at our peril.",
+    "Developers will reply that refurbishment is costly and unpredictable, that older structures rarely meet current fire and accessibility codes, and that the land is simply too valuable to leave under low-rise buildings. These objections deserve a hearing. Adapting an old building is often more complicated than starting from a cleared site, and some will need substantial structural work. Yet much of the difficulty stems from regulations written with new construction in mind, which treat every alteration as if it were a fresh project.",
+    "Policy could tilt the balance. Planning authorities might require developers seeking demolition permits to submit a whole-life carbon assessment comparing demolition with reuse. Building codes could include proportionate provisions for existing structures, permitting alternative ways of achieving equivalent safety. Tax incentives currently reserved for new energy-efficient buildings could be extended to deep retrofits.",
+    "None of this means freezing our cities in place. Cities must grow, and some sites will rightly be cleared. The point is that demolition should be the last resort, justified by evidence, rather than the default. The most sustainable building, as architects increasingly like to say, is frequently the one that already exists. It is time our planning system began to act as though it believed that."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the writer's main argument?",
+     "options": [
+      "Modern towers waste more energy in daily use than the shophouses they replace.",
+      "Old shophouses should be protected mainly because of their cultural value.",
+      "Developers should no longer be permitted to demolish any older buildings.",
+      "Existing buildings should usually be adapted rather than replaced, and policy should encourage this."
+     ],
+     "answer": 3,
+     "explain": "ข้อเสนอหลักอยู่ใน ¶7: “demolition should be the last resort, justified by evidence, rather than the default” และ ¶6 เสนอนโยบายสนับสนุนการปรับปรุงอาคารเดิม จึงตอบ D ตัวเลือก A กลับด้านกับ ¶2 ที่ยอมรับว่าอาคารใหม่ “undoubtedly outperform” ในด้านพลังงานใช้งาน ส่วน C ใช้คำว่า any ซึ่งขัดกับ “some sites will rightly be cleared”"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "In paragraph 1, the writer's attitude towards the press releases is best described as",
+     "options": [
+      "admiring of the technical achievements they describe",
+      "sceptical of the idea of progress they promote",
+      "furious at the developers who publish them",
+      "neutral, simply reporting what they contain"
+     ],
+     "answer": 1,
+     "explain": "¶1: “We are invited to see this as progress. It is time we questioned that assumption.” ผู้เขียนจึงตั้งข้อสงสัยต่อภาพ 'ความก้าวหน้า' ที่ข่าวประชาสัมพันธ์สร้างขึ้น ตอบ B ตัวเลือก C รุนแรงเกินกว่าน้ำเสียงจริงที่เป็นการตั้งคำถามอย่างมีเหตุผล ไม่ใช่ความโกรธ"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the last sentence of paragraph 2?",
+     "options": [
+      "Constructing a concrete building can release as much carbon as running it for many years.",
+      "Concrete buildings consume more energy for cooling than older buildings do.",
+      "Cement production is the largest single source of carbon emissions in the world.",
+      "Mid-rise buildings release most of their carbon only after they are opened."
+     ],
+     "answer": 0,
+     "explain": "¶2: “a mid-rise concrete building may embody as much carbon before it opens as it will emit through decades of operation” คือคาร์บอนจากการก่อสร้างอาจเท่ากับการใช้งานหลายสิบปี ตอบ A ตัวเลือก C ขยายความเกินจริงจาก “a substantial share” เป็น 'the largest' ส่วน D กลับด้านกับข้อความ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'sound' in paragraph 3 is closest in meaning to",
+     "options": [
+      "quiet and peaceful",
+      "sensible and logical",
+      "structurally solid",
+      "widely recognised"
+     ],
+     "answer": 2,
+     "explain": "¶3: “demolishing a sound older building and replacing it with an efficient new one” ในบริบทของอาคาร sound หมายถึงโครงสร้างอยู่ในสภาพดี มั่นคง ตอบ C ตัวเลือก B ล่อใจเพราะ sound ใช้ในความหมาย 'มีเหตุผล' ได้ เช่น a sound argument แต่ไม่ใช่กับอาคาร"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply in the last sentence of paragraph 3?",
+     "options": [
+      "Most new towers are built to last for more than a century.",
+      "Some new towers may be replaced before they make up for their construction emissions.",
+      "Older buildings will need to be gutted within 25 to 40 years.",
+      "Developers deliberately design buildings that will soon need replacing."
+     ],
+     "answer": 1,
+     "explain": "¶3 บอกว่าต้องใช้ “between 25 and 40 years to ‘repay’ the carbon” แล้วต่อด้วย “Many of the towers now going up will not last much longer than that” หมายความว่าอาคารใหม่บางแห่งอาจถูกรื้อก่อน 'ชดใช้' คาร์บอนได้ครบ ตอบ B ตัวเลือก D ล่อใจแต่ผู้เขียนไม่ได้กล่าวหาว่านักพัฒนาตั้งใจทำเช่นนั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What does the writer do in paragraph 4?",
+     "options": [
+      "rejects the cultural case for shophouses as mere nostalgia",
+      "traces the history of the shophouse in chronological order",
+      "compares shophouses and modern towers feature by feature",
+      "adds a further argument while limiting how far it should be taken"
+     ],
+     "answer": 3,
+     "explain": "¶4 เริ่มว่า “There is a cultural argument as well, though it should not be overstated” แล้วยอมรับว่า “Not every old building merits preservation” ก่อนยืนยันคุณค่าของตึกแถว จึงเป็นการเพิ่มเหตุผลอีกข้อพร้อมจำกัดขอบเขต ตอบ D ตัวเลือก A ล่อใจเพราะมีคำว่า nostalgia แต่ผู้เขียนไม่ได้ปฏิเสธเหตุผลด้านวัฒนธรรม เพียงเตือนไม่ให้อ้างเกินจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which feature of the shophouse is NOT mentioned in paragraph 4?",
+     "options": [
+      "thick walls that keep the interior cool",
+      "an arcade that protects people walking past",
+      "a plan that allows air to flow through",
+      "a combination of business and living space"
+     ],
+     "answer": 0,
+     "explain": "¶4 กล่าวถึง “shaded arcade”, “shop below and home above” และ “deep, narrow plan encourages cross-ventilation” แต่ไม่ได้พูดถึงผนังหนาเลย จึงตอบ A ตัวเลือก C อาจทำให้ลังเลเพราะใช้คำต่างจากต้นฉบับ แต่มีความหมายเดียวกับ cross-ventilation"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer state that 'These objections deserve a hearing' in paragraph 5?",
+     "options": [
+      "to show that the writer has changed his or her mind about demolition",
+      "to suggest that a public hearing on each project should be held",
+      "to concede that developers' concerns have some merit before responding to them",
+      "to argue that developers' objections are correct in every respect"
+     ],
+     "answer": 2,
+     "explain": "¶5 ยอมรับว่า “Adapting an old building is often more complicated” แล้วจึงโต้ด้วย “Yet much of the difficulty stems from regulations…” ประโยคนี้จึงเป็นการยอมรับข้อโต้แย้งบางส่วนก่อนตอบโต้ (concession) ตอบ C ตัวเลือก B ล่อใจเพราะตีความ hearing ตามตัวอักษรว่าเป็นการไต่สวนสาธารณะ"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the writer, much of the difficulty of adapting old buildings comes from",
+     "options": [
+      "the shortage of builders trained in traditional methods",
+      "the high value of land in provincial city centres",
+      "the poor condition of most older structures",
+      "rules that were designed mainly for new buildings"
+     ],
+     "answer": 3,
+     "explain": "¶5: “much of the difficulty stems from regulations written with new construction in mind” จึงตอบ D ตัวเลือก B ล่อใจเพราะเป็นข้อโต้แย้งของนักพัฒนาใน ¶5 (“the land is simply too valuable”) ไม่ใช่สาเหตุที่ผู้เขียนระบุ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which of the following statements would the writer most likely agree with?",
+     "options": [
+      "No old building in our cities should ever be pulled down.",
+      "A developer wishing to demolish should have to show why reuse is not a better option.",
+      "Operating energy is irrelevant when the environmental impact of a building is judged.",
+      "Tax incentives for new energy-efficient buildings should be abolished."
+     ],
+     "answer": 1,
+     "explain": "¶6 เสนอให้ผู้ขอรื้อถอนต้องยื่น “a whole-life carbon assessment comparing demolition with reuse” และ ¶7 ว่าการรื้อต้อง “justified by evidence” จึงตอบ B ตัวเลือก A ขัดกับ “some sites will rightly be cleared” และ D ผิดเพราะผู้เขียนเสนอให้ 'ขยาย' สิทธิประโยชน์ไปยังการปรับปรุงอาคาร ไม่ใช่ยกเลิก"
+    }
+   ]
+  },
+  {
+   "id": "AM1P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "History of science",
+   "title": "Making Results Travel: Witnesses, Instruments and Standards in Early Experimental Science",
+   "paragraphs": [
+    "Modern readers tend to assume that a scientific result, once correctly obtained, is simply true, and that anyone with the right equipment could confirm it. Historians of science have spent the past half-century complicating this assumption. Their central insight is that, for much of the history of experimental inquiry, the hardest problem was not producing a result but persuading others, often hundreds of miles away, to accept it. A finding that could not leave the room in which it was produced was, in any practical sense, barely a finding at all. This article traces three strategies by which early experimenters sought to make their results travel: the cultivation of credible witnesses, the replication of instruments, and the eventual standardisation of measurement.",
+    "The first strategy was essentially social. In the experimental societies that emerged in Europe during the seventeenth century, an experiment was frequently performed before an audience whose members were expected to attest to what they had seen. Because few people could attend, however, experimenters also developed a distinctive style of writing, describing their procedures, failures and apparatus in such painstaking detail that readers might feel almost as if they had been present. Historians have called this technique “virtual witnessing”. Its effectiveness depended heavily on the standing of those involved: the testimony of a gentleman of independent means was widely presumed to be disinterested, whereas that of a paid assistant or craftsman, whose hands actually operated the equipment, was seldom recorded at all.",
+    "The limitations of this arrangement became apparent whenever a result was disputed. Detailed prose could convey what an experimenter claimed to have done, but it could not compel a sceptical reader to believe it. Opponents could, and did, argue that a description was incomplete, that the apparatus leaked, or that the witnesses were partial. Such accusations were difficult to answer from a distance, since a reader could neither inspect the apparatus nor question the witnesses directly. In such disputes, the only decisive move was to build the instrument oneself and see whether the result could be reproduced.",
+    "This proved far harder than the printed accounts implied. Early air pumps, telescopes and electrical machines were costly, temperamental and largely handmade, so that no two examples behaved in quite the same way. Surviving letters between experimenters in different cities record repeated failures to obtain effects that the original authors had described as straightforward. Some historians have argued that these failures reveal the importance of what has been termed “tacit knowledge”: skills such as knowing how tightly to seal a joint or how to judge whether glass is sufficiently clean, which practitioners possessed but could not fully articulate in writing. On this account, successful replication frequently required a person, not merely a text, to travel—an apprentice sent to learn at the original workshop, or a visitor who had watched the apparatus in use.",
+    "If skills could not be fully written down, quantities could, provided that everyone agreed on what the numbers meant. The third strategy, which gathered pace in the eighteenth and nineteenth centuries, was the standardisation of units and scales. Before this period, measurements of length, weight and temperature varied considerably from place to place, and even a careful report might be uninterpretable to a reader elsewhere. Temperature is an instructive example: dozens of thermometric scales were in circulation, each defined by different fixed points, and comparing readings across them required conversion tables of uncertain accuracy. The gradual adoption of shared scales, together with the creation of physical reference standards kept under controlled conditions, allowed results to be compared without anyone needing to travel at all.",
+    "The significance of this shift is difficult to overstate. Standardisation transformed trust from a matter of personal judgement into a property, as it were, of the measurement system itself. A reading taken with a properly calibrated instrument could, in principle, be checked against a common reference by anyone, regardless of social rank. Instead of asking who had performed an experiment, readers could increasingly ask how it had been performed and against which reference its instruments had been checked. Several historians have accordingly portrayed the rise of standards as a democratising force in science, one that diminished the weight of reputation in favour of procedure.",
+    "This interpretation, though attractive, has not gone unchallenged. Dr. Arunee Wongsakul, a historian who has studied the national measurement laboratories established in the late nineteenth century, points out that standards themselves had to be maintained, compared and certified by small groups of specialists, whose authority was no less social than that of the earlier gentleman witnesses. In her view, standardisation did not eliminate the need for trust so much as relocate it, from individuals to institutions. Moreover, access to calibrated instruments remained unevenly distributed, so that researchers in less wealthy regions often found their results discounted for want of the right certificates.",
+    "A further caution concerns how such histories are told. It is tempting to narrate the development of experimental credibility as a steady march towards objectivity, in which each stage corrected the shortcomings of the last. Historians have long warned against this kind of “Whig history”, which judges the past by the standards of the present and treats earlier practitioners as imperfect anticipations of ourselves. The three strategies described here did not simply replace one another; witnessing, replication and standardisation coexisted for long periods, and each persists in some form in laboratories today. The countersigning of a laboratory notebook by a colleague, for instance, is in effect a modern act of witnessing.",
+    "What, then, does this history suggest? Most fundamentally, it indicates that scientific facts become robust not merely by being discovered but by being made portable, through texts, people and shared standards, each of which depends on networks of trust. This need not lead to the relativist conclusion that scientific knowledge is nothing more than social agreement; an air pump either evacuated its chamber or it did not. It does, however, suggest that the reliability of science is an achievement that must be continually sustained, rather than a property that results possess automatically."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "The Invention of the Air Pump and the Thermometer",
+      "Why Gentlemen Made Better Experimenters Than Craftsmen",
+      "Making Facts Portable: How Early Experimental Results Won Acceptance",
+      "How Standardisation Finally Removed the Need for Trust in Science"
+     ],
+     "answer": 2,
+     "explain": "¶1 ระบุว่าบทความ “traces three strategies by which early experimenters sought to make their results travel” และ ¶9 สรุปว่าข้อเท็จจริงต้อง “made portable” จึงตอบ C ตัวเลือก D เป็นข้ออ้างที่บทความรายงานแต่ปฏิเสธ เพราะ ¶7 ชี้ว่า standardisation “did not eliminate the need for trust so much as relocate it”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the meaning of the fourth sentence of paragraph 1?",
+     "options": [
+      "A result had little practical value unless it could be accepted beyond the place where it was produced.",
+      "Most early experiments were too large to be moved out of the rooms where they were performed.",
+      "Experimenters rarely allowed their findings to be discussed outside their own laboratories.",
+      "A finding was considered valid only if it had been produced in several different rooms."
+     ],
+     "answer": 0,
+     "explain": "¶1: “A finding that could not leave the room in which it was produced was… barely a finding at all” หมายความว่าผลการทดลองแทบไม่มีค่าถ้าไม่ได้รับการยอมรับนอกสถานที่ทำการทดลอง ตอบ A ตัวเลือก B ล่อใจเพราะตีความ leave the room ตามตัวอักษรว่าเป็นการเคลื่อนย้ายอุปกรณ์ ซึ่งผิดบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 2 that the people who physically operated the apparatus",
+     "options": [
+      "were regarded as more trustworthy witnesses than gentlemen",
+      "wrote most of the detailed accounts of experimental procedure",
+      "were usually banned from attending the societies' meetings",
+      "received little recognition in written accounts of experiments"
+     ],
+     "answer": 3,
+     "explain": "¶2: คำให้การของผู้ช่วยหรือช่างฝีมือ “whose hands actually operated the equipment, was seldom recorded at all” แสดงว่าคนเหล่านี้แทบไม่ได้รับการกล่าวถึง ตอบ D ตัวเลือก A กลับด้าน เพราะผู้ที่ถูกมองว่าน่าเชื่อถือคือ “a gentleman of independent means” ส่วน C ไม่มีข้อมูลว่าถูกห้ามเข้าร่วม"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'disinterested' in paragraph 2 is closest in meaning to",
+     "options": [
+      "lacking curiosity",
+      "free from personal advantage",
+      "poorly informed",
+      "highly educated"
+     ],
+     "answer": 1,
+     "explain": "¶2: สุภาพบุรุษ “of independent means” (มีฐานะ ไม่ต้องรับจ้าง) จึงถูกมองว่า “disinterested” คือไม่มีผลประโยชน์ส่วนตัวเกี่ยวข้อง ต่างจาก “a paid assistant” ตอบ B ตัวเลือก A ล่อใจเพราะคนมักสับสน disinterested กับ uninterested (ไม่สนใจ)"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the main function of paragraph 3?",
+     "options": [
+      "It describes the first public performances of experiments in Europe.",
+      "It argues that written descriptions were more convincing than witnesses.",
+      "It explains why the social strategy was insufficient and leads into the next one.",
+      "It gives examples of experiments that were later proved to be fraudulent."
+     ],
+     "answer": 2,
+     "explain": "¶3 เริ่มด้วย “The limitations of this arrangement became apparent…” และจบด้วย “the only decisive move was to build the instrument oneself” ซึ่งนำไปสู่กลยุทธ์ที่สองคือการสร้างเครื่องมือซ้ำใน ¶4 ตอบ C ตัวเลือก B ขัดกับ ¶3 ที่ว่าข้อเขียน “could not compel a sceptical reader to believe it”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 4, one reason early instruments were difficult to replicate was that",
+     "options": [
+      "they were made largely by hand, so individual examples behaved differently",
+      "their inventors deliberately kept the designs of their instruments secret",
+      "the printed descriptions of them contained serious errors",
+      "the necessary materials could not be obtained outside Europe"
+     ],
+     "answer": 0,
+     "explain": "¶4: instruments were “costly, temperamental and largely handmade, so that no two examples behaved in quite the same way” จึงตอบ A ตัวเลือก B ล่อใจเพราะคำว่า tacit อาจชวนให้คิดถึงความลับ แต่บทความบอกว่าผู้เชี่ยวชาญ “could not fully articulate” ไม่ใช่ตั้งใจปกปิด"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best reflects the idea of 'tacit knowledge' as used in paragraph 4?",
+     "options": [
+      "secret methods that experimenters refused to share with rivals",
+      "practical know-how that is difficult to express fully in words",
+      "theoretical understanding gained from reading printed accounts",
+      "the ability to write clear and detailed experimental reports"
+     ],
+     "answer": 1,
+     "explain": "¶4 อธิบายว่า tacit knowledge คือทักษะ “which practitioners possessed but could not fully articulate in writing” เช่น การรู้ว่าจะปิดข้อต่อแน่นแค่ไหน ตอบ B ตัวเลือก A ล่อใจแต่บทความไม่ได้บอกว่าเป็นความลับที่จงใจไม่เปิดเผย ส่วน C และ D ตรงข้ามกับแนวคิดที่ว่าความรู้นี้ถ่ายทอดผ่านตัวหนังสือไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author discuss thermometric scales in paragraph 5?",
+     "options": [
+      "to show that temperature was the first quantity ever to be standardised",
+      "to argue that conversion tables were a reliable solution to the problem",
+      "to explain how fixed points are chosen for a scale",
+      "to give a concrete example of the confusion that standardisation resolved"
+     ],
+     "answer": 3,
+     "explain": "¶5 กล่าวว่า “Temperature is an instructive example” แล้วอธิบายว่ามี “dozens of thermometric scales” ทำให้เทียบค่ายาก จึงเป็นตัวอย่างของปัญหาที่การกำหนดมาตรฐานแก้ไข ตอบ D ตัวเลือก B ขัดกับบทความที่ว่าตารางแปลงค่ามี “uncertain accuracy”"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'this shift' at the beginning of paragraph 6 refers to",
+     "options": [
+      "the move towards shared scales and physical reference standards",
+      "the replacement of air pumps by more accurate instruments",
+      "the practice of sending apprentices to the original workshops",
+      "the growing use of conversion tables between different scales"
+     ],
+     "answer": 0,
+     "explain": "“this shift” ใน ¶6 อ้างถึงประโยคสุดท้ายของ ¶5: “The gradual adoption of shared scales, together with the creation of physical reference standards…” ตอบ A ตัวเลือก D ล่อใจเพราะ conversion tables อยู่ใน ¶5 เช่นกัน แต่เป็นปัญหาก่อนการเปลี่ยนแปลง ไม่ใช่ตัวการเปลี่ยนแปลง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Dr. Arunee Wongsakul would most likely agree that",
+     "options": [
+      "standardisation made trust unnecessary in scientific work",
+      "national laboratories were open to researchers of any social rank",
+      "the authority of standards rested partly on trust in particular experts",
+      "gentleman witnesses were more reliable than later specialists"
+     ],
+     "answer": 2,
+     "explain": "¶7: มาตรฐานต้อง “maintained, compared and certified by small groups of specialists, whose authority was no less social” และการกำหนดมาตรฐาน “relocate[d]” ความไว้วางใจไปสู่สถาบัน จึงตอบ C ตัวเลือก A เป็นมุมมองที่เธอโต้แย้ง ส่วน D บิดเบือนการเปรียบเทียบ เพราะเธอบอกเพียงว่าอำนาจของสองกลุ่มเป็นเรื่องทางสังคมไม่ต่างกัน"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "The author mentions 'Whig history' in paragraph 8 in order to",
+     "options": [
+      "praise historians who see science as a story of steady progress",
+      "describe the political views held by early experimenters",
+      "argue that earlier practitioners were less capable than modern scientists",
+      "warn against presenting the three strategies as a simple sequence of improvement"
+     ],
+     "answer": 3,
+     "explain": "¶8 เตือนว่า “It is tempting to narrate… a steady march towards objectivity” และยืนยันว่า “The three strategies described here did not simply replace one another” การกล่าวถึง Whig history จึงเป็นการเตือนไม่ให้เล่าเป็นลำดับความก้าวหน้า ตอบ D ตัวเลือก C คือมุมมองแบบ Whig ที่ผู้เขียนวิจารณ์ ไม่ใช่สิ่งที่ผู้เขียนเสนอ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Which statement best reflects the author's position in the final paragraph?",
+     "options": [
+      "Scientific knowledge is ultimately nothing more than agreement among experts.",
+      "Science is reliable, but its reliability depends on continuing work to sustain trust.",
+      "Historians have greatly exaggerated the role of trust in the history of science.",
+      "Modern laboratories no longer depend on networks of trust to share results."
+     ],
+     "answer": 1,
+     "explain": "¶9: “the reliability of science is an achievement that must be continually sustained” และผู้เขียนปฏิเสธข้อสรุปแบบสัมพัทธนิยมด้วยประโยค “an air pump either evacuated its chamber or it did not” จึงตอบ B ตัวเลือก A คือ “the relativist conclusion” ที่ผู้เขียนกล่าวถึงแต่ไม่เห็นด้วย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term have historians used for the detailed style of writing that made readers feel as if they had been present at an experiment? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "virtual witnessing"
+     ],
+     "explain": "¶2: “Historians have called this technique ‘virtual witnessing’.” คำนี้หมายถึงการเขียนบรรยายละเอียดจนผู้อ่านรู้สึกเหมือนได้อยู่ในเหตุการณ์ ระวังอย่าตอบ painstaking detail ซึ่งเป็นลักษณะของการเขียน ไม่ใช่ชื่อเรียกเทคนิค"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term describes skills that practitioners possessed but could not fully put into writing? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "tacit knowledge"
+     ],
+     "explain": "¶4: “what has been termed ‘tacit knowledge’: skills… which practitioners possessed but could not fully articulate in writing” จึงตอบ tacit knowledge"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What was required to compare readings taken on different thermometric scales? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "conversion tables",
+      "conversion table"
+     ],
+     "explain": "¶5: “comparing readings across them required conversion tables of uncertain accuracy” จึงตอบ conversion tables ไม่ควรตอบ fixed points เพราะเป็นสิ่งที่ใช้กำหนดสเกลแต่ละแบบ ไม่ใช่สิ่งที่ใช้เทียบค่าข้ามสเกล"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What institutions established in the late nineteenth century has Dr. Arunee Wongsakul studied? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "national measurement laboratories",
+      "measurement laboratories"
+     ],
+     "explain": "¶7: “a historian who has studied the national measurement laboratories established in the late nineteenth century” จึงตอบ national measurement laboratories"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name do historians give to the kind of history that judges the past by the standards of the present? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "Whig history"
+     ],
+     "explain": "¶8: “this kind of ‘Whig history’, which judges the past by the standards of the present” จึงตอบ Whig history"
+    }
+   ]
+  },
+  {
+   "id": "AM1P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Sociology",
+   "title": "Care at a Distance: Migration and the Changing Obligations of Adult Children",
+   "paragraphs": [
+    "Across much of Asia, the obligation of adult children to care for their ageing parents has long been regarded not only as a moral duty but as the foundation of social security. In societies where public pensions are modest and residential care is scarce or stigmatised, it is typically a son or, more often in practice, a daughter or daughter-in-law who provides daily assistance as parents grow frail. Large-scale labour migration, both from rural to urban areas and across national borders, has placed this arrangement under considerable strain. When the children who are expected to provide care live hundreds or thousands of kilometres away, how is the obligation fulfilled, and by whom?",
+    "Early research on this question tended to adopt what might be called a deficit perspective. Studies conducted in the 1990s and early 2000s frequently described the parents of migrants as “left behind”, a phrase implying abandonment, and documented the loneliness, unmet health needs and economic insecurity that some older people experienced after their children departed. A related body of work introduced the concept of “global care chains” to describe how women from poorer countries migrate to care for children and older people in wealthier ones, while the care needs of their own families are met, if at all, by relatives or by still poorer paid workers. The resulting image was one of care being extracted from the global South and transferred to the North, leaving a “care deficit” behind.",
+    "This perspective drew attention to genuine inequalities, and its insights remain valuable. Over the past fifteen years, however, a second generation of research has questioned whether physical distance necessarily implies the absence of care. Drawing on extended fieldwork with transnational families, scholars have proposed that care be understood not as a single activity requiring physical proximity but as a bundle of distinct practices: financial support, practical assistance, emotional support and the provision of accommodation. Migrants, they argue, may withdraw from some of these practices while intensifying others.",
+    "Financial support is the most obvious example. Remittances, the money migrants send home, frequently pay for medical treatment, home improvements and the wages of local helpers, and in some cases they enable parents to enjoy a standard of living that would otherwise be unattainable. A 2023 survey of 1,600 older adults in four provinces of northeastern Thailand, for instance, found that those with at least one child working abroad were more likely than those without to have sought treatment for a chronic condition in the preceding year, a difference the authors attributed largely to remittances. Nonetheless, money cannot easily substitute for help with bathing, dressing or getting to a clinic, and the same survey found no difference between the two groups in reported loneliness.",
+    "Emotional support, meanwhile, has been transformed by communication technology. Inexpensive smartphones and video-calling applications now allow many migrants to see and speak with their parents daily. Researchers have described the resulting sense of being together despite separation as “co-presence”, and have documented how migrants use it to monitor parents' health, remind them to take medication and participate in family decisions from afar. Some older people report that frequent video calls make them feel closer to a distant child than to children living in the same village. Yet the benefits are uneven: parents with poor eyesight, limited literacy or unreliable connections may be excluded, and the expectation of constant availability can itself become a source of strain for migrants working long hours.",
+    "Perhaps the most important contribution of the newer research is its attention to how care is redistributed within families and communities. When one child migrates, care responsibilities rarely disappear; rather, they are renegotiated. A sibling who remains nearby may assume most of the practical work, sometimes in exchange for a larger share of remittances or of a future inheritance. Neighbours, temple networks and village health volunteers may also fill gaps. The concept of “care circulation” has been proposed to capture these reciprocal, shifting flows of support across generations and distances over the life course, including periods when migrants return home to provide intensive care themselves.",
+    "Not all scholars are persuaded by this more optimistic account. Critics contend that, by emphasising migrants' ingenuity and the resilience of families, the newer literature risks romanticising arrangements that rest on the unpaid labour of those who stay behind, most of whom are women. The sister who stays to look after a parent, they point out, often does so at the cost of her own earnings and education, and her contribution is easily rendered invisible when researchers focus on the migrant. Others caution that studies relying on interviews with families who have maintained close ties may overlook households where relationships have broken down entirely, thereby overstating how well care survives migration.",
+    "These criticisms suggest that neither perspective is adequate on its own. Migration does not simply abolish care, but neither does it leave care unchanged. Its effects appear to depend on factors such as the number of siblings, the gender of the migrant, the availability of local services and the size of the economic gains that migration brings. An older parent with several children, one of whom migrates and sends regular remittances to a sibling who remains, may be well supported; a widow whose only daughter works abroad on a short-term contract may not.",
+    "For policymakers, the implications are twofold. First, ageing and migration policy can no longer be designed in isolation from each other; countries that depend on labour emigration need to invest in community-based care services that do not presuppose a co-resident child. Second, the hidden contribution of family members who remain should be recognised, whether through carer allowances, flexible employment protections or respite services. Filial obligation is unlikely to disappear in the region, but the forms through which it is expressed are changing, and public institutions will need to change with them."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Labour migration has led most ageing parents in Asia to be abandoned by their children.",
+      "Migration reshapes, rather than simply removes, the care adult children give their parents, with uneven results.",
+      "Communication technology has solved the problems of caring for parents from a distance.",
+      "Remittances are the most valuable form of care that migrant children can provide."
+     ],
+     "answer": 1,
+     "explain": "บทความเปรียบเทียบมุมมองแบบ deficit (¶2) กับงานวิจัยรุ่นใหม่ (¶3–¶6) แล้วสรุปใน ¶8 ว่า “Migration does not simply abolish care, but neither does it leave care unchanged” จึงตอบ B ตัวเลือก A เป็นมุมมองเดิมที่บทความรายงานแต่ไม่ยอมรับทั้งหมด และใช้คำว่า most เกินจริง ส่วน C ขัดกับ ¶5 ที่ว่า “the benefits are uneven”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The phrase 'more often in practice' in paragraph 1 suggests that",
+     "options": [
+      "daughters are legally required to care for their parents",
+      "sons almost never accept responsibility for their parents",
+      "care by daughters-in-law has declined in recent decades",
+      "although sons may be expected to provide care, women usually do so"
+     ],
+     "answer": 3,
+     "explain": "¶1: “it is typically a son or, more often in practice, a daughter or daughter-in-law who provides daily assistance” วลี in practice แสดงว่าแม้ตามธรรมเนียมจะคาดหวังลูกชาย แต่ในความเป็นจริงผู้หญิงมักเป็นผู้ดูแล ตอบ D ตัวเลือก B สรุปเกินจริงด้วยคำว่า almost never ส่วน A ไม่มีข้อมูลเรื่องกฎหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'extracted' in paragraph 2 is closest in meaning to",
+     "options": [
+      "removed, in the way a resource is taken out",
+      "carefully chosen from a larger group",
+      "obtained by threats or force",
+      "quoted from a longer piece of writing"
+     ],
+     "answer": 0,
+     "explain": "¶2: “care being extracted from the global South and transferred to the North, leaving a ‘care deficit’ behind” เปรียบการดูแลเหมือนทรัพยากรที่ถูกนำออกไปจนเหลือการขาดแคลน ตอบ A ตัวเลือก C และ D เป็นความหมายอื่นของ extract (รีดไถ/คัดข้อความ) ที่ไม่เข้ากับบริบทนี้"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the function of paragraph 3?",
+     "options": [
+      "It provides statistical evidence for the deficit perspective.",
+      "It explains why the concept of global care chains was abandoned.",
+      "It acknowledges the value of earlier work before introducing an alternative view.",
+      "It summarises the policy recommendations made later in the passage."
+     ],
+     "answer": 2,
+     "explain": "¶3 เริ่มว่า “This perspective drew attention to genuine inequalities, and its insights remain valuable” แล้วตามด้วย “however, a second generation of research has questioned…” จึงเป็นการยอมรับคุณค่างานเดิมก่อนเสนอมุมมองใหม่ ตอบ C ตัวเลือก B ผิดเพราะบทความไม่ได้บอกว่าแนวคิดนี้ถูกละทิ้ง เพียงแต่ถูกตั้งคำถาม"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "According to paragraph 3, the newer research treats care as",
+     "options": [
+      "a single activity that requires family members to live close together",
+      "a mainly financial relationship between children and their parents",
+      "a duty that migrants abandon as soon as they leave home",
+      "a set of separate practices, some of which can be carried out from afar"
+     ],
+     "answer": 3,
+     "explain": "¶3: care is understood “not as a single activity requiring physical proximity but as a bundle of distinct practices” และผู้ย้ายถิ่น “may withdraw from some of these practices while intensifying others” ตอบ D ตัวเลือก A คือความเข้าใจเดิมที่งานวิจัยใหม่ปฏิเสธ แม้จะใช้คำจากต้นฉบับก็ตาม"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the author mention that the 2023 survey found no difference in reported loneliness?",
+     "options": [
+      "to show that remittances were spent mainly on medical treatment",
+      "to point out the limits of what remittances can achieve",
+      "to suggest that older people with children abroad were less lonely",
+      "to question the accuracy of the survey's other findings"
+     ],
+     "answer": 1,
+     "explain": "¶4: ประโยคนี้ตามหลัง “Nonetheless, money cannot easily substitute for help with bathing, dressing…” ผลที่ว่าความเหงาไม่ต่างกันจึงใช้แสดงข้อจำกัดของเงินที่ส่งกลับบ้าน ตอบ B ตัวเลือก C ขัดกับข้อมูลโดยตรงเพราะ “no difference” หมายถึงไม่ได้เหงาน้อยกว่า"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the 2023 survey, older adults with a child working abroad were more likely than others to",
+     "options": [
+      "report feeling less lonely",
+      "live with one of the migrant's siblings",
+      "have sought treatment for a chronic condition",
+      "employ local helpers for bathing and dressing"
+     ],
+     "answer": 2,
+     "explain": "¶4: those with a child abroad “were more likely than those without to have sought treatment for a chronic condition in the preceding year” จึงตอบ C ตัวเลือก A ขัดกับผลสำรวจที่ไม่พบความแตกต่างเรื่องความเหงา ส่วน D ใช้คำว่า bathing จากประโยคถัดไปที่พูดถึงสิ่งที่เงินทดแทนไม่ได้"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 5 as a way in which migrants use co-presence?",
+     "options": [
+      "arranging and paying for professional carers",
+      "keeping an eye on their parents' health",
+      "reminding their parents to take medicine",
+      "taking part in family decisions"
+     ],
+     "answer": 0,
+     "explain": "¶5: migrants use it “to monitor parents' health, remind them to take medication and participate in family decisions from afar” ไม่มีการกล่าวถึงการจ้างผู้ดูแลมืออาชีพ จึงตอบ A ตัวเลือกนี้ล่อใจเพราะ ¶4 กล่าวถึง “the wages of local helpers” แต่นั่นเป็นเรื่องเงินส่งกลับบ้าน ไม่ใช่การใช้ co-presence"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "It can be inferred from paragraph 5 that video calls",
+     "options": [
+      "have replaced face-to-face contact in most migrant families",
+      "may benefit some older parents considerably more than others",
+      "have reduced the number of hours that migrants work",
+      "are generally preferred by parents to living near their children"
+     ],
+     "answer": 1,
+     "explain": "¶5: “the benefits are uneven: parents with poor eyesight, limited literacy or unreliable connections may be excluded” แสดงว่าผู้สูงอายุบางกลุ่มได้ประโยชน์มากกว่ากลุ่มอื่น ตอบ B ตัวเลือก D ขยายความเกินจาก “Some older people report…” ให้กลายเป็นความเห็นของผู้สูงอายุทั่วไป"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 6, a sibling who stays near the parents may",
+     "options": [
+      "receive extra remittances or a larger inheritance in return for providing care",
+      "refuse to help unless the migrant returns home permanently",
+      "rely entirely on temple networks and health volunteers",
+      "be paid a carer allowance by the government"
+     ],
+     "answer": 0,
+     "explain": "¶6: a sibling “may assume most of the practical work, sometimes in exchange for a larger share of remittances or of a future inheritance” จึงตอบ A ตัวเลือก D ล่อใจเพราะ carer allowances ปรากฏใน ¶9 แต่เป็นข้อเสนอเชิงนโยบาย ไม่ใช่สิ่งที่เกิดขึ้นอยู่แล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "The critics described in paragraph 7 would most likely argue that the newer research",
+     "options": [
+      "exaggerates the loneliness experienced by older people",
+      "pays too much attention to women who stay at home",
+      "underestimates the costs borne by family members who stay behind",
+      "relies too heavily on large-scale statistical surveys"
+     ],
+     "answer": 2,
+     "explain": "¶7: ผู้วิจารณ์ชี้ว่างานใหม่ “risks romanticising arrangements that rest on the unpaid labour of those who stay behind” และบทบาทของพี่น้องผู้หญิง “is easily rendered invisible” จึงตอบ C ตัวเลือก B กลับด้าน เพราะผู้วิจารณ์เห็นว่างานวิจัยให้ความสนใจผู้หญิงเหล่านี้ 'น้อยเกินไป' ส่วน D ผิดเพราะสิ่งที่ถูกวิจารณ์คือ “studies relying on interviews”"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The author's overall attitude towards the two research perspectives is best described as",
+     "options": [
+      "firmly committed to the deficit perspective",
+      "dismissive of both as politically motivated",
+      "convinced that the newer view has fully replaced the older one",
+      "balanced, drawing on both while treating neither as complete"
+     ],
+     "answer": 3,
+     "explain": "¶8: “These criticisms suggest that neither perspective is adequate on its own” และผู้เขียนยอมรับทั้งข้อดีของงานเดิม (¶3) และงานใหม่ (¶6) จึงตอบ D ตัวเลือก C ล่อใจเพราะผู้เขียนชื่นชม “the most important contribution of the newer research” แต่ไม่ได้มองว่ามุมมองใหม่มาแทนที่มุมมองเดิมทั้งหมด"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What concept describes women from poorer countries migrating to care for families in wealthier ones? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "global care chains",
+      "global care chain",
+      "care chains"
+     ],
+     "explain": "¶2: “the concept of ‘global care chains’ to describe how women from poorer countries migrate to care for children and older people in wealthier ones” จึงตอบ global care chains"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to the deficit perspective, what was left behind in poorer countries when care was transferred to the North? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "care deficit"
+     ],
+     "explain": "¶2: “care being extracted from the global South and transferred to the North, leaving a ‘care deficit’ behind” จึงตอบ care deficit ไม่ควรตอบ parents หรือ left behind แม้ว่า ¶2 จะใช้วลี “left behind” กับพ่อแม่ เพราะคำถามถามถึงสิ่งที่เหลืออยู่ในประเทศยากจนตามภาพของมุมมองนี้"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term is used for the money that migrants send home? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "remittances",
+      "remittance"
+     ],
+     "explain": "¶4: “Remittances, the money migrants send home, frequently pay for medical treatment…” จึงตอบ remittances"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What have researchers called the sense of being together despite separation? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "co-presence"
+     ],
+     "explain": "¶5: “Researchers have described the resulting sense of being together despite separation as ‘co-presence’” จึงตอบ co-presence"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What concept has been proposed to capture reciprocal, shifting flows of support across generations and distances? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "care circulation"
+     ],
+     "explain": "¶6: “The concept of ‘care circulation’ has been proposed to capture these reciprocal, shifting flows of support across generations and distances” จึงตอบ care circulation"
+    }
+   ]
+  }
+ ]
+}

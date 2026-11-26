@@ -1,0 +1,829 @@
+[
+ {
+  "id": "B01",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Education",
+  "title": "When Results Refuse to Repeat: Replication and the Credibility of Science",
+  "focus": "multi-step inference (inference)",
+  "skill_tip_en": "For inference questions, connect two or more pieces of evidence, often from different sentences, and choose the option the text supports without stating it, rejecting options that merely recycle the passage's wording or go further than the evidence allows.",
+  "paragraphs": [
+   "Few principles are recited more confidently in introductory science courses than the claim that a finding becomes knowledge only when others can reproduce it. A single experiment, however elegant, is regarded as provisional: its results may reflect chance, an unnoticed flaw in the equipment or the particular habits of one laboratory. Replication is supposed to filter out such accidents. Yet over the past fifteen years, a series of large-scale attempts to repeat published studies has suggested that this filter works far less reliably than textbooks imply. In some fields, fewer than half of the re-run experiments produced results resembling the originals, a pattern now widely described as the “replication crisis”.",
+   "The causes most often cited are statistical rather than moral. Many studies, particularly in psychology and the biomedical sciences, rely on small samples, which makes them prone to detecting effects that are either exaggerated or entirely spurious. This weakness is compounded by publication bias: journals have traditionally favoured striking, positive results, while studies that find nothing tend to remain in researchers’ filing cabinets. As a consequence, the published literature may represent a skewed sample of all the research actually conducted. If twenty teams test the same ineffective treatment and one obtains a “significant” result by chance, it is that one result, not the nineteen failures, that is most likely to reach print.",
+   "A further difficulty is what methodologists call analytical flexibility. A researcher analysing a dataset faces dozens of defensible choices: which participants to exclude, which variables to control for, when to stop collecting data. Each choice may seem innocent in isolation, but taken together they allow almost any dataset to be coaxed into yielding a publishable pattern. Crucially, this need not involve deliberate dishonesty. Dr. Pimchanok Saelee, a methodologist at a university in northern Thailand, argues that most such decisions are made in good faith by scientists who sincerely believe they are uncovering a real effect. “The danger,” she notes, “is not fraud but optimism operating under pressure to publish.”",
+   "Not everyone accepts that the situation amounts to a crisis. Some philosophers of science point out that a failed replication is itself an experimental result, subject to exactly the same uncertainties as the original. A repeat study may differ from the first in subtle ways — a different population, a translated questionnaire, a change of season — that alter the outcome without either study being wrong. On this view, low replication rates may partly reflect the genuine context-sensitivity of certain phenomena, particularly in the social sciences, where human behaviour is shaped by culture and circumstance. Admittedly, this argument has limits: if an effect vanishes whenever conditions change slightly, its practical and theoretical significance is questionable.",
+   "In response to these concerns, a number of reforms have gained ground. The most prominent is pre-registration, in which researchers publicly record their hypotheses and analysis plans before collecting data, thereby limiting the scope for flexible analysis after the fact. Some journals have gone further by adopting “registered reports”, agreeing to publish a study on the basis of its design, regardless of whether the eventual results are positive. Early evidence is encouraging: a 2023 comparison of several hundred papers found that registered reports presented supportive results far less often than conventional articles did, which suggests that the format is removing at least some of the distortion introduced by selective publication.",
+   "These measures are not without costs. Critics warn that rigid pre-registration may discourage exploratory research, in which scientists follow unexpected leads that no plan could have anticipated, and they observe that much of the history of discovery consists of precisely such detours. Others note that repeating studies is time-consuming and poorly rewarded; a young researcher who spends two years confirming someone else’s finding may discover that hiring committees value the effort far less than an original, if fragile, discovery. Unless funding bodies and universities change what they reward, the burden of replication is likely to fall on those least able to bear it.",
+   "Perhaps the most valuable lesson of the replication debate is philosophical rather than technical. It has reminded scientists that certainty in science is accumulated slowly and collectively, not delivered by any single study, however prestigious the journal in which it appears. Seen in this light, the discovery that many findings do not survive repetition is less an indictment of science than evidence that its self-correcting mechanisms, though slower than once assumed, are still functioning. The challenge now is to make that correction routine rather than exceptional."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "main idea",
+    "q": "Which of the following best states the main idea of the passage?",
+    "options": [
+     "Replication failures prove that most published science is unreliable and should be disregarded.",
+     "Difficulties in reproducing findings expose weak research practices, yet science can still correct itself.",
+     "Pre-registration has now eliminated publication bias in psychology and the biomedical sciences.",
+     "Philosophers have shown that the replication crisis is an illusion created by differences in context."
+    ],
+    "answer": 1,
+    "explain": "บทความเริ่มจากปัญหาการทำซ้ำผลวิจัย (¶1–3) ข้อโต้แย้ง (¶4) การปฏิรูป (¶5–6) และสรุปใน ¶7 ว่า “its self-correcting mechanisms ... are still functioning” จึงตอบ B ตัวเลือก D ล่อใจเพราะมาจาก ¶4 แต่ผู้เขียนบอกว่าข้อโต้แย้งนี้ “has limits” และไม่ได้บอกว่าวิกฤตเป็นภาพลวง ส่วน A สรุปกว้างเกินไป"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 2 that a reader who examined only the published studies on a particular treatment would most likely",
+    "options": [
+     "overestimate how often the treatment has been shown to work",
+     "find that the unsuccessful studies were reported only briefly",
+     "conclude that the treatment had never been properly tested",
+     "realise that small samples had exaggerated the failures"
+    ],
+    "answer": 0,
+    "explain": "¶2 บอกว่างานที่ไม่พบผล “tend to remain in researchers’ filing cabinets” และผลบวกโดยบังเอิญ “is most likely to reach print” เมื่อเชื่อมสองข้อนี้ ผู้อ่านที่ดูเฉพาะงานตีพิมพ์จะประเมินประสิทธิผลสูงเกินจริง จึงตอบ A ตัวเลือก B ผิดเพราะงานที่ล้มเหลวไม่ได้ถูกตีพิมพ์เลย ไม่ใช่ตีพิมพ์แบบสั้น ๆ"
+   },
+   {
+    "type": "mc",
+    "skill": "vocabulary",
+    "q": "The word 'coaxed' in paragraph 3 is closest in meaning to",
+    "options": [
+     "thoroughly checked",
+     "patiently manoeuvred",
+     "independently verified",
+     "deliberately falsified"
+    ],
+    "answer": 1,
+    "explain": "¶3: “allow almost any dataset to be coaxed into yielding a publishable pattern” หมายถึงค่อย ๆ ปรับเลือกวิธีวิเคราะห์ทีละน้อยจนได้ผลที่ต้องการ จึงตอบ B ตัวเลือก D ล่อใจแต่ผิด เพราะประโยคถัดมาบอกว่า “this need not involve deliberate dishonesty”"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Dr. Pimchanok Saelee's comment in paragraph 3 implies that improving replication rates would mainly require",
+    "options": [
+     "identifying and punishing the small number of dishonest scientists",
+     "limiting the number of variables that researchers may measure",
+     "changing the conditions in which well-meaning researchers make decisions",
+     "persuading scientists to stop believing in their own hypotheses"
+    ],
+    "answer": 2,
+    "explain": "¶3: เธอเห็นว่าการตัดสินใจส่วนใหญ่ทำ “in good faith” และอันตรายคือ “optimism operating under pressure to publish” เมื่อปัญหาไม่ใช่การโกงแต่เป็นแรงกดดัน ทางแก้จึงต้องเปลี่ยนสภาพแวดล้อม/แรงจูงใจ ตอบ C ตัวเลือก A ขัดกับคำว่า “not fraud” โดยตรง"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention 'a different population, a translated questionnaire, a change of season' in paragraph 4?",
+    "options": [
+     "To illustrate how a repeat study can diverge from the original without either being flawed",
+     "To list the most common errors made by researchers who conduct replications",
+     "To prove that findings in the social sciences can never be replicated",
+     "To explain why philosophers refuse to accept the results of failed replications"
+    ],
+    "answer": 0,
+    "explain": "¶4: ตัวอย่างเหล่านี้คือ “subtle ways ... that alter the outcome without either study being wrong” จึงตอบ A ตัวเลือก B ล่อใจแต่ผิด เพราะผู้เขียนไม่ได้มองว่าเป็น “ความผิดพลาด” ของผู้วิจัย และ C ใช้คำว่า never ซึ่งเกินกว่าที่ข้อความกล่าว"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Based on the last sentence of paragraph 4, the author would most likely regard an effect that appears only under one narrow set of conditions as",
+    "options": [
+     "proof that the original researchers made an analytical error",
+     "evidence that the replication crisis has been exaggerated",
+     "more important than effects that replicate in many settings",
+     "of doubtful value even if it is genuine"
+    ],
+    "answer": 3,
+    "explain": "¶4: “if an effect vanishes whenever conditions change slightly, its practical and theoretical significance is questionable” แม้ผลนั้นอาจมีจริง ผู้เขียนก็ยังสงสัยคุณค่าของมัน จึงตอบ D ตัวเลือก B ล่อใจเพราะเป็นมุมมองของนักปรัชญาที่ผู้เขียนรายงาน แต่ประโยคสุดท้ายคือการจำกัดข้อโต้แย้งนั้น (“this argument has limits”)"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "What can be inferred from the 2023 comparison described in paragraph 5?",
+    "options": [
+     "Registered reports are designed less carefully than conventional articles.",
+     "Researchers who write registered reports deliberately test weaker hypotheses.",
+     "Some positive results in conventional articles may reflect selective publication rather than real effects.",
+     "Journals that adopt registered reports publish fewer studies overall."
+    ],
+    "answer": 2,
+    "explain": "¶5: registered reports ซึ่งตีพิมพ์โดยไม่ขึ้นกับผล “presented supportive results far less often than conventional articles did” แปลว่าผลบวกจำนวนมากในบทความทั่วไปน่าจะมาจากการเลือกตีพิมพ์ ตอบ C ตัวเลือก A กลับความหมาย เพราะรูปแบบนี้ตัดสินจากการออกแบบงานวิจัย (“on the basis of its design”)"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "The author's attitude towards the reforms discussed in paragraphs 5 and 6 can best be described as",
+    "options": [
+     "wholeheartedly enthusiastic about their benefits",
+     "cautiously favourable, with reservations about costs",
+     "openly doubtful that they have any real effect",
+     "indifferent to whether they are widely adopted"
+    ],
+    "answer": 1,
+    "explain": "¶5 ผู้เขียนเรียกหลักฐานว่า “encouraging” แต่ ¶6 เปิดด้วย “These measures are not without costs” จึงเป็นท่าทีเห็นด้วยอย่างระมัดระวัง ตอบ B ตัวเลือก A ผิดเพราะมองข้ามข้อจำกัดใน ¶6 ส่วน C ขัดกับคำว่า encouraging"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Which of the following statements would the author most likely agree with?",
+    "options": [
+     "A finding published in a leading journal can be treated as settled knowledge.",
+     "Exploratory research should be abandoned in favour of pre-registered studies.",
+     "Responsibility for replication should rest mainly with early-career researchers.",
+     "The failure of many findings to replicate is, in one sense, a sign of scientific health."
+    ],
+    "answer": 3,
+    "explain": "¶7: การที่ผลวิจัยหลายชิ้นทำซ้ำไม่ได้ “is less an indictment of science than evidence that its self-correcting mechanisms ... are still functioning” จึงตอบ D ตัวเลือก A ขัดกับ “not delivered by any single study, however prestigious the journal” ส่วน C ล่อใจเพราะ ¶6 พูดถึงนักวิจัยรุ่นใหม่ แต่ผู้เขียนมองว่าเป็นปัญหา ไม่ใช่ข้อเสนอ"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "According to paragraph 2, what term describes journals' traditional preference for striking, positive results? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "publication bias"
+    ],
+    "explain": "¶2: “This weakness is compounded by publication bias: journals have traditionally favoured striking, positive results” คำตอบคือ publication bias (อคติในการตีพิมพ์)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What do methodologists call the many defensible choices that allow a dataset to be shaped into a publishable pattern? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "analytical flexibility"
+    ],
+    "explain": "¶3: “A further difficulty is what methodologists call analytical flexibility” ตามด้วยตัวอย่างทางเลือกในการวิเคราะห์ข้อมูล คำตอบคือ analytical flexibility"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What is the practice in which researchers publicly record their hypotheses and analysis plans before collecting data? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "pre-registration"
+    ],
+    "explain": "¶5: “The most prominent is pre-registration, in which researchers publicly record their hypotheses and analysis plans before collecting data” คำตอบคือ pre-registration (การลงทะเบียนแผนวิจัยล่วงหน้า) ไม่ใช่ registered reports ซึ่งเป็นรูปแบบการตีพิมพ์ของวารสาร"
+   }
+  ]
+ },
+ {
+  "id": "B02",
+  "kind": "long",
+  "genre": "feature article",
+  "domain": "Society",
+  "title": "Thinking Fast in the Shopping Aisle: The Quiet Power of Mental Shortcuts",
+  "focus": "author's stance and tone (tone, purpose, fact/opinion)",
+  "skill_tip_en": "To identify the author's stance, look for evaluative words and phrases (frankly, naive, hardly, unfortunately, deserves to be taken seriously) and for concessions, and separate the claims the author merely reports from the claims the author endorses.",
+  "paragraphs": [
+   "Every day, most of us make hundreds of small decisions — which queue to join, which brand of rice to buy, whether to renew a gym membership we rarely use. We like to believe that these choices are the product of careful deliberation. A substantial body of research suggests otherwise. Much of our everyday decision-making relies on mental shortcuts, or heuristics, which allow us to act quickly on the basis of limited information. Such shortcuts are often useful; without them, we would be paralysed by trivial choices. But they also produce systematic errors, known as cognitive biases, that are predictable enough to be studied — and, increasingly, exploited.",
+   "Consider anchoring, the tendency to rely too heavily on the first number we encounter. In a 2022 experiment at a university in Khon Kaen, shoppers were shown a jacket with a “recommended price” before being asked what they would pay for it. Those who saw a recommended price of 2,400 baht offered, on average, nearly 40 per cent more than those who saw 1,200 baht, even though the jacket was identical. Retailers have long understood this effect, which is why so many price tags display a crossed-out figure above the sale price. That original figure, frankly, is often less a price than a piece of theatre.",
+   "Equally familiar is the sunk-cost fallacy: our reluctance to abandon something once we have invested time or money in it. People sit through dull films because they have paid for the tickets, and governments persist with failing infrastructure projects because too much has already been spent to stop. From a strictly economic standpoint, past costs that cannot be recovered should be irrelevant to future decisions. Psychologically, however, abandoning an investment feels like admitting a mistake, and few of us enjoy doing that. It would be naive to imagine that institutions are immune; if anything, the public nature of their commitments makes retreat even harder.",
+   "Perhaps the most costly bias, at least for household finances, is present bias — the habit of giving disproportionate weight to immediate rewards over future ones. It helps to explain why many people intend to save for retirement yet repeatedly postpone doing so, and why “buy now, pay later” schemes have spread so rapidly among young consumers. A survey of 1,500 working adults in Bangkok, conducted in 2024 by a private research institute, found that 61 per cent had no retirement savings beyond the compulsory minimum, although most described saving as “very important”. The gap between what people value and what they actually do could hardly be wider.",
+   "It would be wrong, though, to conclude that human beings are simply irrational. Some researchers argue that many so-called biases are sensible responses to the environments in which our minds evolved, where information was scarce and quick decisions often mattered more than perfect ones. A heuristic that misleads us in a laboratory may serve us well in daily life. This argument deserves to be taken seriously, but it is sometimes stretched too far. The fact that a shortcut was once adaptive does not make it harmless in a modern marketplace designed by people who understand it better than we do.",
+   "What, then, can be done? Awareness alone, unfortunately, offers limited protection; studies repeatedly find that people who can define a bias are scarcely less susceptible to it. More promising are changes to the context in which choices are made. Automatically enrolling employees in pension schemes, while allowing them to opt out, has raised participation dramatically in several countries. Such nudges work with our biases rather than against them. Critics object that they are paternalistic, and the concern is not trivial: a technique that steers people towards saving can just as easily steer them towards spending.",
+   "The study of cognitive bias is sometimes presented as a catalogue of human foolishness. That is, I think, a mistake. Its real value lies in shifting the question from whether people are rational to how decisions can be designed so that ordinary, hurried, imperfect thinkers are more likely to choose well. We will never stop taking shortcuts. The task is to make sure that the roads they lead down are, more often than not, the ones we would have chosen if we had had time to think."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention choices such as 'which queue to join' in paragraph 1?",
+    "options": [
+     "To show that most daily decisions are made only after careful thought",
+     "To illustrate how routine and numerous everyday decisions are",
+     "To argue that trivial choices deserve more deliberation than they receive",
+     "To give examples of choices that retailers have learned to manipulate"
+    ],
+    "answer": 1,
+    "explain": "¶1 เปิดด้วย “most of us make hundreds of small decisions” แล้วยกตัวอย่างการเลือกคิว/ยี่ห้อข้าว เพื่อแสดงว่าการตัดสินใจเล็ก ๆ เกิดขึ้นบ่อยและเป็นเรื่องธรรมดา จึงตอบ B ตัวเลือก A ล่อใจเพราะเป็นความเชื่อที่ผู้เขียนยกมาเพื่อหักล้าง (“A substantial body of research suggests otherwise”)"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "By describing the crossed-out original price as 'a piece of theatre' in paragraph 2, the author suggests that such pricing is",
+    "options": [
+     "an entertaining tradition that shoppers enjoy",
+     "an honest record of the product's earlier value",
+     "a staged device intended to influence buyers",
+     "a harmless practice that has no real effect"
+    ],
+    "answer": 2,
+    "explain": "¶2: “That original figure, frankly, is often less a price than a piece of theatre” คำว่า theatre และ frankly แสดงว่าผู้เขียนมองว่าเป็นการจัดฉากเพื่อใช้ anchoring กับลูกค้า ตอบ C ตัวเลือก A ล่อใจเพราะตีความ theatre ตามตัวอักษรว่าเป็นความบันเทิง แต่บริบทคือการชักจูง"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "According to paragraph 2, shoppers who were shown the higher recommended price",
+    "options": [
+     "were willing to pay considerably more for an identical item",
+     "were told that the jacket was made of better material",
+     "paid exactly twice as much as the other group",
+     "refused to buy the jacket at the sale price"
+    ],
+    "answer": 0,
+    "explain": "¶2: ผู้ที่เห็นราคา 2,400 บาท “offered, on average, nearly 40 per cent more ... even though the jacket was identical” จึงตอบ A ตัวเลือก C ล่อใจเพราะ 2,400 เป็นสองเท่าของ 1,200 แต่ส่วนต่างของราคาที่เสนอคือเกือบ 40% เท่านั้น"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 4 that 'buy now, pay later' schemes appeal to young consumers mainly because they",
+    "options": [
+     "offer lower overall prices than conventional loans",
+     "let buyers enjoy goods at once while postponing the cost",
+     "are recommended by financial advisers as a form of saving",
+     "were designed specifically to counteract present bias"
+    ],
+    "answer": 1,
+    "explain": "¶4 ใช้ present bias หรือ “giving disproportionate weight to immediate rewards over future ones” อธิบายการแพร่หลายของ buy now, pay later จึงอนุมานได้ว่าดึงดูดเพราะได้ของทันทีแต่จ่ายทีหลัง ตอบ B ตัวเลือก D กลับความหมาย เพราะโครงการนี้อาศัยอคติ ไม่ได้แก้อคติ"
+   },
+   {
+    "type": "mc",
+    "skill": "fact/opinion",
+    "q": "Which of the following from paragraphs 3 and 4 is presented as the author's opinion rather than as a reported fact?",
+    "options": [
+     "Institutions may find it even harder than individuals to retreat from failing commitments.",
+     "Some governments continue with infrastructure projects that are failing.",
+     "Most adults in the Bangkok survey had no retirement savings beyond the compulsory minimum.",
+     "Most adults in the Bangkok survey said that saving was very important."
+    ],
+    "answer": 0,
+    "explain": "¶3: “It would be naive to imagine that institutions are immune; if anything, the public nature of their commitments makes retreat even harder” เป็นการประเมินของผู้เขียน (สังเกตคำ naive, if anything) จึงตอบ A ตัวเลือก C และ D เป็นข้อมูลจากผลสำรวจใน ¶4 จึงเป็นข้อเท็จจริงที่รายงาน แม้จะเป็นตัวเลขที่น่าตกใจก็ตาม"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "The sentence 'The gap between what people value and what they actually do could hardly be wider' in paragraph 4 conveys the author's",
+    "options": [
+     "amusement at the foolishness of the survey respondents",
+     "doubt about whether the survey results are accurate",
+     "approval of the way young people manage their money",
+     "emphatic view that the mismatch is striking"
+    ],
+    "answer": 3,
+    "explain": "¶4: “could hardly be wider” เป็นการเน้นว่าช่องว่างระหว่างค่านิยมกับพฤติกรรมนั้นใหญ่มาก ตอบ D ตัวเลือก A ล่อใจแต่ผิด เพราะผู้เขียนไม่ได้เยาะเย้ย และใน ¶7 ยังปฏิเสธการมองอคติเป็น “a catalogue of human foolishness”"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "What is the author's position on the argument, described in paragraph 5, that many biases are sensible responses to ancestral environments?",
+    "options": [
+     "The author rejects it as unscientific and misleading.",
+     "The author accepts it fully and concludes that biases are harmless.",
+     "The author finds it reasonable but warns against overextending it.",
+     "The author reports it without expressing any personal view."
+    ],
+    "answer": 2,
+    "explain": "¶5: “This argument deserves to be taken seriously, but it is sometimes stretched too far” แสดงว่ายอมรับบางส่วนแต่เตือนไม่ให้ใช้เกินขอบเขต ตอบ C ตัวเลือก B ล่อใจเพราะผู้เขียนเปิดย่อหน้าว่า “It would be wrong ... to conclude that human beings are simply irrational” แต่ประโยคสุดท้ายยืนยันว่าทางลัด “does not make it harmless”"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "In paragraph 6, the author treats the objection that nudges are paternalistic as",
+    "options": [
+     "a serious point that should not be dismissed",
+     "a misunderstanding of how nudges actually work",
+     "the decisive reason to abandon nudges altogether",
+     "an exaggeration put forward mainly by retailers"
+    ],
+    "answer": 0,
+    "explain": "¶6: “Critics object that they are paternalistic, and the concern is not trivial” แล้วให้เหตุผลว่าเทคนิคเดียวกันอาจชักนำให้ใช้จ่ายได้ จึงตอบ A ตัวเลือก C ไปไกลเกินไป เพราะผู้เขียนยังเห็นว่า nudges “More promising” กว่าการสร้างความตระหนักเพียงอย่างเดียว"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "What is the author's main purpose in the final paragraph?",
+    "options": [
+     "To summarise each of the biases discussed earlier in turn",
+     "To argue that bias research mainly records human foolishness",
+     "To reframe the value of bias research as designing better choices",
+     "To predict that people will eventually stop relying on shortcuts"
+    ],
+    "answer": 2,
+    "explain": "¶7: “Its real value lies in shifting the question ... to how decisions can be designed” ผู้เขียนเสนอกรอบความคิดใหม่ต่อคุณค่าของงานวิจัย ตอบ C ตัวเลือก B คือมุมมองที่ผู้เขียนปฏิเสธ (“That is, I think, a mistake”) และ D ขัดกับ “We will never stop taking shortcuts”"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "In paragraph 1, what word is used for the mental shortcuts that allow people to act quickly on limited information? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "heuristics"
+    ],
+    "explain": "¶1: “Much of our everyday decision-making relies on mental shortcuts, or heuristics” คำตอบคือ heuristics (ไม่ใช่ cognitive biases ซึ่งเป็นความผิดพลาดที่ทางลัดเหล่านี้ก่อขึ้น)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What term describes people's reluctance to abandon something once they have invested time or money in it? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "sunk-cost fallacy",
+     "the sunk-cost fallacy"
+    ],
+    "explain": "¶3: “Equally familiar is the sunk-cost fallacy: our reluctance to abandon something once we have invested time or money in it” คำตอบคือ (the) sunk-cost fallacy"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "According to paragraph 6, what kind of interventions work with people's biases rather than against them? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "nudges"
+    ],
+    "explain": "¶6: “Such nudges work with our biases rather than against them” โดยมีตัวอย่างคือการลงทะเบียนเข้ากองทุนบำนาญโดยอัตโนมัติ คำตอบคือ nudges"
+   }
+  ]
+ },
+ {
+  "id": "B03",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Environment",
+  "title": "From Soil to Supper: Tracing Microplastics Through the Food Web",
+  "focus": "paraphrased detail (paraphrase, detail)",
+  "skill_tip_en": "Paraphrased detail questions rarely repeat the passage's wording, so locate the relevant sentence, match its meaning rather than its vocabulary, and be wary of options that echo key words but change the relationship between them.",
+  "paragraphs": [
+   "Microplastics — fragments of plastic smaller than five millimetres — were first documented as a marine pollutant, and for many years research focused almost exclusively on the oceans. That emphasis is now shifting. Scientists increasingly recognise that the food people eat may be contaminated not only through the sea but also through farmland, irrigation water and processing, and that the routes by which particles move between organisms are more varied than early studies assumed. Understanding these routes matters because the potential health consequences of dietary exposure depend less on whether microplastics are present, which is now beyond dispute, than on how much accumulates, where, and in what form.",
+   "The marine pathway remains the best documented. Filter-feeding animals such as mussels and oysters process large volumes of seawater and retain suspended particles, including plastics, in their tissues. Because these shellfish are usually eaten whole, digestive tract included, they represent a direct route into the human diet. Fish present a more complicated picture. Most particles ingested by fish are concentrated in the gut, which consumers generally discard, so the quantity reaching the edible muscle appears to be comparatively small. Small fish eaten whole, such as anchovies, are an important exception, and in parts of Southeast Asia they form a regular component of household meals.",
+   "Less attention has been paid to the land, although agricultural soils may now hold more microplastics than the oceans do. One major source is sewage sludge, which is valued by farmers as a cheap fertiliser but retains many of the synthetic fibres washed out of clothing. Plastic mulch films, used widely to suppress weeds and conserve moisture, add a further burden as they degrade under sunlight and are broken up during ploughing. Once in the soil, particles can be ingested by earthworms and other invertebrates, which are in turn eaten by birds and small mammals, linking contaminated fields to wider terrestrial food webs.",
+   "Whether crops themselves absorb microplastics has been a matter of considerable debate. For a long time it was assumed that particles were simply too large to pass through plant roots. However, laboratory experiments have shown that the very smallest fragments, known as nanoplastics, can enter the roots of lettuce and wheat through cracks that form where new lateral roots emerge, and may then be transported towards the leaves. A 2024 study at an agricultural university in central Thailand detected such particles in the leaves of hydroponically grown morning glory, a popular vegetable in the region, although the concentrations were low and the growing conditions differed considerably from those in an open field.",
+   "A central question is whether microplastics behave like certain persistent chemicals, such as mercury, that become more concentrated at each step up the food chain — a process known as biomagnification. The evidence so far is mixed. Particles are clearly transferred from prey to predator, but many also pass through the digestive system and are excreted rather than stored. Some researchers therefore argue that the more significant risk lies not in the plastic itself but in the chemicals it carries, including additives used in manufacturing and pollutants that adhere to particle surfaces in the environment.",
+   "Any assessment of exposure is complicated by serious methodological problems. Laboratories use different techniques to extract and identify particles, and their results are often not directly comparable. Contamination during analysis is a constant hazard: synthetic fibres from laboratory coats and from the air itself can find their way into samples, so careful studies must include blank controls to estimate background levels. Most importantly, the smallest particles, which may be the most biologically active, are also the hardest to detect, meaning that current estimates may understate rather than overstate exposure.",
+   "None of this justifies alarm at the dinner table, but neither does it justify complacency. The evidence indicates that microplastics enter the food chain through multiple routes, several of which were overlooked until recently. Reducing their flow at source — by restricting the use of contaminated sludge, improving the recovery of used mulch films and filtering fibres from domestic washing machines — is likely to prove more effective than attempting to remove particles from food after they have arrived. In the meantime, harmonising laboratory methods should be a priority, since policy can be no better than the measurements on which it is based."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "main idea",
+    "q": "Which of the following best summarises the main point of the passage?",
+    "options": [
+     "Microplastics in food are essentially a marine problem caused by eating shellfish.",
+     "Microplastics reach food by several land and sea routes, although exposure remains uncertain.",
+     "Crops absorb large amounts of microplastics, making vegetables the main dietary source.",
+     "Microplastics become more concentrated at every level of the food chain, like mercury."
+    ],
+    "answer": 1,
+    "explain": "บทความไล่เส้นทางทางทะเล (¶2) ดิน (¶3) พืช (¶4) และสรุปใน ¶7 ว่า “microplastics enter the food chain through multiple routes” พร้อมชี้ข้อจำกัดของการวัดใน ¶6 จึงตอบ B ตัวเลือก D ล่อใจเพราะมาจาก ¶5 แต่ข้อความบอกว่า “The evidence so far is mixed”"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "Which of the following best expresses the meaning of the last sentence of paragraph 1?",
+    "options": [
+     "Since microplastics are clearly present, what matters is the amount, location and nature of what builds up.",
+     "The health risks of microplastics in food depend mainly on whether the particles are present at all.",
+     "Scientists still disagree about whether microplastics can be found in the human diet.",
+     "The form that microplastics take matters less than the total quantity that people consume."
+    ],
+    "answer": 0,
+    "explain": "¶1: ผลต่อสุขภาพ “depend less on whether microplastics are present, which is now beyond dispute, than on how much accumulates, where, and in what form” จึงตอบ A ตัวเลือก B กลับความหมายของโครงสร้าง less ... than และ C ขัดกับ “beyond dispute”"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "According to paragraph 2, why do mussels and oysters provide a direct route for microplastics into the human diet?",
+    "options": [
+     "Their muscle contains more plastic than that of any species of fish.",
+     "They live close to coasts, where plastic waste is most concentrated.",
+     "People normally consume them entirely, including where particles collect.",
+     "They are the most commonly eaten seafood in Southeast Asia."
+    ],
+    "answer": 2,
+    "explain": "¶2: “Because these shellfish are usually eaten whole, digestive tract included, they represent a direct route into the human diet” จึงตอบ C ตัวเลือก D ล่อใจเพราะ ¶2 พูดถึง Southeast Asia แต่เป็นเรื่องปลาตัวเล็กอย่าง anchovies ไม่ใช่หอย"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "Which of the following statements about fish is supported by paragraph 2?",
+    "options": [
+     "Fish muscle usually holds more particles than the fish gut does.",
+     "Eating fish is safer than eating shellfish in every situation.",
+     "Anchovies absorb microplastics directly into their muscle tissue.",
+     "Fish eaten whole may expose people to more particles than gutted fish."
+    ],
+    "answer": 3,
+    "explain": "¶2: อนุภาคส่วนใหญ่อยู่ในลำไส้ “which consumers generally discard” แต่ปลาตัวเล็กที่กินทั้งตัวเป็น “an important exception” จึงตอบ D ตัวเลือก A กลับข้อเท็จจริง และ B ใช้ in every situation ซึ่งกว้างเกินไปเพราะมีข้อยกเว้น"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "Which of the following best restates the information about sewage sludge in paragraph 3?",
+    "options": [
+     "Farmers avoid sewage sludge because it is known to contain plastic fibres.",
+     "Sludge used as an inexpensive fertiliser carries synthetic fibres from laundry.",
+     "Sewage sludge is the only source of microplastics in farm soils.",
+     "Sewage sludge breaks plastic fibres down before reaching farmland."
+    ],
+    "answer": 1,
+    "explain": "¶3: sewage sludge “is valued by farmers as a cheap fertiliser but retains many of the synthetic fibres washed out of clothing” ตอบ B (cheap = inexpensive, washed out of clothing = from laundry) ตัวเลือก C ผิดเพราะ ¶3 ระบุว่าเป็น “One major source” และยังมี mulch films อีกแหล่งหนึ่ง"
+   },
+   {
+    "type": "mc",
+    "skill": "detail",
+    "q": "According to paragraph 4, nanoplastics can enter plant roots",
+    "options": [
+     "through openings created where side roots begin to grow",
+     "by dissolving the protective outer layer of the root",
+     "only when the plants are grown without any soil",
+     "because they are carried in by soil invertebrates"
+    ],
+    "answer": 0,
+    "explain": "¶4: nanoplastics เข้าสู่รากได้ “through cracks that form where new lateral roots emerge” ตอบ A (cracks = openings, lateral roots = side roots) ตัวเลือก C ล่อใจเพราะการศึกษาผักบุ้งปลูกแบบ hydroponic แต่การทดลองกับผักกาดและข้าวสาลีไม่ได้จำกัดเงื่อนไขเช่นนั้น"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "What can be inferred from paragraph 4 about the 2024 study of morning glory?",
+    "options": [
+     "Its findings prove that vegetables grown in fields are heavily contaminated.",
+     "Its results may not apply directly to vegetables grown on ordinary farms.",
+     "It showed that morning glory absorbs larger particles than lettuce or wheat.",
+     "It overturned earlier laboratory evidence about the uptake of nanoplastics."
+    ],
+    "answer": 1,
+    "explain": "¶4: ผักบุ้งปลูกแบบ hydroponic และ “the growing conditions differed considerably from those in an open field” อีกทั้ง “the concentrations were low” จึงอนุมานได้ว่าผลอาจใช้กับแปลงปลูกจริงไม่ได้โดยตรง ตอบ B ตัวเลือก A เกินหลักฐาน และ D ผิดเพราะงานนี้สอดคล้องกับการทดลองก่อนหน้า ไม่ได้หักล้าง"
+   },
+   {
+    "type": "mc",
+    "skill": "paraphrase",
+    "q": "Which of the following best paraphrases the view of 'some researchers' in paragraph 5?",
+    "options": [
+     "Plastic particles are more dangerous than any chemicals attached to them.",
+     "Microplastics leave the body so quickly that they pose no risk at all.",
+     "The biomagnification of microplastics has now been firmly established.",
+     "Substances carried by particles may be a greater threat than the plastic."
+    ],
+    "answer": 3,
+    "explain": "¶5: “the more significant risk lies not in the plastic itself but in the chemicals it carries” ตอบ D ตัวเลือก A กลับความหมาย ส่วน B ล่อใจเพราะ ¶5 กล่าวว่าอนุภาค “are excreted” แต่ไม่ได้บอกว่าไม่มีความเสี่ยงเลย"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 6 that a study which did not include blank controls would be likely to",
+    "options": [
+     "miss the smallest and most biologically active particles",
+     "produce results easily comparable with other laboratories",
+     "report levels inflated by contamination during analysis",
+     "underestimate the quantity of plastic in its samples"
+    ],
+    "answer": 2,
+    "explain": "¶6: เส้นใยจากเสื้อกาวน์และอากาศ “can find their way into samples” จึงต้องมี blank controls “to estimate background levels” หากไม่มี ผลจะรวมการปนเปื้อนเข้าไปและสูงเกินจริง ตอบ C ตัวเลือก D ล่อใจเพราะท้าย ¶6 บอกว่าค่าประมาณอาจ “understate” แต่นั่นเกิดจากอนุภาคเล็กที่ตรวจยาก ไม่ใช่จากการขาด blank controls"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What plastic products, used to suppress weeds and conserve moisture, add to the microplastic burden in soils? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "mulch films",
+     "plastic mulch films"
+    ],
+    "explain": "¶3: “Plastic mulch films, used widely to suppress weeds and conserve moisture, add a further burden” คำตอบคือ (plastic) mulch films"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What is the process called in which some substances become more concentrated at each step up the food chain? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "biomagnification"
+    ],
+    "explain": "¶5: “become more concentrated at each step up the food chain — a process known as biomagnification” คำตอบคือ biomagnification"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "According to paragraph 7, from which household appliances could fibres be filtered to reduce microplastics at source? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "domestic washing machines",
+     "washing machines"
+    ],
+    "explain": "¶7: หนึ่งในวิธีลดที่ต้นทางคือ “filtering fibres from domestic washing machines” คำตอบคือ (domestic) washing machines"
+   }
+  ]
+ },
+ {
+  "id": "B04",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "Society",
+  "title": "Workers Without a Workplace: The Legal Puzzle of Platform Labour",
+  "focus": "NOT/EXCEPT questions with true-but-unstated distractors (negative detail)",
+  "skill_tip_en": "In NOT/EXCEPT questions, check every option against the passage and cross out each one that is actually stated; the correct answer often sounds perfectly true in the real world but simply does not appear in the text.",
+  "paragraphs": [
+   "Over the past decade, digital platforms have transformed the way millions of people find paid work. Through a smartphone application, a person can deliver meals, drive passengers, clean homes or complete short online tasks, often within minutes of signing up. Some treat such work as a temporary supplement; for others, it has quietly become a full-time occupation. For workers, the attractions are real: flexible hours, low barriers to entry and the possibility of combining several sources of income. Yet the rapid growth of this “gig economy” has exposed a gap in labour law, which in most countries was designed around a simple distinction between employees, who receive protections such as a minimum wage and sick pay, and independent contractors, who do not.",
+   "Platform companies have generally classified their workers as independent contractors, arguing that they merely provide a technological marketplace connecting customers with self-employed service providers. Workers are free, the companies point out, to log in and out whenever they wish, to reject individual jobs and to work for competing platforms at the same time. Critics respond that this freedom is more limited than it appears. Algorithms frequently set prices, allocate tasks and evaluate performance through customer ratings, and workers whose acceptance rates fall below a certain level may find themselves receiving fewer offers or being deactivated altogether.",
+   "Courts in several jurisdictions have been asked to decide which description is more accurate. Their reasoning has typically focused on the degree of control a company exercises rather than on the label written in the contract. Where a platform determines the fare, monitors the route and disciplines workers through its rating system, judges have increasingly concluded that the relationship resembles employment in substance, whatever it is called on paper. Such rulings, however, apply only to the parties and facts before the court, and companies have often responded by adjusting their terms of service in ways that make subsequent cases harder to win.",
+   "Legislators have therefore explored more general solutions, which fall broadly into three models. The first creates an intermediate category of worker, entitled to some protections, such as minimum earnings and accident insurance, but not to the full set enjoyed by employees. The second establishes a legal presumption that platform workers are employees unless the company can prove otherwise, shifting the burden of evidence away from individual workers. The third leaves classification unchanged but requires platforms to contribute to social security funds or to disclose how their algorithms allocate work and calculate pay.",
+   "In Southeast Asia, where a large share of the workforce was informally employed long before platforms arrived, the debate takes a distinctive form. A 2025 survey of 2,000 delivery riders in three Thai cities, conducted by researchers at a public university in Bangkok, found that 58 per cent regarded platform work as their main source of income, and that fewer than a fifth had any accident insurance despite spending an average of nine hours a day on the road. Yet only a minority said they wished to become employees; most wanted better pay per delivery and clearer explanations when their accounts were suspended.",
+   "Opponents of stricter regulation warn that imposing employment obligations could raise costs, reduce the number of available jobs and remove the very flexibility that workers value. Some evidence supports this concern: in one European city, a platform that reclassified its couriers as employees subsequently introduced fixed shifts and reduced its workforce. However, the interpretation of such cases is contested, since companies may have reasons of their own to restructure, and the costs of leaving workers unprotected — borne by public hospitals, by families and by the workers themselves when accidents occur — rarely appear in such calculations.",
+   "What emerges from these debates is that the binary choice between employee and contractor may be the wrong starting point. Protections such as accident insurance, transparent pay and a fair process for challenging deactivation could be attached to the work itself rather than to a particular legal status. Designing such a system is not straightforward, and it will require platforms, governments and worker organisations to share data that they have so far guarded closely. But the alternative — leaving the rules to be settled one court case at a time — offers neither workers nor companies the certainty they need."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "main idea",
+    "q": "Which of the following best expresses the main idea of the passage?",
+    "options": [
+     "Platform work should be prohibited because it denies workers basic protections.",
+     "Courts have now settled the question of how platform workers should be classified.",
+     "Platform work strains existing labour law, and linking protections to the work itself may help.",
+     "Most platform workers want to become employees so that they can receive sick pay."
+    ],
+    "answer": 2,
+    "explain": "บทความอธิบายว่ากฎหมายแรงงานแบบสองขั้วไม่เหมาะกับงานแพลตฟอร์ม (¶1–4) และสรุปใน ¶7 ว่าการคุ้มครอง “could be attached to the work itself rather than to a particular legal status” จึงตอบ C ตัวเลือก B ขัดกับ ¶3 ที่บอกว่าคำตัดสิน “apply only to the parties and facts before the court” และ D ขัดกับผลสำรวจใน ¶5"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "Which of the following is NOT mentioned in paragraph 1 as an attraction of platform work for workers?",
+    "options": [
+     "being able to choose when to work",
+     "the ease of starting to work",
+     "the chance to combine incomes",
+     "training that improves careers"
+    ],
+    "answer": 3,
+    "explain": "¶1 ระบุข้อดีสามข้อคือ “flexible hours, low barriers to entry and the possibility of combining several sources of income” ซึ่งตรงกับ A, B, C การฝึกอบรมเพื่อพัฒนาอาชีพ (D) อาจฟังดูเป็นข้อดีที่เป็นไปได้ แต่ไม่ได้กล่าวถึงในบทความ จึงตอบ D"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "According to paragraph 2, platform companies point out all of the following about their workers EXCEPT that they",
+    "options": [
+     "are guaranteed a minimum income from each platform",
+     "may decline particular jobs that they are offered",
+     "may work for rival platforms at the same time",
+     "can log in and out of the app whenever they like"
+    ],
+    "answer": 0,
+    "explain": "¶2: บริษัทอ้างว่าคนงาน “free ... to log in and out whenever they wish, to reject individual jobs and to work for competing platforms at the same time” ตรงกับ B, C, D รายได้ขั้นต่ำที่รับประกัน (A) ไม่ได้ถูกกล่าวถึงเลย และ ¶4 ยังพูดถึง minimum earnings ในฐานะสิ่งที่กฎหมายแบบแรกเสนอให้ ไม่ใช่สิ่งที่บริษัทให้อยู่แล้ว"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "It can be inferred from paragraph 2 that critics regard workers' freedom to reject jobs as",
+    "options": [
+     "a benefit that traditional employees also enjoy",
+     "genuine in theory but risky to use in practice",
+     "the main reason why customers prefer platforms",
+     "a legal right that courts have recently removed"
+    ],
+    "answer": 1,
+    "explain": "¶2: นักวิจารณ์ชี้ว่าเสรีภาพนี้ “more limited than it appears” เพราะคนที่ acceptance rate ต่ำ “may find themselves receiving fewer offers or being deactivated” แปลว่าปฏิเสธงานได้จริงแต่มีผลเสียตามมา ตอบ B ตัวเลือก D ล่อใจเพราะ ¶3 พูดถึงศาล แต่ไม่มีการกล่าวว่าศาลยกเลิกสิทธินี้"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention that companies have adjusted their 'terms of service' in paragraph 3?",
+    "options": [
+     "To show that court rulings have permanently resolved the classification issue",
+     "To suggest that companies now accept that their workers are employees",
+     "To explain why individual court rulings offer only a limited solution",
+     "To criticise judges for paying too much attention to contract labels"
+    ],
+    "answer": 2,
+    "explain": "¶3: บริษัทปรับเงื่อนไข “in ways that make subsequent cases harder to win” ประกอบกับคำตัดสินใช้ได้เฉพาะคดี จึงเป็นเหตุผลที่ ¶4 ขึ้นต้นว่า “Legislators have therefore explored more general solutions” ตอบ C ตัวเลือก D กลับความหมาย เพราะศาลเน้น “the degree of control ... rather than ... the label”"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "Which of the following is NOT described in paragraph 4 as part of the legislative models?",
+    "options": [
+     "creating a category between employee and contractor",
+     "presuming workers are employees unless shown otherwise",
+     "requiring disclosure of how algorithms distribute work",
+     "banning customer ratings as a way to evaluate workers"
+    ],
+    "answer": 3,
+    "explain": "¶4 อธิบายสามแบบ: “an intermediate category of worker” (A), “a legal presumption that platform workers are employees” (B) และ “disclose how their algorithms allocate work” (C) การห้ามใช้คะแนนจากลูกค้า (D) อาจดูสมเหตุสมผลเพราะ ¶2–3 วิจารณ์ระบบ rating แต่ไม่มีกฎหมายแบบใดในบทความเสนอเช่นนั้น จึงตอบ D"
+   },
+   {
+    "type": "mc",
+    "skill": "negative detail",
+    "q": "The 2025 survey in paragraph 5 reported all of the following EXCEPT that",
+    "options": [
+     "most riders had been injured in a road accident",
+     "most riders relied on platform work as their main income",
+     "few riders had any form of accident insurance",
+     "most riders wanted higher pay for each delivery"
+    ],
+    "answer": 0,
+    "explain": "¶5 รายงานว่า 58% มีรายได้หลักจากแพลตฟอร์ม (B) “fewer than a fifth had any accident insurance” (C) และส่วนใหญ่ “wanted better pay per delivery” (D) แม้ไรเดอร์อยู่บนถนนวันละเก้าชั่วโมงจนการบาดเจ็บฟังดูเป็นไปได้ แต่ผลสำรวจไม่ได้กล่าวถึงจำนวนผู้ประสบอุบัติเหตุ จึงตอบ A"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "What can be inferred from the survey findings in paragraph 5?",
+    "options": [
+     "Riders are generally satisfied with their current level of protection.",
+     "Riders would prefer informal employment to working through platforms.",
+     "Riders work fewer hours each day than most traditional employees.",
+     "Riders' priorities do not fit neatly into the employee-versus-contractor debate."
+    ],
+    "answer": 3,
+    "explain": "¶5: แม้ขาดประกันอุบัติเหตุ แต่ “only a minority said they wished to become employees” และต้องการค่าตอบแทนที่ดีขึ้นกับคำอธิบายเมื่อถูกระงับบัญชี แสดงว่าความต้องการไม่ได้อยู่ที่สถานะทางกฎหมาย ตอบ D ตัวเลือก A ผิดเพราะการขาดประกันและข้อเรียกร้องแสดงว่าไม่ได้พอใจ"
+   },
+   {
+    "type": "mc",
+    "skill": "tone",
+    "q": "In paragraph 6, the author's attitude towards the evidence from the European city is best described as",
+    "options": [
+     "fully convinced that regulation always destroys jobs",
+     "dismissive, suggesting the evidence was invented",
+     "cautious, noting that its meaning is disputed",
+     "indifferent, because the case is not from Asia"
+    ],
+    "answer": 2,
+    "explain": "¶6: ผู้เขียนยอมรับว่า “Some evidence supports this concern” แต่ต่อด้วย “the interpretation of such cases is contested” และชี้ต้นทุนที่ถูกมองข้าม จึงเป็นท่าทีระมัดระวัง ตอบ C ตัวเลือก B เกินจริง เพราะผู้เขียนไม่ได้ปฏิเสธว่าเหตุการณ์เกิดขึ้นจริง เพียงตั้งคำถามกับการตีความ"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "According to paragraph 2, what may happen altogether to workers whose acceptance rates fall below a certain level? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "deactivated",
+     "being deactivated"
+    ],
+    "explain": "¶2: คนงานที่ acceptance rate ต่ำอาจ “receiving fewer offers or being deactivated altogether” คำถามใช้คำว่า altogether จึงหมายถึงการถูกปิดบัญชี คำตอบคือ (being) deactivated"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "In paragraph 3, what have courts typically focused on, instead of the label written in the contract? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "degree of control"
+    ],
+    "explain": "¶3: “Their reasoning has typically focused on the degree of control a company exercises rather than on the label written in the contract” คำตอบคือ degree of control (ไม่ต้องใส่ the เพื่อให้ไม่เกินสามคำ)"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "Under the second legislative model, the burden of evidence is shifted away from whom? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "individual workers"
+    ],
+    "explain": "¶4: แบบที่สองสร้างข้อสันนิษฐานทางกฎหมาย “shifting the burden of evidence away from individual workers” คำตอบคือ individual workers"
+   }
+  ]
+ },
+ {
+  "id": "B05",
+  "kind": "long",
+  "genre": "academic article",
+  "domain": "AI/Technology",
+  "title": "Sensing the City: Data, Surveillance and the Promise of Urban Intelligence",
+  "focus": "organisation and paragraph purpose (organization, purpose)",
+  "skill_tip_en": "For organisation and purpose questions, ask what job each paragraph or example does in the argument (define, illustrate, concede, rebut or propose) rather than simply what it says, and use linking words such as Yet, Nevertheless and therefore to trace the structure.",
+  "paragraphs": [
+   "The phrase “smart city” has become a fixture of urban planning documents across the world. In its broadest sense, it describes a city that uses networks of sensors, cameras and data platforms to monitor and manage its services, from traffic lights and street lighting to waste collection and water supply. Proponents present such systems as a means of making cities more efficient, sustainable and responsive to residents’ needs. Yet the same infrastructure that measures the flow of traffic can also record the movements of individuals, and the question of where efficient management ends and surveillance begins has become one of the defining dilemmas of contemporary urban governance.",
+   "The benefits claimed for smart-city technologies are not merely rhetorical. Sensors embedded in water pipes can detect leaks within hours rather than weeks, reducing losses that in some older networks exceed a third of the water supplied. Adaptive traffic signals, which adjust their timing according to real-time congestion, have shortened average journey times in a number of trials. In Thailand, several municipalities have installed air-quality monitors that issue alerts during the dry-season haze, allowing schools to keep children indoors on the worst days. Each of these applications relies on data, but much of that data concerns pipes, roads and air rather than people.",
+   "The difficulty arises when systems designed for one purpose acquire others. Scholars of surveillance use the term function creep to describe this gradual expansion. A camera network installed to enforce traffic regulations may later be connected to facial recognition software; data collected from public Wi-Fi to estimate pedestrian numbers may be shared with the police or sold to advertisers. Because each extension tends to be modest and is often justified on grounds of safety, the cumulative result can be a level of monitoring that no one explicitly approved and that residents may not even know exists.",
+   "The experience of a medium-sized city in the lower Mekong region illustrates the pattern. In 2019, its council installed 400 cameras at junctions to reduce accidents, a goal widely supported by residents. Within four years, the network had grown to more than 2,500 cameras, many fitted with licence-plate and face-matching capabilities, and footage was being retained for ninety days instead of the original seven. A 2024 study by researchers at a regional university found that fewer than one in ten residents were aware of these changes, although a majority said they would want to be consulted before such systems were expanded.",
+   "Defenders of smart-city surveillance argue that such concerns are exaggerated. They point out that people in public spaces have always been visible to others, that cameras can deter crime and assist investigations, and that many residents willingly share far more personal information with private technology companies than any city council collects. These arguments carry some weight, particularly where crime is a pressing local concern. Nevertheless, there is a difference between being seen by passers-by and being recorded, identified and stored by a single authority, since the latter allows patterns of behaviour — where a person worships, whom they meet, which clinic they visit — to be reconstructed long after the event.",
+   "If the benefits are to be secured without the risks, governance must keep pace with technology, and several measures have been proposed. Purpose limitation rules would require any new use of data to be approved separately rather than added quietly to an existing system. Independent oversight bodies, including members of the public, could review proposals before installation. Data minimisation — collecting only what is necessary and deleting it promptly — would reduce the harm that could follow a breach or misuse. Some cities have also experimented with public registers listing every sensor and camera, its purpose and the period for which its data are kept.",
+   "The smart city, then, is neither a utopia of seamless services nor an inevitable surveillance state. Its character depends on choices made by councils, companies and residents about what is measured, by whom and for what ends. The technologies themselves are largely neutral; the institutions that govern them are not. A city that wishes to be called smart in any meaningful sense must therefore be judged not only by the efficiency of its systems but also by the openness with which it explains them to the people they observe."
+  ],
+  "questions": [
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "What is the main function of paragraph 1?",
+    "options": [
+     "To define the smart city and introduce the tension between management and surveillance",
+     "To argue that every smart city will inevitably develop into a surveillance state",
+     "To trace the history of urban planning documents over recent decades",
+     "To list the technologies that cities should avoid installing in public spaces"
+    ],
+    "answer": 0,
+    "explain": "¶1 ให้นิยาม (“In its broadest sense, it describes...”) แล้วเปิดประเด็นด้วย Yet ว่า “where efficient management ends and surveillance begins” เป็นปัญหาหลัก จึงตอบ A ตัวเลือก B ขัดกับ ¶7 ที่บอกว่า smart city “neither ... nor an inevitable surveillance state”"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author point out at the end of paragraph 2 that much of the data 'concerns pipes, roads and air rather than people'?",
+    "options": [
+     "To argue that smart-city data is of little real value to residents",
+     "To indicate that these uses raise few privacy issues, preparing for a contrast",
+     "To show that sensors become unreliable when they are used to monitor people",
+     "To criticise municipalities for neglecting the needs of their residents"
+    ],
+    "answer": 1,
+    "explain": "¶2 ยกประโยชน์ที่ไม่เกี่ยวกับข้อมูลบุคคล แล้ว ¶3 เปิดด้วย “The difficulty arises when...” ประโยคท้าย ¶2 จึงทำหน้าที่ชี้ว่าการใช้งานเหล่านี้ไม่ค่อยกระทบความเป็นส่วนตัว และปูทางไปสู่ปัญหาใน ¶3 ตอบ B ตัวเลือก A ขัดกับ “The benefits ... are not merely rhetorical”"
+   },
+   {
+    "type": "mc",
+    "skill": "reference",
+    "q": "The phrase 'this gradual expansion' in paragraph 3 refers to",
+    "options": [
+     "the steady growth in the number of people living in cities",
+     "the rising influence of private technology companies",
+     "systems taking on uses beyond their original purpose",
+     "the spread of public Wi-Fi across city centres"
+    ],
+    "answer": 2,
+    "explain": "¶3: ประโยคก่อนหน้าคือ “systems designed for one purpose acquire others” ซึ่ง this gradual expansion ชี้กลับไป จึงตอบ C ตัวเลือก D ล่อใจเพราะ Wi-Fi ปรากฏในย่อหน้าเดียวกัน แต่เป็นเพียงตัวอย่างของการขยายการใช้งาน ไม่ใช่สิ่งที่วลีนี้อ้างถึง"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "What is the relationship between paragraph 4 and paragraph 3?",
+    "options": [
+     "Paragraph 4 contradicts the main claim made in paragraph 3.",
+     "Paragraph 4 proposes a solution to the problem raised in paragraph 3.",
+     "Paragraph 4 moves on to a topic unrelated to paragraph 3.",
+     "Paragraph 4 gives a concrete case of the process described in paragraph 3."
+    ],
+    "answer": 3,
+    "explain": "¶4 เปิดด้วย “The experience of a medium-sized city ... illustrates the pattern” แล้วเล่าการขยายระบบกล้องจาก 400 เป็นกว่า 2,500 ตัว ซึ่งเป็นตัวอย่างของ function creep ใน ¶3 ตอบ D ตัวเลือก B ผิดเพราะแนวทางแก้ไขอยู่ใน ¶6 ไม่ใช่ ¶4"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "What can be inferred from the 2024 study described in paragraph 4?",
+    "options": [
+     "Residents strongly opposed the original installation of the cameras.",
+     "The network grew largely without meaningful public consultation.",
+     "Most residents wanted all of the cameras to be removed.",
+     "The cameras failed to reduce the number of road accidents."
+    ],
+    "answer": 1,
+    "explain": "¶4: “fewer than one in ten residents were aware of these changes” แต่ส่วนใหญ่ “would want to be consulted” เมื่อคนแทบไม่รู้ จึงอนุมานได้ว่าไม่มีการปรึกษาประชาชนอย่างจริงจัง ตอบ B ตัวเลือก A กลับความหมาย เพราะเป้าหมายเดิม “widely supported by residents”"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "Which of the following best describes how paragraph 5 is organised?",
+    "options": [
+     "Opposing arguments are presented, partly accepted, and then answered with a key distinction.",
+     "The advantages of cameras are listed in order of their importance to residents.",
+     "Crime rates in cities with and without cameras are compared using statistics.",
+     "A problem is described and every proposed solution to it is then rejected."
+    ],
+    "answer": 0,
+    "explain": "¶5 เริ่มด้วยข้อโต้แย้งของฝ่ายสนับสนุน ยอมรับบางส่วน (“These arguments carry some weight”) แล้วโต้กลับด้วย “Nevertheless, there is a difference between being seen ... and being recorded” จึงตอบ A ตัวเลือก B ล่อใจเพราะมีการระบุข้อดีของกล้อง แต่เป็นเพียงส่วนแรกของย่อหน้า"
+   },
+   {
+    "type": "mc",
+    "skill": "purpose",
+    "q": "Why does the author mention 'where a person worships, whom they meet, which clinic they visit' in paragraph 5?",
+    "options": [
+     "To list places where the use of cameras is currently prohibited",
+     "To argue that companies collect more data than city councils",
+     "To show the sensitive patterns that stored recordings could reveal",
+     "To give examples of crimes that cameras have helped to solve"
+    ],
+    "answer": 2,
+    "explain": "¶5: ตัวอย่างเหล่านี้อธิบาย “patterns of behaviour” ที่สามารถ “be reconstructed long after the event” เมื่อภาพถูกบันทึกและเก็บไว้ จึงตอบ C ตัวเลือก B ล่อใจเพราะเป็นข้อโต้แย้งของฝ่ายสนับสนุนในย่อหน้าเดียวกัน ไม่ใช่จุดประสงค์ของตัวอย่างนี้"
+   },
+   {
+    "type": "mc",
+    "skill": "organization",
+    "q": "Which of the following best describes the organisation of paragraph 6?",
+    "options": [
+     "A chronological account of how one city regulated its camera network",
+     "A comparison of two opposing theories about surveillance in cities",
+     "A problem followed by evidence that existing safeguards have failed",
+     "A general principle followed by a series of proposed safeguards"
+    ],
+    "answer": 3,
+    "explain": "¶6 เริ่มด้วยหลักการ “governance must keep pace with technology” แล้วไล่มาตรการ purpose limitation, oversight bodies, data minimisation และ public registers จึงตอบ D ตัวเลือก C ผิดเพราะย่อหน้านี้เสนอมาตรการ ไม่ได้ให้หลักฐานว่ามาตรการล้มเหลว"
+   },
+   {
+    "type": "mc",
+    "skill": "inference",
+    "q": "Which of the following statements would the author most likely agree with?",
+    "options": [
+     "Smart-city technologies are inherently harmful and should be withdrawn.",
+     "A city's claim to be smart depends partly on how openly it governs data.",
+     "Efficiency is the only fair standard for judging a smart city.",
+     "Residents' opinions no longer matter once systems are installed."
+    ],
+    "answer": 1,
+    "explain": "¶7: เมืองต้องถูกประเมิน “not only by the efficiency of its systems but also by the openness with which it explains them” จึงตอบ B ตัวเลือก C ล่อใจเพราะพูดถึงประสิทธิภาพ แต่ใช้คำว่า only ซึ่งขัดกับ not only ... but also และ A ขัดกับ “The technologies themselves are largely neutral”"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What term do scholars of surveillance use for the gradual expansion of a system beyond its original purpose? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "function creep"
+    ],
+    "explain": "¶3: “Scholars of surveillance use the term function creep to describe this gradual expansion” คำตอบคือ function creep"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "In the city described in paragraph 4, for how many days was camera footage originally retained? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "seven",
+     "seven days",
+     "7",
+     "7 days"
+    ],
+    "explain": "¶4: “footage was being retained for ninety days instead of the original seven” คำตอบคือ seven ไม่ใช่ ninety ซึ่งเป็นระยะเวลาหลังการขยายระบบ"
+   },
+   {
+    "type": "short",
+    "skill": "short answer",
+    "q": "What measure involves collecting only the data that is necessary and deleting it promptly? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+    "answers": [
+     "data minimisation"
+    ],
+    "explain": "¶6: “Data minimisation — collecting only what is necessary and deleting it promptly” คำตอบคือ data minimisation"
+   }
+  ]
+ }
+]

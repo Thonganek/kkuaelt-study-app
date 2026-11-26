@@ -1,0 +1,135 @@
+{
+ "id": "T2P3",
+ "kind": "short",
+ "genre": "research news",
+ "domain": "Education",
+ "title": "Why Most Online Learners Never Reach the Finish Line",
+ "paragraphs": [
+  "When massive open online courses, or MOOCs, attracted global attention around 2012, enthusiasts predicted that they would bring high-quality university teaching to anyone with an internet connection. More than a decade later, the courses have indeed reached millions of people. Very few of them, however, ever finish.",
+  "Studies across several platforms have consistently found that only between 5 and 15 per cent of those who enrol complete a course. A new analysis of records from more than 200,000 learners, carried out by education researchers in Singapore, offers several explanations for this pattern.",
+  "The first is that many enrolments are not serious commitments. Because joining a course is free and takes a single click, a large proportion of people sign up simply to look around, with no firm plan to complete the assignments. Around a third of the learners in the study never opened a single lesson.",
+  "Among those who did begin, the most frequently cited obstacle was lack of time. Most were working adults who studied in the evenings, and when their workload increased, the course was usually the first activity to be dropped. Others mentioned the absence of fixed deadlines and a sense of isolation from studying alone.",
+  "The researchers also identified factors that made completion more likely. Learners who paid even a small fee for a certificate were about four times as likely to finish as those who studied for free. Courses that set weekly deadlines, sent regular reminders and organised online discussion groups also kept more of their students.",
+  "The lead researcher, Dr. Tan Mei Ling, argues that low completion rates should not automatically be treated as failure. “Someone who watches three videos to learn one specific skill may have achieved exactly what they wanted,” she said. “The real question is whether learners meet their own goals, not ours.”"
+ ],
+ "questions": [
+  {
+   "type": "mc",
+   "skill": "main idea",
+   "q": "What is the main idea of the passage?",
+   "options": [
+    "MOOCs have failed to reach large numbers of people in most parts of the world.",
+    "Paying for a certificate is the only way to finish an online course.",
+    "Few learners complete MOOCs, and research suggests why and what helps.",
+    "Working adults no longer have enough time for any further study."
+   ],
+   "answer": 2,
+   "explain": "บทความเริ่มด้วยปัญหาว่า “Very few of them, however, ever finish.” (¶1) แล้วอธิบายสาเหตุ (¶3–4) และปัจจัยที่ช่วยให้เรียนจบ (¶5) จึงตอบ C ตัวเลือก A ขัดกับ ¶1 ที่ว่า “the courses have indeed reached millions of people” ส่วน B ใช้คำว่า only ซึ่งเกินกว่าที่บทความกล่าว"
+  },
+  {
+   "type": "mc",
+   "skill": "reference",
+   "q": "What does the word 'them' in paragraph 1 refer to?",
+   "options": [
+    "massive open online courses",
+    "universities",
+    "enthusiasts",
+    "millions of people"
+   ],
+   "answer": 3,
+   "explain": "¶1: “the courses have indeed reached millions of people. Very few of them, however, ever finish.” ผู้ที่ 'เรียนไม่จบ' ต้องเป็นคน คือ millions of people ที่คอร์สเข้าถึง ตัวเลือก A ล่อใจเพราะ MOOCs เป็นหัวข้อหลัก แต่คอร์สไม่ใช่สิ่งที่ 'finish' การเรียน"
+  },
+  {
+   "type": "mc",
+   "skill": "detail",
+   "q": "According to paragraph 3, what proportion of the learners in the study never opened a lesson?",
+   "options": [
+    "about one third",
+    "about one quarter",
+    "between 5 and 15 per cent",
+    "about half"
+   ],
+   "answer": 0,
+   "explain": "¶3: “Around a third of the learners in the study never opened a single lesson.” จึงตอบ A ตัวเลือก C เป็นกับดักตัวเลขจาก ¶2 ซึ่งเป็นสัดส่วนของผู้ที่ 'เรียนจบ' ไม่ใช่ผู้ที่ไม่เคยเปิดบทเรียน"
+  },
+  {
+   "type": "mc",
+   "skill": "inference",
+   "q": "What can be inferred from paragraph 3 about many of the people who enrol in MOOCs?",
+   "options": [
+    "They cannot afford to pay for the courses they want.",
+    "They enrol to explore rather than to study seriously.",
+    "They have already completed similar courses elsewhere.",
+    "They are unable to access the internet reliably."
+   ],
+   "answer": 1,
+   "explain": "¶3: many people “sign up simply to look around, with no firm plan to complete the assignments” แสดงว่าหลายคนสมัครเพราะอยากลองดู ไม่ได้ตั้งใจเรียนจริง ตัวเลือก A ขัดกับบทความเพราะการสมัคร “is free” ส่วน C และ D ไม่มีหลักฐาน"
+  },
+  {
+   "type": "mc",
+   "skill": "vocabulary",
+   "q": "The word 'cited' in paragraph 4 is closest in meaning to",
+   "options": [
+    "mentioned as a reason",
+    "complained to teachers about",
+    "copied from another source",
+    "managed to overcome"
+   ],
+   "answer": 0,
+   "explain": "¶4: “the most frequently cited obstacle was lack of time” หมายถึงอุปสรรคที่ผู้เรียน 'ยกขึ้นมาอ้าง' บ่อยที่สุด ประโยคถัดมาที่ใช้ “Others mentioned...” ยืนยันความหมายนี้ ตัวเลือก C เป็นความหมายของ cite ในบริบทการอ้างอิงแหล่งข้อมูล ซึ่งไม่เข้ากับที่นี่"
+  },
+  {
+   "type": "mc",
+   "skill": "negative detail",
+   "q": "Which of the following is NOT mentioned as a reason why learners fail to complete MOOCs?",
+   "options": [
+    "a lack of free time",
+    "the absence of fixed deadlines",
+    "course content that is too difficult",
+    "a sense of isolation when studying alone"
+   ],
+   "answer": 2,
+   "explain": "¶4 กล่าวถึง “lack of time”, “the absence of fixed deadlines” และ “a sense of isolation from studying alone” แต่ไม่ได้พูดถึงความยากของเนื้อหาเลย จึงตอบ C"
+  },
+  {
+   "type": "mc",
+   "skill": "detail",
+   "q": "According to paragraph 5, which of the following helped more learners complete a course?",
+   "options": [
+    "offering longer video lectures",
+    "removing weekly deadlines",
+    "making all certificates free",
+    "sending regular reminders"
+   ],
+   "answer": 3,
+   "explain": "¶5: courses that “set weekly deadlines, sent regular reminders and organised online discussion groups also kept more of their students” จึงตอบ D ตัวเลือก B และ C กลับด้านกับบทความ เพราะการมีกำหนดส่งและการจ่ายค่าใบประกาศต่างหากที่ช่วยให้เรียนจบ"
+  },
+  {
+   "type": "mc",
+   "skill": "purpose",
+   "q": "What is the purpose of paragraph 6?",
+   "options": [
+    "To argue that all MOOCs should charge learners a fee",
+    "To suggest that completion rates may not fully measure success",
+    "To explain how the researchers collected and analysed their data",
+    "To criticise learners who watch only a few videos"
+   ],
+   "answer": 1,
+   "explain": "¶6: “low completion rates should not automatically be treated as failure” และ “The real question is whether learners meet their own goals” ย่อหน้านี้จึงเสนอมุมมองว่าอัตราการเรียนจบไม่ได้วัดความสำเร็จทั้งหมด ตัวเลือก D ตรงข้ามกับที่ Dr. Tan กล่าว เพราะเธอมองว่าคนที่ดูแค่สามคลิปอาจได้สิ่งที่ต้องการแล้ว"
+  },
+  {
+   "type": "mc",
+   "skill": "organization",
+   "q": "How is the information in the passage organised?",
+   "options": [
+    "A problem is presented, then its causes, some remedies and another view.",
+    "The history of online learning is presented in time order from 2012 onwards.",
+    "Free courses and paid courses are compared with each other point by point.",
+    "An opinion is stated first and then supported by learners' personal stories."
+   ],
+   "answer": 0,
+   "explain": "¶1–2 เสนอปัญหา (อัตราเรียนจบต่ำ) ¶3–4 อธิบายสาเหตุ ¶5 เสนอปัจจัยที่ช่วย และ ¶6 ให้มุมมองที่ต่างออกไป จึงตอบ A ตัวเลือก B ล่อใจเพราะ ¶1 เอ่ยถึงปี 2012 แต่บทความไม่ได้เล่าเหตุการณ์ตามลำดับเวลา"
+  }
+ ],
+ "day": 8
+}

@@ -1,0 +1,1105 @@
+{
+ "G31": {
+  "id": "G31",
+  "title_th": "Noun phrase ขั้นสูงและสำนวนแบบนามวลี (nominal style)",
+  "title_en": "Advanced noun phrases and nominal style",
+  "book": "บทเรียนในแอป · ช่วง Band 7",
+  "lesson": [
+   {
+    "h": "หลักสำคัญ",
+    "p": "ภาษาวิชาการระดับ C1 บรรจุข้อมูลจำนวนมากไว้ใน noun phrase เดียว แทนที่จะเขียนหลาย clause ต่อกัน noun phrase หนึ่งประกอบด้วยคำนามหลัก (head noun) + ส่วนขยายหน้า (pre-modification) + ส่วนขยายหลัง (post-modification) เช่น the rapid expansion of private universities in north-eastern Thailand during the 1990s มีคำนามหลักคือ expansion ทุกส่วนที่เหลือเป็นส่วนขยาย การหาคำนามหลักให้เจอช่วยทั้งการอ่านบทความยากและการเลือกกริยาให้สอดคล้องกับประธาน"
+   },
+   {
+    "h": "ส่วนขยายหน้าและหลังคำนาม",
+    "table": [
+     [
+      "ชนิดส่วนขยาย",
+      "ตัวอย่าง"
+     ],
+     [
+      "คุณศัพท์ + คำนามขยายคำนาม",
+      "low-income rural households, water management policy"
+     ],
+     [
+      "คุณศัพท์ประสม (ตัวเลข + นามเอกพจน์)",
+      "a three-year study, a ten-minute delay (ไม่ใช่ three-years)"
+     ],
+     [
+      "บุพบทวลีหลังคำนาม",
+      "access to clean water, a decline in enrolment, demand for skilled labour"
+     ],
+     [
+      "to-infinitive หลังคำนาม",
+      "the decision to raise fees, an attempt to reduce costs"
+     ],
+     [
+      "that-clause บอกเนื้อหาของคำนาม",
+      "the claim that online degrees are inferior, the fact that costs rose"
+     ],
+     [
+      "relative clause แบบย่อ",
+      "the data collected in 2023, families living near the river"
+     ]
+    ]
+   },
+   {
+    "h": "เปลี่ยน clause ให้เป็น noun phrase (nominalisation)",
+    "list": [
+     "กริยา → คำนาม: The population is ageing rapidly → the rapid ageing of the population",
+     "กริยาวิเศษณ์ → คุณศัพท์: suddenly withdrew → the sudden withdrawal",
+     "ประธานเดิม → 's หรือ by…: the government withdrew funding → the government's withdrawal of funding",
+     "กรรมเดิม → of + คำนาม หรือบุพบทเฉพาะของคำนามนั้น: analyse the samples → the analysis of the samples",
+     "คำเชื่อมเปลี่ยนตาม: because + clause → because of / owing to / due to + noun phrase"
+    ]
+   },
+   {
+    "h": "ตัวอย่าง",
+    "ex": [
+     [
+      "✗ The project lasted five years, so it was called a five-years project.",
+      "✓ It was a five-year project."
+     ],
+     [
+      "✗ There has been an increase of the price of rice.",
+      "✓ There has been an increase in the price of rice."
+     ],
+     [
+      "✗ Due to the economy grew slowly, unemployment rose.",
+      "✓ Due to the slow growth of the economy, unemployment rose."
+     ],
+     [
+      "✗ The government's decision of raising taxes was unpopular.",
+      "✓ The government's decision to raise taxes was unpopular."
+     ],
+     [
+      "✗ The quality of the schools in these districts have improved.",
+      "✓ The quality of the schools in these districts has improved."
+     ]
+    ]
+   },
+   {
+    "h": "จุดที่คนไทยพลาดบ่อย",
+    "list": [
+     "ผันกริยาตามคำนามที่อยู่ใกล้ที่สุด ไม่ใช่คำนามหลัก: The impact of new policies on farmers is… (impact เป็นเอกพจน์)",
+     "ใช้บุพบทหลังคำนามผิด: effect on, impact on, increase/decline in, demand for, access to, solution to, reason for",
+     "ใส่ -s ในคำนามที่ใช้เป็นคุณศัพท์: a two-year course, a 500-page report",
+     "นามซ้อนนามยาวเกินไปจนอ่านไม่ออก เช่น the university student accommodation cost reduction scheme ควรคลายด้วยบุพบทหรือ to-infinitive",
+     "ใช้คำวิเศษณ์ขยายคำนาม เช่น the suddenly withdrawal ต้องเป็น sudden"
+    ]
+   },
+   {
+    "h": "สูตรจำ",
+    "p": "หาคำนามหลักก่อนทุกครั้ง → กริยาผันตามคำนามหลัก → เช็กบุพบทคู่ของคำนามนั้น เวลาเขียน ให้เปลี่ยน clause ที่ซ้ำซ้อน 1–2 จุดต่อย่อหน้าเป็น noun phrase แต่ไม่ต้องทำทุกประโยค เพราะงานที่เป็นนามวลีล้วนจะอ่านยากเกินจำเป็น"
+   }
+  ],
+  "quiz": [
+   {
+    "type": "mc",
+    "q": "Choose the most accurate nominalisation of: 'Because the government suddenly withdrew funding, the project collapsed.'",
+    "options": [
+     "The government's suddenly withdrawal of funding led to the project's collapse.",
+     "The government's sudden withdrawal of funding led to the collapse of the project.",
+     "The sudden withdrawal of the government's funding caused that the project collapsed.",
+     "The government's sudden withdrawal of funding resulted the project's collapse."
+    ],
+    "answer": 1,
+    "explain": "ข้อ B เปลี่ยน suddenly เป็นคุณศัพท์ sudden, withdrew เป็น withdrawal of และ collapsed เป็น the collapse of ได้ครบ ตัวเลือกแรกใช้กริยาวิเศษณ์ suddenly ขยายคำนาม ตัวเลือกที่ใช้ caused that ผิดโครงสร้าง และ result ต้องตามด้วย in (resulted in)"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the sentence with the correct prepositions after the nouns.",
+    "options": [
+     "There has been a sharp increase of demand on skilled technicians.",
+     "There has been a sharp increase in demand of skilled technicians.",
+     "There has been a sharp increase on demand for skilled technicians.",
+     "There has been a sharp increase in demand for skilled technicians."
+    ],
+    "answer": 3,
+    "explain": "คำนาม increase ใช้คู่กับ in และ demand ใช้คู่กับ for จึงเป็น an increase in demand for… ตัวเลือกอื่นถูกเพียงครึ่งเดียว เช่น increase in ถูกแต่ demand of ผิด ซึ่งเป็นกับดักที่พบบ่อย"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: The reliability of the figures reported by the three regional offices ____ questioned by auditors last year.",
+    "options": [
+     "was",
+     "were",
+     "has",
+     "have been"
+    ],
+    "answer": 0,
+    "explain": "คำนามหลักของประธานคือ reliability (เอกพจน์) ไม่ใช่ figures หรือ offices ที่อยู่ใกล้ช่องว่าง และมี last year จึงใช้ past simple passive: was questioned ตัวเลือก were ล่อด้วยคำนามพหูพจน์ที่อยู่ใกล้ ส่วน has questioned เป็น active ซึ่งผิดความหมาย"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correctly formed noun phrase.",
+    "options": [
+     "a two-years longitudinal study of first-generation students",
+     "a two-year longitudinal study of first-generations students",
+     "a two-year longitudinal study of first-generation students",
+     "a two year's longitudinal study of first-generation students"
+    ],
+    "answer": 2,
+    "explain": "คุณศัพท์ประสมที่มีตัวเลขใช้คำนามเอกพจน์และมีขีด: a two-year study และ first-generation ทำหน้าที่คุณศัพท์จึงไม่เติม -s ตัวเลือก two-years เป็นข้อผิดพลาดที่คนไทยทำบ่อยที่สุด ส่วน two year's ใช้ 's ผิดตำแหน่ง"
+   },
+   {
+    "type": "mc",
+    "q": "Which noun phrase is correctly post-modified?",
+    "options": [
+     "the university's decision of postponing the entrance examination",
+     "the university's decision for postponing the entrance examination",
+     "the university's decision to postpone the entrance examination",
+     "the university's decision that postpone the entrance examination"
+    ],
+    "answer": 2,
+    "explain": "คำนาม decision (เช่นเดียวกับ attempt, ability, failure, plan) ตามด้วย to-infinitive จึงเป็น decision to postpone ตัวเลือก decision of postponing ดูเป็นทางการแต่ไม่ใช่รูปมาตรฐาน และ that postpone ไม่มีประธานใน clause"
+   },
+   {
+    "type": "mc",
+    "q": "In which sentence does the that-clause state the CONTENT of the noun (an appositive clause) rather than identify which one is meant?",
+    "options": [
+     "The claim that online degrees are inferior is not supported by employer surveys.",
+     "The claim that the minister made last week is not supported by employer surveys.",
+     "The report that the committee published in May was largely ignored.",
+     "The survey that the ministry commissioned did not include private employers."
+    ],
+    "answer": 0,
+    "explain": "ในข้อ A ส่วน that online degrees are inferior คือเนื้อหาของ claim และเป็นประโยคสมบูรณ์ในตัว ใช้ which แทนไม่ได้ ตัวเลือกอื่นเป็น relative clause ที่ขาดกรรม (made ___, published ___, commissioned ___) จึงทำหน้าที่ระบุว่าหมายถึงสิ่งใด"
+   },
+   {
+    "type": "mc",
+    "q": "Which version is the clearest and most acceptable in academic style?",
+    "options": [
+     "The university student accommodation cost reduction scheme was introduced in 2022.",
+     "The scheme of the reduction of the cost of the accommodation of the students was introduced in 2022.",
+     "The scheme reducing accommodation costs for university students were introduced in 2022.",
+     "A scheme to reduce accommodation costs for university students was introduced in 2022."
+    ],
+    "answer": 3,
+    "explain": "ข้อ D ใช้ to-infinitive และบุพบทวลีคลายนามวลีให้อ่านง่าย และกริยา was สอดคล้องกับ scheme ตัวเลือกแรกซ้อนคำนามห้าคำติดกันจนอ่านยาก ตัวเลือกที่สองใช้ of ซ้ำเป็นสาย และตัวเลือกที่สามใช้ were ผันตาม students แทน scheme"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the best noun-phrase version of: 'Researchers analysed the samples carefully, and this took six months.'",
+    "options": [
+     "The careful analyse of the samples by researchers took six months.",
+     "The researchers' careful analysis of the samples took six months.",
+     "The researchers' carefully analysis of the samples took six months.",
+     "The researchers' careful analysis to the samples took six months."
+    ],
+    "answer": 1,
+    "explain": "รูปคำนามของ analyse คือ analysis ตามด้วย of + กรรม และ carefully ต้องเปลี่ยนเป็นคุณศัพท์ careful ตัวเลือกแรกใช้รูปกริยา analyse เป็นคำนาม ตัวเลือก carefully analysis ใช้คำวิเศษณ์ขยายคำนาม และ analysis to ใช้บุพบทผิด"
+   },
+   {
+    "type": "mc",
+    "q": "Which part of the sentence contains an error? 'The impact of rising rents to small family businesses in the old town has been severe.'",
+    "options": [
+     "The impact of rising rents to",
+     "small family businesses",
+     "in the old town",
+     "has been severe"
+    ],
+    "answer": 0,
+    "explain": "impact ต้องใช้คู่กับ on (the impact of X on Y) จึงต้องเป็น rising rents on small family businesses ส่วน has been ถูกแล้ว เพราะคำนามหลักคือ impact (เอกพจน์) ไม่ใช่ businesses ซึ่งเป็นกับดักที่ทำให้หลายคนเลือกตัวเลือกสุดท้าย"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the best nominal version of: 'Because fewer babies were born, enrolment in rural schools fell.'",
+    "options": [
+     "Due to fewer babies were born, enrolment in rural schools fell.",
+     "Because of the birth rate declined, enrolment in rural schools fell.",
+     "Owing to declining of the birth rate, enrolment in rural schools fell.",
+     "Owing to a decline in the birth rate, enrolment in rural schools fell."
+    ],
+    "answer": 3,
+    "explain": "owing to / due to / because of ต้องตามด้วย noun phrase ไม่ใช่ clause ข้อ D ใช้ a decline in the birth rate ถูกต้องทั้งรูปคำนามและบุพบท ตัวเลือกสองข้อแรกนำ clause มาวางหลังบุพบท ส่วน declining of the birth rate ผสมรูป -ing กับ of อย่างไม่ถูกต้อง"
+   }
+  ]
+ },
+ "G32": {
+  "id": "G32",
+  "title_th": "Relative clause แบบย่อ, participle clause และ absolute clause",
+  "title_en": "Reduced relative, participle and absolute clauses",
+  "book": "บทเรียนในแอป · ช่วง Band 7",
+  "lesson": [
+   {
+    "h": "หลักสำคัญ",
+    "p": "บทความวิชาการระดับ Band 7 ย่อ clause ให้สั้นลงเพื่อบรรจุข้อมูลได้มากขึ้น ผู้อ่านต้องรู้ว่าส่วนที่ย่อนั้นขยายคำไหนและมีความหมาย active หรือ passive ส่วนผู้เขียนต้องย่อให้ถูกกฎ โดยเฉพาะกฎข้อสำคัญที่สุดคือ participle clause ต้องมีประธานโดยนัยตรงกับประธานของประโยคหลัก"
+   },
+   {
+    "h": "Relative clause แบบย่อ",
+    "table": [
+     [
+      "ประโยคเต็ม",
+      "แบบย่อ"
+     ],
+     [
+      "families who live near the river (active)",
+      "families living near the river"
+     ],
+     [
+      "the data which were collected in 2023 (passive)",
+      "the data collected in 2023"
+     ],
+     [
+      "students who are interested in the course (be + adjective)",
+      "students interested in the course"
+     ],
+     [
+      "the files that are on the server (be + บุพบทวลี)",
+      "the files on the server"
+     ],
+     [
+      "the report which the ministry published (relative pronoun เป็นกรรม)",
+      "the report the ministry published (ตัด which ได้ แต่ห้ามเปลี่ยนเป็น publishing)"
+     ]
+    ]
+   },
+   {
+    "h": "Participle clause และ absolute clause",
+    "list": [
+     "V-ing: เกิดพร้อมกันหรือเป็นเหตุผล → Lacking funds, the clinic closed its night service.",
+     "Having + V3: เกิดเสร็จก่อนประโยคหลัก → Having reviewed the evidence, the committee rejected the plan.",
+     "V3: ความหมาย passive → Written in plain language, the guidelines were easy to follow.",
+     "ปฏิเสธ: วาง not ไว้หน้า → Not knowing the rules, many applicants submitted incomplete forms.",
+     "Absolute clause มีประธานของตัวเอง: The roads having been flooded, deliveries were delayed. / With prices rising, households are cutting back."
+    ]
+   },
+   {
+    "h": "ตัวอย่าง",
+    "ex": [
+     [
+      "✗ Having analysed the data, the conclusion was clear.",
+      "✓ Having analysed the data, the researchers reached a clear conclusion."
+     ],
+     [
+      "✗ The report publishing last month contains errors.",
+      "✓ The report published last month contains errors."
+     ],
+     [
+      "✗ Students are interested in the programme should register by Friday.",
+      "✓ Students interested in the programme should register by Friday."
+     ],
+     [
+      "✗ The student winning the award last year now studies law.",
+      "✓ The student who won the award last year now studies law."
+     ],
+     [
+      "✗ The weather was bad, the launch was postponed.",
+      "✓ The weather being bad, the launch was postponed."
+     ]
+    ]
+   },
+   {
+    "h": "จุดที่คนไทยพลาดบ่อย",
+    "list": [
+     "Dangling participle: ประธานของประโยคหลักไม่ใช่ผู้กระทำของ participle เช่น Walking to class, the rain started.",
+     "ใช้ V-ing ย่อ relative clause ที่เป็นเหตุการณ์ครั้งเดียวที่จบแล้วในอดีต (the man winning the prize last year) ควรใช้ who won",
+     "สับสน V-ing (active) กับ V3 (passive): the problems facing farmers (ปัญหาที่เผชิญหน้าเกษตรกร) ≠ the problems faced by farmers",
+     "ลืมว่ากริยา intransitive เช่น rise, occur, happen ไม่มีรูป passive: With costs rising (ไม่ใช่ risen)",
+     "เชื่อมสองประโยคสมบูรณ์ด้วย comma (comma splice) แทนที่จะใช้ absolute clause หรือคำเชื่อม"
+    ]
+   },
+   {
+    "h": "สูตรจำ",
+    "p": "ก่อนย่อ ถามสองข้อ: (1) ใครทำ? ต้องเป็นประธานของประโยคหลัก (2) ทำเองหรือถูกทำ? ทำเอง = V-ing / Having V3, ถูกทำ = V3 / Having been V3 ถ้าประธานไม่ตรงกัน ให้ใส่ประธานของตัวเองเป็น absolute clause หรือเขียนเป็น clause เต็ม"
+   }
+  ],
+  "quiz": [
+   {
+    "type": "mc",
+    "q": "Choose the correct reduced form: 'The survey, which was conducted in twelve provinces, revealed regional disparities.'",
+    "options": [
+     "The survey, conducting in twelve provinces, revealed regional disparities.",
+     "The survey, having conducted in twelve provinces, revealed regional disparities.",
+     "The survey, conducted in twelve provinces, revealed regional disparities.",
+     "The survey conducted in twelve provinces, revealed regional disparities."
+    ],
+    "answer": 2,
+    "explain": "was conducted เป็น passive จึงย่อเป็น V3 conducted และเป็น non-defining clause จึงต้องมี comma ครบทั้งคู่ ตัวเลือก conducting และ having conducted ให้ความหมาย active (การสำรวจไปดำเนินการเอง) ส่วนตัวเลือกสุดท้ายมี comma ปิดแต่ไม่มี comma เปิด"
+   },
+   {
+    "type": "mc",
+    "q": "Which sentence avoids a dangling participle?",
+    "options": [
+     "Having reviewed the evidence, the committee rejected the proposal.",
+     "Having reviewed the evidence, the proposal was rejected by the committee.",
+     "After reviewing the evidence, the proposal was rejected.",
+     "Reviewing the evidence carefully, the proposal seemed weak to the committee."
+    ],
+    "answer": 0,
+    "explain": "ผู้ที่ review หลักฐานคือ committee ซึ่งต้องเป็นประธานของประโยคหลักทันทีหลัง comma ข้อ A จึงถูก ตัวเลือกอื่นมีประธานเป็น the proposal ทำให้อ่านได้ว่าข้อเสนอเป็นผู้ review เอง แม้ตัวเลือกที่สองจะมี by the committee ก็ยังเป็น dangling participle"
+   },
+   {
+    "type": "mc",
+    "q": "Which sentence is grammatically correct?",
+    "options": [
+     "The report publishing by the ministry last month contains several errors.",
+     "The report the ministry published last month contains several errors.",
+     "The report published the ministry last month contains several errors.",
+     "The report which published by the ministry last month contains several errors."
+    ],
+    "answer": 1,
+    "explain": "เมื่อ relative pronoun เป็นกรรม (which the ministry published) ตัด which ทิ้งได้เลยโดยคงประธานและกริยาไว้ ข้อ B จึงถูก ตัวเลือก publishing by ใช้รูป active กับความหมาย passive ส่วน which published by ขาด was"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the most natural and correct sentence.",
+    "options": [
+     "The student winning the national debate award last year now studies law.",
+     "The student won the national debate award last year now studies law.",
+     "The student having won the national debate award last year now studies law.",
+     "The student who won the national debate award last year now studies law."
+    ],
+    "answer": 3,
+    "explain": "relative clause แบบย่อด้วย V-ing ใช้กับสภาพหรือเหตุการณ์ที่กำลังดำเนินอยู่ ไม่ใช้กับเหตุการณ์ครั้งเดียวที่จบแล้วในอดีต และไม่ใช้ having + V3 ในตำแหน่งนี้ จึงต้องคง who won ไว้ ตัวเลือก winning ดูเหมือนถูกเพราะคุ้นกับรูปย่อทั่วไป"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: ____ the data for three years, the team was finally able to identify a seasonal pattern.",
+    "options": [
+     "Having collected",
+     "Collected",
+     "Being collected",
+     "To have collected"
+    ],
+    "answer": 0,
+    "explain": "การเก็บข้อมูลเสร็จก่อนการค้นพบ และทีมเป็นผู้เก็บเอง (active) จึงใช้ Having + V3 ตัวเลือก Collected และ Being collected ให้ความหมาย passive คือทีมถูกเก็บ ส่วน To have collected ไม่ใช่รูปที่ใช้ขึ้นต้นบอกลำดับเหตุการณ์"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct absolute construction.",
+    "options": [
+     "The roads flooding, the delivery were delayed by two days.",
+     "The roads were flooded, the deliveries were delayed by two days.",
+     "Being flooded the roads, the deliveries were delayed by two days.",
+     "The roads having been flooded, the deliveries were delayed by two days."
+    ],
+    "answer": 3,
+    "explain": "absolute clause มีประธานของตัวเอง (the roads) ตามด้วย participle (having been flooded) ข้อ D จึงถูก ตัวเลือกที่สองเป็น comma splice คือสองประโยคสมบูรณ์เชื่อมด้วย comma ตัวเลือกแรกมี delivery were ไม่สอดคล้องกัน"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: With living costs ____, many graduates are choosing to remain in their home provinces.",
+    "options": [
+     "rise",
+     "rising",
+     "risen",
+     "to rising"
+    ],
+    "answer": 1,
+    "explain": "โครงสร้าง with + noun + V-ing บอกสถานการณ์ที่กำลังเกิดอยู่ rise เป็นกริยาที่ไม่มีกรรม (intransitive) จึงไม่มีรูป passive ทำให้ risen ผิด แม้ว่า with + noun + V3 จะใช้ได้กับกริยาที่มีกรรม เช่น with the decision made"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: ____ in plain language, the new guidelines were easy for parents to follow.",
+    "options": [
+     "Writing",
+     "Having written",
+     "Written",
+     "Being writing"
+    ],
+    "answer": 2,
+    "explain": "ประธานของประโยคหลักคือ the guidelines ซึ่งถูกเขียน (passive) จึงใช้ V3 Written ตัวเลือก Writing และ Having written เป็น active ทำให้ความหมายเป็นว่าแนวปฏิบัติเขียนเอง ซึ่งเป็น dangling participle"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "Students are interested in the programme should register by Friday.",
+     "Students interesting in the programme should register by Friday.",
+     "Students who interested in the programme should register by Friday.",
+     "Students interested in the programme should register by Friday."
+    ],
+    "answer": 3,
+    "explain": "who are interested ย่อได้โดยตัด who are ทิ้งเหลือ interested ตัวเลือก interesting เปลี่ยนความหมายเป็น 'น่าสนใจ' ตัวเลือก who interested ขาด are และตัวเลือกแรกทำให้ประโยคมีกริยาแท้สองตัว"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "Not having received the funding in time, the researchers had to scale back the project.",
+     "Not receiving the funding in time, the project had to be scaled back by the researchers.",
+     "Not received the funding in time, the researchers had to scale back the project.",
+     "Without having received the funding in time, the project was scaled back."
+    ],
+    "answer": 0,
+    "explain": "ผู้ที่ไม่ได้รับทุนคือ researchers ซึ่งเป็นประธานของประโยคหลัก และใช้ Not having + V3 เพราะเหตุเกิดก่อนผล ตัวเลือกที่สองและสี่มีประธานเป็น the project จึงเป็น dangling participle ส่วน Not received ขาด having"
+   }
+  ]
+ },
+ "G33": {
+  "id": "G33",
+  "title_th": "การเน้นความ: cleft sentence, fronting และ inversion หลังคำปฏิเสธ",
+  "title_en": "Emphasis: cleft sentences, fronting and negative inversion",
+  "book": "บทเรียนในแอป · ช่วง Band 7",
+  "lesson": [
+   {
+    "h": "หลักสำคัญ",
+    "p": "ผู้เขียนระดับ Band 7 ไม่ได้เน้นความด้วย very หรือ really แต่จัดโครงสร้างประโยคให้ข้อมูลสำคัญอยู่ในตำแหน่งที่โดดเด่น มีสามเครื่องมือหลักคือ cleft sentence (แยกประโยคเพื่อชี้จุดเน้น), fronting (ย้ายส่วนที่ต้องการเน้นไว้ต้นประโยค) และ inversion (สลับกริยาช่วยไว้หน้าประธานหลังคำปฏิเสธหรือ only) ในข้อสอบอ่าน โครงสร้างเหล่านี้มักบอกว่าผู้เขียนให้น้ำหนักกับประเด็นใด"
+   },
+   {
+    "h": "Cleft sentence และ fronting",
+    "table": [
+     [
+      "โครงสร้าง",
+      "ตัวอย่าง"
+     ],
+     [
+      "It-cleft: It + be + จุดเน้น + that/who",
+      "It was the lack of clear guidelines that caused most of the delays."
+     ],
+     [
+      "Wh-cleft: What + clause + be",
+      "What the interviews revealed was a deep distrust of official statistics."
+     ],
+     [
+      "All-cleft",
+      "All the committee wanted was a realistic timetable."
+     ],
+     [
+      "Fronting คุณศัพท์/วลี + be + ประธาน",
+      "More surprising was the finding that anxiety levels also fell."
+     ]
+    ]
+   },
+   {
+    "h": "Inversion หลัง negative adverbial",
+    "list": [
+     "Not only + กริยาช่วย + ประธาน… but (also): Not only did the scheme cut costs, but it also improved reliability.",
+     "Rarely / Seldom / Never / Little + กริยาช่วย + ประธาน: Rarely have researchers observed such a rapid shift.",
+     "Only when / Only after / Only if + clause ปกติ, แล้วสลับในประโยคหลัก: Only when the results were published did the public react.",
+     "Under no circumstances / On no account / In no way + กริยาช่วย + ประธาน: Under no circumstances may candidates leave early.",
+     "No sooner had + S + V3 + than… / Hardly had + S + V3 + when…",
+     "ถ้าไม่มีกริยาช่วย ให้เติม do/does/did และกริยาหลักกลับเป็น V1: did the public react (ไม่ใช่ reacted)"
+    ]
+   },
+   {
+    "h": "ตัวอย่าง",
+    "ex": [
+     [
+      "✗ Not only the policy reduced costs, but it also improved access.",
+      "✓ Not only did the policy reduce costs, but it also improved access."
+     ],
+     [
+      "✗ Only when the results were published the public became aware of the risk.",
+      "✓ Only when the results were published did the public become aware of the risk."
+     ],
+     [
+      "✗ Under no circumstances students may use mobile phones.",
+      "✓ Under no circumstances may students use mobile phones."
+     ],
+     [
+      "✗ What surprised the researchers were the speed of the change.",
+      "✓ What surprised the researchers was the speed of the change."
+     ],
+     [
+      "✗ No sooner had the law been passed when protests began.",
+      "✓ No sooner had the law been passed than protests began."
+     ]
+    ]
+   },
+   {
+    "h": "จุดที่คนไทยพลาดบ่อย",
+    "list": [
+     "สลับทั้งสอง clause หลัง Only when: Only when did the drought… ✗ ให้สลับเฉพาะประโยคหลัก",
+     "สลับหลัง Only ที่ขยายคำนาม: Only five students passed ไม่ต้องสลับ เพราะ only ไม่ได้ขยายทั้งประโยค",
+     "ใช้ did แล้วยังเติม -ed ที่กริยาหลัก: did the authorities introduced ✗",
+     "ใช้ when แทน than หลัง No sooner",
+     "ใช้โครงสร้างเน้นทุกย่อหน้าจนดูจงใจเกินไป ใน essay ใช้ 1–2 ครั้งในจุดที่สำคัญที่สุดก็พอ"
+    ]
+   },
+   {
+    "h": "สูตรจำ",
+    "p": "คำปฏิเสธหรือ Only + เวลา/เงื่อนไข อยู่ต้นประโยค → เหมือนกำลังตั้งคำถาม: กริยาช่วย + ประธาน + V1 ส่วน cleft sentence ให้กริยา be ผันตามสิ่งที่ถูกเน้นหลัง What… และใช้ that หลังจุดเน้นใน It-cleft"
+   }
+  ],
+  "quiz": [
+   {
+    "type": "mc",
+    "q": "Fill the blank: Not only ____ the cost of public transport, but it has also increased its reliability.",
+    "options": [
+     "the new system has reduced",
+     "did the new system reduced",
+     "has reduced the new system",
+     "has the new system reduced"
+    ],
+    "answer": 3,
+    "explain": "Not only อยู่ต้นประโยคต้องสลับกริยาช่วยไว้หน้าประธาน: has the new system reduced ตัวเลือกแรกไม่สลับ ตัวเลือกที่ใช้ did ยังคงเติม -ed ที่กริยาหลัก และตัวเลือกที่สามสลับกริยาทั้งก้อนไว้หน้าประธาน"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "Only when the drought became severe the authorities did introduce water rationing.",
+     "Only when the drought became severe did the authorities introduce water rationing.",
+     "Only when did the drought become severe the authorities introduced water rationing.",
+     "Only when the drought became severe did the authorities introduced water rationing."
+    ],
+    "answer": 1,
+    "explain": "หลัง Only when ส่วน clause ที่ตามมาเรียงตามปกติ (the drought became severe) แล้วจึงสลับในประโยคหลัก: did the authorities introduce ตัวเลือกที่สามสลับผิด clause และตัวเลือกสุดท้ายเติม -ed หลัง did"
+   },
+   {
+    "type": "mc",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Only a small minority of respondents supported the proposal.",
+     "Only a small minority of respondents did they support the proposal.",
+     "Only in a small minority of cases the proposal was supported.",
+     "Only rarely the respondents supported the proposal."
+    ],
+    "answer": 0,
+    "explain": "เมื่อ only ขยายประธาน (a small minority) ไม่ต้องสลับ ข้อ A จึงถูก แต่เมื่อ only ขยายวลีบอกสถานการณ์หรือความถี่ เช่น Only in a small minority of cases หรือ Only rarely ต้องสลับ: was the proposal supported / did the respondents support ตัวเลือกที่สองเติมประธานซ้ำ"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence for an examination notice.",
+    "options": [
+     "Under no circumstances candidates may leave the examination room before 10.30.",
+     "Under no circumstances may not candidates leave the examination room before 10.30.",
+     "Under no circumstances may candidates leave the examination room before 10.30.",
+     "Under no circumstances candidates are allowed to leave the examination room before 10.30."
+    ],
+    "answer": 2,
+    "explain": "Under no circumstances มีความหมายปฏิเสธอยู่แล้วและต้องสลับกริยาช่วย: may candidates leave ตัวเลือกที่ใส่ not ซ้ำทำให้เป็นปฏิเสธซ้อน ส่วนตัวเลือกแรกและสุดท้ายไม่สลับ"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: What the interviews revealed ____ a deep distrust of official statistics.",
+    "options": [
+     "were",
+     "was",
+     "are",
+     "have been"
+    ],
+    "answer": 1,
+    "explain": "ใน wh-cleft ส่วน What… ทั้งก้อนเป็นประธานเอกพจน์ และสิ่งที่ถูกเน้นคือ a deep distrust (เอกพจน์) ประกอบกับ revealed เป็นอดีต จึงใช้ was ตัวเลือก were ล่อด้วยคำว่า interviews และ statistics ที่เป็นพหูพจน์"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct it-cleft that emphasises the cause of the delays.",
+    "options": [
+     "It was the lack of clear guidelines what caused most of the delays.",
+     "It was the lack of clear guidelines which it caused most of the delays.",
+     "That was the lack of clear guidelines that caused most of the delays.",
+     "It was the lack of clear guidelines that caused most of the delays."
+    ],
+    "answer": 3,
+    "explain": "It-cleft ใช้ It + be + จุดเน้น + that + ส่วนที่เหลือ ข้อ D จึงถูก ตัวเลือกแรกใช้ what ซึ่งใช้ใน wh-cleft ไม่ใช่ it-cleft ตัวเลือกที่สองเติม it ซ้ำ และตัวเลือกที่สามเปลี่ยน It เป็น That ทำให้ไม่ใช่ cleft"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "No sooner had the new curriculum been introduced than teachers began to report problems.",
+     "No sooner had the new curriculum been introduced when teachers began to report problems.",
+     "No sooner the new curriculum had been introduced than teachers began to report problems.",
+     "No sooner was the new curriculum introduced that teachers began to report problems."
+    ],
+    "answer": 0,
+    "explain": "No sooner + had + ประธาน + V3 ต้องคู่กับ than ตัวเลือกที่ใช้ when เป็นการสับสนกับ Hardly…when ตัวเลือกที่สามไม่สลับ และตัวเลือกสุดท้ายใช้ that แทน than"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: Rarely ____ such a rapid shift in public opinion.",
+    "options": [
+     "researchers have observed",
+     "have observed researchers",
+     "have researchers observed",
+     "did researchers have observed"
+    ],
+    "answer": 2,
+    "explain": "Rarely อยู่ต้นประโยคต้องสลับเฉพาะกริยาช่วย have ไว้หน้าประธาน: have researchers observed ตัวเลือกที่สองย้ายกริยาหลักไปด้วย และตัวเลือกสุดท้ายใช้ did ร่วมกับ have + V3 ซึ่งซ้อนกันผิด"
+   },
+   {
+    "type": "mc",
+    "q": "The previous sentence is: 'Most participants reported better sleep.' Which follow-up sentence uses fronting correctly?",
+    "options": [
+     "More surprising the finding was that their anxiety levels also fell.",
+     "More surprising was that the finding their anxiety levels also fell.",
+     "More surprisingly was the finding that their anxiety levels also fell.",
+     "More surprising was the finding that their anxiety levels also fell."
+    ],
+    "answer": 3,
+    "explain": "fronting คุณศัพท์ต้องตามด้วย be + ประธาน: More surprising was the finding that… ตัวเลือก surprisingly ใช้คำวิเศษณ์ซึ่งเป็นส่วนเติมเต็มของ be ไม่ได้ ตัวเลือกแรกไม่สลับ be กับประธาน และตัวเลือกที่สองวาง that ผิดตำแหน่ง"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: Not until the late 1990s ____ widely available in rural areas.",
+    "options": [
+     "the internet became",
+     "did the internet become",
+     "did the internet became",
+     "became the internet"
+    ],
+    "answer": 1,
+    "explain": "Not until + เวลา อยู่ต้นประโยคต้องสลับในประโยคหลักด้วย do-support: did the internet become (กริยาหลักเป็น V1) ตัวเลือก did…became เติมรูปอดีตซ้ำ ส่วนตัวเลือกสุดท้ายย้ายกริยาหลักไปหน้าประธานโดยไม่มีกริยาช่วย"
+   }
+  ]
+ },
+ "G34": {
+  "id": "G34",
+  "title_th": "Reporting verbs และการแสดงจุดยืน: hedging กับ boosting ให้สมดุล",
+  "title_en": "Reporting verbs and stance",
+  "book": "บทเรียนในแอป · ช่วง Band 7",
+  "lesson": [
+   {
+    "h": "หลักสำคัญ",
+    "p": "กริยารายงาน (reporting verb) ไม่ได้บอกแค่ว่า 'ใครพูดอะไร' แต่บอกด้วยว่าผู้เขียนเชื่อแหล่งข้อมูลนั้นมากน้อยเพียงใด เช่น The study shows that… แปลว่าผู้เขียนยอมรับ แต่ The manufacturer claims that… มักแฝงความสงสัย ในข้อสอบอ่าน คำถาม tone และ stance จำนวนมากตัดสินที่คำเหล่านี้ ส่วนในงานเขียน การเลือกกริยาให้ตรงกับน้ำหนักของหลักฐานคือเครื่องหมายของผู้เขียนระดับ Band 7"
+   },
+   {
+    "h": "กลุ่มกริยารายงาน",
+    "table": [
+     [
+      "น้ำหนัก / ความหมาย",
+      "กริยาและโครงสร้าง"
+     ],
+     [
+      "เป็นกลาง",
+      "state, report, note, observe, describe + that / sth"
+     ],
+     [
+      "ผู้เขียนยอมรับว่าจริง",
+      "show, demonstrate, establish, confirm + that"
+     ],
+     [
+      "เสนออย่างระมัดระวัง",
+      "suggest, imply, propose, speculate + that"
+     ],
+     [
+      "ยืนยันจุดยืน (อาจถูกโต้แย้งได้)",
+      "argue / contend / maintain / assert + that; argue for / against sth"
+     ],
+     [
+      "ผู้เขียนเว้นระยะหรือสงสัย",
+      "claim + that / claim to + V, allege, purport to + V"
+     ],
+     [
+      "ยอมรับข้อโต้แย้งของอีกฝ่าย",
+      "concede that, acknowledge that / acknowledge sth, admit, grant that"
+     ],
+     [
+      "ไม่เห็นด้วย",
+      "dispute sth, question whether, challenge the view that, reject sth"
+     ]
+    ]
+   },
+   {
+    "h": "โครงสร้างที่ต้องระวัง",
+    "list": [
+     "emphasise / discuss / stress เป็นกริยาที่มีกรรมตรง: emphasise the risk (ไม่ใช่ emphasise on), discuss the issue (ไม่ใช่ discuss about)",
+     "suggest ไม่ใช้โครงสร้าง suggest sb to V: The review suggests that universities (should) reduce…",
+     "passive แบบไม่ระบุผู้พูด: It has been argued that… / The scheme is claimed to have created 2,000 jobs.",
+     "attribute X to Y: Researchers attribute the decline to pesticide use.",
+     "ในบทสรุปงานวิจัยใช้ present simple เพื่อบอกว่าข้อค้นพบยังใช้ได้: Chaiyasit (2024) argues that…"
+    ]
+   },
+   {
+    "h": "Hedging กับ boosting",
+    "table": [
+     [
+      "Hedge (ลดน้ำหนัก)",
+      "Boost (เพิ่มน้ำหนัก)"
+     ],
+     [
+      "may, might, could, appears to, tends to",
+      "clearly, undoubtedly, consistently"
+     ],
+     [
+      "arguably, to some extent, in part",
+      "it is evident that, there is little doubt that"
+     ],
+     [
+      "suggest, indicate, it is possible that",
+      "demonstrate, confirm, establish"
+     ],
+     [
+      "ใช้กับการตีความ การคาดการณ์ และหลักฐานจำกัด",
+      "ใช้กับข้อเท็จจริงที่หลักฐานแข็งแรงและสอดคล้องกันหลายแหล่ง"
+     ]
+    ]
+   },
+   {
+    "h": "ตัวอย่าง",
+    "ex": [
+     [
+      "✗ Several experts emphasise on the risks of the tax.",
+      "✓ Several experts emphasise the risks of the tax."
+     ],
+     [
+      "✗ The review suggests universities to reduce class sizes.",
+      "✓ The review suggests that universities should reduce class sizes."
+     ],
+     [
+      "✗ This single interview clearly proves that the reform has failed nationwide.",
+      "✓ This interview suggests that the reform may have faced difficulties in some schools."
+     ],
+     [
+      "✗ The data undoubtedly suggest that the policy might have had some effect.",
+      "✓ The data suggest that the policy had a modest effect."
+     ],
+     [
+      "✗ The scheme is claimed creating 2,000 jobs.",
+      "✓ The scheme is claimed to have created 2,000 jobs."
+     ]
+    ]
+   },
+   {
+    "h": "สูตรจำ",
+    "p": "หลักฐานแข็งแรง + ข้อเท็จจริง → boost (show, clearly) / การตีความ การคาดการณ์ หรือหลักฐานจำกัด → hedge (suggest, may) / ไม่ใส่ทั้งสองแบบในวลีเดียวกัน ใน essay ให้ใช้ concede/acknowledge ยอมรับข้อโต้แย้งของอีกฝ่ายหนึ่งครั้ง แล้วตามด้วย nevertheless หรือ however เพื่อกลับมายืนยันจุดยืนของตน"
+   }
+  ],
+  "quiz": [
+   {
+    "type": "mc",
+    "q": "Fill the blank with the verb that best signals the writer's doubt: The manufacturer ____ that the device reduces energy use by 40%, but no independent tests have confirmed this.",
+    "options": [
+     "claims",
+     "demonstrates",
+     "notes",
+     "establishes"
+    ],
+    "answer": 0,
+    "explain": "claim ใช้รายงานข้อความที่ผู้เขียนยังไม่ยอมรับว่าจริง ซึ่งสอดคล้องกับส่วนหลังที่บอกว่ายังไม่มีการทดสอบยืนยัน demonstrates และ establishes แสดงว่าผู้เขียนยอมรับว่าจริง ส่วน notes เป็นกริยากลางที่มักใช้กับข้อเท็จจริง จึงขัดกับความสงสัยในประโยค"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: While the author ____ that the sample was small, she maintains that the findings are significant.",
+    "options": [
+     "insists",
+     "contends",
+     "concedes",
+     "denies"
+    ],
+    "answer": 2,
+    "explain": "While นำ clause ที่ผู้เขียนยอมรับจุดอ่อนของตนก่อนกลับมายืนยัน (maintains) จึงต้องใช้ concedes insists และ contends เป็นการยืนยันจุดยืนซึ่งไม่เข้ากับการยอมรับว่ากลุ่มตัวอย่างเล็ก ส่วน denies ทำให้ความหมายกลับกัน"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the grammatically correct sentence.",
+    "options": [
+     "Several economists have argued about that the tax will hurt small firms.",
+     "Several economists have emphasised on the risks of the tax for small firms.",
+     "Several economists have discussed about the risks of the tax for small firms.",
+     "Several economists have questioned whether the tax will benefit small firms."
+    ],
+    "answer": 3,
+    "explain": "question whether + clause เป็นโครงสร้างที่ถูกต้องและแสดงความสงสัยอย่างเป็นวิชาการ ตัวเลือกอื่นเติมบุพบทเกิน: argue that (ไม่มี about), emphasise และ discuss ตามด้วยกรรมตรง ซึ่งเป็นข้อผิดพลาดที่คนไทยพบบ่อย"
+   },
+   {
+    "type": "mc",
+    "q": "Three large studies consistently found a link between poor sleep and lower exam scores, but none was experimental. Which sentence best balances confidence and caution?",
+    "options": [
+     "These studies prove that poor sleep causes lower exam scores.",
+     "These studies consistently show a link between poor sleep and lower scores, although they cannot establish that poor sleep is the cause.",
+     "It might possibly be that poor sleep could perhaps be somewhat linked to exam scores.",
+     "These studies suggest that poor sleep may be linked to lower scores, so it definitely causes poor results."
+    ],
+    "answer": 1,
+    "explain": "ข้อ B ใช้ boosting (consistently show) กับสิ่งที่หลักฐานยืนยันได้จริงคือความสัมพันธ์ และใช้ hedging กับเรื่องเหตุและผลซึ่งการศึกษาแบบไม่ทดลองพิสูจน์ไม่ได้ ตัวเลือก prove กล่าวเกินหลักฐาน ตัวเลือกที่สาม hedge ซ้อนจนไม่มีน้ำหนัก และตัวเลือกสุดท้ายขัดแย้งในตัวเอง"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: The scheme ____ over 2,000 jobs, although these figures have not been verified.",
+    "options": [
+     "is claimed creating",
+     "is claimed that it created",
+     "claims to have created",
+     "is claimed to have created"
+    ],
+    "answer": 3,
+    "explain": "passive reporting ใช้โครงสร้าง S + is claimed + to have + V3 เมื่อเหตุการณ์เกิดก่อนการกล่าวอ้าง ตัวเลือก claims to have created ดูถูกไวยากรณ์ แต่ทำให้โครงการเป็นผู้กล่าวอ้างเอง ซึ่งไม่สมเหตุสมผล ส่วนอีกสองตัวเลือกผิดโครงสร้าง"
+   },
+   {
+    "type": "mc",
+    "q": "In which sentence does the writer acknowledge an opposing point before rebutting it?",
+    "options": [
+     "Admittedly, online courses offer flexibility; nevertheless, they rarely provide the feedback that weaker students need.",
+     "Online courses offer flexibility; therefore, they provide the feedback that weaker students need.",
+     "Critics contend that online courses offer flexibility, and they also provide useful feedback.",
+     "Online courses clearly offer flexibility, and weaker students undoubtedly benefit most from them."
+    ],
+    "answer": 0,
+    "explain": "Admittedly แสดงการยอมรับข้อดีของอีกฝ่าย แล้ว nevertheless พากลับมาสู่ข้อโต้แย้งของผู้เขียน ซึ่งเป็นรูปแบบ concession + rebuttal ตัวเลือกอื่นไม่มีการโต้กลับ บางตัวเลือกใช้ therefore หรือ and ที่แสดงความสอดคล้องแทนความขัดแย้ง"
+   },
+   {
+    "type": "mc",
+    "q": "In which sentence is the booster used APPROPRIATELY?",
+    "options": [
+     "The data undoubtedly suggest that the policy might have had some effect.",
+     "Clearly, a single interview with one teacher proves that the reform has failed nationwide.",
+     "The results of all five trials clearly indicate that the vaccine reduced hospital admissions.",
+     "It is evident that the policy will certainly double tourism by 2040."
+    ],
+    "answer": 2,
+    "explain": "ข้อ C ใช้ clearly กับผลจากการทดลองห้าครั้งที่สอดคล้องกัน จึงสมกับน้ำหนักหลักฐาน ตัวเลือกแรกผสม undoubtedly กับ suggest/might จนขัดกันเอง ตัวเลือกที่สองใช้ boost กับหลักฐานชิ้นเดียว และตัวเลือกสุดท้าย boost การคาดการณ์อนาคตซึ่งไม่มีใครรู้แน่"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: Researchers have attributed the decline in bee populations ____ the widespread use of pesticides.",
+    "options": [
+     "for",
+     "to",
+     "with",
+     "on"
+    ],
+    "answer": 1,
+    "explain": "attribute X to Y แปลว่า ระบุว่า X เกิดจาก Y โดยผลอยู่หน้าและสาเหตุอยู่หลัง to ตัวเลือกอื่นเป็นบุพบทที่มักสับสนจากภาษาไทย เช่น for ซึ่งใช้กับ blame sb for sth"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank with the verb that shows the writer accepts the result as established: Dr. Somchai's experiment ____ that the coating prevents corrosion under laboratory conditions.",
+    "options": [
+     "demonstrated",
+     "alleged",
+     "speculated",
+     "purported"
+    ],
+    "answer": 0,
+    "explain": "demonstrate แสดงว่าผู้เขียนยอมรับผลการทดลองว่าจริง alleged และ purported แสดงความสงสัย (และ purport ต้องตามด้วย to + V ไม่ใช่ that) ส่วน speculated หมายถึงการคาดเดาโดยไม่มีหลักฐานเพียงพอ"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "The review suggests universities to reduce class sizes.",
+     "The review suggests to reduce class sizes in universities.",
+     "The review suggests that universities should reduce class sizes.",
+     "The review suggests universities reducing class sizes."
+    ],
+    "answer": 2,
+    "explain": "suggest ในความหมายเสนอแนะใช้ that + S + (should) + V1 หรือ suggest + V-ing (suggests reducing) ห้ามใช้ suggest sb to V หรือ suggest to V ตัวเลือกสุดท้ายแทรกคำนามระหว่าง suggests กับ V-ing ซึ่งไม่ใช่รูปมาตรฐานในงานเขียนวิชาการ"
+   }
+  ]
+ },
+ "G35": {
+  "id": "G35",
+  "title_th": "Cohesion ขั้นสูง: summary noun, lexical chain และคำเชื่อมแสดงความแตกต่าง",
+  "title_en": "Advanced cohesion",
+  "book": "บทเรียนในแอป · ช่วง Band 7",
+  "lesson": [
+   {
+    "h": "หลักสำคัญ",
+    "p": "Cohesion ระดับ Band 7 ไม่ได้มาจากการใส่ However, Moreover ทุกประโยค แต่มาจากการโยงความคิดด้วยคำนาม: this/these + summary noun สรุปประโยคก่อนหน้า (this trend, these findings, such measures), lexical chain คือการเรียกสิ่งเดียวกันด้วยคำต่างกันอย่างสม่ำเสมอ (electric buses → the vehicles → the fleet) และการแทนคำ (that of, those, do so) เพื่อไม่ต้องซ้ำ ในข้อสอบอ่าน ความรู้นี้ใช้ตอบคำถาม reference และ organization โดยตรง"
+   },
+   {
+    "h": "Summary noun ที่ใช้บ่อย",
+    "table": [
+     [
+      "ประโยคก่อนหน้าพูดถึง",
+      "Summary noun"
+     ],
+     [
+      "การเปลี่ยนแปลง ตัวเลขขึ้นลง",
+      "this trend, this shift, this increase, this decline"
+     ],
+     [
+      "ปัญหา",
+      "this issue, this shortage, this difficulty, this dilemma"
+     ],
+     [
+      "ความคิดหรือข้ออ้าง",
+      "this view, this claim, this assumption, this argument"
+     ],
+     [
+      "การกระทำของรัฐหรือองค์กร",
+      "these measures, this initiative, this approach, such policies"
+     ],
+     [
+      "ผลการวิจัย",
+      "these findings, this result, this discrepancy, this pattern"
+     ]
+    ]
+   },
+   {
+    "h": "คำเชื่อมแสดงความแตกต่าง",
+    "table": [
+     [
+      "คำเชื่อม",
+      "ไวยากรณ์และความหมาย"
+     ],
+     [
+      "whereas / while",
+      "เชื่อมสอง clause ในประโยคเดียว: Urban households spend more on transport, whereas rural households spend more on food."
+     ],
+     [
+      "by contrast / in contrast",
+      "เป็น adverbial ขึ้นประโยคใหม่หรือหลัง ; ตามด้วย comma"
+     ],
+     [
+      "in contrast to / unlike + noun",
+      "In contrast to earlier studies, the present study used sensors."
+     ],
+     [
+      "conversely",
+      "ความสัมพันธ์กลับด้าน: higher X → more Y; conversely, lower X → less Y"
+     ],
+     [
+      "despite / in spite of + noun, although + clause",
+      "Despite its popularity… / Although it was popular…"
+     ]
+    ]
+   },
+   {
+    "h": "ตัวอย่าง",
+    "ex": [
+     [
+      "✗ Urban households spend more on transport. Whereas, rural households spend more on food.",
+      "✓ Urban households spend more on transport, whereas rural households spend more on food."
+     ],
+     [
+      "✗ Many clinics lack doctors. This is a serious problem.",
+      "✓ Many clinics lack doctors. This shortage of medical staff places a heavy burden on rural patients."
+     ],
+     [
+      "✗ The literacy rate in Laos is lower than Thailand.",
+      "✓ The literacy rate in Laos is lower than that of Thailand."
+     ],
+     [
+      "✗ Thailand exports rice; conversely, Vietnam also exports rice.",
+      "✓ Thailand exports rice; similarly, Vietnam is a major exporter."
+     ],
+     [
+      "✗ Despite the scheme was popular, it was discontinued.",
+      "✓ Despite its popularity, the scheme was discontinued."
+     ]
+    ]
+   },
+   {
+    "h": "จุดที่คนไทยพลาดบ่อย",
+    "list": [
+     "ใช้ This/It ลอย ๆ จนผู้อ่านไม่รู้ว่าหมายถึงอะไร ให้เติม summary noun ทุกครั้งที่ประโยคก่อนหน้ามีหลายความคิด",
+     "ใช้ Whereas ขึ้นต้นประโยคแล้วตามด้วย comma เหมือน However",
+     "ใช้ conversely กับความแตกต่างธรรมดาที่ไม่ใช่ความสัมพันธ์กลับด้าน",
+     "เปรียบเทียบสิ่งที่ไม่ใช่ชนิดเดียวกัน (rate กับประเทศ) แทนที่จะใช้ that of / those of",
+     "เปลี่ยนคำพ้องความหมายจนผู้อ่านคิดว่าเป็นสิ่งใหม่ เช่น students → learners → pupils → youths ในย่อหน้าเดียว lexical chain ต้องชัดว่าเป็นสิ่งเดียวกัน"
+    ]
+   },
+   {
+    "h": "สูตรจำ",
+    "p": "เริ่มประโยคใหม่ด้วยข้อมูลเก่า (this + summary noun) แล้วจบด้วยข้อมูลใหม่ เมื่อเปรียบเทียบ: ในประโยคเดียวใช้ whereas, ข้ามประโยคใช้ By contrast, หน้าคำนามใช้ In contrast to / Unlike, ความสัมพันธ์กลับด้านเท่านั้นจึงใช้ Conversely"
+   }
+  ],
+  "quiz": [
+   {
+    "type": "mc",
+    "q": "Previous sentence: 'Between 2015 and 2024, the proportion of students enrolling in vocational programmes rose from 28% to 41%.' Choose the best next sentence.",
+    "options": [
+     "This is likely to continue as employers increasingly value practical skills.",
+     "This upward trend is likely to continue as employers increasingly value practical skills.",
+     "This upward trend are likely to continue as employers increasingly value practical skills.",
+     "Such trend is likely to continue as employers increasingly value practical skills."
+    ],
+    "answer": 1,
+    "explain": "This upward trend สรุปข้อมูลตัวเลขในประโยคก่อนหน้าได้ชัดเจนและใช้กริยาเอกพจน์ถูกต้อง ตัวเลือก This ลอย ๆ ถูกไวยากรณ์แต่ไม่ชัดว่าอะไรจะดำเนินต่อ ตัวเลือก trend are ผิดการผันกริยา และ such + คำนามนับได้เอกพจน์ต้องเป็น such a trend"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correctly punctuated sentence.",
+    "options": [
+     "Urban households spend more on transport. Whereas, rural households spend more on food.",
+     "Urban households spend more on transport, by contrast rural households spend more on food.",
+     "Urban households spend more on transport, whereas rural households spend more on food.",
+     "Urban households spend more on transport; whereas, rural households spend more on food."
+    ],
+    "answer": 2,
+    "explain": "whereas เป็นคำเชื่อม (conjunction) ที่ต้องเชื่อมสอง clause ภายในประโยคเดียว จึงใช้ comma หน้า whereas ไม่ใช่หลัง ตัวเลือกที่สองเป็น comma splice เพราะ by contrast ไม่ใช่คำเชื่อม ต้องใช้ ; หรือขึ้นประโยคใหม่"
+   },
+   {
+    "type": "mc",
+    "q": "Which sentence uses 'conversely' correctly?",
+    "options": [
+     "Higher humidity slowed the drying process; conversely, lower humidity accelerated it.",
+     "Thailand exports large amounts of rice; conversely, Vietnam also exports rice.",
+     "Conversely to the first group, the second group improved significantly.",
+     "The first experiment failed. Conversely, the second experiment also failed."
+    ],
+    "answer": 0,
+    "explain": "conversely ใช้กับความสัมพันธ์ที่กลับด้านกัน (ความชื้นสูง → ช้า, ความชื้นต่ำ → เร็ว) ข้อ A จึงถูก ตัวเลือกที่สองและสี่บอกความเหมือน ไม่ใช่ความตรงข้าม ส่วน conversely to + noun ไม่ใช่โครงสร้างที่ใช้ ต้องใช้ in contrast to"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "The literacy rate in Laos is lower than Thailand.",
+     "The literacy rate in Laos is lower than those of Thailand.",
+     "The literacy rate in Laos is lower than it of Thailand.",
+     "The literacy rate in Laos is lower than that of Thailand."
+    ],
+    "answer": 3,
+    "explain": "การเปรียบเทียบต้องเทียบสิ่งชนิดเดียวกัน คืออัตรากับอัตรา จึงใช้ that of แทน the literacy rate (เอกพจน์) ตัวเลือกแรกเทียบอัตรากับประเทศ ตัวเลือก those เป็นพหูพจน์ไม่ตรงกับ rate และ it ใช้กับ of ในลักษณะนี้ไม่ได้"
+   },
+   {
+    "type": "mc",
+    "q": "First sentence: 'The city introduced electric buses on three routes in 2023.' Choose the most cohesive second sentence.",
+    "options": [
+     "The vehicles have since cut fuel costs on these routes by a third.",
+     "The electric buses that the city introduced on three routes in 2023 have since cut fuel costs by a third.",
+     "They have since cut its fuel costs on them by a third.",
+     "These ones have since cut the fuel costs of the city by a third."
+    ],
+    "answer": 0,
+    "explain": "The vehicles เป็นคำกว้างกว่า (hypernym) ที่สร้าง lexical chain กับ electric buses และ these routes อ้างกลับได้ชัดเจน ตัวเลือกที่สองซ้ำข้อมูลเดิมทั้งหมด ตัวเลือกที่สามใช้สรรพนามหลายตัวจนกำกวม และ these ones เป็นภาษาพูดที่ไม่เหมาะกับงานวิชาการ"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: ____ earlier studies, which relied on self-reported data, the present study used wearable sensors.",
+    "options": [
+     "Whereas",
+     "In contrast to",
+     "By contrast",
+     "Conversely"
+    ],
+    "answer": 1,
+    "explain": "ช่องว่างตามด้วยคำนาม (earlier studies) จึงต้องใช้บุพบท In contrast to Whereas ต้องตามด้วย clause ส่วน By contrast และ Conversely เป็น adverbial ที่ตามด้วย comma และประโยคสมบูรณ์ ไม่ใช่คำนาม"
+   },
+   {
+    "type": "mc",
+    "q": "Previous sentence: 'Many rural clinics lack doctors, and patients must travel long distances for basic care.' Which follow-up makes the reference of 'this/these' clearest?",
+    "options": [
+     "This is a serious problem.",
+     "This is a serious problem that it must be solved.",
+     "These are serious problem for the government.",
+     "This shortage of medical staff places a heavy burden on rural patients."
+    ],
+    "answer": 3,
+    "explain": "This shortage of medical staff ใช้ summary noun ระบุชัดว่ากำลังอ้างถึงอะไร ตัวเลือกแรกถูกไวยากรณ์แต่ This ลอยจนกำกวม ตัวเลือกที่สองมี it เกินใน relative clause และตัวเลือกที่สามใช้ problem เอกพจน์กับ These"
+   },
+   {
+    "type": "mc",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "Despite the scheme was popular, it was discontinued in 2021.",
+     "Although its popularity, the scheme was discontinued in 2021.",
+     "Despite its popularity, the scheme was discontinued in 2021.",
+     "Despite of its popularity, the scheme was discontinued in 2021."
+    ],
+    "answer": 2,
+    "explain": "Despite เป็นบุพบทจึงตามด้วยคำนาม (its popularity) ส่วน Although เป็นคำเชื่อมต้องตามด้วย clause ตัวเลือกแรกและที่สองสลับการใช้สองคำนี้ และ despite ไม่มี of ตามหลัง (in spite of มี of)"
+   },
+   {
+    "type": "mc",
+    "q": "Fill the blank: The committee recommended that all staff complete the training, but only half of them have ____.",
+    "options": [
+     "done it so",
+     "done so",
+     "made so",
+     "so done"
+    ],
+    "answer": 1,
+    "explain": "do so ใช้แทนกริยาวลีที่กล่าวไปแล้ว (complete the training) เพื่อไม่ต้องซ้ำ จึงเป็น have done so ตัวเลือกอื่นผสมคำผิดรูปแบบ เช่น done it so ใส่ทั้ง it และ so ซ้อนกัน"
+   },
+   {
+    "type": "mc",
+    "q": "Which pair of sentences is the most cohesive?",
+    "options": [
+     "Air pollution in Chiang Mai peaks in March. However, tourists continue to enjoy the old city.",
+     "Air pollution in Chiang Mai peaks in March. By contrast, agricultural burning is the main cause of it.",
+     "Air pollution in Chiang Mai peaks in March. Whereas the rainy season brings much cleaner air.",
+     "Air pollution in Chiang Mai peaks in March. This seasonal haze, largely caused by agricultural burning, has prompted calls for stricter enforcement."
+    ],
+    "answer": 3,
+    "explain": "This seasonal haze เป็น summary noun ที่โยงกลับไปยังประโยคแรกแล้วเพิ่มข้อมูลใหม่ ตัวเลือก By contrast ใช้คำเชื่อมผิดเพราะสาเหตุไม่ใช่ความแตกต่าง ตัวเลือก Whereas เป็นประโยคไม่สมบูรณ์ และตัวเลือกแรกเปลี่ยนหัวข้อจนความคิดไม่ต่อเนื่อง"
+   }
+  ]
+ }
+}

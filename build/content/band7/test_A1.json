@@ -1,0 +1,975 @@
+{
+ "id": "A1",
+ "title": "Band 7 Reading Test 1",
+ "passages": [
+  {
+   "id": "A1P1",
+   "kind": "short",
+   "genre": "news report",
+   "domain": "Public Health",
+   "title": "Rabies Deaths Prompt Province-Wide Push to Vaccinate Community Dogs",
+   "paragraphs": [
+    "Health authorities in a northeastern province have launched an eight-week campaign to vaccinate an estimated 60,000 free-roaming dogs after two residents died of rabies within a month, the first fatalities from the disease recorded in the province in nearly six years. Officials described the deaths, both of which followed bites that went untreated, as \"entirely preventable\".",
+    "The campaign, which began on Monday, will deploy 140 mobile teams made up of livestock officers, village health volunteers and veterinary students from a local university. Each team has been assigned a cluster of sub-districts and is expected to visit every village at least twice, returning for animals that could not be caught on the first visit. Vaccinated dogs will be fitted with a coloured collar so that teams can avoid treating the same animal twice.",
+    "According to Dr. Pimchanok Sriwattana, who heads the provincial disease control office, the two deaths exposed a gap that is behavioural rather than medical. Post-exposure treatment, a series of injections given after a bite, is available free of charge at every district hospital. Yet both victims, she said, had merely washed their wounds at home, apparently assuming that a bite from a familiar neighbourhood dog posed little danger. \"People tend to fear the strange dog in the road, not the one that sleeps outside their own door,\" she noted. \"Unfortunately, the virus does not make that distinction.\"",
+    "Coverage, rather than speed, is the campaign's chief concern. Epidemiologists generally estimate that transmission between dogs can be interrupted once roughly 70 per cent of the population has been immunised, a threshold the province has not reached since a similar drive lapsed in 2019 because of budget cuts. A survey conducted last year suggested that fewer than four in ten community dogs had been vaccinated in the previous twelve months.",
+    "Not everyone is convinced that vaccination alone will suffice. Some animal welfare groups argue that without a sustained sterilisation programme, the dog population will simply be replenished by unvaccinated puppies within two to three years, eroding whatever immunity the campaign achieves. Officials concede the point but maintain that sterilisation, being far more costly per animal, cannot be scaled up quickly enough to address the immediate risk.",
+    "Meanwhile, residents are being urged to wash any bite or scratch thoroughly with soap and running water for fifteen minutes and to visit a hospital the same day, even if the animal appears healthy. Schools across the province will also hold short safety sessions during the campaign, since children under fifteen account for a disproportionate share of reported bites."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Rabies has become the leading cause of death in a northeastern province over the past six years.",
+      "A province is trying to curb rabies by immunising dogs on a large scale, though some doubt this is enough.",
+      "Animal welfare groups have persuaded officials to replace vaccination with a sterilisation programme.",
+      "Hospitals in the province have begun charging residents for treatment given after a dog bite."
+     ],
+     "answer": 1,
+     "explain": "ข่าวนี้รายงานการรณรงค์ “to vaccinate an estimated 60,000 free-roaming dogs” (¶1) และมีเสียงแย้งว่า “Not everyone is convinced that vaccination alone will suffice” (¶5) จึงตอบ B ตัวเลือก C ล่อใจเพราะกล่าวถึงกลุ่มสวัสดิภาพสัตว์ แต่เจ้าหน้าที่ไม่ได้เปลี่ยนไปใช้การทำหมันแทน ส่วน D ขัดกับ ¶3 ที่ว่าการรักษา “is available free of charge”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what made the two recent deaths especially notable?",
+     "options": [
+      "They were caused by dogs that had already been vaccinated.",
+      "They occurred even though both victims received hospital care.",
+      "They were the first rabies deaths ever recorded in the province.",
+      "They were the province's first rabies fatalities in almost six years."
+     ],
+     "answer": 3,
+     "explain": "¶1: “the first fatalities from the disease recorded in the province in nearly six years” จึงตอบ D ตัวเลือก C ล่อใจเพราะใช้คำว่า first เหมือนในบทความ แต่ตัดเงื่อนไข “in nearly six years” ออกจนความหมายเกินจริง ส่วน B ขัดกับ ¶1 ที่ว่าแผล “went untreated”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about the two people who died?",
+     "options": [
+      "They underestimated the danger because they knew the dogs that bit them.",
+      "They could not afford the injections offered at district hospitals.",
+      "They were bitten by unfamiliar dogs while travelling outside their village.",
+      "They were turned away by hospitals that had run out of vaccine."
+     ],
+     "answer": 0,
+     "explain": "¶3: both victims were “apparently assuming that a bite from a familiar neighbourhood dog posed little danger” จึงอนุมานได้ว่าพวกเขาประเมินความเสี่ยงต่ำเพราะรู้จักสุนัขตัวนั้น ตอบ A ตัวเลือก B ขัดกับ “available free of charge at every district hospital” ส่วน C กลับด้านกับข้อเท็จจริง เพราะสุนัขเป็นตัวที่คุ้นเคย ไม่ใช่สุนัขแปลกหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'that distinction' in paragraph 3 refers to the difference between",
+     "options": [
+      "a medical gap and a behavioural gap in prevention",
+      "washing a wound at home and receiving injections",
+      "an unfamiliar dog and a dog that lives close to home",
+      "a dog that has been vaccinated and one that has not"
+     ],
+     "answer": 2,
+     "explain": "ประโยคก่อนหน้าใน ¶3 คือ “People tend to fear the strange dog in the road, not the one that sleeps outside their own door” ดังนั้น that distinction คือความต่างระหว่างสุนัขแปลกหน้ากับสุนัขใกล้บ้าน ตอบ C ตัวเลือก A ล่อใจเพราะต้นย่อหน้าพูดถึง gap ที่ “behavioural rather than medical” แต่นั่นไม่ใช่สิ่งที่ไวรัส 'ไม่แยกแยะ'"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'lapsed' in paragraph 4 is closest in meaning to",
+     "options": [
+      "was discontinued",
+      "made an error",
+      "declined gradually",
+      "was briefly postponed"
+     ],
+     "answer": 0,
+     "explain": "¶4: “a similar drive lapsed in 2019 because of budget cuts” หมายถึงโครงการ 'ยุติลง' เพราะงบประมาณถูกตัด ตอบ A ตัวเลือก B มาจากความหมายของคำนาม lapse (ความพลั้งเผลอ) ซึ่งไม่เข้ากับบริบท ส่วน D ไม่ถูกเพราะจังหวัดไม่ถึงเกณฑ์อีกเลย “since” ปี 2019 แสดงว่าไม่ใช่การเลื่อนชั่วคราว"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does paragraph 4 suggest about the province's dogs before the campaign began?",
+     "options": [
+      "Their vaccination rate had stayed above 70 per cent until the previous year.",
+      "Their numbers had grown too large for any campaign to cover them all.",
+      "Their vaccination rate was unknown because no survey had been carried out.",
+      "Their vaccination rate was well short of the level needed to halt transmission."
+     ],
+     "answer": 3,
+     "explain": "¶4 ระบุเกณฑ์ “roughly 70 per cent” แต่ผลสำรวจพบว่า “fewer than four in ten community dogs had been vaccinated” แสดงว่าอัตราการฉีดต่ำกว่าเกณฑ์มาก ตอบ D ตัวเลือก A ขัดกับ “a threshold the province has not reached since … 2019” ส่วน C ผิดเพราะมีการสำรวจเมื่อปีที่แล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the essential information in the last sentence of paragraph 5?",
+     "options": [
+      "Officials reject the criticism because sterilisation has already been tried and failed to reduce dog numbers.",
+      "Officials accept the criticism but say sterilisation is too expensive to expand fast enough for the urgent threat.",
+      "Officials agree that sterilisation should replace vaccination as soon as more funding becomes available.",
+      "Officials believe sterilisation is cheaper per animal but admit it takes several years to show any results."
+     ],
+     "answer": 1,
+     "explain": "¶5: “Officials concede the point but maintain that sterilisation, being far more costly per animal, cannot be scaled up quickly enough to address the immediate risk.” ตอบ B ซึ่งถอดความ concede เป็น accept และ far more costly เป็น too expensive ตัวเลือก D ล่อใจเพราะพูดถึงต้นทุนและเวลา แต่กลับความหมายว่าการทำหมัน 'ถูกกว่า' ส่วน A ผิดเพราะ concede คือยอมรับ ไม่ใช่ปฏิเสธ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention children under fifteen in paragraph 6?",
+     "options": [
+      "To show that children are more likely to die from rabies than adults",
+      "To argue that children should be vaccinated before adults",
+      "To explain why schools have been included in the campaign",
+      "To suggest that parents have ignored earlier safety advice"
+     ],
+     "answer": 2,
+     "explain": "¶6: schools will hold sessions “since children under fifteen account for a disproportionate share of reported bites” ข้อมูลนี้จึงใช้อธิบายเหตุผลที่โรงเรียนเข้าร่วม ตอบ C ตัวเลือก A ล่อใจแต่บทความพูดถึงสัดส่วน 'การถูกกัด' ไม่ใช่ 'การเสียชีวิต' ส่วน B ไม่มีการกล่าวถึงการฉีดวัคซีนให้เด็กเลย"
+    }
+   ]
+  },
+  {
+   "id": "A1P2",
+   "kind": "short",
+   "genre": "official notice",
+   "domain": "Education",
+   "title": "Graduate School Announcement: Revised Thesis Examination Procedures from Academic Year 2027",
+   "paragraphs": [
+    "The Graduate School wishes to inform all master's and doctoral candidates, as well as their supervisors, that the procedures governing the final thesis examination will be revised with effect from the first semester of Academic Year 2027. The changes, approved by the University Council at its meeting in September, follow a two-year review prompted by complaints about inconsistent standards between faculties and lengthy delays in the appointment of examiners.",
+    "Under the revised procedure, every examination committee must include at least one external examiner who holds no appointment at the University and who has not co-authored any publication with the candidate or supervisor in the preceding five years. Faculties that have hitherto relied primarily on internal examiners are advised to begin identifying suitable external members well in advance, since nominations submitted fewer than eight weeks before the proposed examination date will not be considered.",
+    "Secondly, candidates will be required to submit their full thesis through the University's similarity-checking system before, rather than after, the examination, and the resulting report must be attached to the request for examination. Reports showing an overall similarity index above 20 per cent will not automatically disqualify a thesis; however, they must be accompanied by a written statement from the supervisor explaining the sources of the overlap, for instance the candidate's own previously published articles.",
+    "Thirdly, the oral examination may now be conducted fully online, provided that the candidate and the committee chair jointly request this format and that the session is recorded in its entirety. Recordings will be retained by the Graduate School for one academic year and may be consulted only in the event of an appeal.",
+    "Candidates whose examination committee has already been approved before 31 May 2027 may choose to be examined under either the current or the revised regulations, but must notify their faculty of their choice in writing. Those who fail to do so will be examined under the revised regulations by default. These transitional arrangements will not be extended beyond the end of Academic Year 2027.",
+    "Supervisors should note that the Graduate School will hold two briefing sessions, on 14 and 21 April, in the Main Conference Room. Attendance is strongly recommended for those currently responsible for candidates nearing completion. Queries regarding individual cases should be directed to the relevant faculty's graduate affairs officer rather than to the Graduate School, which will be unable to respond to individual enquiries during the transition period."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "What is the main purpose of the announcement?",
+     "options": [
+      "To invite candidates to apply for thesis examinations in Academic Year 2027",
+      "To announce that online examinations will replace face-to-face examinations",
+      "To set out revised rules for thesis examinations and explain how the change will be managed",
+      "To respond to complaints by removing internal examiners from all committees"
+     ],
+     "answer": 2,
+     "explain": "¶1 แจ้งว่า “the procedures governing the final thesis examination will be revised” จากนั้น ¶2–4 อธิบายกฎใหม่ และ ¶5–6 อธิบายช่วงเปลี่ยนผ่าน จึงตอบ C ตัวเลือก B เกินจริงเพราะ ¶4 บอกเพียงว่าการสอบ “may now be conducted fully online” ภายใต้เงื่อนไข ไม่ได้มาแทนการสอบแบบเดิม ส่วน D ผิดเพราะกฎใหม่กำหนดกรรมการภายนอก “at least one” เท่านั้น"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what led to the review of the procedures?",
+     "options": [
+      "Concerns that standards varied across faculties and examiners were slow to be appointed",
+      "A rise in the number of theses found to contain material copied from other sources",
+      "Requests from candidates for the option of taking their oral examinations online",
+      "A decision by the University Council to reduce the number of internal examiners"
+     ],
+     "answer": 0,
+     "explain": "¶1: the review was “prompted by complaints about inconsistent standards between faculties and lengthy delays in the appointment of examiners” จึงตอบ A ตัวเลือก B ล่อใจเพราะ ¶3 พูดถึงระบบตรวจความซ้ำซ้อน แต่ไม่ได้บอกว่าเป็นสาเหตุของการทบทวน ส่วน D ผิดเพราะสภามหาวิทยาลัยเพียง “approved” การเปลี่ยนแปลง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Based on paragraph 2, which of the following people could NOT serve as the external examiner?",
+     "options": [
+      "A retired professor from another institution who has never published with either person",
+      "A government researcher who last co-authored a paper with the supervisor seven years ago",
+      "An overseas academic who has reviewed, but never co-written, the candidate's earlier work",
+      "A lecturer at another university who co-wrote an article with the supervisor four years ago"
+     ],
+     "answer": 3,
+     "explain": "¶2 กำหนดว่ากรรมการภายนอกต้อง “has not co-authored any publication with the candidate or supervisor in the preceding five years” ผู้ที่เขียนบทความร่วมกับอาจารย์ที่ปรึกษาเมื่อสี่ปีก่อนจึงไม่มีสิทธิ์ ตอบ D ตัวเลือก B ล่อใจเพราะเคยเขียนงานร่วมกันเช่นกัน แต่เกิดขึ้นเมื่อเจ็ดปีก่อน ซึ่งพ้นกรอบห้าปีแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the essential information in the last sentence of paragraph 3?",
+     "options": [
+      "Any thesis with a similarity index above 20 per cent will be rejected unless the candidate rewrites it.",
+      "A thesis with a high similarity score can still proceed if the supervisor explains the overlap in writing.",
+      "Candidates must explain in writing why their own published articles appear in the similarity report.",
+      "Supervisors must check every source in a thesis before the similarity report can be submitted."
+     ],
+     "answer": 1,
+     "explain": "¶3: reports above 20 per cent “will not automatically disqualify a thesis; however, they must be accompanied by a written statement from the supervisor explaining the sources of the overlap” ตอบ B ตัวเลือก A กลับความหมายเพราะตัดคำว่า not automatically ออก ส่วน C สับสนผู้กระทำ เพราะผู้ที่ต้องเขียนคำชี้แจงคืออาจารย์ที่ปรึกษา ไม่ใช่ผู้สมัครสอบ"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'consulted' in paragraph 4 is closest in meaning to",
+     "options": [
+      "asked for advice",
+      "made public",
+      "permanently deleted",
+      "referred to"
+     ],
+     "answer": 3,
+     "explain": "¶4: recordings “may be consulted only in the event of an appeal” หมายถึงบันทึกจะถูก 'เปิดดูหรือนำมาอ้างอิง' เฉพาะเมื่อมีการอุทธรณ์ ตอบ D ตัวเลือก A เป็นความหมายที่พบบ่อยของ consult เมื่อใช้กับคน (ขอคำปรึกษา) แต่ประธานของประโยคนี้คือ recordings ซึ่งเป็นสิ่งของ"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'do so' in paragraph 5 refers to",
+     "options": [
+      "having their examination committee approved before 31 May 2027",
+      "being examined under the current rather than the revised regulations",
+      "informing their faculty in writing which regulations they prefer",
+      "extending the transitional arrangements beyond Academic Year 2027"
+     ],
+     "answer": 2,
+     "explain": "ประโยคก่อนหน้าใน ¶5 คือ “must notify their faculty of their choice in writing” ดังนั้น Those who fail to do so หมายถึงผู้ที่ไม่ได้แจ้งคณะเป็นลายลักษณ์อักษร ตอบ C ตัวเลือก A ล่อใจเพราะอยู่ในประโยคเดียวกัน แต่เป็นคุณสมบัติของผู้สมัคร ไม่ใช่การกระทำที่ผู้สมัคร 'ไม่ได้ทำ'"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "A candidate's committee was approved in March 2027, but the candidate never informs the faculty of a choice. Based on paragraph 5, what will happen?",
+     "options": [
+      "The candidate will automatically be examined under the new rules.",
+      "The candidate will be examined under the rules currently in force.",
+      "The candidate will have to apply for a new examination committee.",
+      "The candidate's examination will be postponed until after 2027."
+     ],
+     "answer": 0,
+     "explain": "¶5: “Those who fail to do so will be examined under the revised regulations by default.” ผู้สมัครรายนี้จึงจะสอบภายใต้ระเบียบใหม่โดยอัตโนมัติ ตอบ A ตัวเลือก B ล่อใจเพราะผู้สมัครมีสิทธิ์เลือกระเบียบเดิมได้ แต่ต้องแจ้งเป็นลายลักษณ์อักษรก่อน ส่วน C ไม่มีข้อความใดกล่าวถึงการขอตั้งกรรมการใหม่"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the tone of the announcement?",
+     "options": [
+      "apologetic and uncertain",
+      "formal and directive",
+      "critical and impatient",
+      "casual and encouraging"
+     ],
+     "answer": 1,
+     "explain": "ประกาศใช้ภาษาทางการและบอกสิ่งที่ต้องทำชัดเจน เช่น “must include”, “will not be considered” (¶2) และ “should be directed to” (¶6) จึงตอบ B ตัวเลือก C ล่อใจเพราะ ¶1 กล่าวถึง “complaints” แต่ผู้เขียนเพียงรายงานที่มาของการเปลี่ยนแปลง ไม่ได้ตำหนิหรือแสดงความไม่พอใจ"
+    }
+   ]
+  },
+  {
+   "id": "A1P3",
+   "kind": "short",
+   "genre": "research summary",
+   "domain": "Environment",
+   "title": "Street Lamps Dim a Riverbank's Night-Time Spectacle",
+   "paragraphs": [
+    "Artificial lighting along a stretch of river in central Thailand appears to be contributing to a sharp decline in the firefly colonies that have long drawn evening boat tours to the area, according to a study published this month by ecologists at a provincial university. The researchers found that, at sites where new LED street lamps had been installed, the number of flashing fireflies counted on a typical night fell by more than half over three years, whereas at comparable unlit sites it remained broadly stable.",
+    "Fireflies of the species found along the river depend on synchronised flashing to locate mates. Males gather in riverside trees and pulse in unison, and females respond with flashes of their own. The study's authors suggest that bright, broad-spectrum light washes out these signals, much as a torch held beside a candle renders the smaller flame almost invisible. Where females cannot detect the display, fewer eggs are laid, and the colony shrinks over successive generations.",
+    "To separate the effect of lighting from other pressures, the team monitored 24 sites for three years, recording firefly counts, light intensity, water quality and the density of the riverside vegetation in which the insects shelter. Although sites with new lamps also tended to have experienced some clearing of vegetation, statistical modelling indicated that light intensity remained the strongest single predictor of decline even after vegetation loss was taken into account.",
+    "The findings carry an economic as well as an ecological dimension. Local operators estimate that firefly-watching tours generate several million baht a year for the surrounding communities, and several boat owners interviewed for the study reported that visitors had begun to complain about the dimmer displays. Ironically, a number of the lamps were installed partly to make the riverside safer for those same tourists.",
+    "The researchers do not recommend removing the lights. Instead, they propose fitting shields so that light falls only on the road, switching to amber bulbs that emit less of the blue wavelengths to which fireflies appear most sensitive, and dimming lamps after 10 p.m. A small trial at two sites, where shields were fitted in the final year of the study, produced a modest recovery in counts within months, though the authors caution that two sites provide too little evidence from which to draw firm conclusions.",
+    "Dr. Kanokwan Thepsiri, the study's lead author, said the work highlights how infrastructure designed with people in mind can have unintended consequences for other species. \"Nobody set out to harm the fireflies,\" she said. \"But light is a form of pollution that we rarely think of as pollution at all.\""
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Street lighting seems to be a key cause of falling firefly numbers, and changes to the lamps may help.",
+      "Firefly tours along the river have collapsed because tourists now prefer other attractions.",
+      "Clearing riverside vegetation is the main reason that fireflies are disappearing from the river.",
+      "The researchers have shown that all forms of artificial light should be banned near rivers."
+     ],
+     "answer": 0,
+     "explain": "¶1 รายงานว่าแสงไฟ “appears to be contributing to a sharp decline in the firefly colonies” และ ¶5 เสนอวิธีแก้ เช่น “fitting shields” จึงตอบ A ตัวเลือก C ล่อใจเพราะ ¶3 พูดถึงการตัดพืชริมน้ำ แต่ผลวิเคราะห์ชี้ว่าแสงคือ “the strongest single predictor” ส่วน D ขัดกับ ¶5 ที่ว่า “The researchers do not recommend removing the lights”"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 1, what happened to firefly numbers at sites without the new lamps?",
+     "options": [
+      "They fell by just under half.",
+      "They rose steadily over three years.",
+      "They stayed at roughly the same level.",
+      "They could not be measured reliably."
+     ],
+     "answer": 2,
+     "explain": "¶1: “at comparable unlit sites it remained broadly stable” จึงตอบ C ตัวเลือก A ล่อใจเพราะใช้ตัวเลขใกล้เคียงกับ “more than half” แต่ตัวเลขนั้นเป็นของจุดที่ 'มี' โคมไฟใหม่"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention a torch held beside a candle in paragraph 2?",
+     "options": [
+      "To compare the brightness of fireflies with that of LED lamps",
+      "To illustrate how strong light can make faint signals hard to see",
+      "To suggest that fireflies are naturally attracted to brighter lights",
+      "To explain how the researchers measured light intensity at each site"
+     ],
+     "answer": 1,
+     "explain": "¶2: bright light “washes out these signals, much as a torch held beside a candle renders the smaller flame almost invisible” การเปรียบเทียบนี้อธิบายว่าแสงจ้ากลบสัญญาณแสงที่อ่อนกว่า ตอบ B ตัวเลือก A ล่อใจเพราะเป็นการเทียบแสงสองแหล่งจริง แต่จุดประสงค์ไม่ใช่การเทียบความสว่าง หากเป็นการอธิบายผลต่อการสื่อสารของหิ่งห้อย"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the essential information in the second sentence of paragraph 3?",
+     "options": [
+      "Vegetation loss turned out to matter more than light once the statistical model had been applied.",
+      "Because the lamps caused vegetation to be cleared, light and vegetation loss had exactly the same effect.",
+      "The new lamps were installed only at sites where riverside vegetation had already been removed.",
+      "Lit sites had also lost some vegetation, but light still proved the most important factor in the decline."
+     ],
+     "answer": 3,
+     "explain": "¶3: “Although sites with new lamps also tended to have experienced some clearing of vegetation, statistical modelling indicated that light intensity remained the strongest single predictor of decline” ตอบ D ตัวเลือก A กลับผลการวิเคราะห์ ส่วน B สร้างความสัมพันธ์เชิงเหตุและผลที่บทความไม่ได้กล่าวไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'dimension' in paragraph 4 is closest in meaning to",
+     "options": [
+      "aspect",
+      "measurement",
+      "proportion",
+      "boundary"
+     ],
+     "answer": 0,
+     "explain": "¶4: “The findings carry an economic as well as an ecological dimension” หมายถึงผลการศึกษามี 'แง่มุม' ทางเศรษฐกิจด้วย ซึ่งประโยคต่อมาอธิบายรายได้จากการท่องเที่ยว ตอบ A ตัวเลือก B เป็นความหมายของ dimension ในเชิงขนาด (กว้าง ยาว สูง) ซึ่งไม่เข้ากับบริบท"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "Why does the writer describe the situation in paragraph 4 as ironic?",
+     "options": [
+      "Boat owners who now complain about the lamps were the ones who asked for them.",
+      "Lamps meant partly to benefit tourists may be damaging the attraction they come to see.",
+      "Tourists complained about dim displays even though the lamps made the river brighter.",
+      "The tours earn millions of baht, yet local communities receive very little of it."
+     ],
+     "answer": 1,
+     "explain": "¶4: “a number of the lamps were installed partly to make the riverside safer for those same tourists” แต่แสงไฟกลับทำให้หิ่งห้อยซึ่งเป็นสิ่งดึงดูดนักท่องเที่ยวลดลง ตอบ B ตัวเลือก A ล่อใจเพราะกล่าวถึงเจ้าของเรือที่บ่น แต่บทความไม่ได้บอกว่าพวกเขาขอให้ติดตั้งไฟ ส่วน D ขัดกับข้อความที่ว่ารายได้ “generate several million baht a year for the surrounding communities”"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT one of the researchers' proposals in paragraph 5?",
+     "options": [
+      "fitting shields so that light falls only on the road",
+      "using amber bulbs that give off less blue light",
+      "lowering the brightness of the lamps late at night",
+      "replacing the LED lamps with older types of street light"
+     ],
+     "answer": 3,
+     "explain": "¶5 เสนอ “fitting shields”, “switching to amber bulbs” และ “dimming lamps after 10 p.m.” แต่ไม่มีการเสนอให้กลับไปใช้โคมไฟแบบเก่า จึงตอบ D ตัวเลือก B ล่อใจเพราะเป็นการเปลี่ยนหลอดไฟเช่นกัน แต่เป็นข้อเสนอที่ระบุไว้จริง"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "How would you describe the authors' attitude towards the results of the shielding trial?",
+     "options": [
+      "confident that they prove the problem is solved",
+      "disappointed that the recovery was so modest",
+      "encouraged but careful not to overstate them",
+      "doubtful that shields have any real effect"
+     ],
+     "answer": 2,
+     "explain": "¶5: the trial “produced a modest recovery in counts within months, though the authors caution that two sites provide too little evidence from which to draw firm conclusions” แสดงท่าทีพอใจแต่ระมัดระวัง ตอบ C ตัวเลือก A เกินจริงเพราะผู้วิจัยเตือนว่าหลักฐาน “too little” ส่วน D ขัดกับผลที่พบว่าจำนวนหิ่งห้อยฟื้นตัว"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does Dr. Kanokwan imply in paragraph 6?",
+     "options": [
+      "People seldom recognise light as an environmental hazard.",
+      "Planners deliberately ignored the needs of the fireflies.",
+      "Light pollution is more harmful than other forms of pollution.",
+      "Infrastructure should no longer be designed with people in mind."
+     ],
+     "answer": 0,
+     "explain": "¶6: “light is a form of pollution that we rarely think of as pollution at all” สื่อว่าคนทั่วไปไม่ค่อยมองแสงว่าเป็นมลพิษ ตอบ A ตัวเลือก B ขัดกับคำพูดของเธอที่ว่า “Nobody set out to harm the fireflies” ส่วน C เป็นการเปรียบเทียบที่เธอไม่ได้กล่าวไว้"
+    }
+   ]
+  },
+  {
+   "id": "A1P4",
+   "kind": "short",
+   "genre": "editorial",
+   "domain": "Technology",
+   "title": "A Phone You Cannot Fix Is a Phone You Do Not Own",
+   "paragraphs": [
+    "Anyone who has tried to replace the battery in a modern smartphone will know the frustration. The back panel is glued shut, the screws require a tool sold by no ordinary hardware shop, and the manufacturer's website politely advises taking the device to an authorised service centre, where the repair may cost nearly as much as a new handset. Faced with such obstacles, most of us simply give up and buy a replacement. It is time that lawmakers made this choice a genuine one.",
+    "The case for a legal \"right to repair\" rests on three arguments. The first is economic. When only the manufacturer can carry out repairs, it can set prices without competition, and consumers pay accordingly. Independent repair shops, which once flourished in every market town, find themselves unable to obtain spare parts or diagnostic software, and many have closed.",
+    "The second is environmental. Electronic waste is among the fastest-growing waste streams in the world, and a phone discarded after two years represents not only a disposal problem but also the squandering of the energy and scarce minerals used to make it. Extending the life of each device by even a year or two would, cumulatively, make a considerable difference.",
+    "The third argument concerns ownership itself. If I have paid for an object, I should be free to open it, mend it or ask someone else to do so. Software locks that stop a device from functioning when a part is replaced by anyone other than the manufacturer erode that principle in a way that would be considered absurd if applied to a bicycle or a refrigerator.",
+    "Manufacturers, for their part, insist that the restrictions exist to protect users. Poorly fitted batteries can overheat, they point out, and unauthorised repairers might gain access to personal data. These concerns are not frivolous, and any legislation should address them, for example by requiring independent technicians to be certified. But they hardly justify a near-monopoly. Safety standards are routinely applied to car mechanics and electricians without anyone suggesting that only the original manufacturer may touch a car or a wiring system.",
+    "Several jurisdictions have already begun to legislate, obliging manufacturers to make spare parts, manuals and tools available for a set number of years after a product is sold. Early evidence suggests that the sky has not fallen: devices remain safe, and manufacturers continue to innovate. Our own legislators have so far shown little appetite for the issue, perhaps because it lacks the drama of other technology debates. They should reconsider. A phone that can be repaired is, in the end, a phone that is genuinely owned."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "Which statement best summarises the writer's main argument?",
+     "options": [
+      "Manufacturers should be banned from repairing the devices that they produce and sell.",
+      "Smartphones should be designed to last at least ten years before they are replaced.",
+      "Independent repair shops are more reliable than manufacturers' authorised service centres.",
+      "Consumers should have a legal right to get devices repaired by others, with suitable safeguards."
+     ],
+     "answer": 3,
+     "explain": "ผู้เขียนเรียกร้องว่า “It is time that lawmakers made this choice a genuine one” (¶1) และสรุปว่า “A phone that can be repaired is, in the end, a phone that is genuinely owned” (¶6) โดยยอมให้มีการรับรองช่างอิสระ (¶5) จึงตอบ D ตัวเลือก A กลับด้านเพราะผู้เขียนต่อต้านการผูกขาด ไม่ได้ต้องการห้ามผู้ผลิตซ่อม ส่วน C เป็นการเปรียบเทียบที่ผู้เขียนไม่ได้กล่าวอ้าง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer begin by describing an attempt to replace a smartphone battery?",
+     "options": [
+      "To give readers step-by-step instructions for repairing a phone",
+      "To introduce a familiar frustration that leads into the argument",
+      "To show that most phone batteries are poorly designed and unsafe",
+      "To criticise consumers who give up on repairs far too easily"
+     ],
+     "answer": 1,
+     "explain": "¶1 เล่าประสบการณ์ที่ผู้อ่านคุ้นเคย “Anyone who has tried to replace the battery … will know the frustration” แล้วนำไปสู่ข้อเรียกร้องต่อผู้ออกกฎหมาย จึงตอบ B ตัวเลือก D ล่อใจเพราะ ¶1 กล่าวว่า “most of us simply give up” แต่ผู้เขียนโทษอุปสรรคที่ผู้ผลิตสร้างขึ้น ไม่ได้ตำหนิผู้บริโภค"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 2, why have many independent repair shops closed?",
+     "options": [
+      "Customers no longer trust repairs made outside the manufacturer.",
+      "Manufacturers have lowered their own repair prices to compete.",
+      "They cannot get hold of the parts and software they need.",
+      "Repairing modern phones requires skills that few technicians have."
+     ],
+     "answer": 2,
+     "explain": "¶2: independent shops “find themselves unable to obtain spare parts or diagnostic software, and many have closed” จึงตอบ C ตัวเลือก B กลับความหมาย เพราะบทความบอกว่าผู้ผลิตตั้งราคาได้ “without competition” ไม่ได้ลดราคาเพื่อแข่งขัน"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'squandering' in paragraph 3 is closest in meaning to",
+     "options": [
+      "wasteful use",
+      "careful storage",
+      "illegal export",
+      "rapid production"
+     ],
+     "answer": 0,
+     "explain": "¶3: a discarded phone represents “the squandering of the energy and scarce minerals used to make it” คือ 'การใช้อย่างสูญเปล่า' ทรัพยากรที่ใช้ผลิตโทรศัพท์ ตอบ A ตัวเลือก D ล่อใจเพราะบริบทพูดถึงการผลิต แต่ squandering หมายถึงการทำให้สูญเปล่า ไม่ใช่การผลิต"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How are paragraphs 2 to 4 organised?",
+     "options": [
+      "A problem is described in paragraph 2 and solved in paragraphs 3 and 4.",
+      "Arguments for and against repair laws are compared point by point.",
+      "Three separate reasons for the writer's position are set out in turn.",
+      "Events in the history of the repair industry are given in time order."
+     ],
+     "answer": 2,
+     "explain": "¶2 เริ่มด้วย “The case for a legal ‘right to repair’ rests on three arguments. The first is economic.” ตามด้วย “The second is environmental” (¶3) และ “The third argument concerns ownership” (¶4) จึงตอบ C ตัวเลือก B ล่อใจ แต่ข้อโต้แย้งของฝ่ายผู้ผลิตปรากฏใน ¶5 ไม่ใช่ใน ¶2–4"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'that principle' in paragraph 4 refers to the idea that",
+     "options": [
+      "software locks are needed to keep devices working properly",
+      "only manufacturers should replace parts in their own products",
+      "bicycles and refrigerators are easier to repair than phones",
+      "people may repair, or arrange repairs to, things they have bought"
+     ],
+     "answer": 3,
+     "explain": "ประโยคที่สองของ ¶4 คือ “If I have paid for an object, I should be free to open it, mend it or ask someone else to do so.” ซึ่งเป็นหลักการที่ software locks “erode” ตอบ D ตัวเลือก B เป็นสิ่งที่ผู้ผลิตต้องการ ซึ่งตรงข้ามกับหลักการที่ผู้เขียนปกป้อง"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "The writer's attitude towards the manufacturers' safety concerns in paragraph 5 is best described as",
+     "options": [
+      "willing to take them seriously but unconvinced they justify current rules",
+      "dismissive, regarding them as excuses invented purely to protect profits",
+      "fully persuaded that they outweigh the benefits of independent repair",
+      "uncertain whether any of the concerns are based on genuine risks"
+     ],
+     "answer": 0,
+     "explain": "¶5: “These concerns are not frivolous, and any legislation should address them … But they hardly justify a near-monopoly.” ผู้เขียนยอมรับว่าข้อกังวลมีน้ำหนักแต่ไม่เพียงพอ จึงตอบ A ตัวเลือก B ล่อใจเพราะผู้เขียนคัดค้านผู้ผลิต แต่ขัดกับคำว่า “not frivolous” ซึ่งแสดงว่าไม่ได้มองว่าเป็นข้ออ้างไร้สาระ"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention car mechanics and electricians in paragraph 5?",
+     "options": [
+      "To argue that phone repairers should earn as much as other skilled tradespeople",
+      "To show that safety can be regulated without limiting work to the original maker",
+      "To suggest that cars and wiring systems are more dangerous to repair than phones",
+      "To give examples of industries in which manufacturers have lost control of repairs"
+     ],
+     "answer": 1,
+     "explain": "¶5: safety standards “are routinely applied to car mechanics and electricians without anyone suggesting that only the original manufacturer may touch a car” ตัวอย่างนี้แสดงว่าควบคุมความปลอดภัยได้โดยไม่ต้องผูกขาด ตอบ B ตัวเลือก C เป็นการเปรียบเทียบระดับอันตรายซึ่งผู้เขียนไม่ได้กล่าวไว้"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer mean by saying that 'the sky has not fallen' in paragraph 6?",
+     "options": [
+      "Manufacturers have stopped developing new technology.",
+      "The new laws have not yet been put into practice.",
+      "Consumers have shown little interest in repairing devices.",
+      "The serious problems that some had predicted have not occurred."
+     ],
+     "answer": 3,
+     "explain": "¶6: “the sky has not fallen: devices remain safe, and manufacturers continue to innovate” ส่วนหลังเครื่องหมาย colon อธิบายว่าผลร้ายที่เคยมีผู้เตือนไว้ไม่ได้เกิดขึ้น ตอบ D ตัวเลือก A ขัดกับข้อความ “manufacturers continue to innovate” โดยตรง"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following ideas from the passage is presented as a fact rather than an opinion?",
+     "options": [
+      "It is time that lawmakers made this choice a genuine one.",
+      "Safety concerns hardly justify a near-monopoly over repairs.",
+      "Electronic waste is among the fastest-growing waste streams in the world.",
+      "A phone that can be repaired is a phone that is genuinely owned."
+     ],
+     "answer": 2,
+     "explain": "ประโยค “Electronic waste is among the fastest-growing waste streams in the world” (¶3) เป็นข้อมูลที่ตรวจสอบได้ จึงตอบ C ส่วน A (¶1) ใช้ It is time ซึ่งเป็นข้อเรียกร้อง B (¶5) ใช้ hardly justify ซึ่งเป็นการประเมิน และ D (¶6) เป็นข้อสรุปเชิงคุณค่าของผู้เขียน"
+    }
+   ]
+  },
+  {
+   "id": "A1P5",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Psychology",
+   "title": "Is Self-Control a Limited Resource? Reassessing the Ego Depletion Hypothesis",
+   "paragraphs": [
+    "Few ideas in psychology have travelled as far beyond the laboratory as the claim that self-control behaves like a muscle. According to this view, commonly known as the ego depletion hypothesis, every act of restraint, whether resisting a tempting dessert or suppressing an angry remark, draws on a single, limited reserve of mental energy. Once that reserve has been partly used up, people are said to be less able to exert control in subsequent tasks, even ones that bear no obvious relation to the first. The hypothesis has been invoked to explain phenomena as diverse as late-night snacking, impulsive shopping and the apparent tendency of officials to make stricter decisions towards the end of a long working session. Over the past decade, however, its empirical foundations have come under sustained scrutiny, and the question of whether willpower is genuinely depleted has become one of the most contested in the discipline.",
+    "The classic demonstration of depletion relies on what is known as the sequential-task paradigm. Participants in an experimental group first complete a task requiring self-control, such as crossing out every letter \"e\" on a page of text according to an increasingly complicated set of rules, while a control group completes an undemanding version of the same task. Both groups then attempt a second, unrelated task, for instance persisting with a puzzle that, unknown to them, has no solution. In early studies, participants who had exerted control in the first phase typically gave up sooner in the second, and this pattern was interpreted as evidence that a common resource had been consumed.",
+    "The appeal of the model lay partly in its simplicity and partly in its apparent biological plausibility. Some researchers proposed that the depleted resource was, quite literally, glucose circulating in the bloodstream, and reported that a sugary drink could restore performance among depleted participants. By the early 2010s, a meta-analysis pooling roughly two hundred experiments had estimated the depletion effect to be moderate in size and remarkably consistent, a finding that seemed to place the hypothesis beyond reasonable doubt. Popular books soon translated the idea into practical advice, urging readers to schedule demanding decisions early in the day and to avoid testing their resolve when tired.",
+    "That confidence proved premature. Subsequent re-analyses pointed out that the meta-analysis had drawn almost exclusively on published studies, and since journals have historically been more willing to publish positive results than null ones, the pooled estimate was likely to have been inflated by what is termed publication bias. When statistical techniques designed to correct for this distortion were applied, the estimated effect shrank considerably, in some analyses to a value statistically indistinguishable from zero. Because small studies with unremarkable results are rarely submitted, let alone accepted, the published record can give a misleading impression of how robust an effect really is.",
+    "More damaging still were the results of a large preregistered replication, in which over twenty laboratories in several countries followed an identical protocol whose methods and analyses had been specified before any data were collected. Pooling data from more than two thousand participants, the project found an effect so small that, for practical purposes, it could not be distinguished from no effect at all. Admittedly, critics of the replication argued that the chosen depletion task was too mild to tire anyone, and a second multi-site project using different tasks was subsequently launched. Its results, though slightly more favourable to the hypothesis, were again far weaker than the original literature had implied.",
+    "The glucose account has fared no better. Physiologists have noted that the brain's energy consumption barely changes during effortful thinking, and certainly not enough to deplete blood sugar over the course of a few minutes. Moreover, in several studies, merely rinsing the mouth with a sugar solution, without swallowing it, appeared to improve persistence. This curious result suggests that whatever benefit sugar confers operates through reward or motivation signals rather than through refuelling, and it is difficult to reconcile with a model built on a literal energy reserve.",
+    "These difficulties have encouraged alternative explanations of why people sometimes do perform worse after sustained effort. One prominent account, often called the process model, proposes that exertion shifts motivation and attention rather than exhausting capacity. After a demanding task, people may feel they have \"done their share\" and redirect their attention towards activities that are more immediately rewarding. Consistent with this interpretation, performance after an initial task can be restored by offering incentives, or even by altering participants' beliefs: in one series of studies, people who had been led to view willpower as unlimited showed little or no decline after a demanding first task. Such findings are awkward for the resource model, since a genuinely exhausted reserve should not be replenished simply by changing what people believe about it.",
+    "None of this implies that mental fatigue is imaginary. People clearly report feeling drained after long periods of concentration, and errors in occupations such as air traffic control and surgery tend to increase over long shifts. The point in dispute is narrower: whether such effects arise from the consumption of a finite, general-purpose resource, as the original hypothesis held, or from changes in how people weigh the costs and benefits of continued effort. The distinction is not merely academic. If depletion reflects motivation rather than capacity, interventions such as structured breaks, clearer goals and meaningful rewards may prove more effective than simply advising people to conserve their willpower.",
+    "The ego depletion debate also carries a broader methodological lesson. An effect reproduced in hundreds of small studies can still be fragile if those studies share the same biases in what gets published and how data are analysed. The field's response, including the wider adoption of preregistration and multi-laboratory collaboration, suggests that the controversy may ultimately prove more valuable for what it revealed about research practices than for what it revealed about self-control. Researchers are now more inclined to ask not only whether an effect can be found, but whether it survives when the conditions under which it was first observed are deliberately varied."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "title",
+     "q": "Which of the following is the best title for the passage?",
+     "options": [
+      "How Sugar Helps the Brain to Resist Everyday Temptations",
+      "Running on Empty? Reassessing the Idea That Willpower Runs Out",
+      "Training Self-Control Like a Muscle: A Practical Guide",
+      "Why Mental Fatigue Is a Myth Invented by Psychologists"
+     ],
+     "answer": 1,
+     "explain": "บทความอธิบายแนวคิดว่าการควบคุมตนเองเป็นทรัพยากรที่หมดได้ แล้วชี้ว่า “its empirical foundations have come under sustained scrutiny” (¶1) ก่อนประเมินหลักฐานทั้งสองด้าน จึงตอบ B ตัวเลือก A ขัดกับ ¶6 ที่ว่า “The glucose account has fared no better” ส่วน D ขัดกับ ¶8 “None of this implies that mental fatigue is imaginary”"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'invoked' in paragraph 1 is closest in meaning to",
+     "options": [
+      "referred to as an explanation",
+      "appealed to for assistance",
+      "brought into legal force",
+      "called into question"
+     ],
+     "answer": 0,
+     "explain": "¶1: “The hypothesis has been invoked to explain phenomena as diverse as late-night snacking…” หมายถึงถูก 'ยกมาอ้าง' เพื่ออธิบายพฤติกรรมต่าง ๆ ตอบ A ตัวเลือก B เป็นความหมายของ invoke ในบริบทการวิงวอนขอความช่วยเหลือ ส่วน D ไม่เข้ากับบริบทเพราะประโยคนี้แสดงความนิยมของสมมติฐาน ก่อนที่ประโยคถัดไปจะใช้ “however” เพื่อเริ่มตั้งคำถาม"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "In the sequential-task paradigm described in paragraph 2, what does the control group do first?",
+     "options": [
+      "a puzzle that cannot be solved, to measure persistence",
+      "nothing at all while the experimental group is working",
+      "a more complicated version of the letter-crossing task",
+      "an easier form of the task given to the experimental group"
+     ],
+     "answer": 3,
+     "explain": "¶2: “a control group completes an undemanding version of the same task” จึงตอบ D ตัวเลือก A ล่อใจเพราะปริศนาที่ไม่มีคำตอบปรากฏในย่อหน้า แต่เป็นงาน 'ชิ้นที่สอง' ที่ทั้งสองกลุ่มทำ ส่วน C คืองานของกลุ่มทดลอง ไม่ใช่กลุ่มควบคุม"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from paragraph 3 about the reported effect of a sugary drink?",
+     "options": [
+      "It proved that glucose is the only source of energy used by the brain.",
+      "It was the main reason the meta-analysis found a moderate effect size.",
+      "It seemed to support the idea that self-control depends on a physical fuel.",
+      "It showed that control groups had less blood sugar than depleted groups."
+     ],
+     "answer": 2,
+     "explain": "¶3 กล่าวถึง “apparent biological plausibility” และว่าเครื่องดื่มหวาน “could restore performance” ผลนี้จึงดูเหมือนสนับสนุนว่าการควบคุมตนเองอาศัย 'เชื้อเพลิง' ทางกายภาพ ตอบ C ตัวเลือก A ใช้คำว่า proved และ only ซึ่งเกินจริง โดยเฉพาะเมื่อ ¶6 แสดงว่าคำอธิบายเรื่องกลูโคสมีปัญหา"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the essential information in the second sentence of paragraph 4?",
+     "options": [
+      "Journals refused to publish the meta-analysis because it relied mainly on studies with positive results.",
+      "Since journals favour positive findings, an analysis of mostly published studies probably overstated the effect.",
+      "Re-analyses showed that most of the published studies had in fact found no depletion effect at all.",
+      "Publication bias had been corrected in the original meta-analysis, so its estimate was fully accurate."
+     ],
+     "answer": 1,
+     "explain": "¶4: the meta-analysis “had drawn almost exclusively on published studies … the pooled estimate was likely to have been inflated by what is termed publication bias” ตอบ B ตัวเลือก C ล่อใจเพราะพูดถึงค่าที่ใกล้ศูนย์ แต่บทความบอกว่าค่าประมาณ 'หดลง' หลังแก้ไขทางสถิติ ไม่ได้บอกว่างานส่วนใหญ่ไม่พบผล ส่วน D กลับความหมาย"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer point out in paragraph 5 that the replication's methods and analyses were specified before any data were collected?",
+     "options": [
+      "To explain why the project needed more than twenty laboratories to take part",
+      "To suggest that the researchers fully expected to confirm the original findings",
+      "To show that the depletion task chosen was too mild to tire the participants",
+      "To indicate that the project guarded against the biases that affected earlier work"
+     ],
+     "answer": 3,
+     "explain": "¶5 เน้นว่าวิธีการ “had been specified before any data were collected” ซึ่งเชื่อมกับปัญหาใน ¶4 เรื่องอคติในการตีพิมพ์และการวิเคราะห์ข้อมูล จึงตอบ D ตัวเลือก C เป็นข้อวิจารณ์ของ “critics of the replication” ไม่ใช่เหตุผลที่ผู้เขียนกล่าวถึงการกำหนดวิธีการล่วงหน้า"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The word 'Its' in the last sentence of paragraph 5 refers to",
+     "options": [
+      "the second multi-site project",
+      "the large preregistered replication",
+      "the chosen depletion task",
+      "the original literature"
+     ],
+     "answer": 0,
+     "explain": "ประโยคก่อนหน้าใน ¶5 กล่าวว่า “a second multi-site project using different tasks was subsequently launched” จากนั้น “Its results, though slightly more favourable” หมายถึงผลของโครงการที่สองนี้ ตอบ A ตัวเลือก B ล่อใจเพราะเป็นโครงการที่กล่าวถึงก่อน แต่ผลของโครงการนั้นรายงานไปแล้ว และคำว่า “slightly more favourable” ใช้เปรียบเทียบกับโครงการนั้นเอง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the mouth-rinsing finding in paragraph 6 suggest?",
+     "options": [
+      "Swallowing sugar is necessary for any improvement in persistence to occur.",
+      "The brain uses far more energy during effortful thinking than was assumed.",
+      "Sugar's apparent benefit cannot be explained by extra energy reaching the brain.",
+      "Participants in the rinsing studies had been more depleted than the others."
+     ],
+     "answer": 2,
+     "explain": "¶6: rinsing “without swallowing it, appeared to improve persistence” และประโยคต่อมาสรุปว่าผลนี้ “operates through reward or motivation signals rather than through refuelling” จึงตอบ C ตัวเลือก B กลับความหมายของ ¶6 ที่ว่า “the brain's energy consumption barely changes during effortful thinking” ส่วน A ขัดกับผลการทดลองโดยตรง"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to the process model in paragraph 7, why might people perform worse after a demanding task?",
+     "options": [
+      "Their motivation and attention move towards more rewarding activities.",
+      "They have used up most of their available mental capacity.",
+      "They no longer believe that willpower is a limited resource.",
+      "They are offered incentives that distract them from the task."
+     ],
+     "answer": 0,
+     "explain": "¶7: exertion “shifts motivation and attention rather than exhausting capacity” และผู้คน “redirect their attention towards activities that are more immediately rewarding” ตอบ A ตัวเลือก B คือคำอธิบายของสมมติฐานเดิมที่แบบจำลองนี้ปฏิเสธ ส่วน D กลับด้าน เพราะสิ่งจูงใจช่วย 'ฟื้น' ผลการทำงาน"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "What is the main function of paragraph 8?",
+     "options": [
+      "To present new evidence that the ego depletion effect does not exist at all",
+      "To acknowledge that fatigue is real while defining the exact point in dispute",
+      "To describe how air traffic controllers and surgeons manage their fatigue",
+      "To argue that the original hypothesis should be restored in a revised form"
+     ],
+     "answer": 1,
+     "explain": "¶8 เปิดด้วย “None of this implies that mental fatigue is imaginary” แล้วระบุว่า “The point in dispute is narrower” จึงตอบ B ตัวเลือก C ล่อใจเพราะกล่าวถึงอาชีพเหล่านี้ แต่ใช้เป็นเพียงตัวอย่างว่าความเหนื่อยล้ามีอยู่จริง ไม่ได้อธิบายวิธีจัดการ"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the writer's attitude towards the ego depletion hypothesis?",
+     "options": [
+      "enthusiastic, regarding it as firmly established by evidence",
+      "hostile, dismissing its supporters as deliberately misleading",
+      "neutral, refusing to evaluate any of the available evidence",
+      "sceptical but fair, recognising why it was once persuasive"
+     ],
+     "answer": 3,
+     "explain": "ผู้เขียนอธิบายว่าทำไมแนวคิดนี้เคยน่าเชื่อ (“The appeal of the model lay partly in its simplicity”, ¶3) แต่ชี้ว่า “That confidence proved premature” (¶4) จึงเป็นท่าทีสงสัยแต่ยุติธรรม ตอบ D ตัวเลือก B เกินจริงเพราะผู้เขียนไม่ได้กล่าวหาว่านักวิจัยจงใจหลอกลวง แต่ชี้ไปที่อคติเชิงระบบ"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer suggest in paragraph 9?",
+     "options": [
+      "Small studies should no longer be published in psychology journals at all.",
+      "The question of how self-control works has now been completely resolved.",
+      "The debate's most lasting value may lie in the research practices it improved.",
+      "Multi-laboratory projects are always free from the problem of publication bias."
+     ],
+     "answer": 2,
+     "explain": "¶9: “the controversy may ultimately prove more valuable for what it revealed about research practices than for what it revealed about self-control” ตอบ C ตัวเลือก B ขัดกับน้ำเสียงระมัดระวังของบทความ ส่วน D ใช้คำว่า always ซึ่งเกินกว่าที่ผู้เขียนกล่าว"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the experimental design in which participants complete one task and then a second, unrelated task? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "sequential-task paradigm",
+      "the sequential-task paradigm"
+     ],
+     "explain": "¶2: “The classic demonstration of depletion relies on what is known as the sequential-task paradigm.” คำตอบคือ sequential-task paradigm ซึ่งย่อหน้าอธิบายต่อว่าผู้เข้าร่วมทำงานสองชิ้นต่อเนื่องกัน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 3, what did some researchers believe was literally the resource used up by self-control? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "glucose"
+     ],
+     "explain": "¶3: “the depleted resource was, quite literally, glucose circulating in the bloodstream” คำตอบคือ glucose ไม่ใช่ sugary drink ซึ่งเป็นสิ่งที่ใช้ 'ฟื้นฟู' ผลการทำงาน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What term describes the tendency of journals to publish positive results more readily than null ones? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "publication bias"
+     ],
+     "explain": "¶4: journals “have historically been more willing to publish positive results than null ones … what is termed publication bias” คำตอบคือ publication bias"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the alternative account in paragraph 7 often called? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "the process model",
+      "process model"
+     ],
+     "explain": "¶7: “One prominent account, often called the process model, proposes that exertion shifts motivation and attention rather than exhausting capacity.” คำตอบคือ the process model"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "Apart from air traffic control, in which occupation is it mentioned that errors increase over long shifts? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "surgery"
+     ],
+     "explain": "¶8: “errors in occupations such as air traffic control and surgery tend to increase over long shifts” คำตอบคือ surgery"
+    }
+   ]
+  },
+  {
+   "id": "A1P6",
+   "kind": "long",
+   "genre": "academic article",
+   "domain": "Urban economics",
+   "title": "Capturing the Value of Access: Rail Transit, Land Prices and the Financing of Urban Infrastructure",
+   "paragraphs": [
+    "When a city builds a new rail line, the most visible beneficiaries are the passengers who use it. Yet a substantial share of the benefit is never paid for at the ticket barrier. It accrues instead to the owners of land near the new stations, whose properties become more valuable simply because they are now easier to reach. Urban economists have long argued that this windfall, which owners obtain without any effort or investment of their own, offers a potential source of funding for the very infrastructure that created it. The family of policies designed to recover part of it is known as land value capture, and it has attracted renewed interest as governments in rapidly growing cities search for ways to finance increasingly expensive transport networks.",
+    "The theoretical basis for land value capture is well established. In standard models of urban land markets, the price of a plot reflects, among other things, the cost and time of travelling from it to jobs and services. A reduction in travel time therefore tends to be capitalised into land prices: buyers are willing to pay more for locations that offer better access, and the gain is reflected in the value of the land itself rather than in the buildings that stand on it. This distinction matters, because a charge on land, unlike a tax on buildings, does not discourage owners from improving their property. If the public sector paid for the improvement, the argument runs, it is reasonable for the public sector to recoup at least part of the resulting increase.",
+    "Empirical studies broadly confirm that such capitalisation occurs, although its magnitude varies widely. Reviews of research conducted on several continents report price premiums for residential property within walking distance of stations ranging from almost nothing to more than 40 per cent. Premiums tend to be largest where a new line substantially shortens journeys to a dense employment centre, and smallest where alternative transport is already good or where the surrounding area suffers from the noise and congestion that stations can bring. A 2023 analysis of a new elevated line in a mid-sized Southeast Asian city, for instance, estimated that land within 500 metres of stations appreciated roughly 18 per cent faster than comparable land elsewhere in the four years after the route was announced, with most of the gain occurring before the line opened.",
+    "That last observation points to a practical complication. Because land markets anticipate future improvements, values often rise as soon as a route is made public, sometimes years before construction begins. A government that waits until the line is operating before introducing a levy may find that much of the uplift has already been realised by owners who have since sold their land and moved on. Timing is therefore critical, and schemes designed only after the route has been announced risk capturing very little. Some cities have responded by freezing the assessed value of land along proposed corridors at an early date, so that any later increase can be identified and charged.",
+    "Land value capture takes several forms. The most direct is a betterment levy, a one-off or annual charge imposed on properties within a defined zone around new stations. A second approach relies on the public authority's own landholdings: the authority acquires land near planned stations before prices rise and later sells or leases it for development at a profit. A third, which has become popular in densely populated cities, involves the sale of additional development rights, allowing developers to build more floor space than zoning rules would otherwise permit in exchange for a payment that is directed towards the transport project.",
+    "Proponents point to cases in which such mechanisms have covered a considerable portion of construction costs. They emphasise not only the financial benefits but also the fairness of the principle: it seems more equitable for those who gain most from a public investment to contribute towards it than for the cost to fall entirely on general taxpayers, many of whom may live far from the new line and derive little benefit from it. A further advantage, they argue, is that capture schemes link the cost of infrastructure more visibly to the benefits it generates, which may strengthen public support for future projects.",
+    "The evidence, however, also reveals significant limitations. Isolating the uplift attributable to a transport project is technically difficult, since land prices respond to many factors at once, including interest rates, general economic growth and changes in zoning. Levies based on contested valuations frequently provoke legal challenges, delaying collection for years. There are distributional concerns as well. Owners of modest homes near a new station may be asset-rich but cash-poor, facing a higher tax bill on a gain they cannot realise without selling. Moreover, the most successful development-rights schemes have generally operated where a single authority controls both land use and transport, an institutional arrangement that is uncommon in cities where these responsibilities are divided among several agencies.",
+    "It would also be unwise to treat land value capture as a means of making any rail project self-financing. Where a line serves areas of low demand, or where the premium is small, the revenue raised will cover only a fraction of the cost. Indeed, there is a risk that the prospect of capture revenue may encourage planners to route lines through areas with the greatest development potential rather than those with the greatest need for improved transport, a choice that could deepen existing inequalities in access.",
+    "On balance, land value capture appears best understood not as a substitute for public funding but as a complement to it. Its potential is greatest when it is planned early, before routes are announced, when it rests on transparent valuation methods and when the agencies responsible for transport and land use co-ordinate their decisions. Under those conditions, it may allow cities to recover a meaningful share of the value that their investments create, while making the distribution of costs and benefits somewhat fairer than it would otherwise be."
+   ],
+   "questions": [
+    {
+     "type": "mc",
+     "skill": "main idea",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Land value capture allows any rail project to pay for itself without the use of public funds.",
+      "Rail lines tend to reduce land prices near stations because of noise and congestion.",
+      "Recovering part of the rise in land values near stations can help fund rail, but it has clear limits.",
+      "Governments should stop building rail lines until better valuation methods are developed."
+     ],
+     "answer": 2,
+     "explain": "บทความอธิบายแนวคิด land value capture (¶1–5) แล้วกล่าวถึงข้อจำกัด (¶7–8) ก่อนสรุปว่า “best understood not as a substitute for public funding but as a complement to it” (¶9) จึงตอบ C ตัวเลือก A ขัดกับ ¶8 ที่ว่า “It would also be unwise to treat land value capture as a means of making any rail project self-financing” ส่วน B นำรายละเอียดใน ¶3 มาขยายเกินจริง"
+    },
+    {
+     "type": "mc",
+     "skill": "vocabulary",
+     "q": "The word 'windfall' in paragraph 1 is closest in meaning to",
+     "options": [
+      "a sharp fall in value",
+      "a compulsory payment",
+      "a long-term investment",
+      "an unearned gain"
+     ],
+     "answer": 3,
+     "explain": "¶1: “this windfall, which owners obtain without any effort or investment of their own” อนุประโยคที่ตามมาอธิบายว่าเป็น 'ผลได้ที่ไม่ได้ลงแรง' จึงตอบ D ตัวเลือก A ล่อใจเพราะคำว่า fall ในคำศัพท์ แต่บริบทพูดถึงมูลค่าที่ 'เพิ่มขึ้น' ส่วน C ขัดกับ “without any … investment”"
+    },
+    {
+     "type": "mc",
+     "skill": "paraphrase",
+     "q": "Which of the following best expresses the essential information in the last sentence of paragraph 2?",
+     "options": [
+      "Because the state funded the improvement, it is fair for it to recover some of the rise in land value.",
+      "Because land values rise near stations, the public sector should stop paying for transport improvements.",
+      "The public sector should buy land before improvements are made so that it can resell it at a profit.",
+      "Landowners should be compensated by the public sector if transport improvements reduce their land value."
+     ],
+     "answer": 0,
+     "explain": "¶2: “If the public sector paid for the improvement … it is reasonable for the public sector to recoup at least part of the resulting increase.” ตอบ A ซึ่งถอดความ recoup เป็น recover ตัวเลือก C ล่อใจเพราะเป็นวิธีหนึ่งที่กล่าวไว้ใน ¶5 แต่ไม่ใช่สาระของประโยคนี้ ส่วน D กลับทิศทางของการจ่ายเงิน"
+    },
+    {
+     "type": "mc",
+     "skill": "detail",
+     "q": "According to paragraph 3, where are price premiums near stations likely to be largest?",
+     "options": [
+      "where good alternative forms of transport are already available",
+      "where a line greatly cuts travel time to a major concentration of jobs",
+      "where stations are located in quiet areas far from the city centre",
+      "where land has been rezoned to permit much taller buildings"
+     ],
+     "answer": 1,
+     "explain": "¶3: “Premiums tend to be largest where a new line substantially shortens journeys to a dense employment centre” จึงตอบ B ตัวเลือก A กลับความหมาย เพราะบทความบอกว่าพรีเมียม “smallest where alternative transport is already good”"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What can be inferred from the Southeast Asian study described in paragraph 3?",
+     "options": [
+      "Land values near stations rose mainly because of improvements made after the line opened.",
+      "Land far from the stations lost value once the route of the new line was announced.",
+      "The study's 18 per cent figure applies to rail lines in all Southeast Asian cities.",
+      "Buyers were responding to the expected benefits of the line, not only to actual service."
+     ],
+     "answer": 3,
+     "explain": "¶3 ระบุว่า “most of the gain occurring before the line opened” แสดงว่าผู้ซื้อตอบสนองต่อประโยชน์ที่ 'คาดว่า' จะได้รับ ซึ่ง ¶4 ยืนยันว่า “land markets anticipate future improvements” จึงตอบ D ตัวเลือก A กลับลำดับเวลา ส่วน C เป็นการเหมารวมจากกรณีศึกษาเดียว"
+    },
+    {
+     "type": "mc",
+     "skill": "reference",
+     "q": "The phrase 'That last observation' at the beginning of paragraph 4 refers to the finding that",
+     "options": [
+      "most of the increase in land value happened before the line began operating",
+      "land near stations rose about 18 per cent faster than comparable land elsewhere",
+      "price premiums range from almost nothing to more than 40 per cent",
+      "noise and congestion can reduce the premium for property near stations"
+     ],
+     "answer": 0,
+     "explain": "“That last observation” ชี้ไปที่ข้อความสุดท้ายของ ¶3 คือ “with most of the gain occurring before the line opened” ซึ่ง ¶4 นำไปอธิบายเรื่องจังหวะเวลา ตอบ A ตัวเลือก B ล่อใจเพราะอยู่ในประโยคเดียวกัน แต่ไม่ใช่ส่วน 'สุดท้าย' และไม่เกี่ยวกับปัญหาเรื่องเวลาที่ ¶4 กล่าวถึง"
+    },
+    {
+     "type": "mc",
+     "skill": "purpose",
+     "q": "Why does the writer mention owners 'who have since sold their land and moved on' in paragraph 4?",
+     "options": [
+      "To suggest that most landowners near stations prefer to sell rather than develop",
+      "To argue that owners who sell land near stations should pay a higher tax",
+      "To show that a late levy may miss the people who actually gained from the line",
+      "To explain why land values fall once a rail line has started operating"
+     ],
+     "answer": 2,
+     "explain": "¶4: a late levy may find that the uplift “has already been realised by owners who have since sold their land and moved on” หมายความว่าผู้ได้ประโยชน์ตัวจริงหลุดพ้นจากการเก็บเงินไปแล้ว จึงตอบ C ตัวเลือก D ล่อใจแต่บทความไม่ได้บอกว่ามูลค่าที่ดินลดลงหลังเปิดเดินรถ เพียงบอกว่าราคาขึ้นไปก่อนแล้ว"
+    },
+    {
+     "type": "mc",
+     "skill": "organization",
+     "q": "How is the information in paragraph 5 organised?",
+     "options": [
+      "One mechanism is described and then compared with its main alternative.",
+      "Three mechanisms are described in turn, beginning with the most direct.",
+      "Mechanisms are ranked from the most to the least successful in practice.",
+      "A single mechanism is traced through the stages of its development."
+     ],
+     "answer": 1,
+     "explain": "¶5 เริ่มด้วย “Land value capture takes several forms. The most direct is a betterment levy” ตามด้วย “A second approach” และ “A third” จึงตอบ B ตัวเลือก C ล่อใจเพราะมีการใช้ลำดับ แต่ย่อหน้าไม่ได้จัดอันดับตามความสำเร็จ"
+    },
+    {
+     "type": "mc",
+     "skill": "negative detail",
+     "q": "Which of the following is NOT mentioned in paragraph 7 as a limitation of land value capture?",
+     "options": [
+      "Developers may refuse to build near stations because of high levies.",
+      "It is hard to separate the effect of transport from other influences on prices.",
+      "Disputes over valuations can lead to long delays in collecting levies.",
+      "Some homeowners may face tax bills they cannot easily afford to pay."
+     ],
+     "answer": 0,
+     "explain": "¶7 กล่าวถึงความยากในการแยกผลของโครงการ (“land prices respond to many factors at once”), การฟ้องร้อง (“legal challenges”) และเจ้าของบ้านที่ “asset-rich but cash-poor” แต่ไม่ได้พูดถึงผู้พัฒนาที่ปฏิเสธการก่อสร้าง จึงตอบ A ตัวเลือก D ล่อใจเพราะใช้คำต่างจากต้นฉบับ แต่เป็นการถอดความของปัญหาเจ้าของบ้านที่มีเงินสดน้อยซึ่งกล่าวไว้จริง"
+    },
+    {
+     "type": "mc",
+     "skill": "inference",
+     "q": "What does the writer imply in the last sentence of paragraph 8?",
+     "options": [
+      "Areas with high development potential always have the greatest transport need.",
+      "Planners currently ignore development potential when choosing rail routes.",
+      "Capture revenue could tempt planners to put profit ahead of transport need.",
+      "Lines in areas of low demand usually generate the most capture revenue."
+     ],
+     "answer": 2,
+     "explain": "¶8: the prospect of revenue “may encourage planners to route lines through areas with the greatest development potential rather than those with the greatest need for improved transport” สื่อว่ารายได้อาจดึงการตัดสินใจออกจากความจำเป็นที่แท้จริง ตอบ C ตัวเลือก A ใช้คำว่า always และขัดกับการแยกสองกลุ่มพื้นที่ในบทความ ส่วน D ขัดกับประโยคก่อนหน้าที่ว่ารายได้ในพื้นที่ดังกล่าว “cover only a fraction of the cost”"
+    },
+    {
+     "type": "mc",
+     "skill": "fact/opinion",
+     "q": "Which of the following is presented as the writer's own judgement rather than as a factual claim?",
+     "options": [
+      "Price premiums near stations have ranged from almost nothing to more than 40 per cent.",
+      "It would be unwise to treat land value capture as a way of making any rail project pay for itself.",
+      "Land prices respond to interest rates, general economic growth and changes in zoning.",
+      "A betterment levy is a charge imposed on properties within a zone around new stations."
+     ],
+     "answer": 1,
+     "explain": "ประโยค “It would also be unwise to treat land value capture as a means of making any rail project self-financing” (¶8) เป็นการประเมินของผู้เขียน จึงตอบ B ตัวเลือก A (¶3) เป็นผลการทบทวนงานวิจัย C (¶7) เป็นข้อเท็จจริงทางเศรษฐศาสตร์ และ D (¶5) เป็นคำนิยาม"
+    },
+    {
+     "type": "mc",
+     "skill": "tone",
+     "q": "Which of the following best describes the writer's overall attitude towards land value capture?",
+     "options": [
+      "enthusiastic approval, as a complete solution to funding gaps",
+      "firm opposition, because of its effects on ordinary homeowners",
+      "complete indifference, since the evidence is too mixed to judge",
+      "qualified support, provided that certain conditions are met"
+     ],
+     "answer": 3,
+     "explain": "¶9: “Its potential is greatest when it is planned early … Under those conditions, it may allow cities to recover a meaningful share” แสดงการสนับสนุนแบบมีเงื่อนไข จึงตอบ D ตัวเลือก A ขัดกับ “not as a substitute for public funding” ส่วน B เกินจริงเพราะผู้เขียนเพียงชี้ปัญหาด้านการกระจายภาระใน ¶7 แต่ไม่ได้คัดค้านนโยบาย"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What name is given to the family of policies designed to recover part of the increase in land values? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "land value capture"
+     ],
+     "explain": "¶1: “The family of policies designed to recover part of it is known as land value capture” คำตอบคือ land value capture"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 2, a reduction in travel time tends to be ______ into land prices. (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "capitalised"
+     ],
+     "explain": "¶2: “A reduction in travel time therefore tends to be capitalised into land prices” คำตอบคือ capitalised หมายถึงการที่ประโยชน์ถูกสะท้อนเข้าไปในราคาที่ดิน"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What is the most direct form of land value capture called? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "a betterment levy",
+      "betterment levy"
+     ],
+     "explain": "¶5: “The most direct is a betterment levy, a one-off or annual charge imposed on properties within a defined zone around new stations.” คำตอบคือ betterment levy"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "What do developers pay for in order to build more floor space than zoning rules would otherwise permit? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "additional development rights",
+      "development rights"
+     ],
+     "explain": "¶5: “the sale of additional development rights, allowing developers to build more floor space than zoning rules would otherwise permit” คำตอบคือ additional development rights"
+    },
+    {
+     "type": "short",
+     "skill": "short answer",
+     "q": "According to paragraph 7, what do levies based on contested valuations frequently provoke? (Answer in NO MORE THAN THREE WORDS from the passage.)",
+     "answers": [
+      "legal challenges"
+     ],
+     "explain": "¶7: “Levies based on contested valuations frequently provoke legal challenges, delaying collection for years.” คำตอบคือ legal challenges"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+W01 [Public Health] Talking Back: Why Screens Cannot Replace Conversation in the Early Years
+W02 [Education] Microlearning: Small Lessons, Big Gains?
+W03 [Environment] Haze Returns to the North as PM2.5 Levels Soar Past Safety Limit
+W04 [Medicine] After the Rush: Telemedicine Finds Its Place in Everyday Care
+W05 [Public Health] Teen Sleep Study Points to the Cost of Early Classes
+W06 [AI/Technology] Chatbots in the Classroom: Two Years On
+W07 [Environment] Why Cities Run Hot: The Causes and Costs of Urban Heat Islands
+W08 [Medicine] Antibiotic Resistance: A Slow-Moving Crisis
+W09 [Society] Hungry for Knowledge: Food Insecurity Among University Students
+W10 [Environment] From Waste to Resource: Plastics and the Circular Economy
+W11 [Public Health] Dengue in Southeast Asia: A Ten-Year Review of Patterns and Prevention
+W12 [AI/Technology] Medicine's Newest Assistant Has an Old Problem
+W13 [Education] Homework: Help or Hindrance?
+W14 [Public Health] Village Health Volunteers and Hypertension Control in Rural Northeastern Thailand
+W15 [Society] Is Thursday the New Friday?
+W16 [Education] Living With Two Languages: Inside the Bilingual Brain
+W17 [Medicine] The Doctor on Your Wrist
+W18 [Society] A Nation of Grandparents
+W19 [Environment] An Invisible Ingredient: Plastic Particles in the Human Body
+W20 [AI/Technology] The Essay That Wrote Itself
+W21 [Medicine] Who Cares for the Carers?
+W22 [Environment] The Paddy Field Problem
+W23 [Society] Connected, but Lonely?
+W24 [Public Health] Understanding Vaccine Hesitancy: Causes, Contexts and Interventions
+W25 [Public Health] Nicotine in the Pencil Case
+W26 [AI/Technology] A New Kind of Farmhand
+W27 [Education] Micro-credentials and Lifelong Learning in a Changing Labour Market
+W28 [Public Health] The Sound of Traffic
+W29 [Environment] A Hard Summer Underwater
+W30 [AI/Technology] Robotics and the Care of Older People in Ageing Societies
+W31 [Society] Turning the Page Together
+T1P1 [Public Health] Bangkok District Launches Free Evening Health Checks for Office Workers
+T1P2 [Education] Central Library Extends Opening Hours for the Final Examination Period
+T1P3 [Environment] Electric Motorcycles Gain Ground on Thai City Streets
+T1P4 [Education] Why We Forget — and How Spaced Repetition Helps Us Remember
+T1P5 [Public Health] Rising Waistlines: The Drivers of Obesity in Southeast Asia and the Policy Response
+T1P6 [AI/Technology] Artificial Intelligence in Medical Imaging: Promise, Pitfalls and the Continuing Role of the Clinician
+T2P1 [Medicine] Provincial Hospital Turns to Robot Pharmacy to Cut Queues and Errors
+T2P2 [Environment] Banking on Bottles in Rural Thailand
+T2P3 [Education] Why Most Online Learners Never Reach the Finish Line
+T2P4 [Public Health] Late-Night Caffeine and Screens Linked to Poor Sleep Among Students
+T2P5 [Public Health] Water, Sanitation and Hygiene as Foundations of Child Health
+T2P6 [Education] Digital Inequality in Education: Evidence and Policy Responses
+T3P1 [Public Health] Province Targets Holiday Drownings as Schools Close for Summer
+T3P2 [AI/Technology] Northern City Reviews Six-Month Trial at Busy Junctions
+T3P3 [Education] Who Will Teach the Village Children?
+T3P4 [Environment] Roots Against the Tide
+T3P5 [Public Health] Health Literacy in Clinical Practice: Evidence and Implications
+T3P6 [Society] Automation and the Future of Work: Evidence, Uncertainty and Policy
+T4P1 [Public Health] Health Officials Turn Their Attention to the Kitchen Table
+T4P2 [Environment] Notice to All Students and Staff: Changes to the Campus Electricity Supply
+T4P3 [AI/Technology] Airports Turn to Face Scans at the Gate
+T4P4 [Medicine] Researchers Weigh the Evidence on Exercise and Low Mood
+T4P5 [Society] The City and the Mind: Urban Living and Psychological Well-being
+T4P6 [Education] Peer Assessment in Higher Education: Evidence and Practice
+T5P1 [Public Health] Health Officials Raise Heat Alert as Northeast Swelters
+T5P2 [Medicine] Blood Bank Notice: Donation Drive, 3–7 March
+T5P3 [AI/Technology] Machine Translation in the Language Classroom: Helpful Tool or Shortcut?
+T5P4 [Environment] Weighing the Waste: Inside a Study of Family Kitchens
+T5P5 [Public Health] Health for All? Universal Health Coverage and the Thai Experience
+T5P6 [Environment] The Vanishing Canopy: Deforestation and the Future of Biodiversity
+T6P1 [Public Health] Roadside Survey Raises Fresh Concerns Over Motorcycle Safety
+T6P2 [Education] Faculty of Public Health: Changes to Teaching in Semester 2
+T6P3 [Environment] Small Boxes, Big Questions
+T6P4 [Society] Study Tracks Older Volunteers Over Eight Years
+T6P5 [Medicine] Precision Medicine and the Genomic Revolution
+T6P6 [Public Health] Viral Falsehoods: Health Misinformation on Social Media
+M1P1 [Public Health] A Simple Routine at the Classroom Sink
+M1P2 [Environment] Public Notice: Changes to Traffic Arrangements in the City Centre
+M1P3 [Education] Keeping the Streak Alive: Games and the Language Learner
+M1P4 [Medicine] Out of Step with the Sun
+M1P5 [Society] Environmental Change and Human Mobility: Patterns, Concepts and Policy Challenges
+M1P6 [AI/Technology] The Road Ahead: Autonomous Vehicles in Transport Policy
+M2P1 [Public Health] Finger-Prick Tests Come to Neighbourhood Clinics
+M2P2 [Environment] Counting the Days Until the Rains Return
+M2P3 [Education] Waiting to Be Heard
+M2P4 [Society] Study Puts Ride-Hailing Under the Microscope
+M2P5 [Education] Early Childhood Education and Lifelong Outcomes: Reviewing the Evidence
+M2P6 [AI/Technology] Digital Traces and Disease Surveillance: An Assessment of Big Data in Epidemiology
+M3P1 [Environment] City Unveils 14-Kilometre Cycle Network on Its Busiest Roads
+M3P2 [Education] Graduate Research Scholarships 2027
+M3P3 [Medicine] Pharmacists Welcome Plan as Survey Finds Metals in Supplements
+M3P4 [Society] Home, Office or Somewhere in Between?
+M3P5 [Public Health] Beyond the Clinic: Noncommunicable Diseases and National Development
+M3P6 [Environment] Southeast Asia at an Energy Crossroads: Renewables in a Fast-Growing Region
+ESSAY R1: Students will learn a foreign language easily if it is integrated with another subject.
+ESSAY R2: Students value grades over learning.
+ESSAY R3: Native English speaker is better teacher than non-native English speaker.
+ESSAY R4: Students perform better in school when they are rewarded rather than punished.
+ESSAY R5: Online courses are preferable to face-to-face courses.
+ESSAY R6: Some people think that they can learn better by themselves than with a teacher.
+ESSAY R7: Big salary is much more important than job satisfaction.
+ESSAY R8: Young people are the best change makers.
+ESSAY R9: Thailand should not open to international tourist.
+ESSAY R10: When learning a language, studying grammar is more important than practising conversation skills.
+ESSAY R11: Education is the single most important factor in the development of a country.
+ESSAY R13: National university entrance examination should be abolished.
+ESSAY R14: Learning from experience is better than learning from a book.
+ESSAY R15: Online learning has negative impact on students life.
+ESSAY R16: Man is preferable when working alone than working with a team.
+ESSAY RX: Artificial intelligence will do more harm than good to education.
