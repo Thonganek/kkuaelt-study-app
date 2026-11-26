@@ -2,7 +2,7 @@
 
 หลักสูตรเต็ม **Day 1–42** ทำตามลำดับได้ตามจังหวะของตัวเอง ไม่ผูกกับวันที่ ไม่มีวันหมดเขต และข้อสอบไม่ตัดเวลา
 
-- **เปิดเว็บ:** [KKU-AELT Study App](https://thonganek.github.io/kkuaelt-study-app/KKU-AELT_42_Day_Study_Plan.html#/today) — ลิงก์เดิมแสดงหลักสูตรเต็มล่าสุด
+- **เปิดเว็บ:** [KKU-AELT Study App](https://thonganek.github.io/kkuaelt-study-app/KKU-AELT_Full_Course.html#/today)
 - **เปิดออฟไลน์:** `KKU-AELT_Full_Course.html` ด้วย Chrome หรือ Edge
 
 ## เนื้อหา
@@ -36,8 +36,7 @@
 ## สร้างไฟล์
 
 ```powershell
-python build/src/build_full.py           # สร้างหลักสูตรเต็ม
-python build/src/build_full.py --deploy  # สร้างพร้อมอัปเดตไฟล์หน้าเว็บที่ลิงก์เดิม
+python build/src/build_full.py   # สร้าง KKU-AELT_Full_Course.html (ไฟล์ที่เผยแพร่บนเว็บ)
 ```
 
 ซอร์สอยู่ที่ `build/src/build_full.py` และ `build/src/js/full_course.js` โดยอ่านเนื้อหาจาก `KKU-AELT_42_Day_Study_Plan_Original.html` และศัพท์ชุดใหม่จาก `build/content/vocab_academic.json`

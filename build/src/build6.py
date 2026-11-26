@@ -2,7 +2,6 @@
 """Build the six-day edition from the archived 42-day app.
 
 Run from any directory: python build/src/build6.py
-Use --deploy to also update the existing GitHub Pages entry filename.
 """
 import copy
 import datetime as dt
@@ -240,7 +239,5 @@ html = html.replace('__JS__', js)
 assert all(token not in html for token in ('__CSS__', '__DATA__', '__JS__'))
 assert len(days) == 6 and days[0]['date'] == '2026-10-08' and days[-1]['date'] == '2026-10-13'
 OUT.write_text(html, encoding='utf-8')
-if '--deploy' in sys.argv[1:]:
-    (ROOT / 'KKU-AELT_42_Day_Study_Plan.html').write_text(html, encoding='utf-8')
 print(f'Created {OUT.name}: {len(days)} days, {sum(d["minutes"] for d in days)} minutes, '
       f'{WORDS_PER_DAY} words/day, {len(selected)} core / {len(all_vocab)} total words')

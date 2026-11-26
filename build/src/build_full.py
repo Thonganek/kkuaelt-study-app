@@ -3,7 +3,7 @@
 plus 300 extra academic words (build/content/vocab_academic.json).
 
 Run from any directory: python build/src/build_full.py
-Use --deploy to also update the GitHub Pages entry file KKU-AELT_42_Day_Study_Plan.html.
+The output KKU-AELT_Full_Course.html is the page served on GitHub Pages.
 """
 import copy
 import json
@@ -214,7 +214,5 @@ html = html.replace('__DATA__', json.dumps(data, ensure_ascii=False, separators=
 html = html.replace('__JS__', js)
 assert all(token not in html for token in ('__CSS__', '__DATA__', '__JS__'))
 OUT.write_text(html, encoding='utf-8')
-if '--deploy' in sys.argv[1:]:
-    (ROOT / 'KKU-AELT_42_Day_Study_Plan.html').write_text(html, encoding='utf-8')
 print(f'Created {OUT.name}: {len(days)} days, {total_words} words '
       f'({len(academic)} academic), {len(changed)} texts without time limits')
